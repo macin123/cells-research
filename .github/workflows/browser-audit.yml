@@ -14,6 +14,9 @@ on:
           - preview.html
           - index.html
         default: preview.html
+concurrency:
+  group: directory-audit-${{ github.ref }}
+  cancel-in-progress: true
 permissions:
   contents: read
 jobs:

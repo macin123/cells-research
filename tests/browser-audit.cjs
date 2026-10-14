@@ -34,6 +34,7 @@ async function main(){
   if(pageFile==='preview.html')assert(/<meta name="robots" content="noindex">/.test(html));
  });
  const documents=new Map();
+ documents.set('/nojs-audit.html',html.replace(/<script>[\s\S]*?<\/script>/g,''));
  server=http.createServer(async(req,res)=>{
   try{const pathname=new URL(req.url,'http://localhost').pathname;
    if(documents.has(pathname)){res.setHeader('content-type','text/html; charset=utf-8');res.end(documents.get(pathname));return}
@@ -56,7 +57,7 @@ async function main(){
    return route.abort();
   });
   const p=await context.newPage();p.setDefaultTimeout(12000);const errors=[];p.on('pageerror',e=>errors.push(e.message));p.on('console',m=>{if(m.type()==='error'&&!opts.expectedNetworkError)errors.push(m.text())});
-  await p.goto(url+'#view=directory&section=labs');if(opts.js!==false){await p.waitForFunction(()=>document.documentElement.classList.contains('js-ready'));await p.evaluate(()=>document.fonts.ready)}
+  await p.goto((opts.noApp?origin+'/nojs-audit.html':url)+'#view=directory&section=labs');if(opts.js!==false&&!opts.noApp){await p.waitForFunction(()=>document.documentElement.classList.contains('js-ready'));await p.evaluate(()=>document.fonts.ready)}
   return {p,context,errors,close:async()=>{assert.deepEqual(errors,[],'browser exceptions');await context.close()}};
  }
  async function axe(p,label){
@@ -113,7 +114,7 @@ async function main(){
   const offline=await session(390,{feedStatus:503,expectedNetworkError:true,init:()=>localStorage.setItem('cells-research-placements-v1','id,lab,term,type\naspire,ASPIRE Lab,Spring 2027,DIS\n')});assert((await offline.p.locator('#impact-line').innerText()).includes('1 CELLS member'));await offline.close();
  });
  await check('no-JS tabs are keyboard accessible at every width',async()=>{
-  for(const width of widths){const s=await session(width,{js:false});assert.equal(await s.p.locator('#nojs-directory .nojs-card').count(),meta.records);await s.p.locator('#tab-directory').focus();await s.p.keyboard.press('ArrowRight');assert(await s.p.locator('#panel-guide').isVisible());await s.p.keyboard.press('ArrowRight');assert(await s.p.locator('#panel-templates').isVisible());assert(await s.p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await s.p.keyboard.press('ArrowLeft');await s.p.keyboard.press('ArrowLeft');await s.p.locator('#nojs-labs summary').first().click();assert(await s.p.locator('#nojs-labs .nojs-card').first().isVisible());await axe(s.p,'no-JS '+width);await s.close()}
+  for(const width of widths){const s=await session(width,{js:false});assert.equal(await s.p.locator('#nojs-directory .nojs-card').count(),meta.records);await s.p.locator('#tab-directory').focus();await s.p.keyboard.press('ArrowRight');assert(await s.p.locator('#panel-guide').isVisible());await s.p.keyboard.press('ArrowRight');assert(await s.p.locator('#panel-templates').isVisible());assert(await s.p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await s.p.keyboard.press('ArrowLeft');await s.p.keyboard.press('ArrowLeft');await s.p.locator('#nojs-labs summary').first().click();assert(await s.p.locator('#nojs-labs .nojs-card').first().isVisible());await s.close();const a=await session(width,{noApp:true});await a.p.locator('#nojs-labs summary').first().click();await axe(a.p,'no-JS '+width);await a.close()}
  });
  await check('Safari 15 fallback modals trap focus and block background',async()=>{
   const s=await session(390,{init:()=>{if(window.HTMLDialogElement){HTMLDialogElement.prototype.showModal=undefined;HTMLDialogElement.prototype.close=undefined;Object.defineProperty(HTMLDialogElement.prototype,'open',{configurable:true,get:()=>undefined})}}});const p=s.p;await p.locator('#toggle-filters').click();assert(await p.locator('#fallback-backdrop').isVisible());assert.equal(await p.locator('#main').getAttribute('aria-hidden'),'true');await p.locator('#show-filter-results').focus();await p.keyboard.press('Tab');assert.equal(await p.evaluate(()=>document.activeElement.id),'dismiss-filters');await axe(p,'fallback filters');await p.keyboard.press('Escape');assert(!(await p.locator('#fallback-backdrop').isVisible()));assert.equal(await p.locator('#main').getAttribute('aria-hidden'),null);await p.locator('#cards .lab-name').first().click();assert(await p.locator('#detail').evaluate(e=>e.hasAttribute('open')));assert((await p.locator('#detail-actions').boundingBox()).y<844);await axe(p,'fallback record');await p.keyboard.press('Escape');await p.waitForTimeout(150);assert.equal(await p.evaluate(()=>document.activeElement.dataset.detail),'plant');await s.close();
