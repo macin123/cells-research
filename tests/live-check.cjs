@@ -79,6 +79,7 @@ async function main(){
  }
  await browser.close();
  await fs.writeFile(path.join(output,'live-report.json'),JSON.stringify(report,null,1));
+ if(process.env.GITHUB_ACTIONS){const lines=report.checks.map(c=>(c.ok?'PASS ':'FAIL ')+c.name+(c.note?' :: '+c.note:'')+(c.error?' :: '+c.error:''));console.log('::notice title=live '+browserName+'::'+lines.join('\n').replace(/%/g,'%25').replace(/\r/g,'').replace(/\n/g,'%0A'))}
  if(report.checks.some(c=>!c.ok))process.exitCode=1;
 }
 main().catch(e=>{console.error(e);process.exitCode=1});
