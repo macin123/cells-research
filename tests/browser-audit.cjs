@@ -5,7 +5,7 @@ const path=require('node:path');
 const http=require('node:http');
 const {chromium,firefox,webkit}=require('playwright');
 const browserName=process.env.AUDIT_BROWSER||'chromium';
-const pageFile=process.env.AUDIT_PAGE||'preview.html';
+const pageFile=process.env.AUDIT_PAGE||'index.html';
 const root=path.resolve(__dirname,'..');
 const output=process.env.AUDIT_OUTPUT||path.resolve(root,'../../work/audit-results');
 const widths=[320,390,768,1024,1440];
@@ -16,7 +16,7 @@ const checks=[];
 function block(html,id){const m=html.match(new RegExp('<script id="'+id+'"[^>]*>([\\s\\S]*?)</script>'));assert(m,id+' missing');return m[1]}
 async function check(name,fn){await fn();checks.push(name);report.checks.push(name);console.log('PASS '+name)}
 async function main(){
- assert(['preview.html','index.html'].includes(pageFile));
+ assert(['index.html'].includes(pageFile));
  assert(['chromium','firefox','webkit'].includes(browserName));
  await fs.mkdir(output,{recursive:true});
  const html=await fs.readFile(path.join(root,pageFile),'utf8');
@@ -31,7 +31,7 @@ async function main(){
    if(r.email)assert(/^[^\s<>@]+@[^\s<>@]+\.[^\s<>@]+$/.test(r.email));
   }
   for(const id of ['guide-meta','email-templates','placements-config'])JSON.parse(block(html,id));
-  if(pageFile==='preview.html')assert(/<meta name="robots" content="noindex">/.test(html));
+  assert(!/<meta name="robots" content="noindex">/.test(html));
  });
  const documents=new Map();
  documents.set('/nojs-audit.html',html.replace(/<script>[\s\S]*?<\/script>/g,''));
@@ -74,7 +74,7 @@ async function main(){
   await axe(p,'directory '+width);
   if(width<=760){
    for(const id of ['application','remote','psychology','biology','health']){
-    await p.goto(url+'#view=directory&section=labs');const chip=p.locator('[data-quick-filter="'+id+'"]');const n=Number((await chip.locator('.shortcut-count').innerText()).replace(/\D/g,''));await chip.click();assert.equal(await count(p),n,id+' count');assert.equal(await chip.getAttribute('aria-pressed'),'true');
+    await p.goto(url+'#view=directory&section=labs');const chip=p.locator('[data-quick-filter="'+id+'"]');const n=Number((await chip.locator('.shortcut-count').innerText()).replace(/\D/g,''));await chip.click();assert.equal(await count(p),n,id+' count');assert.equal(await chip.getAttribute('aria-pressed'),'true');await chip.click();assert.equal(await chip.getAttribute('aria-pressed'),'false',id+' toggles off');
    }
    await p.goto(url+'#view=directory&section=labs');await p.locator('#toggle-filters').click();await p.locator('#mode').selectOption('remote');assert.equal(await p.locator('[data-quick-filter="remote"]').getAttribute('aria-pressed'),'true');await p.locator('#show-filter-results').click();assert.equal(await p.evaluate(()=>document.activeElement.id),'result-count');await p.locator('#active-filters [data-remove-filter="mode"]').click();assert.equal(await p.locator('#mode').inputValue(),'');
    await p.locator('#toggle-filters').click();await axe(p,'filters '+width);await p.keyboard.press('Escape');assert.equal(await p.locator('#toggle-filters').getAttribute('aria-expanded'),'false');

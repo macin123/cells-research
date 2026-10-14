@@ -2,7 +2,7 @@ name: Directory browser audit
 on:
   push:
     paths:
-      - preview.html
+      - index.html
       - tests/browser-audit.cjs
       - .github/workflows/browser-audit.yml
   workflow_dispatch:
@@ -11,9 +11,8 @@ on:
         description: Page to audit
         type: choice
         options:
-          - preview.html
           - index.html
-        default: preview.html
+        default: index.html
 concurrency:
   group: directory-audit-${{ github.ref }}
   cancel-in-progress: true
@@ -47,7 +46,7 @@ jobs:
         env:
           NODE_PATH: ${{ runner.temp }}/cells-audit/node_modules
           AUDIT_BROWSER: ${{ matrix.browser }}
-          AUDIT_PAGE: ${{ inputs.page || 'preview.html' }}
+          AUDIT_PAGE: ${{ inputs.page || 'index.html' }}
           AUDIT_OUTPUT: ${{ runner.temp }}/cells-audit-results
         run: node tests/browser-audit.cjs
       - name: Upload audit evidence
