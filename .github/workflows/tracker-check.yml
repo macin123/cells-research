@@ -14,17 +14,6 @@ jobs:
           CSV='https://docs.google.com/spreadsheets/d/e/2PACX-1vTrNbuNQLP3M4ITM-_1oile1ZIpvuZx5bAbAX7X0SGEzK0jYan9WyntUcXLxpbWqa1bSiQIEvxSa41L/pub?gid=2142339075&single=true&output=csv'
           FORM='https://docs.google.com/forms/d/e/1FAIpQLSdPf6mYu1yOnFO5rOlnZMfEQIdggovAuWPRXFiyzSQZOb7kAQ/viewform'
           req=urllib.request.Request(CSV,headers={'Origin':'https://macin123.github.io','User-Agent':'Mozilla/5.0'})
-          r=urllib.request.urlopen(req)
-          body=r.read().decode('utf-8','replace')
-          print('CSV status',r.status,'final host',r.geturl().split('/')[2])
-          print('CSV content-type',r.headers.get('content-type'))
-          print('CSV access-control-allow-origin',r.headers.get('access-control-allow-origin'))
-          print('CSV starts with BOM',body.startswith('﻿'))
-          rows=list(csv.reader(io.StringIO(body)))
-          print('CSV header',rows[0] if rows else None)
-          print('CSV data rows (non-empty)',sum(1 for x in rows[1:] if any(c.strip() for c in x)),'| total lines',len(rows))
-          print('CSV looks like HTML',body.lstrip().lower().startswith('<'))
-          print('CSV first data row is error value', any(c.startswith('#') for c in (rows[1] if len(rows)>1 else [])))
           f=urllib.request.urlopen(urllib.request.Request(FORM,headers={'User-Agent':'Mozilla/5.0'}))
           html=f.read().decode('utf-8','replace')
           print('FORM status',f.status,'final host',f.geturl().split('/')[2],'sign-in redirect','accounts.google.com' in f.geturl())
@@ -32,12 +21,14 @@ jobs:
           if not m: print('FORM data not found'); raise SystemExit
           d=json.loads(m.group(1))
           print('FORM title',d[1][8] if len(d[1])>8 else d[3])
-          print('FORM requires sign-in / collects email setting', d[1][10] if len(d[1])>10 else None)
+          print('FORM settings', json.dumps(d[1][10] if len(d[1])>10 else None)[:300], 'title2', d[3] if len(d)>3 else None)
+          out=[]
           for q in d[1][1]:
             try:
               title=q[1]; typ=q[3]; parts=q[4] or []
               for p in parts:
                 opts=[o[0] for o in (p[1] or [])] if p[1] else []
-                print('Q', repr(title),'| type',typ,'| entry',p[0],'| required',bool(p[2]),'| options',opts)
-            except Exception as e: print('Q?',q[1] if len(q)>1 else q, e)
+                out.append(' '.join(map(str,['Q',repr(title),'type',typ,'entry',p[0],'req',bool(p[2]),'opts',opts])))
+            except Exception as e: out.append('Q? '+repr(q[1] if len(q)>1 else q)+' '+str(e))
+          print(' || '.join(out))
           PY
