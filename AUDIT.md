@@ -1,6 +1,6 @@
 # Directory deployment audit
 
-Scope: the incremental `preview.html` improvement. The production `index.html` is unchanged. This audit preserves the existing design, record content, embedded assets and storage keys.
+Scope: the incremental mobile improvement, first built as `preview.html` and promoted to the live `index.html` on October 14, 2026. This audit preserves the existing design, record content, embedded assets and storage keys.
 
 ## Fixes
 
@@ -26,9 +26,9 @@ The browser regression suite is `tests/browser-audit.cjs`. GitHub Actions runs i
 - No-JavaScript keyboard navigation at every tested width; simulated pre-native-dialog Safari behavior; storage and clipboard failures; cached placement recovery; deadline expiration at FSU midnight; escaped untrusted text.
 - Automated accessibility checks across the main views, dialogs and no-JavaScript directory. The suite fails on any reported axe violation or unexpected browser exception.
 
-The four JSON payloads are byte-identical to the previous preview: `research-data`, `guide-meta`, `email-templates` and `placements-config`. Production `index.html` retains SHA-256 `883297e6192ba6697d0ed69b8e1c4cd31a362d9e08e99fb6d61e1c48724ae02c`.
+The four JSON payloads are byte-identical to the previous preview: `research-data`, `guide-meta`, `email-templates` and `placements-config`.
 
-No frontend dependencies or additional external services were introduced. Audit dependencies run only in development/CI. Preview remains `noindex`.
+No frontend dependencies or additional external services were introduced. Audit dependencies run only in development/CI.
 
 ## Evidence and limits
 
@@ -38,4 +38,4 @@ All three browser jobs passed on commit `0ee7c2c`: **45 completed check groups**
 
 Source URLs and record dates were validated structurally. This audit does not recertify the current availability of each research opportunity or prove every external source URL is reachable. The execution environment could not retrieve the live Google Sheet CSV; placement parsing, failure handling and caching were tested with controlled feed responses. Actual Sheet sharing settings, live form submission and physical-device keyboard behavior remain external checks.
 
-The audited preview can be reviewed at <https://macin123.github.io/cells-research/preview.html>. Promotion to `index.html` remains a separate step; remove the preview-only `noindex` meta tag when promoting.
+The live directory is <https://macin123.github.io/cells-research/>. On promotion, the `noindex` tag was removed and the quick-filter chips were changed to turn off on a second tap. The browser audit now runs against `index.html`.
