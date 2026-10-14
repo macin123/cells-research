@@ -1,0 +1,61 @@
+name: Live FSU site check
+on:
+  push:
+    branches: [fsu-myweb]
+    paths:
+      - tests/live-check.cjs
+      - .github/workflows/live-check.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  browsers:
+    name: Live (${{ matrix.browser }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        browser: [chromium, firefox, webkit]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --prefix "$RUNNER_TEMP/m" playwright@1.64.0 axe-core@4.14.0 --no-audit --no-fund
+      - run: '"$RUNNER_TEMP/m/node_modules/.bin/playwright" install --with-deps ${{ matrix.browser }}'
+      - name: Check the live site
+        env:
+          NODE_PATH: ${{ runner.temp }}/m/node_modules
+          AUDIT_BROWSER: ${{ matrix.browser }}
+          AUDIT_OUTPUT: ${{ runner.temp }}/live
+        run: node tests/live-check.cjs
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: live-${{ matrix.browser }}
+          path: ${{ runner.temp }}/live
+  lighthouse:
+    name: Lighthouse (${{ matrix.form }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        form: [mobile, desktop]
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run Lighthouse
+        run: |
+          PRESET=""; [ "${{ matrix.form }}" = desktop ] && PRESET="--preset=desktop"
+          npx --yes lighthouse@12.6.1 https://myweb.fsu.edu/mnb23f/ $PRESET --chrome-flags="--headless=new --no-sandbox" --output=json --output=html --output-path="$RUNNER_TEMP/lh" --quiet
+          node -e 'const r=require(process.argv[1]);for(const [k,c] of Object.entries(r.categories))console.log(k,Math.round(c.score*100));for(const id of ["first-contentful-paint","largest-contentful-paint","total-blocking-time","cumulative-layout-shift","speed-index","total-byte-weight","uses-text-compression","uses-long-cache-ttl","is-on-https","redirects-http"])if(r.audits[id])console.log(" ",id,r.audits[id].displayValue||"",r.audits[id].score)' "$RUNNER_TEMP/lh.report.json"
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lighthouse-${{ matrix.form }}
+          path: ${{ runner.temp }}/lh.report.*
