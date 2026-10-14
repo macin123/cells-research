@@ -403,6 +403,64 @@ input,select,textarea,.collection-mobile select{border-color:var(--field)}
 /* Overlays use Stadium Night. */
 dialog::backdrop,.fallback-backdrop{background:#101820a6}
 .toast{background:var(--ink)}
+</style><style id="color-placement">
+/* Color placement. Page canvas is FSU Gold +3 Canvas (#f3ede1, an official web
+   background tint); the footer is FSU Plaza Brick. Garnet carries the header band and actions, gold marks the
+   current tab and the main call to action, a light canvas holds the page, and
+   white is kept for every surface with reading text (FSU brand rules). */
+:root{--canvas:#f3ede1;--cream:var(--canvas);--sheet:#fff;--edge:#dcdfe3;--on-garnet:#f3e9eb;--note:#f3ede1;--note-edge:#dacaa6;--foot:#572932;--lift:0 1px 2px rgba(16,24,32,.05);--field:#7b838b}
+@media screen{
+body{background:var(--canvas)}
+
+/* Header band: brand and tabs on garnet; gold for the current tab and the CTA. */
+.masthead{background:var(--garnet);color:#fff;border-top:0}
+.brand,.brand strong{color:#fff}
+.brand span{color:var(--on-garnet)}
+.masthead-cta{background:var(--gold);border-color:var(--gold);color:var(--ink)}
+.masthead-cta .cta-lead{color:var(--ink)}
+.masthead-cta:hover{background:#fff;border-color:#fff}
+.masthead-cta:focus-visible,.brand:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.navigation{background:var(--garnet);border-bottom:0;box-shadow:inset 0 1px 0 #ffffff26}
+.navigation a,.navigation label{color:var(--on-garnet);border-bottom-width:4px}
+.navigation a:hover,.navigation label:hover{color:#fff;border-bottom-color:#ffffff59}
+.navigation a[aria-current=page],.navigation label.current{color:#fff;border-color:var(--gold)}
+.navigation a:focus-visible,.navigation label:focus-visible{outline:3px solid #fff;outline-offset:-3px}
+.nav-count{background:var(--gold);color:var(--ink)}
+.nojs-nav{margin:-8px 0 16px;border-radius:12px}
+html:not(.js-ready) #tab-directory:checked~.nojs-nav label[for=tab-directory],html:not(.js-ready) #tab-guide:checked~.nojs-nav label[for=tab-guide],html:not(.js-ready) #tab-templates:checked~.nojs-nav label[for=tab-templates],html:not(.js-ready) #tab-about:checked~.nojs-nav label[for=tab-about]{color:#fff;border-color:var(--gold)}
+html:not(.js-ready) #tab-directory:focus~.nojs-nav label[for="tab-directory"],html:not(.js-ready) #tab-guide:focus~.nojs-nav label[for="tab-guide"],html:not(.js-ready) #tab-templates:focus~.nojs-nav label[for="tab-templates"],html:not(.js-ready) #tab-about:focus~.nojs-nav label[for="tab-about"]{outline-color:#fff}
+
+/* Reading surfaces: white sheets with one edge color on the canvas. */
+.search-block,.collections,.collection-mobile,.calendar,#cards,.template,.about-more,#panel-guide .guide-step,#panel-about .about-section,.draft-tip,.template-instructions,.empty{border-color:var(--edge)}
+.search-block,.collections,.collection-mobile,.calendar,#cards,.template{background:var(--sheet)}
+#cards{border:1px solid var(--edge);border-radius:12px;box-shadow:var(--lift)}
+.calendar,.template{box-shadow:var(--lift)}
+.collections,.collection-mobile{box-shadow:var(--lift)}
+#cards .lab-row{border-color:var(--hair)}
+.saved-view .search-block{border-bottom-color:var(--edge)}
+.draft-tip,.template-instructions{background:var(--sheet);border:1px solid var(--edge)}
+.freshness,.notice{background:var(--note);box-shadow:inset 0 0 0 1px var(--note-edge)}
+.pagination .button:not(.primary),.result-toolbar .button:not(.primary),.mobile-result-tools summary{background:var(--sheet)}
+
+/* Guide and About: each step or section is its own sheet. */
+#panel-guide .guide-step{background:var(--sheet);border:1px solid var(--edge);border-radius:12px;padding:24px 28px;margin-bottom:12px;box-shadow:var(--lift)}
+#panel-guide .guide-step:first-of-type{margin-top:24px}
+#panel-about .about-section{background:var(--sheet);border:1px solid var(--edge);border-radius:12px;padding:24px 28px;margin:16px 0;box-shadow:var(--lift)}
+#panel-about .about-more{border:1px solid var(--edge);border-radius:12px;background:var(--sheet);padding:4px 28px 8px;margin:16px 0}
+#panel-about .about-more .about-section{border:0;box-shadow:none;padding:0;margin:24px 0}
+
+/* Footer: dark garnet with a gold rule. */
+.footer{background:var(--foot);border-top:4px solid var(--gold)}
+}
+@media screen and (min-width:761px){
+ .filters{background:var(--sheet);border:1px solid var(--edge);border-radius:12px;padding:20px 12px 16px;box-shadow:var(--lift)}
+ .filters .field,.filters .filters-title,.filters .field-eyebrow,.filters .filter-note,.filters #clear-filters{margin-left:4px;margin-right:4px}
+}
+@media screen and (max-width:760px){
+ #panel-guide .guide-step,#panel-about .about-section{padding:18px 16px}
+ #panel-about .about-more{padding:4px 16px 8px}
+ #cards{border-radius:10px}
+}
 </style></head><body>
 <a class="skip-link" href="#main">Skip to main content</a><svg style="display:none" aria-hidden="true"><defs>
 <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></symbol>
