@@ -60,7 +60,7 @@ async function main(){
   return {p,context,errors,close:async()=>{assert.deepEqual(errors,[],'browser exceptions');await context.close()}};
  }
  async function axe(p,label){
-  if(!await p.evaluate(()=>!!window.axe))await p.addScriptTag({path:require.resolve('axe-core/axe.min.js')});
+  if(!await p.evaluate(()=>!!window.axe))await p.evaluate(await fs.readFile(require.resolve('axe-core/axe.min.js'),'utf8'));
   const issues=await p.evaluate(async()=>(await window.axe.run(document)).violations.map(v=>({id:v.id,impact:v.impact,targets:v.nodes.map(n=>n.target)})));
   report.violations.push(...issues.map(v=>({label,...v})));assert.deepEqual(issues,[],label+' accessibility: '+JSON.stringify(issues));
  }
