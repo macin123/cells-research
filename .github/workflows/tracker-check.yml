@@ -7,7 +7,10 @@ jobs:
       - name: Check published sheet and form (prints no response data)
         run: |
           python3 - <<'PY'
-          import urllib.request, re, json, csv, io
+          import urllib.request, re, json, csv, io, builtins
+          _p=builtins.print
+          def print(*a):
+            _p('::notice::'+' '.join(str(x) for x in a).replace('\n',' '))
           CSV='https://docs.google.com/spreadsheets/d/e/2PACX-1vTrNbuNQLP3M4ITM-_1oile1ZIpvuZx5bAbAX7X0SGEzK0jYan9WyntUcXLxpbWqa1bSiQIEvxSa41L/pub?gid=2142339075&single=true&output=csv'
           FORM='https://docs.google.com/forms/d/e/1FAIpQLSdPf6mYu1yOnFO5rOlnZMfEQIdggovAuWPRXFiyzSQZOb7kAQ/viewform'
           req=urllib.request.Request(CSV,headers={'Origin':'https://macin123.github.io','User-Agent':'Mozilla/5.0'})
