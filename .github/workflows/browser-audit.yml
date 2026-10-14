@@ -1,0 +1,56 @@
+name: Directory browser audit
+on:
+  push:
+    paths:
+      - preview.html
+      - tests/browser-audit.cjs
+      - .github/workflows/browser-audit.yml
+  workflow_dispatch:
+    inputs:
+      page:
+        description: Page to audit
+        type: choice
+        options:
+          - preview.html
+          - index.html
+        default: preview.html
+permissions:
+  contents: read
+jobs:
+  browsers:
+    name: Audit (${{ matrix.browser }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false
+      matrix:
+        browser: [chromium, firefox, webkit]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install audit tools
+        env:
+          AUDIT_MODULE_DIR: ${{ runner.temp }}/cells-audit
+        run: npm install --prefix "$AUDIT_MODULE_DIR" playwright@1.64.0 axe-core@4.14.0 --no-audit --no-fund
+      - name: Install browser
+        env:
+          AUDIT_MODULE_DIR: ${{ runner.temp }}/cells-audit
+        run: '"$AUDIT_MODULE_DIR/node_modules/.bin/playwright" install --with-deps ${{ matrix.browser }}'
+      - name: Run browser audit
+        env:
+          NODE_PATH: ${{ runner.temp }}/cells-audit/node_modules
+          AUDIT_BROWSER: ${{ matrix.browser }}
+          AUDIT_PAGE: ${{ inputs.page || 'preview.html' }}
+          AUDIT_OUTPUT: ${{ runner.temp }}/cells-audit-results
+        run: node tests/browser-audit.cjs
+      - name: Upload audit evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit-${{ matrix.browser }}
+          path: ${{ runner.temp }}/cells-audit-results
+          if-no-files-found: warn
