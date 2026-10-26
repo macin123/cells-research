@@ -1,0 +1,30 @@
+name: Listing refresh fetch
+on:
+  push:
+    branches: [listing-refresh]
+    paths:
+      - tools/fetch-sources.cjs
+      - .github/workflows/listing-refresh.yml
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node tools/fetch-sources.cjs
+      - name: Extract PDF text
+        run: |
+          sudo apt-get install -y -qq poppler-utils >/dev/null 2>&1 || true
+          for f in refresh/pages/*.pdf; do [ -e "$f" ] && pdftotext -layout "$f" "${f%.pdf}.txt" && rm "$f"; done; true
+      - name: Save results to the branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git add refresh
+          git commit -q -m "Source fetch $(date -u +%F)"
+          git push origin HEAD:listing-refresh
