@@ -34,7 +34,7 @@ async function main(){
   assert(!/<meta name="robots" content="noindex">/.test(html));
  });
  const documents=new Map();
- documents.set('/nojs-audit.html',html.replace(/<script>[\s\S]*?<\/script>/g,''));
+ documents.set('/nojs-audit.html',html.replace(/<script>'use strict';[\s\S]*?<\/script>/,''));
  server=http.createServer(async(req,res)=>{
   try{const pathname=new URL(req.url,'http://localhost').pathname;
    if(documents.has(pathname)){res.setHeader('content-type','text/html; charset=utf-8');res.end(documents.get(pathname));return}
@@ -137,6 +137,12 @@ async function main(){
  });
  await check('no-JS tabs are keyboard accessible at every width',async()=>{
   for(const width of widths){const s=await session(width,{js:false});assert.equal(await s.p.locator('#nojs-directory .nojs-card').count(),meta.records);await s.p.locator('#tab-directory').focus();await s.p.keyboard.press('ArrowRight');assert(await s.p.locator('#panel-guide').isVisible());await s.p.keyboard.press('ArrowRight');assert(await s.p.locator('#panel-templates').isVisible());assert(await s.p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await s.p.keyboard.press('ArrowLeft');await s.p.keyboard.press('ArrowLeft');await s.p.locator('#nojs-labs summary').first().click();assert(await s.p.locator('#nojs-labs .nojs-card').first().isVisible());await s.close();const a=await session(width,{noApp:true});await a.p.locator('#nojs-labs summary').first().click();await axe(a.p,'no-JS '+width);await a.close()}
+ });
+ await check('a failed app shows the plain directory, and a working app stays light',async()=>{
+  documents.set('/broken-audit.html',html.replace("<script>'use strict';\n","<script>'use strict';throw new Error('audit: app failed');\n"));
+  const s=await session(390,{noApp:true,expectedNetworkError:true});await s.p.goto(origin+'/broken-audit.html');s.errors.length=0;
+  await s.p.locator('#nojs-labs summary').first().waitFor();assert.equal(await s.p.locator('#nojs-directory .nojs-card').count(),meta.records);assert(await s.p.locator('#nojs-labs').isVisible());assert.equal(await s.p.locator('#nojs-fallback').count(),0);await s.close();
+  const ok=await session(390),{p}=ok;assert.equal(await p.locator('#nojs-directory').count(),0,'no-JS copy is not built when the app runs');assert((await p.evaluate(()=>document.getElementsByTagName('*').length))<1500);await ok.close();
  });
  await check('Safari 15 fallback modals trap focus and block background',async()=>{
   const s=await session(390,{init:()=>{if(window.HTMLDialogElement){HTMLDialogElement.prototype.showModal=undefined;HTMLDialogElement.prototype.close=undefined;Object.defineProperty(HTMLDialogElement.prototype,'open',{configurable:true,get:()=>undefined})}}});const p=s.p;await p.locator('#toggle-filters').click();assert(await p.locator('#fallback-backdrop').isVisible());assert.equal(await p.locator('#main').getAttribute('aria-hidden'),'true');await p.locator('#show-filter-results').focus();await p.keyboard.press('Tab');assert.equal(await p.evaluate(()=>document.activeElement.id),'dismiss-filters');await axe(p,'fallback filters');await p.keyboard.press('Escape');assert(!(await p.locator('#fallback-backdrop').isVisible()));assert.equal(await p.locator('#main').getAttribute('aria-hidden'),null);await p.locator('#cards .lab-name').first().click();assert(await p.locator('#detail').evaluate(e=>e.hasAttribute('open')));assert((await p.locator('#detail-actions').boundingBox()).y<844);await axe(p,'fallback record');await p.keyboard.press('Escape');await p.waitForTimeout(150);assert.equal(await p.evaluate(()=>document.activeElement.dataset.detail),'plant');await s.close();
