@@ -1,0 +1,167 @@
+Stewart Lab 
+Stewart Lab
+I am a geologist focusing on metamorphic fluids and their effects on Earth's volatile cycles, mineralization, and long term habitability. Please click around and do not hesitate to get in touch to find out more! 
+-Emily Stewart
+email: emstewart[at]fsu[dot]edu 
+About 
+People 
+Opportunities 
+Research 
+About
+Our group uses the rock record to investigate processes that occurred deep in Earth’s crust and throughout the billions of years of our planet’s history. I am particularly interested in metamorphic reactions that release or sequester carbon, sulfur and other volatiles, interacting with the global carbon cycle, and helping to maintain Earth’s long term habitability. These fluids are also responsible for the movement and concentration of critical minerals. 
+Our work is rooted in direct observation of the rock record including field work, petrography, and geochemical characterization. Rather than focusing on a particular analytical method, we employ different techniques as needed, including stable/radiogenic isotope mass spectrometry, X-ray fluorescence, microprobe analysis, and more. Most of our work also involves thermodynamic modeling (e.g., pseudosections). 
+Group Members
+Emily Stewart, PhD 
+Assistant Professor of Geology
+CV 
+Google Scholar 
+emstewart[at]fsu[dot]edu
+Lindsi Allman, Graduate Student 
+Sayantan Saha, Graduate Student 
+Kanwa Sengupta, Graduate Student 
+Parinaz Yazdi, Graduate Student 
+This could be you! Reach out to discuss opportunities at FSU.
+Alumni
+Dr. Zhenhao Zhou, Former Postdoc 
+now Assistant Professor at Acadia University
+Website 
+Christopher Julian, MS in Geology '25 
+now PhD Student at University of Tennessee 
+Joshua Thomas Zuniga, BS in Geology '24 
+now MS student at Colorado School of Mines
+Miles Kelsey BS in Geology '23 
+now MS Student at University of New Mexico 
+Madison Walker BS in Chemistry '24 
+now PhD Student at Vanderbilt 
+Isabelle Barta, BS in Geology '23 
+MS Auburn '25; now Associate Materials Science Chemist at MRIGlobal
+Malia Hallway BS in Env. Science '24 
+Now teaching in Japan 
+Opportunities
+I am always looking for outstanding group members at every level, from undergraduate up to graduate students and postdocs. I am especially committed to empowering people of color, women, and LGBTQ+, disabled, or otherwise marginalized students and researchers.
+Graduate Students I am always happy to hear from outstanding prospective graduate students. Students may be funded through a combination of internal fellowships, research assistantships, or graduate teaching positions. 
+See the Research Tab for detail on ongoing projects, or click here to learn more about degree programs at FSU.
+Undergraduate Opportunities are available for undergraduate students to get involved, whether through the Undergraduate Research Opportunities Program UROP or informally. 
+Do you have a background in chemistry OR programming OR earth science and an interest in learning new skills? Send me an email to discuss possible research projects.
+Research
+carbon cycling and critical mineralization 
+What happens when a huge granitic batholith intrudes into carbonate rocks? CO 2 is released and weird metal-bearing fluids circulate in the crust. We are studying the implications of massive intrusion in the Sierra Nevada, California. This work is now funded through a National Science Foundation Petrology and Geochemistry research grant in collaboration with Jade Star Lackey at Pomona College. 
+Decarbonation in Deep Time 
+How much CO 2 can metamorphic decarbonation release, and has that changed over the course of Earth history? This project examines the Central Metasedimentary Belt in Ontario, Canada. Deposited as sediments more than 1.2 billion years ago, and metamorphosed ~200 million years later, these rocks record both surface and deep crustal processes that may have looked very different from the modern Earth. We are conducting field work, chemical analysis, and numerical modeling to explore the ways in which rock metamorphism affected the global carbon cycle in deep time. This work is now funded through a National Science Foundation Petrology and Geochemistry research grant! 
+Catastrophic Contact Metamorphism 
+Could rock metamorphism drive mass extinction? It has been proposed that rapid heating of volatile-rich sediments could have led to global climate change and extinction at more than one point in Earth history. We will explore this possibility through detailed study of the rock record. We focus on the Central Atlantic Magmatic Province, exposed in the northeastern US and also buried about a mile beneath our feet in northern Florida. This work is now supported through an American Chemical Society --- Petroleum Research Fund grant.
+Graphite, carbon cycling, and society 
+Graphite is considered a critical mineral, yet there is still a lot to learn about its formation and history on Earth. I will be joining the 2026 joint U.S. - Sri Lanka Graphite Summit to build international academic and industry partnerships and develop new research directions on the spectacular and unique Sri Lankan graphite deposits. click here to learn more 
+More 
+I am always looking to develop new projects related to volatile cycling, metamorphism, and other crustal processes. Don’t hesitate to reach out about other ideas or research opportunities at Florida State University. 
+Elements
+Text
+This is bold and this is strong . This is italic and this is emphasized . 
+This is superscript text and this is subscript text. 
+This is underlined and this is code: for (;;) { ... } . Finally, this is a link .
+Heading Level 2
+Heading Level 3
+Heading Level 4
+Heading Level 5
+Heading Level 6
+Blockquote
+Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis. 
+Preformatted
+i = 0; 
+while (!deck.isInOrder()) { 
+print 'Iteration ' + i; 
+deck.shuffle(); 
+i++; 
+} 
+print 'It took ' + i + ' iterations to sort the deck.'; 
+Lists
+Unordered
+Dolor pulvinar etiam.
+Sagittis adipiscing.
+Felis enim feugiat.
+Alternate
+Dolor pulvinar etiam.
+Sagittis adipiscing.
+Felis enim feugiat.
+Ordered
+Dolor pulvinar etiam.
+Etiam vel felis viverra.
+Felis enim feugiat.
+Dolor pulvinar etiam.
+Etiam vel felis lorem.
+Felis enim et feugiat.
+Icons
+Twitter 
+Facebook 
+Instagram 
+Github 
+Actions
+Default 
+Default 
+Default 
+Default 
+Table
+Default
+Name
+Description
+Price
+Item One
+Ante turpis integer aliquet porttitor.
+29.99
+Item Two
+Vis ac commodo adipiscing arcu aliquet.
+19.99
+Item Three
+Morbi faucibus arcu accumsan lorem.
+29.99
+Item Four
+Vitae integer tempus condimentum.
+19.99
+Item Five
+Ante turpis integer aliquet porttitor.
+29.99
+100.00
+Alternate
+Name
+Description
+Price
+Item One
+Ante turpis integer aliquet porttitor.
+29.99
+Item Two
+Vis ac commodo adipiscing arcu aliquet.
+19.99
+Item Three
+Morbi faucibus arcu accumsan lorem.
+29.99
+Item Four
+Vitae integer tempus condimentum.
+19.99
+Item Five
+Ante turpis integer aliquet porttitor.
+29.99
+100.00
+Buttons
+Primary 
+Default 
+Default 
+Small 
+Icon 
+Icon 
+Disabled 
+Disabled 
+Form
+Name 
+Email 
+Category 
+- 
+Manufacturing 
+Shipping 
+Administration 
+Human Resources 
+Low 
+High 
+Email me a copy 
+Not a robot 
+Message 
+&copy; E.M. Stewart. Design: HTML5 UP .

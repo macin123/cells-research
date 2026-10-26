@@ -1,0 +1,120 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+***AI-Powered Autonomous Robot Racing: Perception, Decision-Making, and Control
+Robotics; Artificial Intelligence; Reinforcement Learning; Computer Vision; Control 
+Research Mentor: Dr. Amit Dutta, 
+Department, College, Affiliation: Electrical & Computer Engineering, FAMU-FSU College of Engineering
+Contact Email: adutta@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: Dr. Olugbenga Moses Anubi 
+Faculty Collaborators Email: oanubi@fsu.edu 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Electrical and Computer Engineering, Computer Science, Mechanical Engineering 
+Project Location: The Center for Advanced Power Systems - 2000 Levy Avenue Tallahassee, FL 32310 
+Research Assistant Transportation Required: Yes 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 6-8 hours, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Monday, August 31
+Start Time: 1:00
+End Time: 3:00
+Zoom Link: https://fsu.zoom.us/j/5851111074
+Day: Tuesday, September 1
+Start Time: 3:00
+End Time: 4:00
+Zoom Link: https://fsu.zoom.us/j/5851111074
+Day: Thursday, September 3
+Start Time: 2:30
+End Time: 3:30
+Zoom Link: https://fsu.zoom.us/j/5851111074
+Day: Friday, September 4
+Start Time: 1:30
+End Time: 2:30
+Zoom Link: https://fsu.zoom.us/j/5851111074
+Day: Wednesday, September 2
+Start Time: 1:00
+End Time: 2:00
+Zoom Link: https://fsu.zoom.us/j/5851111074
+Project Description
+This project will develop a small-scale autonomous racing platform in which multiple wheeled robots compete on a physical race track. Four overhead cameras will observe the racing area and provide information about each robot's position and motion. Each robot must then use this information to make real-time decisions while attempting to complete the race as quickly as possible.
+With a single robot, the problem is relatively straightforward: follow the track and complete each lap efficiently. With multiple robots, however, the challenge changes. A robot may need to slow down to avoid a collision, choose a different path through a corner, respond to a nearby competitor, or identify an opportunity to overtake. Its best decision therefore depends continuously on what the other robots are doing.
+Students will help build this autonomous racing system by combining computer vision, robotics, artificial intelligence, estimation, and control. The project will begin with accessible tasks such as detecting robots with cameras, visualizing their motion, and programming a robot to complete a lap. As the system develops, students will investigate increasingly intelligent behaviors, including multi-robot racing, opponent-aware decision-making, and reinforcement learning, where robots can improve racing strategies through simulated experience.
+The goal is to create a physical testbed in which autonomous robots can perceive the race, make decisions, control their motion, and compete with one another with minimal human intervention.
+Project summary: How can an autonomous robot learn to race - not simply by following a track, but by reacting intelligently to other robots competing against it?
+Research Tasks: The tasks will include:
+1. Robot programming and experimentation: Program small wheeled robots, control their speed and steering, conduct track experiments, and collect experimental data.
+2. Computer vision and robot tracking: Use the overhead cameras to detect and track multiple robots and visualize their positions, speeds, and trajectories during a race.
+3. Autonomous track following: Develop and test algorithms that allow a robot to follow the race track reliably and improve its lap time.
+4. Multi-robot racing: Conduct experiments with multiple robots and investigate how a robot should change its motion when competitors are nearby, including collision avoidance and overtaking situations.
+5. AI and reinforcement learning: Help develop simulation environments in which robots can learn racing strategies through repeated experience before selected strategies are evaluated on the physical robots.
+6. Experimental analysis: Compare different algorithms using measurements such as lap time, tracking accuracy, race position, successful overtakes, and collision rate; prepare figures and videos showing the results.
+Skills that research assistant(s) may need: 1. Interest in robotics, autonomous systems, and AI (Required).
+2. Basic familiarity with robotics (Required).
+3. Programming experience in C/C++ or Python (Required).
+4. Ability to work collaboratively and communicate progress effectively (Required).
+5. Familiarity with computer vision, AI/ML, or control systems (Recommended).
+6. Experience with MATLAB (Recommended).
+7. Hands-on experience with robotics and programming embedded systems (Recommended).
+Mentoring Philosophy
+My mentoring approach is based on progressive independence. Students will begin with clearly defined tasks and regular guidance, then gradually take greater responsibility as they develop the necessary technical skills and understanding of the project.
+Because many undergraduate researchers are new to research, initial activities will focus on practical and manageable tasks such as programming the robot, processing camera data, running simulations, and testing algorithms. As students gain experience, they will be encouraged to identify problems, propose improvements, design experiments, and interpret results more independently.
+I will meet with students in person twice weekly to review progress, address technical challenges, and set clear short-term goals. I will also be available for brief Zoom meetings, as needed and when mutually available, to address quick questions or immediate issues between scheduled meetings. My objective is for students to gain hands-on experience in robotics and AI while learning the research process: formulating questions, developing and testing solutions, analyzing results, and communicating findings. Students making strong progress will have opportunities to contribute to research presentations and publications.
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

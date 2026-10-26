@@ -1,0 +1,98 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Multimodal Learning for Human Activity Recognition
+Artificial Intelligence, Multimodal Learning, Human Activity Recognition, Data Precessing 
+Research Mentor: Mr. Quoc Bao Phan, He/Him
+Department, College, Affiliation: Electrical and Computer Engineering, FAMU-FSU College of Engineering
+Contact Email: qp25c@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Electrical Engineering, Computer Engineering, Computer Science, Data Science, Statistics, or related fields.
+Students from other majors with relevant programming or machine-learning interests are also encouraged to apply. 
+Project Location: Center for Advanced Power Systems, 2000 Levy Avenue, Tallahassee, FL 32310 
+Research Assistant Transportation Required: FSU bus service to Innovation Park/Center for Advanced Power Systems. Students should verify the current route and schedule. 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 8–10 hours per week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Human activity recognition aims to identify physical activities, behaviors, or contextual states from data collected by heterogeneous sensing modalities. These modalities may include accelerometers, gyroscopes, wearable sensors, physiological signals, audio, images, or video. Although individual modalities can provide useful information, their reliability and relevance may vary across activities, users, and operating conditions.
+This project will investigate multimodal machine-learning methods for human activity recognition. The research assistant will study how information from multiple modalities can be encoded, combined, and used to improve recognition accuracy and robustness. The project may compare early fusion, late fusion, feature-level fusion, attention-based fusion, and modality-specific representation learning. The specific dataset, sensing modalities, and model architecture will be selected based on data availability, project feasibility, and the student’s technical background.
+The research will evaluate whether multimodal models outperform single-modality baselines and examine how recognition performance changes when one or more modalities are noisy, incomplete, or unavailable. Potential models include conventional machine-learning classifiers, convolutional neural networks, recurrent neural networks, and Transformer-based architectures.
+The expected outcomes include a reproducible experimental pipeline, comparative analysis of multimodal fusion strategies, visualizations of model performance, a technical report, and a presentation or poster for the FSU Undergraduate Research Symposium. Depending on the student’s progress and the significance of the results, the work may contribute to a future research publication.
+Research Tasks: 1. Literature Review and Dataset Selection: Review literature on human activity recognition, multimodal learning, sensor-based machine learning, and multimodal fusion. Identify and evaluate suitable publicly available datasets containing two or more sensing modalities.
+2. Data Preparation and Baseline Development: Preprocess and explore the selected dataset, including handling missing values, normalizing features, segmenting time-series signals, and visualizing activity distributions. Implement or reproduce single-modality baseline models and evaluate them using accuracy, precision, recall, F1-score, and confusion matrices.
+3. Multimodal Modeling and Robustness Evaluation: Implement one or more multimodal fusion approaches and compare them with the single-modality baselines. Conduct additional experiments under noisy, missing, or degraded modalities. Maintain organized code and experimental records, participate in regular meetings, and present progress updates.
+4. Result Analysis and Research Presentation: Analyze the experimental results, prepare figures and tables, write a technical summary, and develop a poster or presentation for the FSU Undergraduate Research Symposium.
+Skills that research assistant(s) may need: Required:
+Basic programming experience/understanding in Python or another programming language; willingness to learn machine-learning tools; ability to work independently after receiving guidance; effective written and verbal communication; and commitment to attending regular research meetings and documenting progress.
+Recommended:
+Experience with Python libraries such as NumPy, pandas, Matplotlib, or scikit-learn; introductory knowledge of machine learning, probability, statistics, linear algebra, or signal processing; familiarity with Git and GitHub; and previous exposure to PyTorch or TensorFlow.
+Prior research experience and prior expertise in multimodal learning are not required. Students who have completed introductory programming coursework and are motivated to learn machine learning are encouraged to apply.
+Mentoring Philosophy
+My mentoring philosophy is centered on structured guidance, gradual independence, open communication, and mutual respect. I recognize that undergraduate researchers enter a project with different technical backgrounds, career goals, and levels of confidence. At the beginning of the project, I will work with the student to identify their goals, evaluate their current skills, and establish achievable milestones.
+I will initially provide clear tasks, learning resources, examples, and regular feedback. As the student develops technical and research skills, I will gradually give them greater ownership over experimental design, implementation decisions, and interpretation of results. Regular meetings will be used not only to review progress but also to discuss challenges, research reasoning, and professional development.
+I aim to create an environment in which students feel comfortable asking questions, proposing ideas, and discussing unsuccessful experiments. Research frequently involves uncertainty and failure, and students should learn to treat unexpected results as opportunities for investigation rather than as personal shortcomings. At the same time, I expect students to communicate honestly, document their work, prepare for meetings, and take responsibility for agreed-upon tasks.
+My goal is to help the student develop practical technical skills, scientific reasoning, confidence, and an understanding of responsible and reproducible research. By the end of the project, the student should be able to explain both what they accomplished and why their methodological choices were appropriate. 
+Additional Information
+Link to Publications
+https://scholar.google.com/citations?user=jegzWzAAAAAJ&hl=en 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

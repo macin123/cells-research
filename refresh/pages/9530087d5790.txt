@@ -1,0 +1,97 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Machine Learning for UAVs
+drones, machine learning, artificial intelligence 
+Research Mentor: Salma Aboelmagd, 
+Department, College, Affiliation: Electrical and Computer Engineering, FAMU-FSU College of Engineering
+Contact Email: saboelmagd@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Electrical engineering
+Computer science
+Computer engineering 
+Project Location: Center for Advanced Power Systems 
+Research Assistant Transportation Required: FSU Seminole Express 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 5, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+This project focuses on applying machine learning techniques to improve cyberattack detection in unmanned aerial vehicles (UAV). Students will work with real UAVs and datasets containing physical, cyber, and cyber-physical data to develop an understanding of data-driven intrusion detection methods. Throughout the project, students will gain experience with the research process, including reading scientific literature, exploring and analyzing datasets, implementing machine learning algorithms, evaluating model performance, and interpreting experimental results. As students progress, they will also be introduced to numerous machine learning concepts and cybersecurity challenges affecting autonomous systems.
+Research Tasks: 1. Reading and summarizing research papers related to UAV security and machine learning.
+2. Learning Python for data analysis and machine learning applications.
+3. Implementing and evaluating supervised machine learning models.
+4. Documenting experimental procedures, observations, and results.
+5. Set UAV environments and experiments.
+Skills that research assistant(s) may need: Required: 
+- Interest in cybersecurity, machine learning, or autonomous systems
+- Willingness to learn programming and data analysis
+- Strong problem-solving skills
+- Good organizational and communication skills
+Recommended:
+- Introductory programming experience (Python preferred, but not required)
+- Exposure to machine learning concepts
+- Interest in research and scientific writing
+Mentoring Philosophy
+My goal as a mentor is to help students become confident, independent researchers by providing structured guidance while gradually increasing their level of autonomy. I believe students learn best by actively engaging with real research problems rather than only following tutorials. Throughout the project, I encourage curiosity, critical thinking, and asking questions, while also challenging students to investigate unfamiliar concepts independently before seeking guidance. I strive to create an environment where students feel comfortable making mistakes, discussing ideas, and developing the technical and professional skills needed for future research or industry careers. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

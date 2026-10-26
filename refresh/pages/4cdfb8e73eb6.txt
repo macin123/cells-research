@@ -1,0 +1,129 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+AI-Enabled Continental-Scale Assessment of Water Quality and Environmental Vulnerability Across the United States
+Water Quality; Machine Learning; Climate Change; Watersheds; GIS 
+Research Mentor: Shahin Alam, 
+Department, College, Affiliation: Earth, Ocean, and Atmospheric Science/Civil and Environmental Engineering, Arts and Sciences
+Contact Email: ma23ch@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 6 
+Relevant Majors: Civil and Environmental Engineering, Environmental Science, Earth Science, Geography/GIS, Data Science, Computer Science, Statistics, Biology, Public Health, or premed related disciplines.
+Students from other majors with an interest in environmental research and data analysis are also encouraged to apply. 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 5-10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Water quality across the United States is influenced by interacting climatic, hydrologic, land-use, population, agricultural, and infrastructure-related factors. However, these relationships vary substantially among geographic regions and watershed systems. A continental-scale assessment can help identify common drivers of water-quality degradation as well as regions that may be particularly vulnerable to future environmental change.
+This project will integrate large publicly available environmental datasets across the conterminous United States to investigate spatial and temporal patterns in water quality. Potential variables include nutrients, streamflow, precipitation, temperature, drought, land use and land-cover change, agricultural activity, population, wastewater infrastructure, and other watershed characteristics.
+Students will contribute to constructing a harmonized geospatial database linking water-quality observations with watershed-scale environmental predictors. Statistical methods, GIS, and machine-learning approaches will then be used to identify the major factors associated with water-quality conditions and determine whether these relationships differ among climatic and geographic regions.
+The project will also investigate whether artificial-intelligence and machine-learning approaches can identify areas with elevated susceptibility to water-quality degradation.
+The long-term goal is to develop a continental-scale environmental intelligence framework capable of identifying vulnerable watersheds, understanding major environmental drivers, and supporting future water-resource monitoring and management.
+Research Tasks: Research assistants may:
+Conduct literature reviews on continental-scale water-quality studies.
+Compile publicly available water-quality monitoring data.
+Collect climate, hydrologic, land-use, agricultural, population, and watershed data.
+Organize and quality-check large environmental datasets.
+Link monitoring locations to watershed boundaries using GIS.
+Develop maps of environmental conditions across the United States.
+Analyze spatial and temporal trends in water quality.
+Compare water-quality patterns among geographic and climatic regions.
+Conduct statistical correlation and regression analyses.
+Develop machine-learning models such as random forest and gradient boosting.
+Evaluate important predictors of water-quality vulnerability.
+Conduct model validation and uncertainty analyses.
+Prepare scientific figures and maps.
+Assist with research abstracts, posters, presentations, and manuscripts.
+Individual student projects will be developed based on each student's interests and technical background.
+Skills that research assistant(s) may need: Required
+Interest in environmental science, water resources, environmental health, or data analysis.
+Willingness to learn new analytical tools.
+Attention to detail.
+Ability to work both independently and collaboratively.
+Basic familiarity with spreadsheets such as Microsoft Excel.
+Recommended but Not Required
+Python or R.
+ArcGIS Pro or QGIS.
+Statistics.
+Data visualization.
+Hydrology or water-quality coursework.
+Machine learning.
+Remote sensing.
+Students are not expected to have all of these skills before joining the project. Training will be provided.
+Expected Research Products
+Depending on progress and student interests, research assistants may contribute to:
+FSU Undergraduate Research Symposium posters.
+Research presentations.
+Conference abstracts.
+Reproducible environmental databases.
+GIS products.
+Machine-learning models.
+Scientific manuscripts.
+Mentoring Philosophy
+My mentoring philosophy emphasizes progressive development from guided learning toward independent research. Undergraduate researchers enter projects with different academic backgrounds, technical experience, and professional goals; therefore, I tailor research responsibilities to each student's strengths and interests while gradually introducing more challenging analytical tasks.
+Students will initially receive structured guidance on scientific literature, data management, GIS, statistical analysis, and research documentation. As their skills develop, they will be encouraged to formulate questions, interpret results, troubleshoot problems, and take increasing ownership of a defined component of the larger project.
+Regular meetings will provide opportunities to discuss progress, address challenges, evaluate results, and establish achievable research goals. I encourage students to ask questions and view unexpected results and mistakes as normal components of scientific discovery.
+I emphasize reproducibility, responsible research practices, teamwork, critical thinking, and effective scientific communication. Whenever appropriate, students will participate in preparing posters, presentations, abstracts, and manuscripts. My goal is for students to complete the UROP experience with stronger technical skills, increased scientific confidence, and experience conducting meaningful interdisciplinary environmental research. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

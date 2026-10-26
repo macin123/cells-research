@@ -1,0 +1,86 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+***Building Neuromorphic Tactile Sensors for Robotics***
+Tactile Sensors, Robot, Human-Computer Interactions, Machine Learning, Fabrication 
+Research Mentor: Te-Yen Wu, Prof
+Department, College, Affiliation: Computer Science, Arts and Sciences
+Contact Email: tw23l@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Computer Science, Electrical Engineering, Mechanical Engineering 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 10, During business hours 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Traditional tactile sensing systems for robotics often rely on dense sensor arrays and complex wiring to retrieve high-resolution tactile information. As the sensing resolution increases, the number of electrical connections, data channels, and computational requirements can grow substantially, creating challenges in scalability, integration, and real-time processing, particularly for large-area or deformable robotic surfaces.
+This project explores approaches for integrating sensing and information-processing operations directly into the tactile sensor architecture. Inspired by how biological tactile receptors and peripheral neurons encode, transform, and transmit sensory information before it reaches the brain, we aim to develop tactile interfaces that perform part of the signal interpretation physically at the sensor level. Rather than transmitting every raw measurement independently, the proposed sensing architecture can encode salient tactile features into a reduced set of signals.
+Research Tasks: literature review, prototype fabrication, data collection, data analysis
+Skills that research assistant(s) may need: required: Arduino Programming, Electrical Knowledge
+recommended: Machine Learning, 3D-printing Design
+Mentoring Philosophy
+My mentoring philosophy is to help students become independent, confident researchers while providing the guidance and resources they need to succeed. I encourage students to take ownership of their ideas, explore ambitious questions, and learn through both successes and failures. I aim to create a supportive and collaborative environment where expectations are clear, feedback is constructive, and each student’s goals and strengths are respected. Ultimately, I see mentoring as a partnership that helps students develop strong research skills, professional confidence, and their own identity as researchers.
+Additional Information
+Link to Publications
+https://teyenwu.com 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

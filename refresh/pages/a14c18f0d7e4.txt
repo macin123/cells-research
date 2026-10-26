@@ -1,0 +1,258 @@
+Gao Research Group @ FSU Physics 
+Gao Research Group @ FSU Physics
+about 
+research 
+publications 
+team 
+news 
+join 
+Materials Physics Laboratory Est. 2013 
+Research that sheds light on the matter
+Working at the interface of condensed-matter physics, materials science, and modern experimental methods, we study light–matter interactions in unconventional semiconductors to help build quantum technologies of tomorrow.
+A collaborative, interdisciplinary, and training-focused lab culture that prepares students for research careers in industry, national labs, and academia.
+Join us 
+Research Endeavors
+Our current research, using AI-driven autonomous experiments, seeks to understand nonreciprocal and nonlinear responses in low-dimensional, hybrid and symmetry-breaking semiconductors.
+Symmetry Breaking in Hybrid Crystals
+Exploring emergent phenomena in noncentrosymmetric hybrid crystals.
+Low-Dimensional Materials for Nonlinear Optics
+Discovering new low-dimensional materials with enhanced nonlinear optical responses.
+Next-Generation Optoelectronics
+Developing advanced optoelectronic devices based on hybrid semiconductors.
+Autonomous Lab for Scientific Research
+Designing and implementing AI-driven autonomous laboratories for high-throughput experimentation.
+< 
+> 
+Selected Publications
+Our research findings are published in 50+ peer-reviewed journal articles.
+Nonreciprocal Transport with Quantum Geometric Origin in Layered Hybrid Perovskite 
+arXiv preprint , (2026).
+arXiv:2512.13663 
+Long-distance remote epitaxy 
+Nature , 646, 584-591 (2025).
+10.1038/s41586-025-09484-z 
+Nanoscale Encapsulation of Hybrid Perovskites Using Hybrid Atomic Layer Deposition 
+J. Phys. Chem. Lett. , 13, 4082-4089 (2022).
+10.1021/acs.jpclett.2c00862 
+Suppressed Phase Separation of Mixed-Halide Perovskites Confined in Endotaxial Matrices 
+Nat. Commun. , 10, 695 (2019).
+10.1038/s41467-019-08610-6 
+Dynamic Electronic Junctions in Organic-Inorganic Hybrid Perovskites 
+Nano Lett. , 17, 4831-4839 (2017).
+10.1021/acs.nanolett.7b01665 
+Bright Light-Emitting Diodes Based on Organometal Halide Perovskite Nanoplatelets 
+Adv. Mater. , 28, 305 (2016).
+10.1002/adma.201503954 
+Distinguishing the Photothermal and Photoinjection Effects in Vanadium Dioxide Nanowires 
+Nano Lett. , 15, 7037-7042 (2015).
+10.1021/acs.nanolett.5b03086 
+Cleaved-Coupled Nanowire Lasers 
+Proc. Natl. Acad. Sci. , 110, 865-869 (2013).
+10.1073/pnas.1217335110 
+More publications 
+2026 A Predictive Framework for Discovering Organic Metal Halide Hybrids beyond Perovskites. Chem. Mater. , 38, 371 (2026). 10.1021/acs.chemmater.5c02573 
+2025 Accelerating ion transport in polycrystalline conductors: On pores and grain boundaries. Sci. Adv. , 11, eadt7795 (2025). 10.1126/sciadv.adt7795 
+2025 Long-distance remote epitaxy. Nature , 646, 584-591 (2025). 10.1038/s41586-025-09484-z 
+2025 The Beginning in the Darkroom. Nano Lett. , 25, 16934-16935 (2025). 10.1021/acs.nanolett.5c05289 
+2025 Nonreciprocal Transport with Quantum Geometric Origin in Layered Hybrid Perovskite. arXiv preprint , arXiv:2512.13663 (2025). arXiv:2512.13663 
+2024 Identifying Practical DFT Functionals for Predicting 0D and 1D Organic Metal-Halide Hybrids. J. Phys. Chem. C , 128, 17850-17858 (2024). 10.1021/acs.jpcc.4c05263 
+2024 Chirality-Induced Magnet-Free Spin Generation in a Semiconductor. Adv. Mater. , 36, 2406347 (2024). 10.1002/adma.202406347 
+2023 Suppressing phase disproportionation in quasi-2D perovskite light-emitting diodes. Nat. Commun. , 14, 397 (2023). 10.1038/s41467-023-36118-7 
+2022 Intrinsic Ion Migration Dynamics in a One-Dimensional Organic Metal Halide Hybrid. ACS Energy Lett. , 7, 3753-3760 (2022). 10.1021/acsenergylett.2c01710 
+2022 Nanoscale Encapsulation of Hybrid Perovskites Using Hybrid Atomic Layer Deposition. J. Phys. Chem. Lett. , 13, 4082-4089 (2022). 10.1021/acs.jpclett.2c00862 
+2020 Phase segregation in inorganic mixed-halide perovskites: from phenomena to mechanisms. Photon. Res. , 8, A56-A71 (2020). 10.1364/PRJ.8.000A56 
+2019 Two-/multi-wavelength light excitation effects in optical materials: From fundamentals to applications. Prog. Mater. Sci. , 105, 100568 (2019). ScienceDirect article 
+2019 Could Nanocomposites Continue the Success of Halide Perovskites? ACS Energy Lett. , 4, 1446-1454 (2019). 10.1021/acsenergylett.9b00580 
+2019 Suppressed Phase Separation of Mixed-Halide Perovskites Confined in Endotaxial Matrices. Nat. Commun. , 10, 695 (2019). 10.1038/s41467-019-08610-6 
+2019 Light Emitting Diodes Based on Inorganic Composite Halide Perovskites. Adv. Funct. Mater. , 29, 1807345 (2019). 10.1002/adfm.201807345 
+2018 Remote Phononic Effects in Epitaxial Ruddlesden-Popper Halide Perovskites. J. Phys. Chem. Lett. , 9, 6676-6682 (2018). 10.1021/acs.jpclett.8b02763 
+2018 Highly Efficient Spectrally Stable Red Perovskite Light-Emitting Diodes. Adv. Mater. , 30, 1707093 (2018). 10.1002/adma.201707093 
+2017 Composite Perovskites of Cesium Lead Bromide for Optimized Photoluminescence. J. Phys. Chem. Lett. , 8, 3266-3271 (2017). 10.1021/acs.jpclett.7b01302 
+2017 Dynamic Electronic Junctions in Organic-Inorganic Hybrid Perovskites. Nano Lett. , 17, 4831-4839 (2017). 10.1021/acs.nanolett.7b01665 
+2017 Van Der Waals Hybrid Perovskite of High Optical Quality by Chemical Vapor Deposition. Adv. Optical Mater. , 5, 1700373 (2017). 10.1002/adom.201700373 
+2016 Enhanced Optical and Electrical Properties of Polymer-Assisted All-Inorganic Perovskites for Light-Emitting Diodes. Adv. Mater. , 28, 8983-8989 (2016). 10.1002/adma.201602513 
+2016 A Solution-Processed Organometal Halide Perovskite Hole Transport Layer for Highly Efficient Organic Light-Emitting Diodes. Adv. Electron. Mater. , 2, 1600165 (2016). 10.1002/aelm.201600165 
+2016 Fully Printed Halide Perovskite Light-Emitting Diodes with Silver Nanowire Electrodes. ACS Nano , 10, 1795-1801 (2016). 10.1021/acsnano.5b07506 
+2016 Bright Light-Emitting Diodes Based on Organometal Halide Perovskite Nanoplatelets. Adv. Mater. , 28, 305-311 (2016). 10.1002/adma.201503954 
+2015 Distinguishing the Photothermal and Photoinjection Effects in Vanadium Dioxide Nanowires. Nano Lett. , 15, 7037-7042 (2015). 10.1021/acs.nanolett.5b03086 
+2015 Specific Effects in Microwave Chemistry Explored through Reactor Vessel Design, Theory, and Spectroscopy. Phys. Chem. Chem. Phys. , 17, 27317-27327 (2015). 10.1039/C5CP03961D 
+2015 Widely Tunable Distributed Bragg Reflectors Integrated into Nanowire Waveguides. Nano Lett. , 15, 6909-6913 (2015). 10.1021/acs.nanolett.5b02839 
+2015 Strong Chiroptical Activities in Gold Nanorod Dimers Assembled Using DNA Origami Templates. ACS Photonics , 2, 392-397 (2015). 10.1021/ph500434f 
+2014 Semiconductor Nanowires-Synthesis, Characterization, and Applications. Adv. Mater. , 26, 2137-2184 (2014). 10.1002/adma.201303123 
+2013 Cleaved-Coupled Nanowire Lasers. Proc. Natl. Acad. Sci. USA , 110, 865-869 (2013). 10.1073/pnas.1217335110 
+2013 Femtosecond M2,3-Edge Spectroscopy of Transition Metal Oxides: Photoinduced Oxidation State Change in alpha-Fe2O3. J. Phys. Chem. Lett. , 4, 3667-3671 (2013). 10.1021/jz401997d 
+2013 Effect of Thermal Annealing in Ammonia on the Properties of InGaN Nanowires with Different Indium Concentrations. J. Phys. Chem. C , 117, 3627-3634 (2013). 10.1021/jp311685x 
+2012 Plasmon Enhanced Water Splitting Efficiency of Iron Oxide on Au Nanopillars. ACS Nano , 6, 234-240 (2012). 10.1021/nn203457a 
+2012 Metal-Dielectric Photonic Crystal Superlattice: 1D and 2D Models and Empty Lattice Approximation. Physica B: Condensed Matter , 407, 4037-4042 (2012). 10.1016/j.physb.2012.06.032 
+2011 Solution-Processed Core-Shell Nanowires for Efficient Photovoltaic Cells. Nat. Nanotechnol. , 6, 568-572 (2011). 10.1038/nnano.2011.139 
+2011 High Quantum Efficiency of Band-Edge Emission from ZnO Nanowires. Nano Lett. , 11, 3792-3796 (2011). 10.1021/nl201899r 
+2011 Absorption of Light in a Single-Nanowire Silicon Solar Cell Decorated with an Octahedral Silver Nanocrystal. Nano Lett. , 11, 5189-5195 (2011). 10.1021/nl202862d 
+2011 Surface Plasmon Biosensing with 3D Plasmonic Crystals. Plasmonics and Plasmonic Metamaterials , G. Shvets and I. Tsukerman, Eds. (World Scientific Publishing Co. Inc.), ISBN 9789814355278 (2011). 
+2010 Broadband Plasmonic Microlenses Based on Patches of Nanoholes. Nano Lett. , 10, 4111-4116 (2010). 10.1021/nl1022892 
+2010 Using the Angle-Dependent Resonances of Molded Plasmonic Crystals to Improve the Sensitivities of Biosensors. Nano Lett. , 10, 2549-2554 (2010). 10.1021/nl101165r 
+2010 Enhanced Optical Transmission Mediated by Localized Plasmons in Anisotropic, Three-Dimensional Nanohole Arrays. Nano Lett. , 10, 3173-3178 (2010). 10.1021/nl102078j 
+2010 Plasmonic Crystals: A Platform to Catalog Resonances from Ultraviolet to Near-Infrared Wavelengths in a Plasmonic Library. Adv. Funct. Mater. , 20, 529-539 (2010). 10.1002/adfm.200901623 
+2010 Toward Broadband Plasmonics: Tuning Dispersion in Rhombic Plasmonic Crystals. ACS Nano , 4, 1241-1247 (2010). 10.1021/nn901590p 
+2009 Plasmonic Superlattices: Hierarchical Subwavelength Hole Arrays. Chem. Phys. Lett. , 483, 187-192 (2009). 10.1016/j.cplett.2009.10.084 
+2009 Refractive Index Sensing Using Quasi One-Dimensional Nanoslit Arrays. Nano Lett. , 9, 2584-2588 (2009). 10.1021/nl900773m 
+2009 Rayleigh Anomaly-Surface Plasmon Polariton Resonances in Palladium and Gold Subwavelength Hole Arrays. Opt. Express , 17, 2334-2340 (2009). 10.1364/OE.17.002334 
+2008 Screening Plasmonic Materials Using Pyramidal Gratings. Proc. Natl. Acad. Sci. USA , 105, 20146-20151 (2008). 10.1073/pnas.0809034105 
+2008 Near-Field Optical Characterization of Plasmonic Materials. Nano-Optics and Near-Field Optical Microscopy , A. Zayats and D. Richards, Eds. (Artech House, Inc., Norwood), ISBN 9781596932838 (2008). 
+2007 Microscale Arrays of Nanoscale Holes. Small , 3, 2029-2033 (2007). 10.1002/smll.200700499 
+2006 Direct Evidence for Surface Plasmon-Mediated Enhanced Light Transmission through Metallic Nanohole Arrays. Nano Lett. , 6, 2104-2108 (2006). 10.1021/nl061670r 
+Invention Patents 
+Methods of making bandgap-tunable perovskite materials. US-11242263-B2 , February 8, 2022.
+Bandgap-tunable perovskite materials and methods of making the same. US-11155471-B2 , October 26, 2021.
+Organometal halide perovskit nanoplatelets, devices, and methods. US-10774032-B2 , September 15, 2020.
+Polymer-perovskite films, devices, and methods. US-10230049-B2 , March 12, 2019.
+All-inorganic perovskite-based films, devices, and methods. US-10224459-B2 , March 5, 2019.
+The Team
+Our group runs on shared ownership. Decisions about how we work, mentor, and grow are made collectively by all the members who make up the team.
+Principal Investigator
+Professor
+Hanwei Gao
+Chief Technology Officer
+Postdoctoral Fellow
+Gang Shi
+Chief Safety Officer
+Graduate Student
+Brendon Tyler Jones
+Maglab Liaison
+Graduate Student
+Kaitai Xiao
+Chief Financial Officer
+Graduate Student
+Jeremy Kowkabany
+Assistant Safety Officer
+Graduate Student
+Tristen White
+Chief Operating Officer
+Graduate Student
+Justin Sculley
+Assistant Technology Officer
+Graduate Student
+Omar Mansour
+Undergraduate Student
+Mariela Manion
+Group alumni 
+Ling, Yichuan (Postdoc, 2017) 
+Product Marketing Specialist 
+Applied Materials, San Francisco 
+Tan, Lei (Postdoc, 2017) 
+Bioanalytical Manager 
+Jazz Pharmaceuticals, San Mateo 
+Knox, Javon M. (Master, 2017) 
+Chen, Zhi (Postdoc, 2018) 
+Professor 
+Kunming University of Science and Technology, China 
+Perez-Orive, Fernando (Undergraduate, 2018) 
+Process Engineer 
+Shaw Projects & Modules, Denver 
+Dodamead, Sarah (Undergraduate, 2019) 
+Senior Project Engineer 
+Tesla, Palo Alto 
+Wang, Xi (PhD, 2019) 
+Assistant Professor 
+Washington University in St. Louis 
+Quintana, Xavier (Undergraduate, 2020) 
+Reliability Engineer 
+Apple, Cupertino 
+Gong, Jue (Postdoc, 2021) 
+Associate Professor 
+Sichuan University Pittsburgh Institute, China 
+Chen, Benjamin (High School Intern, 2022) 
+Undergraduate Student 
+Caltech, Pasadena 
+Lian, Xiujun (PhD, 2022) 
+Product Development Engineer 
+KLA Corporation, Ann Arbor 
+Adnani, Moein (Postdoc, 2022) 
+Senior Manufacture Engineer 
+Headway Technologies, San Jose 
+Cheng, Chloe (High School Intern, 2024) 
+Undergraduate Student 
+Georgia Tech, Atlanta 
+Zhang, Zihan (PhD, 2026) 
+Postdoctoral Fellow 
+University of Michigan, Ann Arbor 
+Recent Posts
+August 18, 2026 
+We retired our decade-old website and launched this new one. Stay tuned for more updates!
+July 31, 2026 
+Hooded by Prof. Gao, Zihan is now officially Dr. Zihan Zhang. Congratulations! 
+July 20, 2026 
+FSU Physics has been selected to lead three DOE Genesis projects, making our department the most successful one across the nation in this competition. Proud! (与荣有焉)
+July 17, 2026 
+Jeremy initiated a new and unusual form of interdisciplinary collaboration. He and Sarah, a chemistry PhD candidate, are engaged! Congratulations!
+June 24, 2026 
+In collaboration with Emory University, we received an NSF grant to support of our research on nonreciprocal transport in hybrid chiral crystals.
+May 14, 2026 
+Our new lab in the basement of Keen, a 3000-square-foot facility for advanced optical and transport characterization, is completed!
+April 2, 2026 
+Tristen won the 2nd prize in the 2026 3MT Competition, by showcasing the most obscure basic science research to a broad audience in just three minutes. Congratulations!
+Earlier Stories 
+December 19, 2025 We receieved an FSU LEEP grant to develop an ultrafast optical system for interdisciplinary quantum materials research. 
+August 24, 2024 Prof. Gao returned to Tallahassee after his 7-month research stay with Prof. Sam Stranks in Univeristy of Cambridge. Welcome back! 
+June 21, 2024 Prof. Gao chaired with Iván Mora-Seró the 2024 Gordon Research Conference on Unconventioned Semiconductors. A wonderful event with 150 researchers from all over the world sharing their progress at the forefront of hybrid materials! 
+August 24, 2023 Prof. Gao began his sabbatical journey with NIMS in Tsukuba, Japan, hosted by his long-time academic partner Dr. Joel Henzie. 
+November 4, 2022 Dr. Moein Adnani completed his postdoctoral research and joined TDK as a senior processing engineer. Congratulations! 
+May 2, 2022 Our work on Nanoscale Encapsulation of Hybrid Perovskites Using Atomic Layer Deposition was published in J. Phys. Chem. Lett. . 
+April 29, 2022 Xiujun Lian is now Dr. Xiujun Lian! Congratulations! 
+April 21, 2022 Zihan Zhang received the Yung Li Wang Graduate Fellowship for his excellence in research. Congratulations! 
+January 1, 2022 Jeremy Kowkabany and Tristen White joined the group. Welcome! 
+August 30, 2021 Jack Lyons, an undergraduate student with physics and music dual majors, joined the group. Welcome! 
+August 1, 2021 Dr. Moein Adnani joined the group as a postdoctoral fellow. Welcome! 
+May 31, 2021 Dr. Jue Gong completed his postdoctoral term with us and joined University of Electronic Science and Technology of China as an Associate Professor. Congratulations! 
+May 7, 2021 Benjamin Chen, a senior from Charles High School, joined the group. Welcome! 
+May 7, 2020 Tyler Jones joined the group. Welcome! 
+November 10, 2019 Dr. Jue Gong joined the group. Welcome! 
+June 4, 2019 Our review article concerning Phase Segregation in Mixed-Halide Perovskites , in collaboration with Prof. Tom Wu, was published in Photonics Research . 
+June 4, 2019 Our Perspective article on Nanocomposites of Halide Perovskites was published in ACS Energy Letters . 
+April 23, 2019 The poster presented by our undergraduate student, Xavier Quintana, was nominated for the Student Poster Award during the 2019 MRS Spring Meeting. It is an honor that often goes to graduate students. Well done, Xavier! 
+April 18, 2019 Xi Wang received the prestigious Research and Creativity Award, recognizing the superior scholarship of eight graduate students across all disciplines at FSU. Congrats! 
+February 11, 2019 Xi's work on Suppressed Phase Separation in Mixed-Halide Perovskites was published in Nature Communications , and highlighted in FSU News , Phys.org , and Science Daily . 
+December 12, 2018 Xiujun's work on LEDs based on Composite Perovskites is published in Advanced Functional Materials . 
+August 10, 2018 Zihan Zhang joined the group. Welcome! 
+May 4, 2018 Our undergraduate student Frenando graduated with co-authorship in two published papers. Congrats! 
+April 17, 2018 Xi Wang received the Clara Kibler Davis Scholarship. Congrats! 
+October 1, 2017 Xiujun Lian and Dr. Zhi Chen joined the group. Welcome! 
+July 21, 2017 Javon Knox, an APS Bridge Fellow in our group, has successfully defended his Master Thesis. Congrats! 
+July 4, 2017 Yichuan and Lei's work on Enhanced Photoluminescence in Composite Perovskites is published in J. Phys. Chem. Lett. . 
+June 29, 2017 Xi's work on Dynamic Electronic Junctions in Hybrid Perovskites is published in Nano Letters . 
+May 15, 2017 Alex Retana, graduate student of physics, joined the group. Welcome, Alex! 
+May 10, 2017 Postdoctoral Fellow Dr. Lei Tan will join Genentech in San Francisco as an Associate Scientist. Congratulations and thanks for your contribution! 
+February 15, 2017 Javon won the 1st Prize Award in the student poster competition of the APS Bridge Program Conference held in DC. His photo is also featured in an article highlighting the APS Bridge Program published recently in Physics Today . 
+August 30, 2016 Yichuan's paper reporting the efficient and bright LEDs based on all-inorganic halide perovskites is published in Advanced Materials . 
+April 21, 2016 Xi Wang won the 2016 Anna Jane Hendren Runyan Awards (FSU Physics). 
+March 3, 2016 Xi Wang won the Student Poster Award at the 2016 FLAVS/FSM joint Symposium . 
+February 15, 2016 Xi Wang received the Evelyn and John Baugh Research Presentation Scholarship and the COGS Conference Presentation Grant in support of her presentation at the 2016 APS March Meeting. 
+November 17, 2015 Our work on Organo-metal Halide Perovskite LEDs is published in Advanced Materials and highlighted at the FSU front page and in Phys.org and Science Daily . 
+October 1, 2015 Our paper on Photoresponse in VO2 Nanowires is published in Nano Letters . 
+August 1, 2015 Graduate Student Javon Knox joined the group. Welcome! Javon is supported by the APS-NSF Bridge Program. 
+May 1, 2015 Graduate Student Yijun Du joined the group. Welcome! 
+September 1, 2014 Postdoctoral Fellow Yichuan Ling joined the group. Welcome! 
+January 6, 2014 Graduate Student Xi Wang joined the group. Welcome! 
+October 4, 2013 New hires of the Energy and Materials Initiative are interviewed and aired on WFSU . 
+August 27, 2013 The Energy and Materials Initiative is highlighted at the FSU front page . 
+Spotlight
+A research breakthrough 
+An FSU-Rensselaer collaboration discovers long-distance crystal growth
+continue reading... 
+A slam dunk 
+FSU researchers take on the science of basketball
+continue reading... 
+Join in our research
+We warmly welcome inquiries from prospective students, potential collaborators, and funding agencies interested in our research.
+Address 
+77 Chieftan Way
+Department of Physics, Florida State University
+Tallahassee, FL 32306-4350
+USA
+e-mail 
+hanwei.gao@fsu.edu 
+Contact us 
+Sponsors
+Our research is generously supported by National Science Foundation , US Office of Naval Research , FSU Council on Research and Creativity , FSU Quantum Initiative , and National High Magnetic Field Laboratory .
+&copy; 2026 Gao Research Group
+Department of Physics, Florida State University
+All rights reserved

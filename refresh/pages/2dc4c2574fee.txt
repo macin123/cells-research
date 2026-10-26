@@ -1,0 +1,119 @@
+Edwin F. Hilinski - FSU Chemistry and Biochemistry 
+Edwin F. Hilinski 
+Ph.D., Yale University , 1982 
+Go to 
+Selected 
+Activities and Service or 
+Research/Graduate 
+Schools/Jobs 
+Applications are now being accepted for our Summer National Science Foundation - Research Experiences for Undergraduates (NSF-REU) Program: Sunshine Institute for the 
+Interaction of Light with Matter 
+Department of 
+Chemistry and Biochemistry 
+Florida State University 
+Talla h assee , 
+Florida 32306-4390 
+TEL: 
+850-644-5503 
+FAX: 850-644-8281 
+EMAIL: hilinski@chem.fsu.edu 
+Research Interests: Mechanistic 
+studies of photochemical and thermal reactions of organic compounds in 
+solution; picosecond laser spectroscopy; photoinduced 
+phenomena in the solid state. 
+Many important phenomena that interact to determine the 
+outcome of a chemical reaction occur in the time regime from 10 -12 
+to 10 -6 seconds. These dynamic processes include electron and energy 
+transfer, bond dissociation and formation, unimolecular rearrangement, 
+diffusion, and interactions between reactants and between reactant and solvent. 
+Our research primarily focuses on studies of reacting organic molecules and 
+interactions that they have with their environment. A method on which we rely 
+is picosecond laser spectroscopy. Intermediates whose lifetimes are as short as 
+10 ps can be generated and detected via 
+absorption or emission spectroscopy. We synthesize compounds designed to reveal 
+mechanistic intricacies when probed spectroscopically. 
+Several researches are 
+highlighted here: 
+(1) Photodissociations of sigma bonds in organic 
+molecules in solution 
+often give fragments formally resulting from bond homolysis 
+and bond heterolysis. We are investigating the paths of deactivation from an 
+initially populated pi ,pi * 
+excited state leading to the production of radicals and ions. A variety of 
+possibilities are outlined in Scheme I. The fragments that are formed also 
+permit studies of their ground-state reactivities . 
+(2) The 
+twisted excited singlet state ( 1 p*) of a polyarylalkene may be considered to be composed of 
+contributions from zwitterionic ( I ), singly ( II ), 
+and doubly ( III ) excited states. Our time-resolved spectroscopic studies 
+have provided evidence for the assignment of the zwitterionic 
+form ( I ) as the dominant electronic contributor to the lowest 1 p* 
+of several substituted tetraphenylethenes . 
+Substituted polyarylethenes are under investigation 
+to evaluate the contributions of I , II , and III to 1 p* . 
+(3) The 
+excited-state reactivity of transient species in the subnanosecond 
+time domain via time-resolved spectroscopy is an area that we are 
+investigating with the three-pulse laser system that we developed. 
+(4) Photoinduced electron transfer , involving excitation of ground-state 
+organic electron donor-acceptor complexes, is being studied to learn the roles 
+of orbital symmetries and the effects of heavy atoms on electron-transfer rates 
+in solution. 
+(5) Photophysical phenomena associated with 
+semiconducting and superconducting materials are under investigation through several 
+collaborations. 
+In our research, we strive to 
+learn how electrons are apportioned in these processes and how our results 
+compare with theoretical predictions. 
+SELECTED PUBLICATIONS 
+Saltiel, J.; Parambilpeediyakkal, S. F.; Conrad, S.; Townsend, D. E.; Hilinski, E. F. "The Photodimerization of 9-Deuterioanthracene; Hyperfine 1 H Nuclear Effect and an Unprecedented Secondary 2 H Isotope Effect," Photochemical & Photobiological Sciences 2026 , 25 , 471-481. https://doi.org/10.1007/s43630-026-00859-3 
+Manny, T. F.; Shonde, T. B.; Liu, H.; Islam, M. S.; Olasupo, O. J.; Viera, J.; Moslemi, S.; Khizr, M.; Chung, C.; Winfred, J. S. R. V.; Stand, L. M.; Hilinski, E. F.; Schlenoff, J.; Ma, B. "Efficient X-Ray Scintillators Based on Facile Solution Processed 0D Organic Manganese Bromide Hybrid Films," Advanced Functional Materials 2024 , 2413755 (1-7). https://doi.org/10.1002/adfm.202413755 
+Saltiel, J.; Krishnan , S. B.; Gupta , S.; 
+Chakraborty , A.; Hilinski , E. F.; Lin , X. "Photochemistry 
+and Photophysics of Cholesta-5,7,9(11)-trien-3&beta;-ol in Ethanol," Molecules 2023 , 28 , 4086. https://doi.org/10.3390/molecules28104086 
+Krishnan, S. B.; Clark , R. J.; Lin , X.; Dmitrenko , O.; Hilinski , E. F.; Kuhn , L. R.; Alabugin , I. V.; Saltiel , J., "&alpha;-Methylstilbene 
+Isomers: Relationship of Structure to Photophysics and Photochemistry," J. 
+Phys. Chem. A 2022 , 126 , 8975-8987. https://doi.org/10.1021/acs.jpca.2c06319 
+Hilinski, E. F, "The 
+Picosecond Realm," in Reactive 
+Intermediate Chemistry , Moss, R. A.; Platz , 
+M. S.; Jones, M., Jr., Eds., Wiley- Interscience , New 
+York, 2004, p. 873. https://doi.org/10.1002/0471721492.ch19 
+Takahashi, Y.; Ohaku , H.; Nishioka , N.; Ikeda, 
+H.; Miyashi , T.; Gormin , D. 
+A.; Hilinski, E. F., "Charge-Transfer Excitation of Electron 
+Donor-Acceptor Complexes of Arylcyclopropanes ," J. 
+Chem. Soc., Perkin Trans. 2 1997 , 303. https://doi.org/10.1039/A604565K 
+Hilinski, E. F.; McGowan, 
+W. M.; Sears, D. F., Jr.; Saltiel , J., 
+"Evolutions of Singlet Excited-State Absorption and Fluorescence of all- trans -1 ,6 -Diphenyl-1,3,5-hexatriene in the Picosecond Time 
+Domain," J. Phys. Chem. 1996 , 100 , 3308. https://doi.org/10.1021/jp9529984 
+McGowan, W. M.; Hilinski, 
+E. F., "Competitive Bond Homolysis and 
+Intersystem Crossing in the Picosecond Time Regime. Photodissociation 
+of 9-Bromo- and 9-Chlorofluorene in Cyclohexane," J. Am. Chem. Soc. 
+1995 , 117 , 9019. https://doi.org/10.1021/ja00140a019 
+Gao, F.; Dharia , J. R.; McGowan, W. M.; Hilinski, E. F.; Johnson, K. 
+F.; Schlenoff , J. B., "New Fluors 
+for Radiation-Tolerant Scintillators," Mater. Res. Soc. Symp . Proc. 1994 , 348 , 173. https://doi.org/10.1557/PROC-348-173 
+Tate, K. L.; Hilinski, E. 
+F.; Foster, S. C., "Angle-Dependent Laser-Induced Voltages in 
+Room-Temperature Polycrystalline Wafers of YBa 2 Cu 3 O 7-x ," 
+Appl. Phys. Lett. 1990 , 57 , 2407. https://doi.org/10.1063/1.103860 
+Schmidt, J. A.; Hilinski, 
+E. F., "Concurrent Pump-Probe and Streak Camera Measurements with a Single 
+Mode-Locked Nd :YAG Laser. A 
+Picosecond Absorption/Emission Spectrometer," Rev. Sci. Instrum . 1989 , 60 , 2902. 
+https://doi.org/10.1063/1.1140626 
+Mecklenburg, S. L.; 
+Hilinski, E. F., "Picosecond Spectroscopic Characterization of the 
+9-Fluorenyl Cation in Solution," J. Am. Chem. Soc. 1989 , 111 , 
+5471. https://doi.org/10.1021/ja00196a066 
+Schmidt, J. A.; Hilinski, 
+E. F., "Evolution of Electronically Excited Triphenylmethyl 
+Radical. Picosecond Preparation-Pump-Probe Spectroscopic Experiments," J. 
+Am. Chem. Soc. 1988 , 110 , 4036. https://doi.org/10.1021/ja00220a052 
+Schilling, C. L.; 
+Hilinski, E. F., "Dependence of the Lifetime of the Twisted Excited 
+Singlet State of Tetraphenylethylene on Solvent 
+Polarity," J. Am. Chem. Soc. 1988 , 110 , 2296. https://doi.org/10.1021/ja00215a048

@@ -1,0 +1,105 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Modeling and Simulation of Electric Shipboard Power Systems
+Shipboard Power Systems; Modeling and Simulation; Power Electronics; Electric Power Systems; Energy Systems 
+Research Mentor: Dr., Prof. Ravikumar Gelli, He, His, Him
+Department, College, Affiliation: Florida State University, FAMU-FSU College of Engineering
+Contact Email: rgelli@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Electrical Engineering, Computer Engineering. Students interested in electric power, simulation, energy systems, or computational modeling are encouraged to apply. 
+Project Location: 2000 Levy Ave, Tallahassee, FL 32310. Center for Advanced Power Systems (CAPS) 
+Research Assistant Transportation Required: FSU Seminole Express provides service between the FSU main campus and the FAMU-FSU College of Engineering. 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5 to 8 hours per week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Tuesday, September 1
+Start Time: 12:00
+End Time: 1:00
+Zoom Link: https://fsu.zoom.us/j/6540925978
+Project Description
+Modern electric ships depend on integrated electrical power systems to support propulsion, navigation, communication, sensing, computing, and other onboard loads. Unlike conventional terrestrial power systems, shipboard power systems must operate within limited space and generation capacity while responding rapidly to changing electrical demands and operating conditions.
+This project will introduce undergraduate researchers to the modeling and simulation of electric shipboard power systems. Students will begin by learning the basic structure and components of shipboard electrical systems, including generators, loads, energy storage, power electronic converters, and distribution networks. They will then develop and study simulation models representing selected portions of an electric shipboard power system.
+Students will use simulation tools to investigate how the system responds to changing loads, disturbances, component configurations, and operating conditions. As the project progresses, students may explore topics such as power flow, dynamic response, energy management, power quality, system resilience, or integration of emerging high-power electrical loads.
+Prior experience with shipboard power systems or advanced power-system modeling is not required. The project is designed to provide first-year and early undergraduate students with a structured introduction to electric power systems, engineering modeling, and simulation-based research.
+Research Tasks: 1) Review introductory materials on electric power systems and shipboard electrical architectures.
+2) Identify major shipboard power-system components, including generators, distribution networks, loads, energy storage systems, and power electronic converters.
+3) Learn the basic simulation environment and modeling tools used for the project.
+4) Develop simplified models of selected shipboard power-system components and subsystems.
+5) Simulate different operating conditions, such as changes in electrical load, generation, or system configuration.
+6) Analyze voltage, current, power, frequency, and other relevant system variables during different operating scenarios.
+7) Document the models, simulation results, and conclusions and prepare a research poster for the Undergraduate Research Symposium.
+Skills that research assistant(s) may need: Required:
+-- Interest in electrical systems, energy, modeling, or engineering
+-- Willingness to learn new simulation and computational tools
+-- Basic problem-solving skills
+-- Ability to work consistently and communicate progress
+-- Curiosity about how complex engineering systems operate
+Recommended but not required:
+-- Introductory familiarity with circuits, physics, or electrical engineering
+-- Basic MATLAB, Python, Simulink, or other programming/simulation experience
+-- Basic understanding of voltage, current, and electrical power
+Mentoring Philosophy
+My mentoring approach emphasizes learning through progressively structured research experiences. Students will initially receive clear guidance, background resources, and manageable research tasks to help them develop the necessary technical foundations. As their skills and confidence grow, they will be encouraged to take increasing ownership of their models, simulations, analysis, and research questions. Regular meetings will be used to discuss progress, troubleshoot challenges, interpret results, and identify next steps. Students will be encouraged to ask questions, experiment with different approaches, and understand that unexpected results are an important part of engineering research. The goal is to help students develop technical skills, critical thinking, research communication, independence, and confidence in conducting research. 
+Additional Information
+Students who are interested in understanding how complex electrical systems operate and learning through simulation and hands-on engineering research are encouraged to apply. 
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

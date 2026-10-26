@@ -1,0 +1,150 @@
+FSU Biology - Faculty Page - Dr. Kenneth A. Taylor 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. Kenneth A. Taylor
+Office: 306 Kasha Laboratory
+Office: (850) 644-3357
+Area: Cell and Molecular Biology 
+Lab: Kasha Laboratory
+Lab: (850) 644-4104
+Fax: (850) 644-7244
+Mail code: 4380
+E-mail: taylor@bio.fsu.edu 
+Professor
+Ph.D., University of California (Berkeley), 1975
+Graduate Faculty Status
+Dr. Kenneth Taylor is currently recruiting new graduate students for Spring 2024.
+Dr. Kenneth Taylor is currently recruiting new postdoctoral investigators for Spring 2024.
+Research and Professional Interests:
+Our research uses 3-D electron microscopy (EM) to study structure and function at the resolution of molecules and supramolecular assemblies both isolated and within cells. This aspect of EM includes techniques such as electron crystallography, electron tomography, helical and "single particle" 3-D image reconstruction. Since we specialize in EM, we also spend considerable effort in method development particularly as it pertains to electron tomography (ET). Present efforts at method development are aimed at algorithms to improve the molecular images that we can obtain by ET. We moved from an emphasis on electron crystallography of 2-D arrays to ET to improve our 3-D images obtained from fast frozen, active insect flight muscle (IFM). Rapid freezing was obtained by smashing the tissue against a liquid helium cooled copper mirror. The tissue was then freeze substituted for subsequent sectioning and 3-D imaging. To study actively contracting IFM, we needed images of individual cross-bridges and that is something that cannot be obtained by any of the other 3D-EM techniques. To improve signal-to-noise ratio in these 3-D images but still maintaining the ability to distinguish different structures within the muscle lattice, we adapted methods for classifying images that were developed for single particle 3-D reconstruction to identify and group self-similar 3-D structures for subsequent averaging. These methods enabled us for the first time to study the conformations of tension generating cross-bridges in situ. 
+The culmination of this work is its application to time resolved studies of contracting muscle. This effort applies the combination of 3-D tomography, X-ray diffraction, muscle mechanics and fast freezing to trap force-bearing cross-bridges in situ. These experiments allow us to build atomic models of the different cross-bridge forms using the crystal structures of myosin and filament structures of actin. Our first effort shows cross-bridges at all stages of the working stroke as well as cross-bridges in the presumably weak binding states that precede force production. The work suggests that the position of the myosin motor domain on actin changes during the so-called weak to strong binding transition in addition to the well-known movements of the light chain domain lever arm during the powerstroke itself. 
+Currently, our research emphasis is the structure of the thick, myosin-containing filaments from striated muscle. In 2016 we published the first 3D image of such a filament at subnanometer resolution that revealed for the first time the arrangement of the myosin coiled-coil tails within the filament backbone. We have obtained subnanometer resolution reconstructions of two other species of insect that use this type of muscle. In 2021 our resolution reached 4.2&Aring;, sufficient to build the first atomic model of a myosin tail within its native environment. That atomic model is the longest 2-stranded coiled coil in the Protein Data Bank. Current thick filament work has reached 2.7&Aring; resolution producing an even better atomic model. 
+Although we will continue to work on atomic resolution reconstructions of muscle filaments, our plan is to develop a second line of investigation utilizing the new technique of Focused Ion Beam (FIB) milling. FIB milling produces frozen-hydrated tissue specimens that are thin enough for high resolution imaging, without the use of chemical fixation, dehydration, plastic embedding and sectioning, all processes that can deform the tissue and create artifacts. When applied to muscle tissue, it will facilitate 3-D imaging of all parts of the muscle without pretreatment. We can then repeat the work on active muscle contraction mentioned above but this time without the freeze substitution and sectioning. This will produce more detailed images of active muscle contraction and facilitate studies of other parts of the muscle such as the Z-disk, sarcolemma, T-tubules among others. We obtained one results using this technique, which required the interested graduate student to spend a year at Yale University in a former postdoc's laboratory which was equipped with a FIB milling machine. To move the FIB effort along, the PI will take a sabbatical at the Max Planck Institute of Biochemistry in Martinsried, Germany for the academic year 2024-2025. The MPIB is the major site of development of the FIB milling technique for biological specimens. 
+Selected Publications:
+Selected from a total of 142
+1. Wu S, Liu J, Reedy MC, Winkler H, Reedy MK, Taylor KA. Methods for identifying and averaging variable molecular conformations in tomograms of actively contracting insect flight muscle. J Struct Biol. 2009;168(3):485-502. Epub 2009/08/25. doi: 10.1016/j.jsb.2009.08.007. PubMed PMID: 19698791; PMCID: PMC2805068. 
+2. Wu S, Liu J, Reedy MC, Tregear RT, Winkler H, Franzini-Armstrong C, Sasaki H, Lucaveche C, Goldman YE, Reedy MK, Taylor KA. Electron tomography of cryofixed, isometrically contracting insect flight muscle reveals novel actin-myosin interactions. PLoS One . 2010;5(9). Epub 2010/09/17. doi: 10.1371/journal.pone.0012643. PubMed PMID: 20844746; PMCID: PMC2936580. 
+3. Ye F, Hu G, Taylor D, Ratnikov B, Bobkov AA, McLean MA, Sligar SG, Taylor KA, Ginsberg MH. Recreation of the terminal events in physiological integrin activation. J Cell Biol . 2010;188(1):157-73. Epub 2010/01/06. doi: 10.1083/jcb.200908045. PubMed PMID: 20048261; PMCID: 2812850. 
+4. Collins A, Warrington A, Taylor KA, Svitkina T. Structural organization of the actin cytoskeleton at sites of clathrin-mediated endocytosis. Curr Biol . 2011;21(14):1167-75. Epub 2011/07/05. doi: 10.1016/j.cub.2011.05.048. PubMed PMID: 21723126; PMCID: 3143238. 
+5. Hu G, Liu J, Taylor KA, Roux KH. Structural comparison of HIV-1 envelope spikes with and without the V1/V2 loop. J Virol . 2011;85(6):2741-50. Epub 2010/12/31. doi: 10.1128/JVI.01612-10. PubMed PMID: 21191026; PMCID: 3067966. 
+6. Baumann BA, Taylor DW, Huang Z, Tama F, Fagnant PM, Trybus KM, Taylor KA. Phosphorylated smooth muscle heavy meromyosin shows an open conformation linked to activation. J Mol Biol . 2012;415(2):274-87. Epub 20111104. doi: 10.1016/j.jmb.2011.10.047. PubMed PMID: 22079364; PMCID: PMC3295741. 
+7. Lerch TF, O'Donnell JK, Meyer NL, Xie Q, Taylor KA, Stagg SM, Chapman MS. Structure of AAV-DJ, a retargeted gene therapy vector: cryo-electron microscopy at 4.5 A resolution. Structure . 2012;20(8):1310-20. Epub 2012/06/26. doi: 10.1016/j.str.2012.05.004. PubMed PMID: 22727812; PMCID: 3418430. 
+8. McCraw DM, O'Donnell JK, Taylor KA, Stagg SM, Chapman MS. Structure of adeno-associated virus-2 in complex with neutralizing monoclonal antibody A20. Virology . 2012;431(1-2):40-9. Epub 2012/06/12. doi: 10.1016/j.virol.2012.05.004. PubMed PMID: 22682774; PMCID: 3383000. 
+9. Wu S, Liu J, Reedy MC, Perz-Edwards RJ, Tregear RT, Winkler H, Franzini-Armstrong C, Sasaki H, Lucaveche C, Goldman YE, Reedy MK, Taylor KA. Structural changes in isometrically contracting insect flight muscle trapped following a mechanical perturbation. PLoS One . 2012;7(6):e39422. Epub 2012/07/05. doi: 10.1371/journal.pone.0039422. PubMed PMID: 22761792; PMCID: PMC3382574. 
+10. Winkler H, Taylor KA. Marker-free dual-axis tilt series alignment. J Struct Biol . 2013;182(2):117-24. Epub 2013/02/26. doi: 10.1016/j.jsb.2013.02.004. PubMed PMID: 23435123; PMCID: PMC4098971. 
+11. Winkler H, Wu S, Taylor KA. Electron tomography of paracrystalline 2D arrays. Methods Mol Biol . 2013;955:427-60. Epub 2012/11/08. doi: 10.1007/978-1-62703-176-9_23. PubMed PMID: 23132074; PMCID: PMC7032944. 
+12. Dutta M, Liu J, Roux KH, Taylor KA. Visualization of retroviral envelope spikes in complex with the V3 loop antibody 447-52D on intact viruses by cryo-electron tomography. J Virol . 2014;88(21):12265-75. Epub 2014/08/15. doi: 10.1128/JVI.01596-14. PubMed PMID: 25122783; PMCID: PMC4248906. 
+13. Arakelian C, Warrington A, Winkler H, Perz-Edwards RJ, Reedy MK, Taylor KA. Myosin S2 origins track evolution of strong binding on actin by azimuthal rolling of motor domain. Biophys J . 2015;108(6):1495-502. Epub 2015/03/27. doi: 10.1016/j.bpj.2014.12.059. PubMed PMID: 25809262; PMCID: 4375447. 
+14. Dai A, Ye F, Taylor DW, Hu G, Ginsberg MH, Taylor KA. The Structure of a Full-length Membrane-embedded Integrin Bound to a Physiological Ligand. J Biol Chem . 2015;290(45):27168-75. Epub 2015/09/24. doi: 10.1074/jbc.M115.682377. PubMed PMID: 26391523; PMCID: 4646401. 
+15. Hu Z, Taylor DW, Reedy MK, Edwards RJ, Taylor KA. Structure of myosin filaments from relaxed Lethocerus flight muscle by cryo-EM at 6 A resolution. Sci Adv . 2016;2(9):e1600058. Epub 20160930. doi: 10.1126/sciadv.1600058. PubMed PMID: 27704041; PMCID: PMC5045269. 
+16. Banerjee C, Hu Z, Huang Z, Warrington JA, Taylor DW, Trybus KM, Lowey S, Taylor KA. The structure of the actin-smooth muscle myosin motor domain complex in the rigor state. J Struct Biol . 2017;200(3):325-33. Epub 2017/10/19. doi: 10.1016/j.jsb.2017.10.003. PubMed PMID: 29038012; PMCID: PMC5748330. 
+17. Hu G, Liu J, Roux KH, Taylor KA. Structure of Simian Immunodeficiency Virus Envelope Spikes Bound with CD4 and Monoclonal Antibody 36D5. J Virol. 2017;91(16). Epub 2017/05/26. doi: 10.1128/JVI.00134-17. PubMed PMID: 28539445; PMCID: PMC5533903. 
+18. Hu G, Taylor DW, Liu J, Taylor KA. Identification of interfaces involved in weak interactions with application to F-actin-aldolase rafts. J Struct Biol . 2018;201(3):199-209. Epub 20171113. doi: 10.1016/j.jsb.2017.11.005. PubMed PMID: 29146292; PMCID: PMC5820182. 
+19. Hu Z, Taylor DW, Edwards RJ, Taylor KA. Coupling between myosin head conformation and the thick filament backbone structure. J Struct Biol . 2017;200(3):334-42. Epub 2017/10/02. doi: 10.1016/j.jsb.2017.09.009. PubMed PMID: 28964844; PMCID: PMC5733691. 
+20. Rusu M, Hu Z, Taylor KA, Trinick J. Structure of isolated Z-disks from honeybee flight muscle. J Muscle Res Cell Motil. 2017;38(2):241-50. Epub 2017/07/25. doi: 10.1007/s10974-017-9477-5. PubMed PMID: 28733815; PMCID: PMC5660141. 
+21. Burgoyne T, Heumann JM, Morris EP, Knupp C, Liu J, Reedy MK, Taylor KA, Wang K, Luther PK. Three-dimensional structure of the basketweave Z-band in midshipman fish sonic muscle. Proc Natl Acad Sci U S A . 2019;116(31):15534-9. Epub 2019/07/20. doi: 10.1073/pnas.1902235116. PubMed PMID: 31320587; PMCID: PMC6681754. 
+25. Taylor KA, Rahmani H, Edwards RJ, Reedy MK. Insights into Actin-Myosin Interactions within Muscle from 3D Electron Microscopy. Int J Mol Sci. 2019;20(7). Epub 2019/04/10. doi: 10.3390/ijms20071703. PubMed PMID: 30959804; PMCID: PMC6479483. 
+26. Banerjee C, Dutta M, Liu X, Roux KH, Taylor KA. Segmentation by classification: A novel and reliable approach for semi-automatic selection of HIV/SIV envelope spikes. J Struct Biol. 2020;209(1):107426. Epub 20191113. doi: 10.1016/j.jsb.2019.107426. PubMed PMID: 31733279; PMCID: PMC8715258. 
+27. Daneshparvar N, Taylor DW, O'Leary TS, Rahmani H, Abbasiyeganeh F, Previs MJ, Taylor KA. CryoEM structure of Drosophila flight muscle thick filaments at 7 A resolution. Life Sci Alliance . 2020;3(8):e202000823. Epub 2020/07/29. doi: 10.26508/lsa.202000823. PubMed PMID: 32718994; PMCID: PMC7391215. 
+28. Hojjatian A, Dasari AKR, Sengupta U, Taylor D, Daneshparvar N, Yeganeh FA, Dillard L, Michael B, Griffin RG, Borgnia MJ, Kayed R, Taylor KA, Lim KH. Tau induces formation of alpha-synuclein filaments with distinct molecular conformations. Biochem Biophys Res Commun . 2021;554:145-50. Epub 2021/04/03. doi: 10.1016/j.bbrc.2021.03.091. PubMed PMID: 33798940; PMCID: PMC8062303. 
+29. Rahmani H, Ma W, Hu Z, Daneshparvar N, Taylor DW, McCammon JA, Irving TC, Edwards RJ, Taylor KA. The myosin II coiled-coil domain atomic structure in its native environment. Proc Natl Acad Sci U S A . 2021;118(14):e202415111. Epub 2021/03/31. doi: 10.1073/pnas.2024151118. PubMed PMID: 33782130; PMCID: PMC8040620. 
+30. Dasari AKR, Dillard L, Yi S, Viverette E, Hojjatian A, Sengupta U, Kayed R, Taylor KA, Borgnia MJ, Lim KH. Untwisted alpha-Synuclein Filaments Formed in the Presence of Lipid Vesicles. Biochemistry . 2022;61(17):1766-73. Epub 20220824. doi: 10.1021/acs.biochem.2c00283. PubMed PMID: 36001818; PMCID: PMC10289115. 
+31. Abbasi Yeganeh F, Rastegarpouyani H, Li J, Taylor KA. Structure of the Drosophila melanogaster Flight Muscle Myosin Filament at 4.7 &Aring; Resolution Reveals New Details of Non-Myosin Proteins. Int J Mol Sci . 2023;24(19):14936. PubMed PMID: doi:10.3390/ijms241914936. 
+32. Hojjatian A, Taylor DW, Daneshparvar N, Fagnant PM, Trybus KM, Taylor KA. Double-headed binding of myosin II to F-actin shows the effect of strain on head structure. J Struct Biol . 2023;215(3):107995. Epub 20230704. doi: 10.1016/j.jsb.2023.107995. PubMed PMID: 37414375; PMCID: PMC10544818. 
+33. Li J, Rahmani H, Abbasi Yeganeh F, Rastegarpouyani H, Taylor DW, Wood NB, Previs MJ, Iwamoto H, Taylor KA. Structure of the Flight Muscle Thick Filament from the Bumble Bee, Bombus ignitus , at 6 A Resolution. Int J Mol Sci . 2022;24(1):377. Epub 20221226. doi: 10.3390/ijms24010377. PubMed PMID: 36613818; PMCID: PMC9820631. 
+34. Taylor KA. John Squire and the myosin thick filament structure in muscle. J Muscle Res Cell Motil . 2023;44(3):143-52. Epub 20230426. doi: 10.1007/s10974-023-09646-4. PubMed PMID: 37099254; PMCID: PMC10686309. 
+35. Yeganeh FA, Summerill C, Hu Z, Rahmani H, Taylor DW, Taylor KA. The cryo-EM 3D image reconstruction of isolated Lethocerus indicus Z-discs. J Muscle Res Cell Motil . 2023;44(4):271-86. Epub 20230903. doi: 10.1007/s10974-023-09657-1. PubMed PMID: 37661214. 
+36. Chen L, Liu J, Rastegarpouyani H, Janssen PML, Pinto JR, Taylor KA. Structure of Mavacamten-Free Human Cardiac Thick Filaments Within the Sarcomere by Cryo-Electron Tomography. P roc Natl Acad Sci . 121(9), e2311883121 (2024) PMID: 38386705, PMCID: PMC10907299 DOI: 10.1073/pnas.2311883121. 
+Graduate Students:
+Chen, Liang
+Feghhi, Maryam
+Gholami Tilko, Pouria
+Li, Jiawei
+Nishat, Zakia
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

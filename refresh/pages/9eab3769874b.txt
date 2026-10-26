@@ -1,0 +1,108 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Virtual Reality (VR)-Based Visualization of Graph and Time-Series Data
+VR; Graph Data; Time-Series Data; Data Visualization; Real-Time Interaction 
+Research Mentor: Dr., Prof. Ravikumar Gelli, He, His, Him
+Department, College, Affiliation: Florida State University, FAMU-FSU College of Engineering
+Contact Email: rgelli@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Computer Science, Computer Engineering, Electrical Engineering, Data Science, Software Engineering, Information Technology, or related disciplines. Students interested in visualization, VR, interactive systems, or data are encouraged to apply. 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5 to 8 hours per week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Tuesday, September 1
+Start Time: 1:00
+End Time: 2:00
+Zoom Link: https://fsu.zoom.us/j/6540925978
+Project Description
+Many engineering systems can be represented as networks or graphs in which individual nodes are connected through physical, communication, or logical relationships. These systems also generate time-series measurements associated with individual nodes and connections. Understanding both the network structure and the changing data can be difficult using conventional two-dimensional plots.
+This project will explore the use of Virtual Reality (VR) to create interactive visualizations of graph-based systems and associated time-series data. Undergraduate researchers will learn how to represent network data in a three-dimensional interactive environment and connect individual graph nodes to measurements that change over time.
+Students may develop a VR environment in which a user can navigate a network, select individual nodes, inspect associated measurements, visualize changes over time, and interact with the data in real time. Power and energy systems may be used as a representative application, where network nodes can correspond to buses, devices, sensors, or other system components.
+The project is designed as an interdisciplinary introduction to research in data visualization, VR, graph modeling, and interactive engineering systems. Prior experience with VR, graph theory, or power systems is not required.
+Research Tasks: 1) Review introductory concepts in graph data, network visualization, time-series data, and virtual reality.
+2) Learn the basic software tools and development environment used for the VR application.
+3) Create and visualize simple graph structures with nodes and connections.
+4) Associate time-series measurements with individual graph nodes or edges.
+5) Develop interactive functions that allow users to select, inspect, and navigate graph elements.
+6) Display associated time-series data when a user interacts with a selected node or system component.
+7) Integrate and test real-time or simulated data streams into the visualization environment where feasible.
+8) Document the developed system and prepare a research demonstration or poster for the Undergraduate Research Symposium.
+Skills that research assistant(s) may need: Required:
+-- Interest in virtual reality, interactive systems, data visualization, or engineering
+-- Willingness to learn new programming and visualization tools
+-- Curiosity and creativity in designing interactive systems
+-- Ability to work consistently and communicate progress
+-- Willingness to troubleshoot software and interface problems
+Recommended but not required:
+-- Basic programming experience in Python
+-- Familiarity with Unity, Unreal Engine, or another graphics environment
+-- Introductory knowledge of graphs, networks, or data structures
+-- Basic experience with data visualization
+Mentoring Philosophy
+My mentoring approach emphasizes learning through progressively structured research experiences. Students will initially receive clear guidance, example datasets, introductory resources, and manageable development tasks to help them build the necessary technical foundations. As their skills and confidence grow, they will be encouraged to take increasing ownership of the visualization design, implementation, experimentation, and research questions. Regular meetings will be used to review progress, troubleshoot technical challenges, evaluate interface choices, and identify next steps. Students will be encouraged to experiment with different visualization and interaction approaches and to learn from both successful and unsuccessful implementations. The goal is to help students develop technical skills, creativity, critical thinking, research communication, independence, and confidence in interdisciplinary research. 
+Additional Information
+Students who are interested in building interactive tools and exploring new ways to understand complex data are encouraged to apply. 
+Link to Publications
+My research website https://gridai.fsu.edu/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

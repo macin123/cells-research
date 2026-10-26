@@ -1,0 +1,124 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Magnet Rescue: Giving Rare-Earth Magnets from Retired Electric Motors a Second Life
+Rare-earth magnets; electric motors; circular economy; magnet recovery; sustainable engineering 
+Research Mentor: Wenda Feng, He/Him/His
+Department, College, Affiliation: Center for Advanced Power Systems, FAMU-FSU College of Engineering
+Contact Email: wf25@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 3 
+Relevant Majors: Open to all majors, especially Electrical Engineering, Mechanical Engineering, Industrial and Manufacturing Engineering, Materials Science, Computer Science, Data Science, Physics, Chemistry, and Environmental Science. No previous experience with electric machines or permanent magnets is required. 
+Project Location: Center for Advanced Power Systems (CAPS)2000 Levy AvenueTallahassee, FL 32310Innovation Park 
+Research Assistant Transportation Required: No personal vehicle is required. Public transportation is available through the FSU Innovation bus route. 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 6-8, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Monday, August 31
+Start Time: 12:00
+End Time: 1:00
+Zoom Link: https://fsu.zoom.us/j/5923225848
+Day: Tuesday, September 1
+Start Time: 12:00
+End Time: 1:00
+Zoom Link: https://fsu.zoom.us/j/5923225848
+Project Description
+Electric motors power electric vehicles, aircraft, robots, wind turbines, industrial systems, and countless everyday devices. A retired motor may look like scrap, but hidden inside many high-performance motors are powerful permanent magnets containing critical rare-earth materials. These magnets may still have years of useful life remaining, yet they can be buried in steel, bonded with strong adhesives, or secured by sleeves and other structures that make recovery difficult. One incorrect step can crack a magnet, damage its protective coating, or reduce its magnetic performance.
+This project asks an important question: How can we recover permanent magnets while preserving enough of their value for a second life?
+The undergraduate researcher will become a “magnet detective.” Using safe, de-energized electric motors or rotor samples, the student will investigate where magnets are located, how they are secured, why they are difficult to remove, and what happens to their condition during recovery. The student will help develop a Magnet Recovery and Reuse Scorecard that connects disassembly effort, physical damage, and repeatable magnetic-condition measurements with possible circular pathways: direct reuse, remanufacturing, or material recycling.
+The results will contribute to a larger interdisciplinary research effort on intelligent and robotic motor disassembly, critical-material recovery, and the design of more sustainable electric machines.
+Research Tasks: The student will contribute to the following activities, with the exact scope adjusted to match the student’s interests and experience:
+1. Learn the basic construction and operating principles of permanent-magnet electric machines.
+2. Conduct a guided literature review on permanent-magnet recovery, reuse, recycling, and design for disassembly.
+3. Examine de-energized motors, rotor samples, photographs, drawings, or CAD models to identify magnet locations, fixation methods, and potential disassembly challenges.
+4. Create step-by-step “motor autopsy” or disassembly maps documenting components, tools, actions, accessibility, and potential damage risks.
+5. Assist with controlled and supervised motor-disassembly and magnet-recovery experiments.
+6. Document recovery time, process steps, tools, magnet accessibility, fixation method, temperature exposure, unsuccessful attempts, and observed damage.
+7. Measure and document recovered magnets’ dimensions, mass, surface condition, coating damage, cracking or chipping, and magnetic-field condition using standardized procedures.
+8. Organize and analyze experimental results using Excel, MATLAB, or Python.
+9. Develop a Magnet Recovery and Reuse Scorecard for identifying whether a recovered magnet is a promising candidate for direct reuse, remanufacturing, or material recycling.
+10. Prepare figures, a technical summary, and a poster for the FSU Undergraduate Research Symposium.
+Skills that research assistant(s) may need: 1. Curiosity about how machines work and how valuable materials can be recovered
+2. Reliability and willingness to work consistently during both Fall and Spring
+3. Careful attention to laboratory safety
+4. Willingness to learn unfamiliar engineering concepts and research tools
+5. Ability to document observations carefully and keep organized records
+6. Basic ability to use spreadsheets or similar software
+7. Willingness to ask questions and communicate progress
+RECOMMENDED, BUT NOT REQUIRED:
+1. Interest in electric machines, mechanical systems, materials, manufacturing, sustainability, robotics, or data analysis
+2. Introductory experience with Excel, MATLAB, Python, or CAD
+3. Introductory physics, electrical engineering, mechanical engineering, or materials coursework
+4. Experience with basic hand tools or laboratory measurement equipment
+5. Interest in photography, image analysis, technical drawing, or data visualization
+Training will be provided. The student is not expected to already be an expert in electric motors, magnets, recycling, programming, or laboratory experimentation.
+Mentoring Philosophy
+I believe undergraduate researchers learn best when they understand why their work matters and have ownership of a clear, achievable research question. I will begin by providing training in permanent-magnet machines, laboratory safety, research documentation, and the tools needed for the student’s work. We will then define a focused subproject based on the student’s interests and developing skills.
+We will meet weekly to review progress, discuss challenges, and establish manageable next steps. Questions will always be encouraged, and unsuccessful experiments will be treated as useful research results rather than failures. As the student gains experience, they will receive increasing independence and responsibility for their work. I will provide timely feedback and support the student in developing practical laboratory, data-analysis, technical-writing, and presentation skills. By spring, the student should own a meaningful dataset, procedure, analysis tool, or design recommendation that they can confidently present as their contribution. 
+Additional Information
+This project combines hands-on engineering, sustainability, critical-material recovery, and data analysis. The student will not be expected to solve the entire permanent-magnet recycling challenge. Instead, the student will take ownership of one carefully defined part of the larger research effort.
+Expected Fall activities include safety training, background research, motor and rotor classification, development of the measurement procedure, and planning or conducting an initial recovery study.
+Expected Spring activities include additional supervised recovery experiments, magnet-condition assessment, data analysis, development of the Magnet Recovery and Reuse Scorecard, and preparation of the UROP symposium poster.
+All experimental samples will be de-energized and inspected before use. Strong permanent magnets require careful handling because of pinch, impact, and projectile hazards. Hands-on recovery will occur only after appropriate safety training and under direct supervision. Chemical recycling is outside the scope of this undergraduate project. Any advanced cutting, heating, or extraction operation will be performed only by trained research personnel using approved laboratory procedures.
+Magnetic-field measurements in this project will be treated as preliminary condition-screening indicators, not as certification that a recovered magnet is ready for use in a new machine.
+Interested students should email Dr. Feng with a short paragraph explaining why the project interests them, their typical weekly availability, and any relevant courses or experiences. Previous research experience is not required. 
+Link to Publications
+https://ieeexplore.ieee.org/author/37088460857 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

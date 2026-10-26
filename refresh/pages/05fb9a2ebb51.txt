@@ -1,0 +1,76 @@
+Huffenberger Cosmology Group 
+Huffenberger Cosmology Group 
+Group 
+Education 
+Talks 
+Research Group
+Graduate students
+Bai-Chiang Chiang 
+Research projects: mapmaking.
+Undergraduate students
+Sophia Korte 
+Research projects: parallelizing a lognormal field generator.
+Shaheed Perez 
+Research projects: Power spectra of galactic dust.
+Helpful links 
+What to expect
+Group expectations for graduate students 
+Group expectations for undergraduate students 
+Rubric for research expectations 
+Funding
+Graduate student fellowship / funding opportunities. 
+Professional Development
+To succeed, you need so many more skills than you can obtain in an undergraduate or graduate physics classroom. Here are some resources that may be helpful in developing quality writing, mentoring relationships, academic productivity, and so on.
+Books: Gleeson, The Personal Efficiency Program and Allen, Getting Things Done . These are somewhat similar books that focus on personal work habits as a way to improve productivity and reduce stress by getting tasks out of your head and into some system for addressing them. Both books have good elements that I have implemented in my workflow. Of these two, I prefer the Gleeson "Personal Efficiency Program" book overall. Both books are a little bit business-buzzwordy.
+Book: Feibelman, A PhD is not enough. 
+Book: Reis, Tomorrow's Professor: Preparing for Careers in Science and Engineering. 
+Book: Noor, You're Hired! Now What? A Guide for New Science Faculty. Sinauer (2012). 
+Links: Large number of professional development links. Curated by the Knapp lab in Earth, Ocean, and Atmospheric Sciences at FSU 
+Guide: Graduate school mentoring for proteges. 
+Link: Choosing a good scientific problem 
+Link: Useful thread on salary negotiation. 
+Writing for Science 
+Link: Effective Scientific Writing 
+Link: Julianne Dalcanton's advice on proposal writing 
+Book: Silvia, How to write a lot. 
+Book: Strunk & White, The elements of style 
+Article: "Is there a science to writing (particularly science writing) and, if not, why not?" Dean Clark, published in The Leading Edge 
+Article: "The Science of Scientific Writing" George Gopen, Judith Swan (originally published in the November-December 1990 issue of American Scientist) 
+Keeping your head together
+Beyond the technical trickiness of research, many people find advanced, postgraduate education fraught with other difficulties. Some of these include social pressure, anxiety (e.g. impostor syndrome, stereotype threat), and stress. These can be scary and unpleasant to address, but are often the biggest barriers that high-achieving people face. 
+For example, mindfulness meditation training was enormously helpful to me in addressing anxiety and panic attacks. These resources below can be helpful for a start, but a meditation group and supportive community are also useful. 
+Free audio downloads: Kara Matheson: Mindfulness Meditiations . A supportive meditation group is also very effective. 
+Non-free meditations that are good: Guided Meditations for Busy People. 
+Podcast: Zencast on Mindfulness 
+Book: Kabat-Zinn, Full Catastrophe Living. A landmark work on mindfulness meditation.
+Book: Steele, Whistling Vivaldi. An important work on stereotype threat and how people feel like they belong. 
+Former Group Members
+Post-doctorate
+Gabriela Marques 
+Research projects: Cross-correlations with CMB lensing, foreground effects on lensing, extra-galactic source based pointing corrections, Wiener-filtering techniques.
+Carlos Hervias-Caimapo 
+Research projects: B-mode measurements, Milky Way polarization foregrounds, extra-galactic source based pointing corrections, mm-wavelength transient sources.
+Aditya Rotti 
+Research projects: Isotropy statistics of the CMB, B-mode foregrounds; clustering of large scale structure. Now at the University of Manchester.
+Jan Kratochvil 
+Research projects: N-body simulations, weak gravitational lensing. 
+Graduate students
+John Waldroup 
+Research projects: point sources. MS 2023.
+Felipe Maldonado 
+Research projects: Joint analysis of CMB lensing and large scale structure. PhD 2021.
+Victoria Lakey 
+Research projects: CMB/X-ray background cross-correlations. PhD 2020.
+S. Lucas Denny 
+Research projects: filament models of polarization foregrounds. HI high-velocity clouds. MS 2020.
+Brittany Fuzia 
+Research projects: Stacking analysis of SZ clusters. PhD 2019.
+Undergraduate
+Chika Onubogu 
+Research projects: power spectrum estimation.
+Jacob Strack 
+Research projects: mapmaking.
+Rebecca Van Gelder 
+Research projects: Transients sources in mm-wave data.
+Kasey Schultz 
+Research projects: extragalactic point sources and SZ clusters in WMAP data.

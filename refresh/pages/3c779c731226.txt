@@ -1,0 +1,178 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Applied Superconductivity, Cryogenic Engineering, and AI-Assisted Scientific Instrumentation
+superconductivity; cryogenic engineering; magneto-optical imaging; scientific instrumentation; artificial intelligence 
+Research Mentor: Dmitry Semenov, Dmitry Semenov
+Department, College, Affiliation: ASC NHMFL, N/A
+Contact Email: dsemenov@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 3 
+Relevant Majors: Open to all majors. Especially relevant areas include Mechanical Engineering,
+Electrical Engineering, Computer Engineering, Computer Science, Physics,
+Materials Science, Chemistry, and Applied Mathematics. 
+Project Location: Applied Superconductivity Center, Frank Shaw Building, 2031 E. Paul Dirac Drive, Tallahassee, FL 32310 
+Research Assistant Transportation Required: No personal vehicle required; FSU/StarMetro public transportation serves the Innovation Park area. Students must verify the schedule and maintain reliable transportation for agreed laboratory hours. 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 6-8 hours per week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Monday, August 31
+Start Time: 12:00
+End Time: 12:30
+Zoom Link: https://fsu.zoom.us/j/2596128724
+Day: Wednesday, September 2
+Start Time: 12:00
+End Time: 12:30
+Zoom Link: https://fsu.zoom.us/j/2596128724
+Project Description
+The Applied Superconductivity Center (ASC) at the National High Magnetic Field
+Laboratory develops materials, measurement methods, and specialized cryogenic
+hardware for superconductivity research. This umbrella project is designed for
+three undergraduate research assistants with complementary interests in
+physics, materials, mechanical design, scientific computing, and experimental
+engineering. Each student will receive a clearly defined sub project after an
+initial skills-and-interests interview while participating in a shared research
+team.
+Track 1 - REBCO magneto-optical diagnostics: The student will help study REBCO
+coated-conductor tapes using magneto-optical imaging. Possible work includes
+literature review, safe sample preparation and precision cutting under
+supervision, indicator-film handling and application, optical alignment, image
+calibration, controlled data collection, image processing, and comparison of
+flux-penetration features among samples or preparation methods.
+Track 2 - Cryostat and cryogenic-component development: The student will
+support engineering research on LBC cryostat tails and direct-flow
+liquid-helium cryostats. Possible work includes requirements definition, CAD
+models and drawings, tolerance analysis, materials and joint research,
+dimensional inspection, assembly documentation, vacuum or leak-test planning,
+thermal and mechanical calculations, and analysis of controlled prototype
+tests.
+Track 3 - Programming and responsible AI-assisted research: The student will
+develop or improve tools for image analysis, instrument communication, data
+organization, experiment planning, or engineering documentation. Work may use
+Python, MATLAB, LabVIEW, or approved AI tools. AI-generated output
+will be treated as a draft and checked against primary sources, calculations,
+experiments, and laboratory requirements. Proprietary, unpublished,
+export-controlled, or personally sensitive information will not be entered
+into unapproved systems.
+All tracks emphasize a testable question, traceable documentation,
+uncertainty-aware analysis, and communication of results. Students will not
+independently handle cryogens, energized magnets, machine tools,
+vacuum/pressure systems, or other hazards. Hands-on work occurs only after
+required training and under appropriate supervision. Expected outputs may
+include a characterized data set, a validated experimental procedure, a design
+package, a prototype/test report, documented analysis code, and a UROP poster.
+Research Tasks: The research assistant will: (1) complete required laboratory and task-specific
+safety training; (2) review scientific and engineering literature and maintain
+an annotated source list; (3) define a focused question and measurable
+deliverables with the mentor; (4) perform supervised sample preparation,
+imaging, dimensional inspection, CAD, calculations, programming, or controlled
+testing appropriate to the assigned track; (5) record procedures, settings,
+data, uncertainties, failures, and revisions in a shared research log; (6)
+process and visualize data using documented methods; (7) present brief progress
+updates and incorporate feedback; and (8) prepare an abstract and spring UROP
+poster. Students may also help create calibration, inspection, or maintenance
+records when those records directly support instrument characterization,
+reliability testing, or experimental reproducibility.
+Skills that research assistant(s) may need: Reliability; careful attention to safety and instructions; desperate willingness to
+learn. basic quantitative reasoning; accurate recordkeeping; respectful
+communication; and ability to commit approximately 6-8 hours per week across
+the fall and spring semesters. Students must be able to perform scheduled
+in-person work at ASC. No prior cryogenic or superconductivity research
+experience is required.
+Introductory mechanics, electricity and magnetism, materials science, or heat
+transfer; CAD and technical drawing; Python, MATLAB, LabVIEW,, or
+spreadsheet analysis; microscopy or image processing; electronics or data
+acquisition; fabrication and dimensional measurement; and clear technical
+writing. Applicants do not need all of these skills. The project is intended
+to form a team with complementary strengths.
+Mentoring Philosophy
+My mentoring approach combines clear expectations, strong safety practices,
+and increasing student independence. At the beginning, each assistant and I
+will define a focused subproject, required training, a communication plan, and
+three SMART goals. I will demonstrate unfamiliar procedures, explain why each
+step matters, and use short, supervised practice tasks before a student works
+more independently.
+Students will have a regular weekly team meeting and an individual meeting
+at least every week. They will maintain a concise research log and
+provide brief progress updates so that questions, failed approaches, and
+changes can be addressed early. I view unexpected results as part of research;
+the goal is to identify the cause, document what was learned, and make the next
+test more informative.
+I will tailor responsibilities to the student's preparation and interests
+while maintaining common standards for safety, data integrity, respectful
+collaboration, and reproducibility. Students will receive timely feedback on
+calculations, code, drawings, experiments, and scientific writing. Each student
+will own a defined contribution and will practice explaining it to both
+technical and general audiences. My goal is for students to finish the year
+with stronger research judgment, practical skills, confidence asking
+questions, and a concrete product they can discuss in future classes,
+internships, or graduate-school applications. 
+Additional Information
+This listing is intentionally broad because three assistants with
+complementary strengths are requested. Each selected student will be assigned a
+bounded subproject with an individual deliverable rather than being expected to
+cover every topic listed. Most work is in person during staffed business hours;
+literature review, coding, data analysis, and documentation may occasionally be
+completed remotely by prior arrangement. Scheduling will consider the
+student's classes. Access to laboratories or technical tasks is contingent on
+required training, supervision, and project readiness. 
+Link to Publications
+https://nationalmaglab.org/staff/?name=DmitrySemenov 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

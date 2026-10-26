@@ -1,0 +1,105 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Generative AI-Powered Virtual Reality Museum for Interactive STEM Learning
+Generative AI, Virtual Reality, Artificial Intelligence, 3D Modeling, Human-Computer Interaction, Unity, Unreal Engine, Extended Reality (XR) 
+Research Mentor: Dr. Migara Dr. Migara Amarasinghe, 
+Department, College, Affiliation: Department of Electrical and Computer Engineering, FAMU-FSU College of Engineering
+Contact Email: migaraa@eng.famu.fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: Dr. Bernadin Dr. Shonda Bernadin 
+Faculty Collaborators Email: bernadin@eng.famu.fsu.edu 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Computer Engineering, Electrical Engineering, Computer Science, Information Technology, or related STEM disciplines. Students from other majors with an interest in VR, AI, 3D modeling, Graphic Design or immersive learning are also encouraged to apply. 
+Project Location: FAMU-FSU College of Engineering 
+Research Assistant Transportation Required: Yes 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 10 hours, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+This project investigates the use of generative artificial intelligence (GenAI) and virtual reality (VR) to create interactive and immersive environments for STEM education. Building upon an existing VR AI Museum developed using Unity/Unreal Engine and Meta Quest, the research will explore new approaches for presenting AI concepts through interactive virtual exhibits, AI-generated content, and intelligent virtual experiences.
+Undergraduate researchers will contribute to the design, implementation, and evaluation of new museum experiences. Potential research directions include integrating generative AI into virtual exhibits, developing interactive AI-guided experiences, designing educational VR activities, and evaluating how users interact with and learn from AI-enhanced immersive environments.
+The project will provide students with hands-on experience at the intersection of artificial intelligence, virtual reality, human-computer interaction, and STEM education. Research outcomes may contribute to demonstrations, undergraduate research presentations, and future scholarly publications.
+Research Tasks: Conduct literature reviews on generative AI, virtual reality, human-computer interaction, and immersive STEM education.
+Develop and modify interactive VR environments and exhibits using Unity/Unreal Engine.
+Explore methods for integrating generative AI and intelligent virtual agents into the VR museum.
+Design interactive educational activities and AI-focused museum experiences.
+Develop or integrate 3D assets, user interfaces, and VR interactions.
+Conduct experiments and usability studies to evaluate user interaction, engagement, and learning.
+Collect, organize, and analyze experimental data.
+Document research findings and contribute to research posters, demonstrations, technical reports, and potential publications.
+Skills that research assistant(s) may need: Required:
+Interest in artificial intelligence, virtual reality, or immersive technologies.
+Willingness to learn new software and research methods.
+Ability to work independently and collaboratively.
+Recommended but not required:
+Programming experience in C#, C++, Python, or a similar language.
+Experience with Unity or another game engine.
+Familiarity with generative AI or machine learning.
+Experience with Blender, 3D modeling, or digital content creation.
+Experience with Meta Quest or other VR/XR platforms.
+Prior VR or AI research experience is not required. Students who are motivated to learn these technologies are encouraged to apply.
+Mentoring Philosophy
+My mentoring approach focuses on hands-on learning, independence, and continuous growth. I believe undergraduate researchers learn best when they understand the larger purpose of a project while also taking ownership of a clearly defined part of the research.
+I work with students to identify their interests and strengths and connect them with meaningful research tasks. Students will receive guidance and technical support while being encouraged to experiment, ask questions, propose their own ideas, and learn from challenges and unsuccessful attempts.
+I also emphasize regular communication and achievable milestones so that students can see their progress throughout the project. As students gain experience, I gradually encourage greater independence and responsibility. My goal is for each student to leave the project with stronger technical and research skills, experience communicating research results, and confidence in their ability to contribute to future research projects. 
+Additional Information
+Link to Publications
+https://drive.google.com/file/d/19XSFkt3ypj2eCBKvtQuDdkljqWhxCb9J/view?usp=sharing 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

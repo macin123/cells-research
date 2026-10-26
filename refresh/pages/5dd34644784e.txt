@@ -1,0 +1,68 @@
+RAI (Responsible AI) Lab @FSU - Homepage 
+Homepage 
+Publications 
+Teaching 
+Grants & Awards 
+RAI Lab 
+Open Projects 
+Recruiting 
+RAI (Responsible AI) Lab @FSU
+RAI Logo
+I lead the Responsible AI (RAI) Lab at Florida State University, Tallahassee, FL. This logo, where the "R" is placed in front of "AI", was conceptualized to emphasize that making AI responsible is even more important than developing AI technology itself. I am truly fortunate to work with such talented and enthusiastic PhD students and research interns listed below.
+RAI Activities
+RAI Lab has been hosting Student Seminar at Computer Science Department since 2024, providing the students in FSU a wonderful platform to meet peers who are interested in various research topics, mentors who are recruiting students (e.g., PhD students, interns, GTAs, and GRAs), and leadership personnel sharing wonderful achievements of the FSU Computer Science Department. We will provide free lunch at each of the seminars and invite speakers to share their state-of-the-art research progress and their personal journey experience. Come and join us for presentation, discussion, or just lunch! 
+Faculty
+Yushun Dong 
+PhD Students
+Lincan Li , CS, PhD Student, Spring 2025 -
+Achievements : FSU CS 2026 Graduate Leadership Award recipient (the only recipient of the year); Best Short Paper Award at ACM SIGSPATIAL 2025; Lead tutor at SIGKDD 2025; publications at IJCAI 2026, AACL 2025, etc.
+Bolin Shen , CS, PhD Student, Spring 2025 -
+Achievements : Publications at SIGKDD 2026, ICML 2026, AAAI 2026, SIGKDD 2025, ICML 2025, AACL 2025, etc.
+Xueqi Cheng , CS, PhD Student, Fall 2025 - 
+Achievements : FSU 2026 OLLI Scholarship recipient (one of the four); Publications at NeurIPS 2026, WSDM 2025 * 2, SIGKDD 2025 (oral), ICLR 2024, TKDE 2023, etc.
+Yangshuang Xu , Statistics, PhD Candidate (Visiting), Fall 2025 - 
+Achievements : To be updated.
+Ryan Leigh , CS, PhD Student, Fall 2025 - 
+Achievements : To be updated.
+Yuyang Dai , CS, PhD Student, Fall 2026 - 
+Achievements : Publications at ACL 2026, EMNLP 2026, ECIR 2026, etc.
+Wangshu Zhu , CS, PhD Student, Fall 2026 - 
+Achievements : To be updated.
+Shuze Liu , CS, PhD Student, Fall 2026 - 
+Achievements : Publications at EMNLP 2026, etc.
+Recruiting…
+Master and Undergrad Students
+Alumni Highlights
+Kaixiang Zhao 
+Achievement at RAI Lab : EMNLP 2026 publication (first author); SIGKDD 2025 publication (first author); SIGKDD 2025 tutorial (first author). 
+Last Known Position : PhD student at Brigham Young University
+Iris Hong 
+Achievement at RAI Lab : EMNLP 2026 publication (first author). 
+Last Known Position : Master student at Washington University in St. Louis.
+Ojas Nimase 
+Achievement at RAI Lab : EMNLP 2026 publication (first author); Second Prize Award in the BlueSky Track of ICDM 2025; ICDM Bluesky Track publication (first author).
+Last Known Position : Undergraduate student at the University of Southern California.
+Qiyuan Liu 
+Achievement at RAI Lab : VISxGenAI Workshop at IEEE VIS 2026 publication (first author).
+Last Known Position : Undergraduate student at the University of Florida.
+Zhengao Li 
+Achievement at RAI Lab : AAAI 2026 publication (first author); EMNLP 2026 publication. 
+Last Known Position : PhD student at University of Connecticut.
+Xiaopeng Yuan 
+Achievement at RAI Lab : AAAI 2026 publication. 
+Last Known Position : PhD student at University of Illinois Urbana-Champaign.
+Kien Le 
+Achievement at RAI Lab : AAAI 2026 publication. 
+Last Known Position : Undergraduate student at Florida State University.
+Zebin Wang 
+Achievement at RAI Lab : ICML 2025 publication (first author).
+Last Known Position : PhD student at Harvard University.
+Menghan Lin 
+Achievement at RAI Lab : ICML 2025 publication.
+Last Known Position : Data Scientist at Meta.
+Ken Anderson 
+Achievement at RAI Lab : ICML 2025 publication.
+Last Known Position : Undergraduate student at Florida State University.
+Zhan Cheng 
+Achievement at RAI Lab : SIGKDD 2025 publication (first author).
+Last Known Position : Undergraduate student at University of Wisconsin–Madison.

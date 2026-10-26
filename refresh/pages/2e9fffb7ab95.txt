@@ -1,0 +1,86 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Using AI to accelerate multiphase flow predictions
+Multiphase flows, artificial intelligence, deforming boundary problems 
+Research Mentor: Mark Sussman, 
+Department, College, Affiliation: Mathematics, Arts and Sciences
+Contact Email: msussman@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: open to all majors 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Fully Remote 
+Approximate Weekly Hours: 7.5, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Multiphase flows, and multiphase flow simulations have many applications: nuclear power (cooling), fuel tanks in rockets, atomization and spray in internal compbustion engines (e.g. rotating detonation engine), arc-dwelling phenomena in electric engines, phase change in heat management devices, gas hydrates for fuel, structure fatigue and breakdown in hypersonic vehicles, shock wave lithotripsy, flash boiling atomization, raceway pond for biodiesel production, gear lubrication breakdown (geared turbofan), hurricane and tornado dynamics, etc.
+At the same time, anything that can accelerate the simulation process is a good thing; this project addresses the use of Artificial Intelligence for achieving some kind of speed up.
+Research Tasks: The research tasks involve computer programming, mathematics (e.g. statistics, linear algebra, differential equations, calculus), and writing (e.g. the poster). I have no problem assuming that the student starts at level "zero" in any of these topics. In other words, the research tasks depend on the student background and all students are different.
+Skills that research assistant(s) may need: The research tasks involve computer progamming, mathematics, and writing. That being said, I have no prerequisites and the goal is to tailor the projects' activities as close to the students' individual objectives as possible. 
+Mentoring Philosophy
+"creating a safe environment in which mentees feel that it is acceptable to fail and learn from their mistakes"
+Personally, I consider it a victory when I learn what not to do, and I have taken many bad paths along the way. 
+Additional Information
+Link to Publications
+https://orcid.org/0000-0001-8238-4295 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

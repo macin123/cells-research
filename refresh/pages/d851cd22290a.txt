@@ -1,0 +1,107 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Annotated Dataset of System Models for Research Use
+SysML, Model Curation, Dataset, XMI 
+Research Mentor: Mr. Matthew Bosworth, 
+Department, College, Affiliation: Center for Advanced Power Systems, N/A
+Contact Email: matt@caps.fsu.edu 
+Research Assistant Supervisor (if different from mentor): Mr. Naqash Ali 
+Research Assistant Supervisor Email: na22j@fsu.edu 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Open to all majors 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: Yes 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5-10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+This project curates an annotated dataset of SysML system models for use in research and education. The student will collect, categorize, and document SysML models, ensuring that metadata and quality checks are in place. The objectives are to (1) assemble a diverse collection of system models, (2) annotate each model with metadata such as domain, size, and completeness, and (3) prepare the dataset for public or controlled release to support future MBSE research.
+Research Tasks: Learn the basics of SysML models and how they are organized.
+Search for system models in public repositories and other approved sources.
+Help select models from different application areas, such as aerospace, naval systems, and power systems.
+Record information about each model, including its application area, size, diagram types, and level of completeness.
+Review models for missing information, incomplete diagrams, and other quality issues.
+Check that descriptions and labels are applied consistently across the dataset.
+Organize model files, metadata, and supporting documentation.
+Help export models into standard formats such as XMI.
+Prepare instructions explaining the dataset and how it can be used.
+Contribute to a final report and the preparation of the dataset for release.
+Skills that research assistant(s) may need: Required
+Interest in systems modeling, engineering data, or software tools.
+Good organization and attention to detail.
+Basic experience with Excel, Google Sheets, or similar software.
+Ability to follow a consistent process and maintain accurate records.
+Ability to read technical information and write short, clear descriptions.
+Willingness to learn SysML and research data-management practices.
+Ability to communicate and work reliably with the research team.
+Recommended, but not required
+Coursework or interest in engineering, computer science, information technology, or data science.
+Familiarity with SysML, XML, XMI, GitHub, or other model and data formats.
+Experience organizing datasets or working with structured data.
+Basic programming or scripting experience.
+No previous experience with SysML is required; training and guidance will be provided.
+Mentoring Philosophy
+As a mentor, my goal is to create an environment where undergraduate researchers can confidently explore new ideas, develop technical skills, and contribute meaningfully to active research. I view mentorship as a collaborative process — students bring curiosity, fresh perspectives, and energy, while I provide guidance, resources, and structure to help them grow.
+I believe in balancing independence with support. Students will receive the background, tools, and initial training needed to get started, but will also be encouraged to take ownership of their work, make decisions, and learn through problem-solving. I emphasize clear communication, regular check-ins, and constructive feedback to ensure progress while maintaining flexibility for different learning styles.
+My projects often combine technical research with creative problem-solving, so I encourage students to ask questions, challenge assumptions, and connect their work to real-world applications. Above all, I want students to leave the experience with not only new skills but also greater confidence in their ability to learn, adapt, and contribute in any professional or academic setting.
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

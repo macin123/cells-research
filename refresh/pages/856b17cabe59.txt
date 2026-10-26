@@ -1,0 +1,107 @@
+FSU Plankton Ecology and Biogeochemistry Lab — People 
+FSU Plankton Ecology and Biogeochemistry Lab
+Research Topics 
+Projects 
+Publications 
+People 
+Teaching 
+Contact 
+Outreach 
+Professor
+Mike Stukel 
+Grad Students
+Jaehong Kim 
+Mahnaz Sonia Islam 
+Ali Appelgate 
+Tz-Chian Chen 
+Undergrads
+Maggie Johnson 
+Alumni
+Natalie Yingling 
+Christian Fender 
+Heather Forrer 
+Tom Kelly 
+Taylor Shropshire 
+Opeyemi Kehinde 
+John Irving 
+We have an active and growing lab and are always looking for more undergrads who are interested in the ocean, marine biota, and global biogeochemistry.
+People
+Dr. Mike Stukel
+Mike is an associate professor at FSU. His research spans the intersection of plankton ecology and marine biogeochemistry.
+He has a love for all the zooplankton of the oceans and a passion for understanding how these microscopic organisms influence
+everything from the global climate to the local fisheries yield. Appendicularians are his favorite plankton. Unless it's ctenophores.
+Or salps. Perhaps phaeodarians, krill, Lingulodinium polyedrum , hyperiid amphipods, Tomopteris, or pyrosomes. It might be copepods.
+But he doesn't like chaetognaths.
+Contact: mstukel@fsu.edu 
+Curriculum Vitae 
+Grad Students
+Tz-Chian Chen
+Tz-Chian is a first year Ph.D. student who brings a love of zooplankton to FSU. He joined our lab after completing a Masters
+at National Taiwan University with Chih-hao Hsieh where he published a manuscript investigating copepod-induced trophic cascades.
+Tz-Chian is working with the CCE LTER program where his first project is focused on the effects of marine heatwaves across multiple
+trophic levels. Contact: tc22@fsu.edu 
+Jaehong Kim
+Jaehong is conducting a numerical modeling study to investigate bottom-up ecosystem control related to the lobster
+fishery in Maine. His work is a component of a multi-disciplinary “Navigating the New Arctic” project that seeks
+to understand how melting glaciers and other effects of a warming Arctic will impact coastal human communities.
+Jaehong's work focuses on developing a model that links changing ocean circulation to nutrient supply, phytoplankton
+production, and the abundances of Calanus finmarchicus , an important North Atlantic copepod that is a key prey item
+of lobster larvae.
+Mahnaz Sonia Islam
+Mahnaz is working to understand the impacts of harmful algal blooms on fisheries of the West Florida Shelf. The
+dinoflagellate Karenia brevis is a harmful species that forms large prolonged blooms along Florida's Gulf Coast and
+produces a neurotoxin called brevetoxin. Karenia blooms can cause shellfish fisheries to be closed and, when in high
+concentrations, can even make beaches unsafe places for people to breathe. Mahnaz's work focuses on developing
+numerical simulations to predict the evolution of Karenia blooms.
+Ali Appelgate
+Ali is working with the California Current Ecosystem Long-Term Ecological Research program to understand the
+processes driving long-term change and ecological transitions off of the California coast. Ali's current research
+focuses on time-series analysis undertaken to understand the coherence in spatially resolved long-term time series
+of ocean physics, chemistry, phytoplankton, zooplankton, and fish. Ali seeks to understand the intersecting roles of
+top-down and bottom-up ecosystem processes and how these may vary in time and space.
+Undergrads
+Maggie Johnson
+Maggie is an undergraduate working in our lab. She has been working closely with Natalie Yingling and her research has focused
+on understanding phytoplankton dynamics in the Indian Ocean through epifluorescence microscopy.
+Alumni
+Natalie Yingling
+Natalie completed her Ph.D. in 2024. Natalie studies the intersection of phytoplankton and zooplankton ecology. Her research includes
+investigating phytoplankton distributions in a salp bloom, determining phytoplankton nutrient utilization in the Gulf of Mexico, and
+investigating mixotrophy in the open ocean. As a member of our lab, Natalie has already been to two parts of the Southern Ocean, as well as
+the California Current Ecosystem and the Indian Ocean. Contact: nyingling@fsu.edu 
+Christian Fender
+Christian completed a Ph.D. in our lab in 2025. His research was focused on gelatinous zooplankton. He's pretty crazy about them. His research project is focused on
+salps of the Chatham Rise. He is using scanning electron microscopy and other approaches in an attempt to define the niche space of different salp species.
+He is also interested in pyrosomes and other pelagic tunicates. Christian is now teaching faculty at FSU. Contact: ckfender@fsu.edu 
+Heather Forrer
+Heather completed a Ph.D. in 2024 as a member of both our lab and the Robert Spencer organic biogeochemistry lab.
+Heather's research cuts across disciplines as she investigates the intersections of the nitrogen and carbon cycles. She uses advanced FT-ICR-MS techniques
+for ultra-high resolution characterization of the organic matter contained in sinking particles. Contact: 
+hforrer@fsu.edu 
+Tom Kelly
+Tom completed his Ph.D. in the FSU Plankton Ecology and Biogeochemistry Lab in the fall of 2020. His research focuses on marine biogeochemistry and the
+application of such diverse tools as radioactive isotopes and inverse models to understanding the biological pump. Tom became one of the go-to members of our
+department for everything from computer programming to instrument engineering and biogeochemical modeling. He also logged several months at sea.
+Tom is now a researcher at the University of Alaska Fairbanks. Contact: tbkelly@alaska.edu 
+Taylor Shropshire
+Taylor completed his Ph.D. in the FSU Plankton Ecology and Biogeochemistry Lab in summer of 2020. Taylor developed a three-dimensional model of ocean
+circulation and lower trophic level dynamics to model zooplankton in the Gulf of Mexico. He then developed an individual-based Lagrangian model of larval tuna
+and coupled it to his zooplankton model to simulate feeding, growth, starvation, predation, and survival rates of larval tuna in the oligotrophic regions in which
+they are spawned. He is using his model to address the impact of climate change on these organisms. Taylor is now a researcher at NC State University.
+Contact: tashrops@ncsu.edu 
+Opeyemi Kehinde
+Opeyemi completed a masters degree in Oceanography related to the interactions between marine biogeochemistry and surface currents and winds.
+His research addressed the impact of meso- and submesoscale features in the ocean on the carbon and nitrogen cycles in the Indian Ocean spawning ground of
+Southern Bluefin tuna. His thesis was published in the Journal of Geophysical Research: Oceans .
+Contact: opeyemi.kehinde891@gmail.com 
+John Irving
+John was a member of the modeling wing of our lab and split his time between the EOAS dept. and the Center for Ocean-Atmospheric Prediction Studies (COAPS).
+John's focus was on incorporating predation- and starvation-induced mortality into Lagrangian individual-based models of larval snapper in the Gulf of Mexico and
+Lagrangian modeling to estimate carbon sequestration temporal horizons in the Pacific Ocean. He defended his masters in 2022.
+Contact: jpi18@my.fsu.edu 
+This portion of our website is specifically designed to showcase our research for other oceanographers. If you would like a broader overview of our work that
+was designed to be more accessible to the general public, please click on the “Outreach” link above.
+Contact: Mike Stukel ( mstukel@fsu.edu )
+Florida State University
+Dept. of Earth, Ocean, and Atmospheric Science
+Center for Ocean-Atmospheric Prediction Studies

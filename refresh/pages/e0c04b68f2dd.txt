@@ -1,0 +1,163 @@
+FSU Biology - Faculty Page - Dr. Jonathan H. Dennis 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. Jonathan H. Dennis
+Office: 2023 King Life Sciences
+Office: (850) 645-9274
+Area: Cell and Molecular Biology 
+Lab: 2018 King Life Sciences
+Lab: (850) 645-9280
+Fax: (850) 645-8447
+Mail code: 4295
+E-mail: dennis@bio.fsu.edu 
+Professor
+Ph.D., University College London, 2001; Postdoctoral, Massachusetts General Hospital
+Graduate Faculty Status
+Research in a minute video 
+Cold Spring Harbor Laboratory Talk 
+Research and Professional Interests:
+How can more than two meters of human genomic DNA be packed as chromatin into a five micrometer nucleus whose protein concentration approaches that of a protein crystal? I devoted my post-doctoral work to the development of techniques to describe the accessibility and organization of chromatin in the human nucleus, and I have used these technologies to study the biology of chromatin involved in the innate immune response. The long-term goal of my research is to apply and develop state-of-the-art techniques to large-scale detailed analysis of chromatin structure, thereby revealing the relationship between the regulation of chromatin architecture and cellular processes and clarifying the role of chromatin structure in the origin and mechanisms of disease.
+A prevailing view of chromatin structure predicts that nucleosome distribution plays a role in gene regulation, and that nucleosome distribution will exhibit marked differences in disparate cell types with different gene expression programs. However, multiple studies have observed that nucleosome occupancy profiles are largely similar among disparate cell types with different gene expression programs, raising questions about the role of in-vivo nucleosome distribution on genome regulation. We have mapped nucleosome distribution at high temporal resolution during multiple genomic responses and have demonstrated that nucleosome repositioning is widespread, transient, genetically-encoded, and may potentiate regulatory factor binding. Additionally, we have shown that although basal nucleosome positions are highly similar between disparate cell types, the sensitivity of many nucleosomes to nuclease digestion varies greatly. These discoveries have allowed us to propose a hierarchical model for gene regulation that reconciles decades of chromatin research.
+Selected Publications:
+PEER-REVIEWED JOURNAL ARTICLES
+Behrouz Sharif S, Dennis JH (2026). WSTF deficiency reprograms regulatory networks by linking locus-specific chromatin remodeling to altered isoform expression and misdirected signaling . Nucleic Acids Research 54(11): gkag602. https://doi.org/10.1093/nar/gkag602 PMID: 42258541. 
+Benoit JM, Buck BD, Khadem M, Bass HW, Dennis JH (2025). Transient alterations in nucleosome distribution and sensitivity to nuclease define the THP-1 monocyte-to-macrophage transition . Journal of Leukocyte Biology 117(10): qiaf062. PMID: 41032088.
+Benoit JM, Buck BD, Khadem M, Bass HW, Dennis JH (2025). Dynamic nucleosome redistribution and increases in nucleosome sensitivity underpin THP-1 macrophage response to LPS . Journal of Leukocyte Biology 117(10): qiaf067. PMID: 41032087.
+Benoit J, Sheikhbahaei MK, Dennis JH (2021). Chromatin dynamics: Nucleosome occupancy and sensitivity as determinants of gene expression and cell fate . Journal of Cancer Biology 2(2): 51-55. https://doi.org/10.46439/cancerbiology.2.024 PMID: 36066918. 
+Sridhara S, Goswami HN, Whyms C, Dennis JH, Li H (2021). Virus detection via programmable type III-A CRISPR-Cas systems . Nature Communications 12(1): 5653. https://doi.org/10.1038/s41467-021-25977-7 PMID: 34580296. 
+Cole L, Kurscheid S, Nekrasov M, Domaschenz R, Vera DL, Dennis JH, Tremethick DJ (2021). Multiple roles of H2A.Z in regulating promoter chromatin architecture in human cells . Nature Communications 12(1): 2524. https://doi.org/10.1038/s41467-021-22688-x PMID: 33953180. 
+Savadel SD, Hartwig T, Turpin ZM, Vera DL, Lung PY, Sui X, Blank M, Frommer WB, Dennis JH, Zhang J, Bass HW (2021). The native cistrome and sequence motif families of the maize ear . PLoS Genetics 17(8): e1009689. https://doi.org/10.1371/journal.pgen.1009689 PMID: 34383745. 
+Cole L, Dennis J (2020). MNase profiling of promoter chromatin in Salmonella typhimurium-stimulated GM12878 cells reveals dynamic and response-specific nucleosome architecture . G3: Genes, Genomes, Genetics 10(7): 2171-2178. https://doi.org/10.1534/g3.120.401266 PMID: 32404364. 
+Turpin ZM, Vera DL, Savadel SD, Lung PY, Wear EE, Mickelson-Young L, Thompson WF, Hanley-Bowdoin L, Dennis JH, Zhang J, Bass HW (2018). Chromatin structure profile data from DNS-seq: Differential nuclease sensitivity mapping of four reference tissues of B73 maize (Zea mays L) . Data in Brief 20: 358-363. https://doi.org/10.1016/j.dib.2018.08.015 PMID: 30175199. 
+Girimurugan SB, Liu Y, Lung PY, Vera DL, Dennis JH, Bass HW, Zhang J (2018). iSeg: An efficient algorithm for segmentation of genomic and epigenomic data . BMC Bioinformatics 19(1): 131. https://doi.org/10.1186/s12859-018-2140-3 PMID: 29642840. 
+Pulivarthy SR, Lion M, Kuzu G, Matthews AG, Borowsky ML, Morris J, Kingston RE, Dennis JH, Tolstorukov MY, Oettinger MA (2016). Regulated large-scale nucleosome density patterns and precise nucleosome positioning correlate with V(D)J recombination. Proceedings of the National Academy of Sciences USA 113(42): E6427-E6436. https://doi.org/10.1073/pnas.1605543113 PMID: 27698124. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC5081657/pdf/
+Dang X, Singh A, Spetman BD, Nolan KD, Isaacs JS, Dennis JH, Dalton S, Marshall AG, Young NL (2016). Label-free relative quantitation of isobaric and isomeric human histone H2A and H2B variants by Fourier transform ion cyclotron resonance top-down MS/MS. Journal of Proteome Research 15(9): 3196-3203. https://doi.org/10.1021/acs.jproteome.6b00414 PMID: 27431976. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC6261780/pdf/
+Cole LA, Dennis JH, Chase PB (2016). Commentary: Epigenetic regulation of phosphodiesterases 2A and 3A underlies compromised &beta;-adrenergic signaling in an iPSC model of dilated cardiomyopathy. Frontiers in Physiology 7: 418. https://doi.org/10.3389/fphys.2016.00418 PMID: 27721795. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC5033966/pdf/
+Druliner BR, Vera D, Johnson R, Ruan X, Apone LM, Dimalanta ET, Stewart FJ, Boardman L, Dennis JH (2016). Comprehensive nucleosome mapping of the human genome in cancer progression. Oncotarget 7(12): 13429-13445. https://doi.org/10.18632/oncotarget.6811 PMID: 26735342. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC4924652/pdf/
+Sexton BS, Druliner BR, Vera DL, Avey D, Zhu F, Dennis JH (2016). Hierarchical regulation of the genome: Global changes in nucleosome organization potentiate genome response. Oncotarget 7(6): 6460-6475. https://doi.org/10.18632/oncotarget.6841 PMID: 26771136. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC4872727/pdf/
+Brown AN, Vied C, Dennis JH, Bhide PG (2015). Nucleosome repositioning: A novel mechanism for nicotine- and cocaine-induced epigenetic changes. PLoS ONE 10(9): e0139103. https://doi.org/10.1371/journal.pone.0139103 PMID: 26414157. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC4586372/pdf/
+Lei I, West J, Yan Z, Gao X, Fang P, Dennis JH, Gnatovskiy L, Wang W, Kingston RE, Wang Z (2015). BAF250a protein regulates nucleosome occupancy and histone modifications in priming embryonic stem cell differentiation. Journal of Biological Chemistry 290(31): 19343-19352. https://doi.org/10.1074/jbc.M115.637389 PMID: 26070559. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC4521052/pdf/
+Fincher JA, Tyson GS, Dennis JH (2015). DNA-encoded chromatin structural intron boundary signals identify conserved genes with common function. International Journal of Genomics 2015: 167578. https://doi.org/10.1155/2015/167578 PMID: 25861617. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC4377520/pdf/
+Ren Y, Vera DL, Hughes KA, Dennis JH (2015). Stimulation of the Drosophila immune system alters genome-wide nucleosome occupancy. Genomics Data 3: 146-147. https://doi.org/10.1016/j.gdata.2015.01.001 PMID: 26484165. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC4535615/pdf/
+Pope BD, Ryba T, Dileep V, Yue F, Wu W, Denas O, Vera DL, Wang Y, Hansen RS, Canfield TK, Thurman RE, Cheng Y, G&uuml;lsoy G, Dennis JH, Snyder MP, Stamatoyannopoulos JA, Taylor J, Hardison RC, Kahveci T, Ren B, Gilbert DM (2014). Topologically associating domains are stable units of replication-timing regulation. Nature 515(7527): 402-405. https://doi.org/10.1038/nature13986 PMID: 25409831. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC4251741/pdf/
+Vera DL, Madzima TF, Labonne JD, Alam MP, Hoffman GG, Girimurugan SB, Zhang J, McGinnis KM, Dennis JH, Bass HW (2014). Differential nuclease sensitivity profiling of chromatin reveals biochemical footprints coupled to gene expression and functional DNA elements in maize. Plant Cell 26(10): 3883-3893. https://doi.org/10.1105/tpc.114.130609 PMID: 25361955. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC4247582/pdf/
+Sexton BS, Druliner BR, Avey D, Zhu F, Dennis JH (2014). Changes in nucleosome occupancy occur in a chromosome specific manner. Genomics Data 2: 114-116. https://doi.org/10.1016/j.gdata.2014.06.006 PMID: 25152865. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC4138544/pdf/
+Sexton BS, Avey D, Druliner BR, Fincher JA, Vera DL, Grau DJ, Borowsky ML, Gupta S, Girimurugan SB, Chicken E, Zhang J, Noble WS, Zhu F, Kingston RE, Dennis JH (2014). The spring-loaded genome: Nucleosome redistributions are widespread, transient, and DNA-directed. Genome Research 24(2): 251-259. https://doi.org/10.1101/gr.160150.113 PMID: 24310001. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC3912415/pdf/
+Druliner BR, Fincher JA, Sexton BS, Vera DL, Roche M, Lyle S, Dennis JH (2013). Chromatin patterns associated with lung adenocarcinoma progression. Cell Cycle 12(10): 1536-1543. https://doi.org/10.4161/cc.24664 PMID: 23598721. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC3680533/pdf/
+Fincher JA, Vera DL, Hughes DD, McGinnis KM, Dennis JH, Bass HW (2013). Genome-wide prediction of nucleosome occupancy in maize reveals plant chromatin structural features at genes and other elements at multiple scales. Plant Physiology 162(2): 1127-1141. https://doi.org/10.1104/pp.113.216432 PMID: 23572549. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC3668044/pdf/
+Takebayashi S, Dileep V, Ryba T, Dennis JH, Gilbert DM (2012). Chromatin-interaction compartment switch at developmentally regulated chromosomal domains reveals an unusual principle of chromatin folding. Proceedings of the National Academy of Sciences USA 109(31): 12574-12579. https://doi.org/10.1073/pnas.1207185109 PMID: 22807480. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC3411983/pdf/
+Lubelsky Y, Sasaki T, Kuipers MA, Lucas I, Le Beau MM, Carignon S, Debatisse M, Prinz JA, Dennis JH, Gilbert DM (2011). Pre-replication complex proteins assemble at regions of low nucleosome occupancy within the Chinese hamster dihydrofolate reductase initiation zone. Nucleic Acids Research 39(8): 3141-3155. https://doi.org/10.1093/nar/gkq1276 PMID: 21148149. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC3082903/pdf/
+Gupta S, Dennis J, Thurman RE, Kingston R, Stamatoyannopoulos JA, Noble WS (2008). Predicting human nucleosome occupancy from primary sequence. PLoS Computational Biology 4(8): e1000134. https://doi.org/10.1371/journal.pcbi.1000134 PMID: 18725940. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC2515632/pdf/
+Dennis JH, Fan HY, Reynolds SM, Yuan G, Meldrim JC, Richter DJ, Peterson DG, Rando OJ, Noble WS, Kingston RE (2007). Independent and complementary methods for large-scale structural analysis of mammalian chromatin. Genome Research 17(6): 928-939. https://doi.org/10.1101/gr.5636607 PMID: 17568008. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC1891351/pdf/
+Lee SA, Ndisang D, Patel C, Dennis JH, Faulkes DJ, D'Arrigo C, Samady L, Farooqui-Kabir S, Heads RJ, Latchman DS, Budhram-Mahadeo VS (2005). Expression of the Brn-3b transcription factor correlates with expression of HSP-27 in breast cancer biopsies and is required for maximal activation of the HSP-27 promoter. Cancer Research 65(8): 3072-3080. https://doi.org/10.1158/0008-5472.CAN-04-2865 PMID: 15833836.
+Samady L, Dennis JH, Budhram-Mahadeo V, Latchman DS (2004). Activation of CDK4 gene expression in human breast cancer cells by the Brn-3b POU family transcription factor. Cancer Biology & Therapy 3(3): 317-323. https://doi.org/10.4161/cbt.3.3.698
+The ENCODE Project Consortium (2004). The ENCODE (ENCyclopedia Of DNA Elements) Project. Science 306(5696): 636-640. https://doi.org/10.1126/science.1105136 PMID: 15499007.
+Dennis JH, Budhram-Mahadeo V, Latchman DS (2002). Functional interaction between Brn-3a and Src-1 co-activates Brn-3a-mediated transactivation. Biochemical and Biophysical Research Communications 294(2): 487-495. https://doi.org/10.1016/S0006-291X(02)00500-4 PMID: 12051737.
+Dennis JH, Budhram-Mahadeo V, Latchman DS (2001). The Brn-3b POU family transcription factor regulates the cellular growth, proliferation, and anchorage dependence of MCF7 human breast cancer cells. Oncogene 20(36): 4961-4971. https://doi.org/10.1038/sj.onc.1204491 PMID: 11526481.
+Cox JM, Hayward MM, Sanchez JF, Gegnas LD, van der Zee S, Dennis JH, Sigler PB, Schepartz A (1997). Bidirectional binding of the TATA box binding protein to the TATA box. Proceedings of the National Academy of Sciences USA 94(25): 13475-13480. https://doi.org/10.1073/pnas.94.25.13475 PMID: 9391050. PDF: https://pmc.ncbi.nlm.nih.gov/articles/PMC28330/pdf/
+BOOK CHAPTERS 
+Vera DL, Cole LA, Hoffman BA, Dennis JH (2015). Hierarchical regulation of genome response. In: Chadwick BP, ed. Epigenetics. Norwich, UK: Caister Academic Press, p. 21.
+Fincher JA, Dennis JH (2011). DNA sequence contribution to nucleosome distribution. In: Craig JM, Wong NC, eds. Epigenetics: A Reference Manual. Norwich, UK: Caister Academic Press. Abstract: https://www.caister.com/hsp/abstracts/epigenetics/07.html
+Spetman B, Lueking S, Roberts B, Dennis JH (2011). Microarray mapping of nucleosome position. In: Craig JM, Wong NC, eds. Epigenetics: A Reference Manual. Norwich, UK: Caister Academic Press. Abstract: https://www.caister.com/hsp/abstracts/epigenetics/19.html
+EDITORIAL CONTRIBUTIONS 
+Dennis JH (2022). Minimally invasive characterization of hormone-responsive cancer. Editor's summary, in In Science Journals. Science 377(6609): 936-937. https://doi.org/10.1126/science.ade5295 PMID: 36007023.
+Graduate Students:
+Boglaev, Annastassia 
+Bongiovi, Isabella 
+Calderon, Cristian 
+Cherniak, Sophia 
+Collver, Makayla 
+Day, Tarina 
+Giaccone, Alyssa 
+Holcomb, Jared 
+Khadem, Mahdi 
+Torres, Hannah 
+Whalen, Niall 
+Williams, Brittney 
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

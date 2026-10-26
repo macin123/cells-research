@@ -1,0 +1,108 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Generative AI for Student Learning
+Generative AI; Student Learning; Artificial Intelligence; Engineering Education; AI Assistants 
+Research Mentor: Dr., Prof. Ravikumar Gelli, He, His, Him
+Department, College, Affiliation: Florida State University, FAMU-FSU College of Engineering
+Contact Email: rgelli@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 5 
+Relevant Majors: Electrical Engineering, Computer Engineering, Computer Science, Engineering, Education, Data Science, Information Technology, or related disciplines. Students from other majors interested in AI and student learning are encouraged to apply. 
+Project Location: 2000 Levy Ave, Tallahassee, FL 32310. Center for Advanced Power Systems (CAPS) 
+Research Assistant Transportation Required: FSU Seminole Express provides service between the FSU main campus and the FAMU-FSU College of Engineering. 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5 to 8 hours per week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Tuesday, September 1
+Start Time: 1:00
+End Time: 2:00
+Zoom Link: https://fsu.zoom.us/j/6540925978
+Project Description
+Generative AI tools are increasingly being used by students to explain concepts, answer questions, generate examples, prepare for exams, and support independent learning. However, simply providing students with access to an AI chatbot does not necessarily result in effective learning. AI-generated responses may be inaccurate, provide answers without supporting understanding, or fail to align with the material and learning objectives of a specific course.
+This project will explore how Generative AI can be designed and used to better support student learning. Undergraduate researchers will develop and evaluate AI-based learning assistants using tools such as Gemini, Gemini Gems, Gemini Notebook, and other available Generative AI platforms. These learning assistants may be grounded in instructor-provided engineering course materials and designed to provide explanations, guided hints, practice questions, feedback, and other forms of learning support.
+Students will investigate how different instructions, prompts, course materials, and AI configurations affect the quality, accuracy, and educational usefulness of generated responses. The project will emphasize systematic evaluation of AI-generated learning support rather than simply using AI tools.
+The project provides an accessible introduction to research at the intersection of Generative AI and education. Prior experience with Generative AI, engineering education research, or advanced programming is not required.
+Research Tasks: 1) Review introductory literature on Generative AI and its applications in student learning and engineering education.
+2) Explore current Generative AI learning tools such as Gemini, Gemini Gems, and Gemini Notebook.
+3) Select representative engineering course topics and organize instructor-provided learning materials for use with AI systems.
+4) Develop AI learning assistants for selected engineering topics using customized instructions, prompts, and course materials.
+5) Design representative learning tasks such as concept questions, guided problem solving, explanations, practice questions, and feedback activities.
+6) Develop evaluation criteria for correctness, relevance, clarity, grounding in course materials, educational usefulness, and hallucination.
+7) Systematically test AI-generated responses across different learning tasks and configurations.
+8) Investigate common AI failure modes, including incorrect explanations, unsupported answers, excessive answer generation, and responses that may not promote student reasoning.
+9) Develop recommendations for designing Generative AI tools that support rather than replace active student learning.
+10) Document results and prepare a research poster for the Undergraduate Research Symposium.
+Skills that research assistant(s) may need: Required:
+-- Interest in Generative AI, education, or engineering
+-- Curiosity about how students learn
+-- Willingness to explore and systematically evaluate AI tools
+-- Ability to communicate observations and research progress
+-- Willingness to learn new computational tools
+Recommended but not required:
+-- Familiarity with Generative AI tools such as Gemini or ChatGPT
+-- Basic programming experience
+Mentoring Philosophy
+My mentoring approach emphasizes learning through progressively structured research experiences. Students will initially receive clear guidance, background resources, example learning materials, and manageable research tasks to develop the necessary foundations. As their skills and confidence grow, they will be encouraged to take increasing ownership of the design, evaluation, and improvement of Generative AI learning approaches. Regular meetings will be used to discuss progress, troubleshoot challenges, interpret results, and identify next steps. Students will be encouraged to question AI-generated results, experiment with alternative approaches, and understand that unexpected results are an important part of research. The goal is to help students develop technical skills, critical thinking, research communication, independence, and confidence in conducting interdisciplinary research. 
+Additional Information
+Students who are curious about Generative AI, engineering, education, or how technology can improve learning are encouraged to apply. 
+Link to Publications
+My research website https://gridai.fsu.edu/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

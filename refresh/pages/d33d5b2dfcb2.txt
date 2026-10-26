@@ -1,0 +1,90 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Quantum-Classical Neural Networks Using Parameterized Quantum Circuits
+Quantum computing; quantum machine learning; artificial intelligence; neural networks; parameterized quantum circuits 
+Research Mentor: Dr. Tuy Nguyen, 
+Department, College, Affiliation: Department of Electrical and Computer Engineering, FAMU-FSU College of Engineering
+Contact Email: tuy.nguyen@fsu.edu 
+Research Assistant Supervisor (if different from mentor): PhD Student Quoc Bao Phan 
+Research Assistant Supervisor Email: qp25c@fsu.edu 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 3 
+Relevant Majors: Computer Engineering, Electrical Engineering, Computer Science, Data Science, Physics, or a related major. 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: FSU bus service is available. 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 10 hours per week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Thursday, September 3
+Start Time: 2:00
+End Time: 3:00
+Zoom Link: https://fsu.zoom.us/j/97166674254
+Project Description
+This project explores the integration of parameterized quantum circuits into artificial intelligence models. Students will develop hybrid quantum-classical neural networks in which classical data are encoded into quantum states, processed through trainable quantum circuits, and integrated with classical neural-network layers. The project will investigate how quantum data encoding, circuit architecture, circuit depth, and trainable parameters influence learning performance. Hybrid models will be compared with conventional neural-network baselines using metrics such as accuracy, convergence, model complexity, and robustness to simulated quantum noise. Experiments will initially be conducted using quantum simulators and may be extended to available quantum hardware when appropriate.
+Research Tasks: Literature review on quantum machine learning and parameterized quantum circuits; implementation of classical neural-network baselines; development of hybrid quantum-classical models; testing of quantum data-encoding methods and circuit architectures; experimental evaluation and data analysis; preparation of figures, tables, and the UROP poster presentation.
+Skills that research assistant(s) may need: Interest in AI and/or quantum computing, a willingness to learn, and consistent participation are expected. Basic Python programming skills, an introductory understanding of linear algebra, and familiarity with machine learning are recommended. Experience with PyTorch, TensorFlow, Qiskit, or PennyLane is helpful but not required.
+Mentoring Philosophy
+My mentoring approach emphasizes clear goals, regular communication, and the gradual development of student independence. At the beginning of the project, I work with each student to understand their background, identify areas for growth, and establish realistic milestones. Students receive initial guidance on the technical foundations, research methods, and project workflow before gradually taking greater responsibility for implementation, experimentation, and analysis.
+Regular meetings provide opportunities to review progress, address challenges, and establish clear next steps. I encourage students to ask questions, document their work systematically, and view unsuccessful experiments as valuable opportunities for learning and discovery. As students gain experience, they are encouraged to develop and pursue their own ideas, justify technical decisions, and critically evaluate their results. The mentoring process also emphasizes effective communication, with students gaining experience presenting their work and preparing clear technical documentation and written reports. 
+Additional Information
+The research will primarily be conducted at the Center for Advanced Power Systems (CAPS), located at 2000 Levy Avenue, Tallahassee, FL 32310.
+Prior knowledge of quantum computing is not required. Introductory reading materials and coding exercises will be provided to help students build the necessary foundation before beginning the main experiments. 
+Link to Publications
+https://www.iiilab.org/publications 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

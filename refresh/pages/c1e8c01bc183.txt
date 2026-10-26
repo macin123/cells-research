@@ -1,0 +1,183 @@
+FSU Biology - Faculty Page - Dr. Hengli Tang 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. Hengli Tang
+Office: 3063 King Life Sciences
+Office: (850) 645-2402
+Area: Cell and Molecular Biology 
+Lab: King Life Sciences
+Lab: (850) 645-2403
+Fax: (850) 645-8447
+Mail code: 4295
+E-mail: tang@bio.fsu.edu 
+Professor
+Ph.D., University of California, San Diego, 1998
+Graduate Faculty Status
+Research and Professional Interests:
+The general area of research interest in my lab is virus-host cell interactions concerning RNA viruses such as dengue (DENV) and Zika viruses (ZIKV). We are currently using pluripotent stem cells and targeted differentiation in vitro to study viral susceptibility of cells from distinct lineages.
+1. Stem cell differentiation and positive-strand RNA viruses
+Pluripotent stem cells can be differentiated into all cell lineages in vitro, providing distinct cell types with identifical genetic background for studies of virus susceptiblity. In addition, the tightly controlled nature of the in vitro differentiation steps is also well-suited for identifying the transition to virus permissiveness during differentiation. We are currently investigating the molecular mechanisms of neuroinvasion by RNA viruses using iPSC-derived brain microvascular endothelial cells. 
+2. Perturbation of cell cycle in neural stem cells by Zika virus. 
+Zika virus infection arrest the cell cycle of neural progenitors at early G1 without activating ATR response. We are investigating the mechansim by which Zika virus achieve this phenotype which relates to the pathogenesis of the virus. 
+Selected Publications:
+Biological activity-based modeling identifies antiviral leads against SARS-CoV-2. 
+Huang R, Xu M, Zhu H, Chen CZ, Zhu W, Lee EM, He S, Zhang L, Zhao J, Shamim K, Bougie D, Huang W, Xia M, Hall MD, Lo D, Simeonov A, Austin CP, Qiu X , Tang H, Zheng W. Nat Biotechnol. 2021 Jun;39(6):747-753. doi: 10.1038/s41587-021-00839-1. Epub 2021 Feb 23. 
+Application of niclosamide and analogs as small molecule inhibitors of Zika virus and SARS-CoV-2 infection. 
+Shamim K, Xu M, Hu X, Lee EM, Lu X, Huang R, Shah P, Xu X, Chen CZ, Shen M, Guo H, Chen L, Itkin Z, Eastman RT, Shinn P, Klumpp-Thomas C, Michael S, Simeonov A, Lo DC, Ming GL, Song H, Tang H , Zheng W, Huang W. Bioorg Med Chem Lett. 2021 May 15;40:127906. doi: 10.1016/j.bmcl.2021.127906. Epub 2021 Mar 6. 
+An Integrated Systems Biology Approach Identifies the Proteasome as A Critical Host Machinery for ZIKV and DENV Replication. 
+Song G, Lee EM, Pan J, Xu M, Rho HS, Cheng Y, Whitt N, Yang S, Kouznetsova J, Klumpp-Thomas C, Michael SG, Moore C, Yoon KJ, Christian KM, Simeonov A, Huang W, Xia M, Huang R, Lal-Nag M, Tang H , Zheng W, Qian J, Song H, Ming GL, Zhu H. Genomics Proteomics Bioinformatics. 2021 Feb 19:S1672-0229(21)00025-5. doi: 
+Zika Virus-Induced Neuronal Apoptosis via Increased Mitochondrial Fragmentation. 
+Yang S, Gorshkov K, Lee EM, Xu M, Cheng YS, Sun N, Soheilian F, de Val N, Ming G, Song H, Tang H , Zheng W. Front Microbiol. 2020 Dec 23;11:598203. doi: 10.3389/fmicb.2020.598203. eCollection 2020 
+Zika Says No Dice to Dicer. 
+Tang H. Cell Stem Cell. 2020 Oct 1;27(4):503-504. doi: 10.1016/j.stem.2020.09.005. 
+Castanospermine reduces Zika virus infection-associated seizure by inhibiting both the viral load and inflammation in mouse models. 
+Tharappel AM, Cheng Y, Holmes EH, Ostrander GK, Tang H. Antiviral Res. 2020 Nov;183:104935. doi: 10.1016/j.antiviral.2020.104935. Epub 2020 Sep 16 
+Inhibition of zika virus infection by fused tricyclic derivatives of 1,2,4,5-tetrahydroimidazo[1,5-a]quinolin-3(3aH)-one. 
+Xu B, Lee EM, Medina A, Sun X, Wang D, Tang H , Zhou GC. Bioorg Chem. 2020 Nov;104:104205. doi: 10.1016/j.bioorg.2020.104205. Epub 2020 Sep 1 
+Design, synthesis and discovery of andrographolide derivatives against Zika virus infection. 
+Li F, Lee EM, Sun X, Wang D, Tang H , Zhou GC. Eur J Med Chem. 2020 Feb 1;187:111925. doi: 10.1016/j.ejmech.2019.111925. Epub 2019 Nov 30. 
+High-Throughput Zika Viral Titer Assay for Rapid Screening of Antiviral Drugs. 
+Lee EM, Titus SA, Xu M, Tang H , Zheng W. Assay Drug Dev Technol. 2019 Apr;17(3):128-139. doi: 10.1089/adt.2018.881. 
+Zika Virus Infection Induces DNA Damage Response in Human Neural Progenitors That Enhances Viral Replication. 
+Hammack C, Ogden SC, Madden JC Jr, Medina A, Xu C, Phillips E, Son Y, Cone A, Giovinazzi S, Didier RA, Gilbert DM, Song H, Ming G, Wen Z, Brinton MA, Gunjan A, Tang H. J Virol. 2019 Sep 30;93(20):e00638-19. doi: 10.1128/JVI.00638-19. Print 2019 Oct 15. 
+Lang J, Cheng Y, Rolfe A, Hammack C, Vera D, Kyle K, Wang J, Meissner TB, Ren Y, Cowan C, Tang H. An hPSC-Derived Tissue-Resident Macrophage Model Reveals Differential Responses of Macrophages to ZIKV and DENV Infection. Stem Cell Reports . 2018 Aug 14;11(2):348-362. doi: 10.1016/j.stemcr.2018.06.006. Epub 2018 Jul 5.
+Yang S, Xu M, Lee EM, Gorshkov K, Shiryaev SA, He S, Sun W, Cheng YS, Hu X, Tharappel AM, Lu B, Pinto A, Farhy C, Huang CT, Zhang Z, Zhu W, Wu Y, Zhou Y, Song G, Zhu H, Shamim K, Mart&iacute;nez-Romero C, Garc&iacute;a-Sastre A, Preston RA, Jayaweera DT, Huang R, Huang W, Xia M, Simeonov A, Ming G, Qiu X, Terskikh AV, Tang H, Song H, Zheng W. Emetine inhibits Zika and Ebola virus infections through two molecular mechanisms: inhibiting viral replication and decreasing viral entry. Cell Discov . 2018 Jun 5;4:31. doi: 10.1038/s41421-018-0034-1. eCollection 2018.
+Song G, Rho HS, Pan J, Ramos P, Yoon KJ, Medina FA, Lee EM, Eichinger D, Ming GL, Mu&ntilde;oz-Jordan JL, Tang H, Pino I, Song H, Qian J, Zhu H . Multiplexed Biomarker Panels Discriminate Zika and Dengue Virus Infection in Humans. Mol Cell Proteomics . 2018 Feb;17(2):349-356. doi: 10.1074/mcp.RA117.000310. Epub 2017 Nov 15. 
+Ming GL, Song H, Tang H. Racing to Uncover the Link between Zika Virus and Microcephaly. Cell Stem Cell . 2017 Jun 1;20(6):749-753. doi: 10.1016/j.stem.2017.05.010 
+Yoon, K., Song G., Qian X., Pan J., Xu D., Rho H., Kim N., Habela C., Zheng L., Jacob Fadi., Zhang F., Lee EM., Huang W., Ringeling FR., Vissers C., Li C., Yuan L., Kang K., Kim S., Yeo J., Cheng Y., Liu S., Wen Z., Qin C., Christian KM., Hengli T., Jin P., Xu Z., Qian J., Zhu H., Song H., Ming G. 2017 Jul 14.; Zika-Virus-Encoded NS2A Disrupts Mammalian Cortical Neurogenesis by Degrading Adherens Junction Proteins. Cell Stem Cell.
+Oh Y., Zhang F., Wang Y., Lee EM., Choi IY., Lim H., Mirakhori F., Li R., Huang L., Xu T., Wu H., Li C., Qin C., Wen Z., Wu Q., Tang H., Xu Z., Jin P., Song H., Ming G., Lee G. 2017 Jul 31.; Zika virus directly infects peripheral neurons and induces cell death. Nature Neuroscience. doi:10.1038/nn.4612 
+Ming, Guo-li, Tang, Hengli and Song, Hongjun 2016 Dec 1. Advances in Zika Virus Research: Stem Cell Models, Challenges, and Opportunities Cell Stem Cell 19:690-702
+Xu, M., Lee, EM.,Wen, Z., Cheng, Y., Huang, W., Qian, X., TCW, J., Kouznetsova, J., Ogden., SC., Hammack, C., Jacob, F., Nguyen, HN., Itkin, M., Hanna, C., Shinn, P., Allen, C., Michael, SG., Simeonov, A., Huang, W., Christian, KM., Goate, A., Brennand, KJ., Huang, R., Xia, M., Ming, G., Zheng, W., Song, H., Tang, H. 2016 Aug 22. Identification of small-molecule inhibitors of Zika virus infection and induced neural cell death via a drug repurposing screen. Nature Medicine. doi:10.1038/nm.4184
+Zhang, F., Hammack, C., Ogden, S. C., Cheng, Y., Lee, E. M., Wen, Z., Qian, X., Nguyen, H., Li ,Y., Yao, B., Xu, M., Xu, T., Chen, L., Wang, Z., Feng, H., Huang, W., Yoon, K., Shan, C., Huang, L., Qin, Z., Christian, K M., Shi, P., Xu, M., Xia, M., Zheng, W., Wu, H., Song, H., Tang, H., Ming, G., Jin, P. 2016 Aug 31. Molecular signatures associated with ZIKV exposure in human cortical neural progenitors. Nucleic Acids Research, doi:10.1093/nar/gkw765
+Lang, J., Vera, D., Cheng, Y., & Tang, H. 2016 Aug 16. Modeling dengue virus-hepatic cell interactions using human pluripotent stem cell-derived hepatocyte-like cells. Stem Cell Reports, doi: http://dx.doi.org/10.1016/j.stemcr.2016.07.012 
+Qian, X., Ha Nam Nguyen, Song, M. M., Hadiono, C., Ogden, S. C., Hammack, C., Yao, B., Hamersky, GR., Jacob, F., Zhong, C., Yoon, KJ., Jeang, W., Lin, L., Li, YJ., Thakor, J., Berg, DA., Zhang, C., Kang, E., Chickering, M., Nauen, D., Ho, CY., Wen, ZX., Christian, KM., Shi, PY., Maher, BJ., Wu, H., Jin, P., Tang, HL., Song, HJ., Ming, G. 2016 May 19. Brain-region-specific organoids using mini-bioreactors for modeling ZIKV exposure. Cell, 165(5), 1238-1254. doi:10.1016/j.cell.2016.04.032 
+Tang H, Hammack C, Ogden SC, Wen Z, Qian X, Li Y, Yao B, Shin J, Zhang F, Lee EM, Christian KM, Didier RA, Jin P, Song H, Ming GL. Zika Virus Infects Human Cortical Neural Progenitors and Attenuates Their Growth. Cell Stem Cell. 2016 Mar 3. pii: S1934-5909(16)00106-5. doi: 10.1016/j.stem.2016.02.016. [Epub ahead of print]
+Lee EM, Alsagheir A, Wu X, Hammack C, McLauchlan J, Watanabe N, Wakita T, Kneteman NM, Douglas DN, Tang H. Hepatitis C virus induced degradation of cell death-inducing DFFA-like effector B leads to hepatic lipid dysregulation. J Virol . 2016 Feb 10. pii: JVI.02891-15. [Epub ahead of print]
+Hookway TA, Butts JC, Lee E, Tang H, McDevitt TC. Aggregate formation and suspension culture of human pluripotent stem cells and differentiated progeny. Methods . 2015 Dec 2. pii: S1046-2023(15)30167-5. doi: 10.1016/j.ymeth.2015.11.027. [Epub ahead of print]
+Ogden SC, Tang H. The missing pieces of the HCV entry puzzle. Future Virol . 2015;10(4):415-428.
+Lee T, Di Paola D, Malina A, Mills JR, Kreps A, Grosse F, Tang H, Zannis-Hadjopoulos M, Larsson O, Pelletier J. Suppression of the DHX9 helicase induces premature senescence in human diploid fibroblasts in a p53-dependent manner. J Biol Chem . 2014 Aug 15;289(33):22798-814. doi: 10.1074/jbc.M114.568535. Epub 2014 Jul 2.
+Wu X, Lee EM, Hammack C, Robotham JM, Basu M, Lang J, Brinton MA, Tang H. Cell death-inducing DFFA-like effector b is required for hepatitis C virus entry into hepatocytes. J Virol. 2014 Aug;88(15):8433-44. doi: 10.1128/JVI.00081-14. Epub 2014 May 14
+Yu F, Peng Y, Wang Q, Shi Y, Si L, Wang H, Zheng Y, Lee E, Xiao S, Yu M, Li Y, Zhang C, Tang H, Wang C, Zhang L, Zhou D. Development of bivalent oleanane-type triterpenes as potent HCV entry inhibitors. Eur J Med Chem. 2014 Apr 22;77:258-68. doi: 10.1016/j.ejmech.2014.03.017. Epub 2014 Mar 7.
+Che P, Tang H, Li Q. The interaction between claudin-1 and dengue viral prM/M protein for its entry. Virology. 2013 Nov;446(1-2):303-13. doi: 10.1016/j.virol.2013.08.009. Epub 2013 Sep 7.
+Frausto SD, Lee E, Tang H. Cyclophilins as modulators of viral replication.Viruses. 2013 Jul 11;5(7):1684-701. doi: 10.3390/v5071684. Review.
+Jiang J, Wu X, Tang H, Luo G. Apolipoprotein E mediates attachment of clinical hepatitis C virus to hepatocytes by binding to cell surface heparan sulfate proteoglycan receptors. PLoS One. 2013 Jul 2;8(7):e67982. doi: 10.1371/journal.pone.0067982. Print 2013.
+Wu X, Robotham JM, Lee E, Dalton S, Kneteman NM, Gilbert DM, Tang H. Productive Hepatitis C Virus Infection of Stem Cell-Derived Hepatocytes Reveals a Critical Transition to Viral Permissiveness during Differentiation. PLoS Pathog. 2012 Apr;8(4):e1002617. Epub 2012 Apr 5. 
+Nag A, Robotham JM, Tang H. Suppression of Viral RNA Binding and the Assembly of Infectious Hepatitis C Virus Particles in vitro by Cyclophilin Inhibitors. J Virol. 2012 Sep 12. [Epub ahead of print] 
+Gris&eacute; H, Frausto S, Logan T, Tang H. A Conserved Tandem Cyclophilin-Binding Site in Hepatitis C Virus Nonstructural Protein 5A Regulates Alisporivir Susceptibility. J Virol. 2012 May;86(9):4811-22. Epub 2012 Feb 15. 
+Jiang J, Cun W, Wu X, Shi Q, Tang H, Luo G. Hepatitis C virus attachment mediated by apolipoprotein E binding to cell surface heparan sulfate. J Virol. 2012 Jul;86(13):7256-67. Epub 2012 Apr 24 
+Hebner CM, Han B, Brendza KM, Nash M, Sulfab M, Tian Y, Hung M, Fung W, Vivian RW, Trenkle J, Taylor J, Bjornson K, Bondy S, Liu X, Link J, Neyts J, Sakowicz R, Zhong W, Tang H, Schmitz U. The HCV non-nucleoside inhibitor Tegobuvir utilizes a novel mechanism of action to inhibit NS5B polymerase function. PLoS One. 2012;7(6):e39163. Epub 2012 Jun 13. 
+Yang F, Robotham JM, Grise H, Frausto S, Madan V, et al. (2010) A Major Determinant of Cyclophilin Dependence and Cyclosporine Susceptibility of Hepatitis C Virus Identified by a Genetic Approach. PLoS Pathog 6(9): e1001118. doi:10.1371
+Tang H. Cyclophilin Inhibitors as a Novel HCV Therapy. Viruses. 2010; 2(8):1621-1634.
+Tang H, Gris&eacute; H. Cellular and molecular biology of HCV infection and hepatitis. Clin Sci (Lond). 2009 Jun 15;117(2):49-65.
+Kenworthy R, Lambert D, Yang F, Wang N, Chen Z, Zhu H, Zhu F, Liu C, Li K, Tang H. Short-hairpin RNAs delivered by lentiviral vector transduction trigger RIG-I-mediated IFN activation. Nucleic Acids Res. 2009 Oct;37(19):6587-99. Epub 2009 Sep 3.
+Liu Z, Robida JM, Chinnaswamy S, Yi G, Robotham JM, Nelson HB, Irsigler A, Kao CC, Tang H. Mutations in the hepatitis C virus polymerase that increase RNA binding can confer resistance to cyclosporine A. Hepatology. 2009 Jul;50(1):25-33.
+Liu Z, Yang F, Robotham JM, Tang H. Critical role of cyclophilin A and its prolyl-peptidyl isomerase activity in the structure and function of the hepatitis C virus replication complex. J Virol. 2009 Jul;83(13):6554-65. Epub 2009 Apr 22.
+Robotham JM, Nelson HB, Tang H. Selection and characterization of drug-resistant HCV replicons in vitro with a flow cytometry-based assay. Methods Mol Biol. 2009;510:227-42.
+Qing M, Yang F, Zhang B, Zou G, Robida JM, Yuan Z, Tang H, Shi PY. Cyclosporine inhibits flavivirus replication through blocking the interaction between host cyclophilins and viral NS5 protein. Antimicrob Agents Chemother. 2009 Aug;53(8):3226-35. Epub 2009 May 18.
+Yang F, Robotham JM, Nelson HB, Irsigler A, Kenworthy R, Tang H. Cyclophilin A is an Essential Cofactor for Hepatitis C Virus Infection and the Principal Mediator of Cyclosporine A Resistance In Vitro. J Virol. 2008 Apr 2; [Epub ahead of print]
+Liu Z, Kenworthy R, Green C, Tang H. Molecular determinants of nucleolar translocation of RNA helicase A. Exp Cell Res. 2007 Oct 15;313(17):3743-54. Epub 2007 Aug 14.
+Robida JM, Nelson HB, Liu Z, Tang H. Characterization of Hepatitis C Virus Subgenomic Replicon Resistance to Cyclosporine A In Vitro. J Virol. 2007 Mar 21; [epub ahead of print]
+Nelson HB, Tang H. Effect of cell growth on hepatitis C virus (HCV) replication and a mechanism of cell confluence-based inhibition of HCV RNA and protein expression. J Virol. 2006 Feb;80(3):1181-90.
+Waninger S, Kuhen K, Hu X, Chatterton JE, Wong-Staal F, Tang H. Identification of cellular cofactors for human immunodeficiency virus replication via a ribozyme-based genomics approach. J Virol. 2004 78(23):12829-12837.
+Tang H, Peng T, Wong-Staal F. Novel technologies for studying virus-host interaction and discovering new drug targets for HCV and HIV. Curr Opin Pharmacol. 2002 2(5):541-7.
+Kuwabara T, Warashina M, Sano M, Tang H, Wong-Staal F, Munekata E, Taira K. Recognition of engineered tRNAs with an extended 3' end by Exportin-t (Xpo-t) and transport of tRNA-attached ribozymes to the cytoplasm in somatic cells. Biomacromolecules. 2001 2(4):1229-42.
+Yang JP, Tang H, Reddy TR, Wong-Staal F. Mapping the functional domains of HAP95, a protein that binds RNA helicase A and activates the constitutive transport element of type D retroviruses. J Biol Chem. 2001 276(33):30694-700.
+Reddy TR, Tang H, Xu W, Wong-Staal F. Sam68, RNA helicase A and Tap cooperate in the post-transcriptional regulation of human immunodeficiency virus and type D retroviral mRNA. Oncogene. 2000 19(32):3570-5.
+Tang H, Wong-Staal F. Specific interaction between RNA helicase A and Tap, two cellular proteins that bind to the constitutive transport element of type D retrovirus. J Biol Chem. 2000 275(42):32694-700.
+Westberg C, Yang JP, Tang H, Reddy TR, Wong-Staal F. A novel shuttle protein binds to RNA helicase A and activates the retroviral constitutive transport element. J Biol Chem. 2000 275(28):21396-401.
+Tang H, Kuhen KL, Wong-Staal F. Lentivirus replication and regulation. Annu Rev Genet. 1999;33:133-70.
+Reddy TR, Xu W, Mau JK, Goodwin CD, Suhasini M, Tang H, Frimpong K, Rose DW, Wong-Staal F. Inhibition of HIV replication by dominant negative mutants of Sam68, a functional homolog of HIV-1 Rev. Nat Med. 1999 5(6):635-42.
+Tang H, McDonald D, Middlesworth T, Hope TJ, Wong-Staal F. The carboxyl terminus of RNA helicase A contains a bidirectional nuclear transport domain. Mol Cell Biol. 1999 19(5):3540-50.
+Li J, Tang H, Mullen TM, Westberg C, Reddy TR, Rose DW, Wong-Staal F. A role for RNA helicase A in post-transcriptional regulation of HIV type 1. Proc Natl Acad Sci U S A. 1999 96(2):709-14.
+Reddy TR, Tang H, Li X, Wong-Staal F. Functional interaction of the HTLV-1 transactivator Tax with activating transcription factor-4 (ATF4). Oncogene. 1997 14(23):2785-92.
+Tang H, Gaietta GM, Fischer WH, Ellisman MH, Wong-Staal F. A cellular cofactor for the constitutive transport element of type D retrovirus. Science. 1997 276(5317):1412-5.
+Tang H, Xu Y, Wong-Staal F. Identification and purification of cellular proteins that specifically interact with the RNA constitutive transport elements from retrovirus D. Virology. 1997 Feb 17;228(2):333-9.
+Graduate Students:
+Duncan, Anna 
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

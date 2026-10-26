@@ -1,0 +1,92 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+A Rapid, High-throughput ATR-FTIR Screening of Skeletal Remains for Species Identification 
+FTIR spectroscopy, forensic science, species discrimination, chemometrics 
+Research Mentor: Dr Sayali Sangamnerkar, She/her
+Department, College, Affiliation: Anthropology, Arts and Sciences
+Contact Email: ss25d@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Chemistry, Anthropology, forensic science and/or anyone with interest in analytical techniques 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+The recovery and identification of fragmented skeletal remains from forensic, archaeological, disaster, and military MIA contexts often require extensive laboratory analyses to determine species origin and assess the potential for successful DNA recovery. Existing approaches rely heavily on morphological assessment and destructive molecular testing, which can be time-consuming, resource-intensive, and inconclusive when remains are highly fragmented or degraded. Published studies have demonstrated the potential of vibrational spectroscopy combined with machine learning methods for skeletal tissue characterization, suggesting an opportunity to develop rapid, non-destructive screening tools that can support forensic and recovery workflows. This project will develop and validate a non-destructive spectroscopic screening framework using ATR-FTIR and near-infrared (NIR) spectroscopy integrated with machine learning. Spectral data, combined with preprocessing and feature extraction, will support modeling (PCA, PLS-DA, Random Forest) to discriminate human vs. non-human bone 
+Research Tasks: Literature review, preparation of skeletal samples, data collection using FTIR spectrometer, and data analysis
+Skills that research assistant(s) may need: Following skills required or willingness to learn: 
+Basic lab safety and following protocols
+Sample handling, labelling, and record keeping
+Experience with scientific instrumentation 
+data entry, quality control procedures
+Microsoft office (word, excel, powerpoint)
+Basic statistical analysis
+Scientific research skills
+Attention to detail and being able to work independently with guidance
+Time management, problem-solving and critical thinking
+Mentoring Philosophy
+My mentoring philosophy is centered around fostering collaboration, growth, confidence and independence through useful research experience. Through this mentoring, I will provide, guidance, support and any opportunities while encouraging my mentees to take increasing ownership of the project, their learning, and critical thinking throughout the project and continue professional development. I think learning is most effective when it is active and hands-on, rather than simply focusing on completing tasks. I want to help students understand broader research questions and significance of their contribution, encourage independent and critical thinking while providing guidance appropriate to their level of experience. A key aspect of my mentoring approach is creating a culture of open communication, mutual respect, safe working environment and cultivate scientific rigor and ethical best practice. I encourage my students to learn from their mistakes, research setbacks and challenges and take initiative to be curious, learn and grow which ultimately will allow them to be better professional, researchers and scientists. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

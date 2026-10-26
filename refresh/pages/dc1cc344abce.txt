@@ -1,0 +1,105 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+AI-Driven Data Recovery and Reconstruction for Scientific Discovery
+Artificial Intelligence; Machine Learning; Model Inversion; Materials Discovery 
+Research Mentor: zp23e@fsu.edu ZHIXIN Pan, Dr. 
+Department, College, Affiliation: Electrical and Computer Engineering, FAMU-FSU College of Engineering
+Contact Email: zp23e@fsu.edu 
+Research Assistant Supervisor (if different from mentor): Amberbir Alemayoh Mr. 
+Research Assistant Supervisor Email: ama25d@fsu.edu 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Maybe one more
+Number of Research Assistants: 1 
+Relevant Majors: Computer Science, Electrical and Computer Engineering, Data Science, Materials Science, Chemical Engineering, Chemistry, or related STEM majors. Students with strong programming or machine learning interests from other majors are also welcome. 
+Project Location: CAPS 
+Research Assistant Transportation Required: No, the project is remote 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5-10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Modern artificial intelligence models can learn complex patterns from large datasets, but an intriguing question remains: how much information about the original training data is retained inside a trained model? This project will explore this question through model inversion and data reconstruction, a growing area of AI research that aims to recover or approximate information learned during model training.
+The student will investigate machine learning techniques for reconstructing data from trained prediction models. We will begin with controlled experiments in which models are trained on known datasets and part of the original training information is hidden. The student will then implement and evaluate model inversion methods to determine what information can be recovered from model outputs, internal representations, or other accessible model information.
+The project will examine factors that affect recovery performance, including model architecture, data representation, available model access, and reconstruction algorithms. Recovered samples will be evaluated for accuracy, similarity, diversity, and usefulness in downstream machine learning tasks.
+As a scientific application, the developed methods will be evaluated using datasets and prediction models for polymer and materials research. The long-term goal is to understand whether trained scientific AI models can serve as an additional source of recoverable data for AI-enabled scientific discovery.
+Research Tasks: The research assistant will:
+• Review introductory literature on model inversion, data reconstruction, and related machine learning techniques.
+• Learn to train and evaluate baseline machine learning models using Python and modern ML frameworks.
+• Reproduce selected model inversion or data reconstruction methods from existing research.
+• Design controlled experiments to study how much training information can be recovered from trained AI models.
+• Investigate how factors such as model architecture, data representation, and level of model access affect reconstruction performance.
+• Evaluate recovered data using reconstruction accuracy, similarity, diversity, and downstream machine learning performance.
+• Apply the developed methods to scientific datasets and prediction models, with polymer and materials data serving as an initial application domain.
+• Analyze results, prepare figures and tables, document findings, and contribute to a research poster.
+Skills that research assistant(s) may need: Required:
+• Basic programming experience and willingness to learn Python.
+• Interest in artificial intelligence, machine learning, or data science.
+• Ability to work independently, document experimental results, and communicate progress regularly.
+Recommended but not required:
+• Experience with Python, PyTorch, TensorFlow, or other machine learning tools.
+• Coursework in machine learning, data science, algorithms, statistics, or related areas.
+• Familiarity with neural networks, optimization, or scientific computing.
+Prior research experience and prior knowledge of the scientific application domain are not required. Training and guidance will be provided.
+Mentoring Philosophy
+My mentoring approach emphasizes learning through hands-on research, regular communication, and increasing student independence. At the beginning of the project, I will work with the student to define clear research goals and provide the technical background and resources needed to get started. The student will also receive day-to-day guidance from members of my research group.
+As the project progresses, I encourage students to take increasing ownership of experiments, analyze unexpected results, and propose their own solutions rather than simply following predefined instructions. Regular research meetings will be used to review progress, discuss challenges, and identify concrete next steps.
+I view unsuccessful experiments as a normal and valuable part of research. My goal is for the student to develop practical technical skills while also learning how to formulate research questions, evaluate evidence, communicate results, and work independently as a researcher.
+Additional Information
+Students do not need prior experience in polymer science or model inversion. Strong motivation to learn machine learning research and the ability to commit consistently throughout both Fall and Spring semesters are more important than prior research experience.
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

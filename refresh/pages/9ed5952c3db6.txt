@@ -1,0 +1,37 @@
+About — Optimal Robotics Lab 
+Optimal Robotics Lab
+Our Team
+Publications
+Teaching
+Join
+Our Team Publications Teaching Join 
+Optimal Robotics Lab
+What is the Optimal Robotics Laboratory?
+We are an academic research laboratory with the goal of making robots move better, think better, and be better at helping us in our lives. For robots that walk, fly, roll, and more, we create algorithms that seek the optimal (best-possible) behavior of robots for real-world tasks. We were founded in 2019 by Dr. Christian Hubicki as part of the Mechanical Engineering Department at the FAMU-FSU College of Engineering in Tallahassee, FL.
+Who works in the Optimal Robotics Lab?
+We are students from Florida A&M University, Florida State University, and high schools from the Tallahassee area who work under the mentorship of Dr. Christian Hubicki , a mechanical engineering professor at the college.
+Who can join the lab?
+We accept students from high school to graduate school - many of whom are learning robotics for the first time.
+We are constantly accepting college interns at the lab. We have mentored dozens of undergraduate students and select high school students from the Tallahassee area.
+We are always interested in motivated and talented graduate students to work on our funded projects. The number and availability of funded graduate student positions are limited.
+What skills do I need to know to join?
+The most important skill in the ORL is the ability and drive to solve problems. Most of our students will be coding, but several did not know how to code before joining the lab and learned during their internship. We program in a variety of computer languages ( e.g. Python, MATLAB, C++, Arduino) depending on the needs of a project. Students on robot design projects will need to know or learn CAD and fabrication methods. We’ve taught these skills to many motivated students during their internship training.
+How can I join?
+Email the lab director , Dr. Christian Hubicki (hubicki [AT] eng.famu.fsu.edu) with the subject line: Optimal Robotics Lab Interest - <your name> - <choose: Graduate research assistant, Undergraduate intern, High school intern, other)> 
+We will do our best to respond to your inquiry. If there is availability for the position and we believe it is a good fit, we will arrange an interview. Please describe why you are interested in joining the laboratory, include a resume, and examples of projects you’ve done that you’re proud of (not necessarily robotics or STEM-related). Remember, we have taken on several college and high school students without robotics experience and found fruitful projects to hone their skills.
+What academic topics are a focus of your research?
+Our team publishes state-of-the-art academic research in bipedal robotics, legged robotics, applied optimal control, motion planning, field robotics, unmanned aerial vehicles (UAVs), unmanned aerial vehicles (UGVs), and legged biomechanics.
+LABORATORY ADDRESS
+Room 109A 
+Aeropropulsion, Mechatronics and Energy (AME) Building
+2003 Levy Ave.
+Tallahassee, FL 32310
+DIRECTOR OFFICE HOURS
+Dr. Christian Hubicki, Room 217
+Aeropropulsion, Mechatronics and Energy (AME) Building
+2003 Levy Ave.
+Tallahassee, FL 32310
+Monday — Wednesday 
+3pm — 5pm
+Phone: (850) 645-0144
+Copyright 2019

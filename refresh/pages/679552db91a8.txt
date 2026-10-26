@@ -1,0 +1,90 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Development of High Magnetic Field Compatible Ultra-low Temperature Thermometers
+Low Temperature, Physics, Cryogenics, Programming 
+Research Mentor: Andrew Woods, 
+Department, College, Affiliation: Maglab, N/A
+Contact Email: awoods@magnet.fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Physics, Engineering, Computer Science 
+Project Location: Maglab, 1800 E Paul Dirac Dr, Tallahassee 
+Research Assistant Transportation Required: Tallahassee city buses service the lab. 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+With the increased focus on quantum computing, which often needs a combination of low temperature and high magnetic fields, there is increased need for robust thermometry in this challenging regime. I aim to develop fast thermometers based on quartz tuning forks that are compatible with temperatures down to 10 mK and fields in excess of 40 T. The technique has been validated experimentally, and therefore this project would focus on improving implementation, including designing and prototyping new enclosures and electrical circuits, designing and verifying measurement software, and working with partners in industry and academia to deploy prototypes and publish initial results.
+Research Tasks: Data Collection, Data Analysis, Hands on construction, CAD design and 3D printing, Software Development and testing, Scientific Writing, Collaboration with Industry.
+Skills that research assistant(s) may need: Python Programming Experience (Recommended)
+AI Prompt Development (Recommended)
+Hobby electronics experience (soldering etc.) (Recommended)
+Hobby 3D Design and Printing (Recommended)
+Not all are required by a single candidate.
+Mentoring Philosophy
+An undergraduate student who joins my group owns a real piece of the research that is a calibration, a sensor mount, a data analysis pipeline, something small enough to finish in two semesters, but with an answer nobody knows yet. I choose the specifics of the project only after asking what the student wants from the experience: graduate school, industry, medical school, or just to find out.
+Ownership creates accountability, and accountability is where durable skill forms: reproducible analysis and version control, a notebook someone else could follow, an uncertainty estimate before a number is trusted. I value this because it skills like that will be valuable throughout a career in virtually any field. Most of these students will not end up as cryogenic physicists; I would rather they leave with habits that serve them wherever they go.
+Early attempts rarely work, and I say so at the start. A week lost to a sign error teaches something I could not have taught, so I treat it as part of the work rather than a setback. My part is to answer questions with questions where that helps, with direct experience where it does not, and to be candid about my own false starts. 
+Additional Information
+Link to Publications
+Google Scholar Publication Library: https://scholar.google.com/citations?user=3Ni9uFYAAAAJ&hl=en 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

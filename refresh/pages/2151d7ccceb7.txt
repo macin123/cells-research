@@ -1,0 +1,310 @@
+Gunjan Lab | College of Medicine 
+Skip to main content 
+Florida State University 
+Navigation 
+Search FSU 
+Contacts 
+Search FSU
+Select Search Type 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Search Input Box 
+Submit Search 
+Close Search 
+Main navigation 
+About Us 
+About Us 
+Overview 
+Clinical Services 
+Support Offices 
+News & Publications 
+Finance & Administration 
+Office of Information Technology 
+Creative Services 
+Directory 
+Campuses 
+Campuses 
+Daytona Beach 
+Fort Pierce 
+Orlando 
+Pensacola 
+Sarasota 
+Tallahassee 
+Marianna Rural Program 
+Immokalee Health Education Site 
+Thomasville Program 
+Academics 
+Academics 
+Departments 
+Overview 
+Behavioral Sciences & Social Medicine 
+Biomedical Sciences 
+Clinical Sciences 
+Family Medicine & Rural Health 
+Geriatrics 
+Degree Programs 
+M.D. 
+Physician Assistant 
+Ph.D. 
+M.S. (Bridge Program) 
+B.S. 
+Divisions / Offices 
+Academic Affairs 
+Interdisciplinary Medical Sciences 
+Faculty Development 
+Graduate Medical Education 
+Medical Education 
+Student Affairs 
+Residency Programs 
+Residency Programs 
+ICR Postdoctoral Health Psychology Consortium 
+Centers & Institutes 
+Area Health Education Center 
+Autism Institute 
+Center for Behavioral Health Integration 
+Center for Child Stress & Health 
+Center on Global Health 
+Center for Medicine and Public Health 
+Center for Rural Health Research & Policy 
+Institute for Pediatric Rare Diseases 
+Education & Clinical Centers 
+The Chapman Humanities and Arts in Medicine Program 
+Healthy Liver 
+Admissions 
+Admissions 
+M.D. 
+Physician Assistant 
+Ph.D 
+B.S. 
+Honors Medical Scholars 
+Research 
+Research 
+Division of Research 
+Search by Research Expertise 
+Ph.D. Program 
+Medical Student Research 
+Sponsored Funding Assistance 
+Pre-Award Services 
+Post-Award Services 
+Translational Science Laboratory 
+MRI Facility 
+Centers & Institutes 
+Area Health Education Center 
+Autism Institute 
+Center for Behavioral Health Integration 
+Center for Child Stress & Health 
+Center on Global Health 
+Center for Medicine and Public Health 
+Center for Rural Health Research & Policy 
+Institute for Pediatric Rare Diseases 
+Quick Links for Medical Research 
+FSU Health Research Connections 
+Library 
+Giving 
+Global Navigation 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Close Menu 
+Main navigation 
+About Us 
+About Us 
+Overview 
+Clinical Services 
+Support Offices 
+News & Publications 
+Finance & Administration 
+Office of Information Technology 
+Creative Services 
+Directory 
+Campuses 
+Campuses 
+Daytona Beach 
+Fort Pierce 
+Orlando 
+Pensacola 
+Sarasota 
+Tallahassee 
+Marianna Rural Program 
+Immokalee Health Education Site 
+Thomasville Program 
+Academics 
+Academics 
+Departments 
+Overview 
+Behavioral Sciences & Social Medicine 
+Biomedical Sciences 
+Clinical Sciences 
+Family Medicine & Rural Health 
+Geriatrics 
+Degree Programs 
+M.D. 
+Physician Assistant 
+Ph.D. 
+M.S. (Bridge Program) 
+B.S. 
+Divisions / Offices 
+Academic Affairs 
+Interdisciplinary Medical Sciences 
+Faculty Development 
+Graduate Medical Education 
+Medical Education 
+Student Affairs 
+Residency Programs 
+Residency Programs 
+ICR Postdoctoral Health Psychology Consortium 
+Centers & Institutes 
+Area Health Education Center 
+Autism Institute 
+Center for Behavioral Health Integration 
+Center for Child Stress & Health 
+Center on Global Health 
+Center for Medicine and Public Health 
+Center for Rural Health Research & Policy 
+Institute for Pediatric Rare Diseases 
+Education & Clinical Centers 
+The Chapman Humanities and Arts in Medicine Program 
+Healthy Liver 
+Admissions 
+Admissions 
+M.D. 
+Physician Assistant 
+Ph.D 
+B.S. 
+Honors Medical Scholars 
+Research 
+Research 
+Division of Research 
+Search by Research Expertise 
+Ph.D. Program 
+Medical Student Research 
+Sponsored Funding Assistance 
+Pre-Award Services 
+Post-Award Services 
+Translational Science Laboratory 
+MRI Facility 
+Centers & Institutes 
+Area Health Education Center 
+Autism Institute 
+Center for Behavioral Health Integration 
+Center for Child Stress & Health 
+Center on Global Health 
+Center for Medicine and Public Health 
+Center for Rural Health Research & Policy 
+Institute for Pediatric Rare Diseases 
+Quick Links for Medical Research 
+FSU Health Research Connections 
+Library 
+Giving 
+Toggle navigation 
+Department of Biomedical Sciences Submenu
+Biomedical Sciences 
+About the Department 
+Department Directory Graduate Students 
+Postdoctoral Associates 
+Faculty 
+Staff 
+Faculty Courtesy Appts 
+Retired Faculty 
+Alumni Ph.D. Alumni 
+Faculty Research & Labs 
+Graduate Program 
+Facilities Cell Culture Facility 
+Flow Cytometry Laboratory 
+Confocal Microscopy Laboratory 
+MRI Facility 
+Events Seminar Series 
+Postdoctoral Career Development Program 
+CELLS 
+Spotlight Archive 
+Key Links 
+Maps & Directions 
+Directory 
+News 
+Experts & Speakers 
+Standardized Patient Application 
+Video Library 
+Virtual Tour 
+My Resources 
+Wellness 
+myFSU 
+Canvas 
+O365 MedNet Intranet 
+Webmail 
+Evaluations 
+Secure Apps 
+Submit IT Request 
+Submit MED Building Ops Request 
+Submit Lab Equipment Support Request 
+Submit Contract Management Request 
+Online Video Catalog 
+Reset Your Password 
+Give Online 
+Gunjan Lab
+Akash Gunjan
+Florida State University
+College of Medicine
+Dept. of Biomedical Sciences
+1115 West Call Street
+Tallahassee, FL 32306-4300
+Dr. Gunjan's Faculty Profile 
+Research Interests
+In eukaryotes, the genomic material in the form of DNA is packaged with the help of highly basic histone proteins into a nucleoprotein structure called chromatin. Histones are primarily synthesised in S-phase and deposited by histone chaperones on to the replicating DNA to form chromatin in a process known as chromatin assembly [1]. Subtle defects in chromatin assembly or changes in histone levels affect chromosome stability, DNA damage sensitivity and viability of cells [2, 3, 4]. Hence, the assembly of a proper chromatin structure is vital for preventing genomic instability, a hallmark of human cancer cells. The long-term goal of our laboratory is to understand how histones and chromatin structure contribute to the maintenance of genomic stability in the presence and absence of DNA damage. Our initial efforts are directed mainly towards the study of chromatin dynamics in the context of DNA damage and repair. Until recently, most mechanistic studies in the field of DNA repair were performed in vitro using naked DNA templates. These studies have generated a wealth of data [5], but very little attention has been paid to the fact that in eukaryotes these processes occur on chromatin in vivo. Although there have been some attempts in recent years to address DNA repair in the context of chromatin [6], chromatin dynamics during DNA repair has never been studied in any detail. Using a variety of in vivo and some in vitro approaches in budding yeast and mammalian cells, we are focusing on how DNA lesions caused by different kinds of DNA damaging agents affect chromatin structure, and how these lesions are recognized and repaired in the context of chromatin. Does efficient recognition and repair of different kinds of DNA lesions in chromatin require localised or extensive disruption of chromatin to allow access to the repair machinery? If so, how is the chromatin structure restored once the lesion has been repaired? How are epigenetic marks (acetylation, methylation, etc.) on the histones maintained at sites of DNA damage? What are the factors involved in the chromatin disassembly/assembly during DNA damage and repair? Since histone synthesis is largely restricted to S-phase, is passage through S-phase required for the re-establishment of proper chromatin structure at the site of damage? These are only a few of the innumerable unanswered questions that we hope to address in our laboratory.
+Current Projects
+Studying chromatin dynamics at the site of a DNA double strand break : We are employing the galactose-inducible HO endonuclease (GAL-HO) system [7] to create a single site-specific DNA double strand break (DSB) in the yeast genome. We then study chromatin dynamics at the site of the DSB using the technique of chromatin immunoprecipitation (ChIP). In the future, we hope to apply lessons learnt from yeast using the GAL-HO system to mammalian cells using the analogous inducible I-SceI endonuclease system.
+Dissecting the pathway by which Rad53 senses and targets excess histones for degradation : Histones are a necessary evil. They are required to package the eukaryotic genome into chromatin and thus regulate access to the genetic information contained within the DNA. However, due to their high positive charge and intrinsic affinity for DNA they can potentially “stick” non-specifically to the negatively charged DNA when present in excess, leading to cytotoxicity [2, 3]. In order to avoid deleterious effects either due to a scarcity or an excess of the histones, eukaryotic cells have evolved various means to strictly co-ordinate histone protein levels with the rate of DNA replication. Rad53 is an essential checkpoint kinase involved in the recovery from DNA damage and replication arrest in the budding yeast [5]. We demonstrated that Rad53 senses histone levels by associating with histones in a dynamic complex that is modulated by its kinase activity, and somehow targets excess histones for degradation [3]. We are now elucidating the pathway by which Rad53 carries out the degradation of excess histones. Initially, we are trying to determine whether excess histones are targeted for degradation via a phosphorylation, ubiquitylation and proteasome dependent pathway, and if so, identify the factors involved therein. We are also attempting to identify the substrates of Rad53 that get phosphorylated upon sensing excess histones.
+Investigating if a pathway exists in mammalian cells for the regulation of histone protein levels : All eukaryotic cells, especially mammalian cells with their multiple copies of histone genes, are likely to face constant problems due to excess histones and may have evolved a pathway for dealing with them. We are particularly interested in finding out if a Chk2 (the mammalian homolog of Rad53) dependent or independent pathway exists in mammalian cells for regulating histone protein levels. We are using a combination of chk2-/- mouse embryonic fibroblasts and RNAi strategies for our studies.
+Understanding how histone gene dosage affects the DNA damage sensitivity of budding yeast cells: Overexpression of histones in yeast results in increased DNA damage sensitivity, whereas deletion of one of the two gene pairs encoding histones H3 and H4 results in increased resistance to DNA damaging agents [3]. This effect of histone gene dosage on the DNA damage sensitivity of cells could be due to an effect on homologous recombination or non-homologous end joining, due to a change in the expression of DNA repair genes, or due to competition between repair factors and histones for binding to DNA. We are currently evaluating these possibilities using standard yeast assays and microarray technology.
+Why do eukaryotic cells have multiple copies of histone genes ? Budding yeast has two copies of each core histone gene and only one copy is required for survival [8]. In fact, deletion of any one of the two gene pairs encoding histones H3 and H4 does not result in an obvious phenotype. So why have eukaryotes evolved with multiple copies of histone genes? It is possible that the different copies of genes encoding the same histone protein perform overlapping as well as some unique functions. We are trying to evaluate this hypothesis by investigating the rDNA chromatin in yeast cells lacking one or the other copy of the gene pair encoding histones H3 and H4.
+Current Laboratory Members
+Rakesh Kumar Singh, Ph.D.
+Mumbai University, India, 2006
+(Post-doctoral research fellow)
+Sarah Burkhart, B.Sc.
+Florida State University, 2010
+(Graduate student)
+Marie-Helene Miquel Kabbaj, M.S.
+University of Bordeaux II, France, 1993
+(Senior laboratory technician)
+Selected References
+Verreault, A. (2000) De novo nucleosome assembly: new pieces in an old puzzle. Genes Dev. 14, 1430-1438.
+Gunjan, A., Paik, J., and Verreault, A. (2005). Regulation of Histone Synthesis and Nucleosome Assembly. Biochimie. 87: 625-635.
+Gunjan, A., and Verreault, A. (2003). A Rad53 kinase-dependent surveillance mechanism that regulates histone protein levels in Saccharomyces cerevisiae. Cell. 115, 537-549.
+Paik, J., Reddy, G.U., Kabbaj, M.M., and Gunjan, A. (2009). Checkpoint kinases repress histone gene transcription in response to genotoxic agents that impede replication . Genes Dev. Submitted.
+Lowndes, N.F., and Murguia, J.R. (2000). Sensing and responding to DNA damage . Curr. Opin. Genet. Dev. 10, 17-25.
+Green, C.M., and Almouzni, G. (2002). When repair meets chromatin. EMBO Rep., 3,28-33.
+Holmes, A., Haber, J.E. (1999). Physical monitoring of HO-induced homologous recombination. Methods Mol. Biol. 113,403-15.
+Cross, S.L., and Smith, M.M. (1988). Comparison of the structure and cell cycle expression of mRNAs encoded by two histone H3-H4 loci in Saccharomyces cerevisiae. Mol. Cell. Biol. 8, 945-954.
+Mailing Address
+College of Medicine
+1115 West Call Street
+Tallahassee, FL 32306
+Contact Us
+‌ Phone: 850-644-1855 
+‌ Fax: 850-644-9399 
+‌ More Contacts 
+Quick Links
+‌ FAQ 
+‌ Events 
+‌ Giving 
+‌ HIPAA Privacy Practices 
+‌ Submit a Support Request 
+Follow the College of Medicine 
+‌ Like FSU College of Medicine on Facebook 
+‌ Follow FSU College of Medicine on Instagram 
+‌ Follow FSU College of Medicine on X 
+‌ Follow FSU College of Medicine on Youtube 
+‌ Connect with FSU College of Medicine on LinkedIn 
+‌ More FSU COM Social Media 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Top

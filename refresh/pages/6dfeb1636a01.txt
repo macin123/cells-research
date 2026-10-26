@@ -1,0 +1,96 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Modeling Human Motor Learning Trends in Computer Games (QWOP)
+learning, data, psychology, 
+Research Mentor: Dr. Brady DeCouto, 
+Department, College, Affiliation: Educational Psychology and Learning Systems, Education, Health, and Human Sciences
+Contact Email: bsd24b@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Psychology, Computer Science, Statistics/Data Science, Exercise Physiology, Neuroscience, Mathematics 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5-10 hours, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Wednesday, September 2
+Start Time: 3:00
+End Time: 4:00
+Zoom Link: https://fsu.zoom.us/my/bradydecouto
+Day: Thursday, September 3
+Start Time: 3:00
+End Time: 4:00
+Zoom Link: https://fsu.zoom.us/my/bradydecouto
+Project Description
+This project uses QWOP, a computer browser-based game requiring players to control a runner's legs via four independent computer keys, to study how people learn complex, unfamiliar motor coordination. Our lab's custom version automatically logs behavioral and performance data on every attempt. This project is part of an active research line. Findings will also lay groundwork for future studies, potentially pairing this paradigm with EEG to study the neural basis of motor learning in different conditions (e.g., anxiety) or according to individual differences (e.g., computer experience, personality). 
+Research Tasks: The research tasks will first entail getting this study approved through the Institutional Review Board (IRB) and collecting data on individuals playing QWOP. The majority of time will be spent exploring the data, including learning trajectories and the timing of emerging motor coordination patterns (i.e., identifying in the data when people "figure it out"). 
+Skills that research assistant(s) may need: Recommended: Microsoft Excel, Coding Experience (e.g., R, Python), Prompt Engineering with AI
+Mentoring Philosophy
+As an educator, I invest deeply in developing scientific literacy and critical thinking in students, as they may hold my position in the future. I treat mentorship as a duty deserving full attention, since my interactions shape how students perceive collaboration and academia long after they leave my supervision. Three tenets guide my approach:
+Intellectual Independence: Inspired by the Socratic method, I believe learning is self-discovery requiring effort from the learner. Even in motor learning research, less explicit instruction often produces better long-term learning by fostering autonomy. In meetings, rather than leading with my own theoretical opinions, I often open the floor for students to contribute first, integrating my input afterward. This trains them to communicate ideas confidently among peers and faculty.
+Individualization: Mentorship allows more tailored approaches than classroom teaching. I begin by treating students as collaborators, giving them space to speak so I can understand their thinking, goals, and skill gaps. For example, if a student possesses strong technical skills but their writing needs development, I might assign iterative writing revisions while ensuring the core ideas remain his, offering feedback through questions rather than answers.
+Collaborative Tone: I maintain mutual respect, recognizing students often fear being "wrong" in front of faculty. When a student raises a view I disagree with, I first strengthen their position before offering a counterpoint, keeping feedback collaborative rather than corrective.
+Ultimately, I aim to meet students where they are, and hope my genuine enjoyment of mentorship shows in how I guide them. 
+Additional Information
+I am the Principal Investigator of the Brain, Learning, Attention, and Performance (BLAP) lab in FSU's Sport Psychology program. Students who join this UROP project will be integrated into the lab, gaining exposure to other research through lab meetings, presentations, and events. There may be opportunities to be involved with other research through this experience. 
+Link to Publications
+https://blaplab.github.io/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

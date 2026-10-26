@@ -1,0 +1,93 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Incremental value of Audio in Assessing Confidence in Business Disclosures
+Audio Analysis, Machine Learning, Financial Disclosures, Expert Judgements 
+Research Mentor: Narendra Bosukonda, Dr.
+Department, College, Affiliation: Persis E. Rockwood School of Marketing, Business
+Contact Email: nbosukonda@wertheim.fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: Ms Sanjana Penmetcha 
+Faculty Collaborators Email: ssp24b@fsu.edu 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 3 
+Relevant Majors: Business, Computer Science, Mathematics, Economics 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: Yes 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Wednesday, September 2
+Start Time: 6:00
+End Time: 6:30
+Zoom Link: https://fsu.zoom.us/j/97381442975
+Day: Thursday, September 3
+Start Time: 6:00
+End Time: 6:30
+Zoom Link: https://fsu.zoom.us/j/97381442975
+Project Description
+This is the second year we are continuing this project. I started this project last year with a UROP student and made good progress. We want to recruit more UROP students to fast track this project and hopefully complete it this year. 
+Business communications such as firm disclosures include communications about performance and contain elements such as text and audio. Experts such as stock analysts receive these different types of information concurrently and form judgements about the firm's future performance. Through this project we wish to examine the incremental role of audio, specifically the different features of the tone used by executive play in influencing expert judgements. We built a labeled data set of audio clips to train a machine learning model to predict executive confidence using audio elements. The next task is to refine this training dataset and build this machine learning model. Extract audio features from firms earnings calls and estimate the executive confidence and test its association with expert judgements. 
+Research Tasks: The research tasks will involve audio feature extraction, training machine learning models and conducting econometric analysis to estimate the impact of audio features on expert judgements. 
+Skills that research assistant(s) may need: Recommended : familiarity with audio analysis in Python, Extracting features such as loudness, pitch and brightness. familiarity with librosa library and econometric modelling. 
+Mentoring Philosophy
+I am Narendra Bosukonda, an assistant professor in the Persis E. Rockwood School of Marketing. I conduct research in the areas of B2B marketing, platform marketing and political marketing This is my third year working with UROP students. 
+My mentorship philosophy, specific to UROP students is to create an environment where students can examine a research question in multiple methods. The projects I conduct through UROP are more of early stage research projects where the research question is less concrete and it needs exploration. Working on early stage ideas introduces students to the discovery process, allows them to be a part of identifying a clear research question but also prepares them to deal with uncertainty in the research process. I act as a guide and fellow learner, as students discover the answers together and face both failures and success together. Students who have worked with me before became comfortable with designing early stage exploratory research studies while also building core research skills such as survey writing, conducting literature reviews and text and audio analysis. 
+Additional Information
+Link to Publications
+https://wertheim.fsu.edu/person/narendra-bosukonda 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

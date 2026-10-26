@@ -1,0 +1,96 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Developing AI Literacy Through Prompt Engineering in High School Computer Science Education
+Prompt Engineering, Digital Competencies, K-12 Education, Secondary School Computer Science, Advanced Coding Class, High School Computing, Laboratory School Context, Generative AI (GenAI), Custom AI Agents, Gemini Gems, AI Coding Assistant 
+Research Mentor: Damilare Ajayi, he/him/his
+Department, College, Affiliation: Educational Psychology & Learning Systems, Education, Health, and Human Sciences
+Contact Email: dfa24@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Artificial Intelligence
+Education
+Computer Science
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Fully Remote 
+Approximate Weekly Hours: 3-5 hours, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Thursday, September 3
+Start Time: 1:00
+End Time: 1:30
+Zoom Link: https://fsu.zoom.us/my/damilare?omn=93417216980
+Project Description
+This qualitative case study, situated within a Research-Practice Partnership (RPP) at Florida State University Schools (FSUS), investigates the development of AI literacy and prompt engineering skills among high school Computer Science students (specifically in advanced Level 4 Game & Sim classes). As students engage in project-based learning to build games using C# and the Unity engine, they collaborate with Generative AI (GenAI) technologies, utilizing general AI coding assistants (such as ChatGPT and Gemini) as well as customized AI Agents/Gems. Grounded in the AI literacy framework (Long & Magerko, 2020), this research explores how structured, teacher-led prompt engineering instruction, iterative student-AI communication, and systematic prompt logging influence students' computational thinking, critical code evaluation strategies, and overall development of AI literacy.
+Research Tasks: Literature review
+Data analysis
+Skills that research assistant(s) may need: Curiosity
+Data Cleaning
+Basic Ai experience
+reliability and professionalism
+Mentoring Philosophy
+My approach to mentoring is grounded in one simple belief: people grow best when they feel seen, trusted, and challenged in equal measure. I lead by doing. When I work with mentees, I am not standing at a distance giving instructions, I work alongside with them, modeling the curiosity, rigor, and adaptability I hope they develop.
+I start by getting to know each mentee as a person. Their goals, their strengths, what excites them, what holds them back. From there, I try to build an environment where they feel safe to take risks, ask questions, and yes, make mistakes, because mistakes are where the real learning happens. I do not micromanage. I set clear expectations, then step back and let mentees own their work. Ownership is how confidence gets built.
+Kindness is not separate from professionalism in my mentoring relationships — it is the foundation of them. I believe mentees do their best thinking when they feel respected, not evaluated. So I hold high standards while also being flexible enough to meet people where they are. Every mentee comes with a different set of experiences, and my job is to recognize what makes each person uniquely capable and help them build on it.
+Ultimately, I want mentees to leave our work together not just with stronger research skills, but with a clearer sense of who they are as thinkers and contributors. 
+Additional Information
+Link to Publications
+https://dfajayi.com/research 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

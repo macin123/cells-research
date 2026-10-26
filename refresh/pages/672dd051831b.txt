@@ -1,0 +1,154 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Expression and Characterization of Recombinant Human Immunity-Related GTPase M (IRGM)
+Host-Pathogen Interactions; Antimicrobial; Innate Immunity; Recombinant Protein; GTPase 
+Research Mentor: Taiwo Scholes Adewole, he/his/him
+Department, College, Affiliation: Biological Science, Arts and Sciences
+Contact Email: tsa23@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Biology
+Chemistry
+Biochemistry 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 8-10 hours a week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Expression and Characterization of Recombinant Human Immunity-Related GTPase M (IRGM)
+Background
+Human immunity-related GTPase M (IRGM) is a key regulator of innate immunity, linking autophagy, inflammation, and cellular homeostasis(Goswami et al., 2022; Singh et al., 2006). This interferon-inducible dynamin-like GTPase has garnered interest for its multifunctional role in controlling immune responses, tumorigenesis, and host-pathogen interactions, and its deficiency is associated with multiple inflammatory and autoimmune disorders (Chauhan et al., 2015; Tan et al., 2021; Xia et al., 2016). It serves as a molecular regulator orchestrating autophagic processes that clear intracellular pathogens and regulate inflammation, which emphasizes its importance in defending against infectious diseases and maintaining immune balance (Dockterman & Coers, 2022). Originally characterized for its mitochondrial localization and affinity, IRGM has more recently been implicated in viral infection. Studies indicate that it facilitates autophagy associated with Golgi fragmentation induced by the Hepatitis C virus, highlighting its role in viral pathogenesis and in the remodeling of host intracellular membranes (Hansen et al., 2017; Singh et al., 2010). 
+Understanding IRGM’s biochemical properties through recombinant expression and subsequent functional studies will illuminate its largely undefined mechanisms in human immunity and disease. Using a bacterial expression system, this project aims to produce recombinant human IRGM, purify, and characterize the recombinant IRGM protein, giving students exposure to modern molecular biology and protein biochemistry techniques.
+Objectives
+The project focuses on transforming plasmids carrying the IRGM gene into Escherichia coli, optimizing bacterial growth and protein induction, purifying the expressed recombinant protein, and, conditions permitting, applying fundamental biochemical assays to assess its activity. This work will train students in essential laboratory techniques relevant to biomedical research.
+Methodology
+1. Plasmid Transformation: Competent E. coli cells will be transformed with plasmids encoding human IRGM. The standard heat shock method will be used for optimized gene delivery.
+2. Cell Growth and Protein Induction: Transformed colonies will be selected and expanded through standard bacterial culture techniques. Optimization of growth conditions will be used to ensure efficient cell proliferation prior to protein expression. Protein expressions will be induced with Isopropyl β-D-1-thiogalactopyranoside (IPTG) under the control of a bacterial T7 promoter.
+3. Protein Purification: Following induction, cells will be harvested and lysed to release intracellular proteins. Recombinant IRGM will then be purified using affinity chromatography, such as nickel-nitrilotriacetic acid (Ni-NTA) purification for His-tagged constructs. Additional purification steps, including size-exclusion chromatography, may be employed to enhance protein purity. Protein quality will be assessed using sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE).
+4. Biochemical Characterization (optional): If time permits, students will conduct basic biochemical assays to characterize IRGM function. These may include GTP-binding or hydrolysis assays, as well as preliminary studies of protein stability, oligomerization, and membrane-binding. Such analyses will provide foundational insights into the enzymatic and structural properties of IRGM, contributing to a deeper understanding of its role in immunity.
+Learning Outcomes
+By completing this project, students will:
+• Master essential molecular biology techniques, including plasmid transformation and bacterial culture.
+• Develop skills in recombinant protein expression and purification.
+• Learn to analyze protein purity by SDS-PAGE.
+• Gain introductory experience in biochemical assays to characterize protein function.
+• Enhance problem-solving, experimental design, and critical thinking applicable to immunology and protein biochemistry research.
+This hands-on training offers comprehensive experience at the intersection of molecular biology, immunology, and biochemistry, preparing students for advanced research in disease-related protein function.
+References
+Chauhan, S., Mandell, M., cell, V. D.-M., & 2015, undefined. (2015). IRGM governs the core autophagy machinery to conduct antimicrobial defense. Cell.ComS Chauhan, MA Mandell, V DereticMolecular Cell, 2015•cell.Com. https://doi.org/10.1016/j.molcel.2015.03.020
+Dockterman, J., & Coers, J. (2022). How did we get here? Insights into mechanisms of immunity-related GTPase targeting to intracellular pathogens. Current Opinion in Microbiology, 69, 102189. https://doi.org/10.1016/j.mib.2022.102189
+Goswami, A. B., Karadarević, D., & Castaño-Rodríguez, N. (2022). Immunity-related GTPase IRGM at the intersection of autophagy, inflammation, and tumorigenesis. Inflammation Research, 71(7–8), 785–795. https://doi.org/10.1007/s00011-022-01595-x
+Hansen, M. D., Johnsen, I. B., Stiberg, K. A., Sherstova, T., Wakita, T., Richard, G. M., Kandasamy, R. K., Meurs, E. F., & Anthonsen, M. W. (2017). Hepatitis C virus triggers Golgi fragmentation and autophagy through the immunity-related GTPase M. Pnas.OrgMD Hansen, IB Johnsen, KA Stiberg, T Sherstova, T Wakita, GM Richard, RK KandasamyProceedings of the National Academy of Sciences, 2017•pnas.Org, 114(17), E3462–E3471. https://doi.org/10.1073/PNAS.1616683114
+Singh, S. B., Davis, A. S., Taylor, G. A., & Deretic, V. (2006). Human IRGM Induces Autophagy to Eliminate Intracellular Mycobacteria. Science, 313(5792), 1438–1441. https://doi.org/10.1126/science.1129577
+Singh, S. B., Ornatowski, W., Vergne, I., Naylor, J., Delgado, M., Roberts, E., Ponpuak, M., Master, S., Pilli, M., White, E., Komatsu, M., & Deretic, V. (2010). Human IRGM regulates autophagy and cell-autonomous immunity functions through mitochondria. Nature Cell Biology, 12(12), 1154–1165. https://doi.org/10.1038/ncb2119
+Tan, Y. Q., Wang, F., Ma, R. J., Zhang, J., & Zhou, G. (2021). Interferon-γ activated T-cell IRGM–autophagy axis in oral lichen planus. International Immunopharmacology, 94, 107478. https://doi.org/10.1016/J.INTIMP.2021.107478
+Xia, Q., Wang, M., Yang, X., Li, X., Zhang, X., Xu, S., Shuai, Z., Xu, J., Fan, D., Ding, C., & Pan, F. (2016). Autophagy-related IRGM genes confer susceptibility to ankylosing spondylitis in a Chinese female population: a case–control study. Genes & Immunity 2017 18:1, 18(1), 42–47. https://doi.org/10.1038/gene.2016.48
+Research Tasks: 1. Prepare and handle competent E. coli cells for plasmid transformation 
+2. Perform plasmid transformation using heat shock and plate transformed cells 
+3. Select colonies and maintain bacterial cultures under appropriate antibiotic conditions 
+4. Monitor bacterial growth and optimize culture conditions (temperature, time, media) 
+5. Induce recombinant IRGM protein expression using IPTG 
+6. Harvest bacterial cells and perform cell lysis to extract proteins 
+7. Carry out affinity purification (e.g., His-tag/Ni-NTA chromatography) 
+8. Perform additional purification steps if needed (e.g., size-exclusion chromatography) 
+9. Prepare and run SDS-PAGE gels to assess protein expression and purity 
+10. Calculate concentrations, prepare buffers, and perform solution dilutions 
+11. Record experimental procedures and results in a lab notebook 
+12. Assist in basic biochemical assays (e.g., GTP-binding or hydrolysis, if applicable) 
+13. Help troubleshoot issues in expression or purification (low yield, contamination, etc.) 
+14. Maintain lab cleanliness, organize materials, and follow safety protocols
+Skills that research assistant(s) may need: Required
+1. Basic laboratory skills: safe handling of reagents, pipetting, measuring volumes, following protocols 
+2. Attention to detail: accurate measurements, careful observation, minimizing contamination 
+3. Data recording and organization: maintaining clear lab notes, documenting procedures and results 
+4. Basic quantitative skills: simple calculations (concentrations, dilutions, yields) 
+5. Lab safety awareness: proper use of PPE, understanding safety guidelines and waste disposal 
+6. Willingness to learn technical methods: protein expression, purification, gel electrophoresis 
+Recommended
+7. Understanding of core biology concepts: cell structure, DNA/RNA, proteins, gene expression 
+8. Introductory chemistry knowledge: solutions, buffers, pH, molecular interactions 
+9. Microbiology fundamentals: aseptic technique, bacterial growth, culture handling 
+10. Critical thinking: interpreting results, troubleshooting experimental issues 
+11. Time management: planning experiments, meeting lab schedules and deadlines 
+12. Teamwork and communication: collaborating with peers, reporting findings clearly
+Mentoring Philosophy
+1. Emphasize learning through hands-on practice, allowing students to build confidence by actively performing experimental techniques. 
+2. Foster a supportive environment where questions are encouraged, and mistakes are treated as opportunities for growth and understanding. 
+3. Prioritize strong foundational knowledge while gradually introducing advanced concepts relevant to ongoing research. 
+4. Promote critical thinking by guiding students to interpret their own data and propose explanations rather than providing immediate answers. 
+5. Encourage independence by progressively giving students ownership of tasks and decision-making in experiments. 
+6. Model scientific integrity through accurate data recording, honest reporting, and adherence to ethical research practices. 
+7. Adapt mentoring approaches to individual learning styles, backgrounds, and pacing needs. 
+8. Reinforce the importance of organization and consistency in maintaining lab notebooks and following protocols. 
+9. Cultivate collaboration and communication skills through teamwork, discussions, and presentation of results. 
+10. Connect laboratory work to broader scientific questions and real-world applications to sustain motivation and curiosity
+11. Identifying mentee’s goal
+12. Developing a relationship founded on mutual respect
+13. Giving mentees ownership pf their work and promoting accountability
+14. Creating an interactive environment for learning
+15. Encouraging growth through challenge
+16. Creating a safe environment in which mentees feel that is acceptable to fail and learn from their mistakes
+Additional Information
+Link to Publications
+https://www.bio.fsu.edu/faculty.php?faculty-id=yin 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

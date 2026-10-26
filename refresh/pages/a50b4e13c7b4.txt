@@ -1,0 +1,87 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Exploring Molecular Qubits via High Field Electron Paramagnetic Resonance Spectroscopy
+Molecular Qubits, MOF Qubits, EPR 
+Research Mentor: Kavipriya Thangavel, Kavi
+Department, College, Affiliation: National High Magnetic Field Laboratory, N/A
+Contact Email: kt24@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Physics, Chemistry, engineering, material science 
+Project Location: National MagLab 
+Research Assistant Transportation Required: Yes 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5-10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Electron Paramagnetic Resonance (EPR) spectroscopy is a powerful method for studying materials with unpaired electrons, including qubit materials. A qubit (short for “quantum bit”) is the basic unit of quantum information and the building block of quantum computers. Unlike a regular computer bit, which can only be 0 or 1, a qubit can exist in a mixture of both states at the same time, thanks to quantum mechanics.
+The lifetime of a qubit tells us how long it can remain in this fragile quantum state before losing information. EPR helps scientists measure this lifetime (also called the spin–spin relaxation time) and understand the properties of qubits.
+At the National MagLab, researchers use a state-of-the-art instrument called HiPER (High-Power Quasi-Optical W-band spectrometer). HiPER enables both continuous-wave and pulsed experiments, which provide much more detailed information about spin systems than traditional low-power EPR machines. This deeper understanding helps in developing better qubit materials, advancing the future of quantum information and computation.
+Research Tasks: In this project, students will be introduced to the basics of qubit systems and get hands-on experience using high-field EPR and the HiPER instrument. The main goal is to learn how spin systems relax and how we can study that. Students will also practice doing literature reviews and giving short presentations to share what they have learned. However, tasks will be designed based on the interests of the student.
+Skills that research assistant(s) may need: Students with backgrounds in Physics, Chemistry, Materials Science, or Quantum Science are encouraged to apply, but not mandatory. During the project, students will receive training in various aspects of experimental and data analysis work. Skills in Excel or MATLAB are desirable, but not required, as training will be provided. The project includes several types of tasks, and assignments will be tailored to the student’s interests and motivation.
+Mentoring Philosophy
+Mentoring is a reciprocal process of knowledge sharing and growth. Through this project, students will gain valuable exposure to qubit system investigations in the field of EPR, working hands-on with advanced techniques such as high-field and pulsed spectroscopy. Alongside developing technical expertise, students will also strengthen their analytical thinking and problem-solving skills. I believe mentoring is not just about guiding students but also about empowering them to explore, question, and contribute to cutting-edge research. 
+Additional Information
+Since I couldn’t join the roundtable during the scheduled time because I’m out of the country, please feel free to contact me for a Zoom meeting if you have any questions. 
+Link to Publications
+https://www.youtube.com/watch?v=7tO1RCnd8hM 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

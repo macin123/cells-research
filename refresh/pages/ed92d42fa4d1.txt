@@ -1,0 +1,35 @@
+Welcome to the Houle Lab! 
+Home 
+Research 
+Publications 
+Software 
+I am an evolutionary geneticist, studying the relationship 
+between the genomic and functional 
+machinery of life, the nature and origin of variation that is produced 
+by altering the genome, and the process of adaptation at the phenotypic 
+level. My favorite questions include:
+Why are some aspects of the phenotype more variable than 
+others?
+What is the relationship between variation and 
+adaptation? 
+Is evolution predictable? 
+I have now retired, and no longer have a lab. In the past , we used Drosophila melanogaster , 
+the fruit 
+fly, as an experimental organism. Flies are 
+wonderful for evolutionary studies because they have interesting and 
+complex adaptations and behaviors, yet are 
+easily and rapidly reared. The most recent experimental project studied the 
+relationship between wings and legs of 
+Drosophila, and we are still analyzing the data. 
+What did we actually do with flies?
+We changed the expression of particular genes, and observed 
+what happens to the phenotype.
+We look for the genomic causes of natural genetic 
+variation. 
+We performed artifical selection.
+We did field experiments to look at the real-world 
+consequences of changing phenotypes.
+We modeled development to predict what should happen when we 
+change genes and phenotypes.
+To potential Students
+I am no longer accepting graduate students, and no longer supervise projects for undergraduates.

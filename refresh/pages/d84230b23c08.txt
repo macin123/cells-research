@@ -1,0 +1,78 @@
+Shatruk Research Group — Florida State University 
+Research 
+Lab Tour 
+People 
+Papers 
+Resources 
+Powering the Future with New Materials
+Our group works in a broadly defined area of advanced functional materials. The disciplinary focus of our work lies within inorganic materials chemistry, with strong interdisciplinary crossover to physical and organic chemistry, as well as to condensed matter physics and machine learning.
+⚗️ Synthesis
+🧊 Crystallography
+🧲 Magnetism
+🌈 Spectroscopy
+Active Projects
+Our current research interests include molecular qubits for quantum information processing, photo-switchable molecular materials, intermetallic magnets for magnetic refrigeration and electric vehicles, and quantum magnetic materials with non-trivial spin textures for spintronic applications.
+Solid State Magnetism
+Exploring intermetallic magnets for magnetic refrigeration and permanent magnet applications.
+Learn more → 
+Molecular Spin Qubits
+Designing molecular spin qubits for quantum information processing and quantum sensing.
+Learn more → 
+Quantum Materials
+Using chemistry to discover quantum materials for spintronic applications.
+Learn more → 
+Stimuli-Responsive Materials
+Developing ultrathin stimuli-responsive 2D materials for electronic and optical devices.
+Learn more → 
+Lab Skills & Equipment
+Students and postdocs obtain broad training in inorganic and organic syntheses, X-ray and neutron scattering methods, magnetic and electrical property measurements, optical, infrared, NMR, EPR, and X-ray spectroscopy, as well as in computational approaches to elucidation and discovery of new functional materials.
+Advanced Synthesis
+Design and make complex molecules using Schlenk lines, gloveboxes, and modern synthetic techniques.
+🔒 
+Air-Free Chemistry
+Master the art of working with air-sensitive materials in controlled atmospheres.
+High-Temp Methods
+Perform arc melting, induction heating, and crystal growth at extreme temperatures.
+X-Ray Crystallography
+Solve crystal structures and identify new materials with single-crystal and powder X-ray diffraction.
+Magnetometry
+Investigate magnetic properties of materials with SQUID and torque magnetometry.
+Spectroscopy Suite
+Use UV-Vis, IR, NMR, EPR, X-ray, and neutron spectroscopies for advanced characterization of materials.
+Latest Publications
+Enhanced coercivity in ferrimagnetic [Fe(tren)(ea)][Fe 2 Se 3 ] 2 through coupling of mixed-valent [Fe 2 Se 3 ] 1– double chains and trigonal bipyramidal Fe complexes 
+J. Am. Chem. Soc. 2026 , In press.
+Sensitive detection of spin-electric coupling in a Cr 3 antiferromagnetic triangle 
+Chem. Sci. 2026 , 17 , 3329-3338.
+Dual modulation of spin-crossover behavior in [Fe(tpma)(xbim)]²⁺ complexes by chemical and mechanical pressures 
+Inorg. Chem. 2026 , 65 , 2556-2565.
+Skyrmion-like spin textures emerging in the material derived from structural frustration 
+J. Am. Chem. Soc. 2025 , 147 , 43550-43559.
+Spin-crossover semiconductors based on homoleptic tris-diimine Fe(II) complexes with fractionally charged TCNQ •δ– anions 
+Dalton Trans. 2025 , 54 , 17825-17833.
+A strongly hydrogen-bonded one-dimensional high-spin dinuclear Fe(II) complex 
+Dalton Trans. 2025 , 54 , 12749-12753.
+News & Highlights
+Rachel Receives DADE Award 
+June 2026
+Rachel Perez has received the Dean's Award for Doctoral Excellence in support of her PhD research
+Mike is ASEMFL Member 
+May 2026
+Seven FSU faculty members have been elected to the Academy of Science, Engineering and Medicine of Florida
+Novo Nordisk Fellowship 
+February 2026
+FSU chemist lands international fellowship to advance quantum materials
+Twisting Spins 
+December 2025
+FSU researchers explore chemical boundaries to create a new magnetic material with exotic spin texture
+Shatruk Research Group
+102 Varsity Way
+Department of Chemistry & Biochemistry
+Florida State University
+Tallahassee, FL 32306
+Follow Us
+𝕏
+📷 
+RG 
+in 
+© 2025 Shatruk Research Group • Florida State University

@@ -1,0 +1,499 @@
+Computational & Theoretical Multiphysics Laboratory (CTML) 
+Home 
+PI 
+Research 
+Publications 
+Team 
+Outreach 
+News/Openings 
+Gallery 
+Contact 
+Home 
+PI 
+Research 
+Publications 
+Team 
+Outreach 
+News/Openings 
+Gallery 
+Contact 
+Computational & Theoretical Multiphysics Laboratory
+FAMU-FSU College of Engineering 
+Principal Investigator
+Dr. Kourosh Shoele
+Associate Professor 
+kshoele@fsu.edu 
+Google Scholar &nbsp &nbsp 
+Personal Website &nbsp &nbsp 
+(CV) 
+Kourosh Shoele is an Associate Professor in the Department of Mechanical Engineering at Florida State University and Director of Data-enabled Computational Engineering & Applied Quantum Computing (DC-QC). He has served as an Associate Professor since 2023 and was an Assistant Professor at Florida State University from 2016 to 2023. His previous roles include Assistant Research Scientist in the Flow Physics and Computation Laboratory at Johns Hopkins University (2013-2016), Research Engineer at Re Vision LLC (2011-2013), and Postdoctoral Research Assistant in the Department of Structural Engineering at the University of California, San Diego in 2011. He received his Ph.D. from UC San Diego in 2011, with a dissertation on flow interaction with highly flexible structures; his M.Sc. from Sharif University of Technology in 2006; and his B.Sc. from Shiraz University in 2003. 
+Research Themes: 
+Kourosh's research interests revolve around problems at the intersection of mechanics and physics. He is actively engaged in developing and applying mathematical and computational tools, with specific emphasis on fluid-structure interaction, aerospace, and biolocomotion. 
+Research Interests: 
+Computational fluid dynamics, fluid-structure interaction, multiphase flows, aeroelasticity, biolocomotion and soft robotics, model reduction and data-driven methods, and flow-based renewable energy. 
+Honors & Awards: 
+FSU College of Engineering Teaching Award nominee, 2022; DARPA Young Faculty Director Fellowship, 2021; FSU Developing Scholar Award, 2021; NSF CAREER Award, 2020; DARPA Young Faculty Award, 2019; FSU First Year Assistant Professor Award, 2017; Best Poster Award, NASA International Workshop on Environment and Energy, 2010; First Place, Eighth Scientific Olympiad of Engineering in Iran, 2003. 
+Research Highlights 
+Our research activities are organized into three directions: (a) Fluid-Structure Interaction, (b) Multiphase and multimaterial flows, (c) Model reduction and flow control. 
+Fluid-Structure Interaction 
+Immersed-boundary and coupled fluid-structure flow for flexible systems 
+Multiphase and Multimaterial Flows 
+Boiling, cavitation, and high-fidelity multiphase transport dynamics 
+Model Reduction and Flow Control 
+Data-driven and physics-based reduced models for control-oriented prediction 
+Surveillant and hydrodynamic benefits of fish schooling
+This research explores the surveillance capability and hydrodynamic benefits of fish schooling. It has been argued that fish schooling serves multiple objectives such a finding better resources, enhance swimming performance and protecting against predators attack the group. In this research, we explore the connection between the morphologies of fish schools and the long-range predator detection in species such as allis shad. The radiation and diffraction of sonic and ultrasound waves in different school shapes and sizes are quantified and correlated to the hydrodynamic performance of the school. 
+Dynamics of heated flexible panel
+The canonical problem of flow-induced flutter of a thin flexible plate is revisited, with an emphasis on the thermally induced buoyancy effects on the dynamics and thermal characterization of the system. An immersed boundary method is used to simulate mixed convection of a heated 2D inextensible and flexible thin plate. The bending stiffness, Richardson number, and Reynolds number are chosen as the characteristic parameters of the system. 
+Wind induced reconfigurations of trees
+Wind-induced stress is the major mechanical cause of tree failures. Among different factors, the branching mechanism plays a central role in the stress distribution and stability of trees in windstorms. The recent study by Eloy showed that Leonardo da Vinci’s original observation stating the total cross-section of branches is conserved across branching nodes is the optimal configuration for resisting wind-induced damage in rigid trees. 
+Wind Turbine Aerodynamics
+A computational model is used to study the effect of wave-induced motion on the aerodynamics of compliant offshore wind turbines. The wake response of two promising offshore platform concepts, Spar buoy and Barge type turbines were compared with a stationary wind turbine case. 
+High Speed Aeroelasticity
+A more realistic flow configuration of shock-turbulent boundary layer interaction (STBLI) is being studied to investigate the effects of structural response, thermal loads, and three dimensionality. The aero-thermo-elasticity in STBLI is explored through direct numerical simulation (DNS) employing a high-order sharp-interface immersed boundary method for the fluid-thermal-structure coupling. The ongoing research shows that the sweep inflow alters the flow features by increasing the interaction zone, flow reversal region, intensity of low-frequency content of surface pressure fluctuations, and amplitude of panel oscillations. Cooling results in low amplitude and high-frequency panel oscillations. The dominating frequencies of panel oscillations have been observed as high-frequency footprints in surface pressure fluctuations in the case of sweep inflow. The phenomenon is being further analysed by a pressure-partitioning method (PPM) to quantify the contribution of various flow features on the surface pressure. The method is formulated using a mathematically rigorous auxiliary-potential decomposition and a perturbation treatment of the deforming panel. The findings highlight the intricate interplay between shock waves, inflow sweep angle, and structural response, laying the groundwork for a deeper understanding of aero-thermo-elastic phenomena in high-speed flows. 
+The effect of internal damping on locomotion in frictional environments
+Long slender organisms demonstrate remarkable proficiency in varied terrain and water. We model a soft robotic swimmer as a visco-elastic rod and co-optimize design and control for locomotion in frictional environments. 
+Numerical investigation of energy harvesting from piezoelectric inverted flags
+The transformation of wind energy into low-power electricity using piezoelectric materials is investigated through inverted flag simulations and wind tunnel tests across aspect ratios and flow conditions. 
+Flow-induced vibrations of closely packed flexible flags
+We quantify how flag aspect ratio and spacing affect FSI dynamics in flexible flag packs and evaluate oscillatory behaviors and vortex forcing for potential flow-energy applications. 
+Multiphase Simulations of Bubble Growth and Departure in Cryogenic Pool Boiling
+High-energy linear colliders based on cryogenically cooled copper technology require efficient cooling of accelerator structures. This project studies bubble generation and heat transfer in liquid-nitrogen pools using interface tracking and AMR. 
+Studying Natural Convection in Two-Phase Cryogenic Tanks using Nodal Model, CFD, and CFD-Nodal Coupled Methods
+A hybrid method integrating high-fidelity CFD with low-fidelity nodal models is used to capture normal-gravity cryogenic tank dynamics with reduced computational cost. 
+High-Fidelity Multi-Phase Computational Model of Two-Phase Fluid Flow Zero-Boil-Off Tank Under Microgravity Condition
+The ZBOT experiments and simulations explore two-phase cryogenic phase change with sharp interface methods and fluid-structure coupling in microgravity and under sloshing excitations. 
+Nucleate boiling and active vortex generation
+Vortex control techniques are tested for nucleate boiling enhancement using flexible/rigid inserts, with substantial improvements in heat-transfer performance under controlled oscillatory conditions. 
+Fast multilevel multi-phase CFD-nodal model for cryogenic applications
+This project combines AMR-based multi-phase CFD with nodal system models to efficiently predict cryogenic storage behavior in normal and microgravity environments. 
+Quantum-based Homogenized Multiscale Simulation of Turbulent Flows
+This project builds a quantum-compatible multiscale framework using DNS, homogenization-based closure tensors, and Matrix Product States compression to reduce fine-scale complexity. 
+Integrating Machine Learning and Physics-Based Flow Models for Population-Level Respiratory Disease Simulation
+A reduced-order fluid framework with machine learning is used to model population-level respiratory transmission, linking facial features, speech conditions, and mask performance. 
+Modeling face mask leakage with 3D morphable face models
+A morphable 3D face framework is coupled with mask deployment simulations to evaluate fit, leakage, and performance over a large virtual population. 
+SWBLI with flexible structure
+Shock-boundary-layer interaction over flexible structures is used for passive and structural load-driven flow control with controlled panel oscillation and separation reduction. 
+Active Control of the Aeroelastic Flutter
+Active and passive control frameworks are used to regulate flutter behavior of flexible airfoils through high-fidelity FSI simulations and active flap control laws. 
+Resolvent-based modeling for designing optimal compliant surfaces for drag reduction
+An ability to model the complex interaction between turbulent boundary layers and generalized compliant surfaces can be leveraged to design optimal compliant panels which aim to reduce skin-friction drag in turbulent flows. A finite-element representation of the solid dynamics is coupled with the linear dynamics of the turbulent mean flow using kinematic and dynamic boundary conditions. Resolvent-gain, structure of the resolvent modes, as well as a formal drag prediction strategy based on the second-order statistics of the linearized Navier-Stokes equations, are used to quantify the effect of different solid parameters on the flow. Solid parameters such as panel stiffness, thickness, and viscoelastic damping, as well as the subsurface architecture of the solid panel all play a role in governing the complex solid-fluid interaction. Optimal panels designed using this framework can be tested further in high-fidelity simulations and experiments for performance validation in real-world systems.
+High-fidelity simulations of gust-wing interaction
+Your browser does not support the video tag.
+Modern aircraft performing increasingly challenging missions in complex, unsteady, difficult-to-predict environments have to encounter unsteady non-canonical gusts that can hamper their functioning. An ability to forecast near-term gust behavior based on sensor measurements taken on the surface of the aircraft can be used to inform gust-mitigation strategies. High-fidelity simulations provide valuable insights and detailed flow-field information about the interaction of gusts with wings and will be used to train an ML-based, low-cost, real-time gust prediction framework.
+Publications
+Latest publication records on Google Sites 
+Journal Articles 
+2026 
+Akash, M. M. H., Dev, T., Nguyen, N.-Q., Chen, Y., Wu, H., and Shoele, K., 2026. Efficient Quantum Simulation of Variable-Coefficient Transport with Continuous Source Injection. arXiv preprint arXiv:2608.27712.
+B. Van Stratum, J. Gallentine, C. Rucker, E. Barth, J. Clark, and K. Shoele. Model-based Optimization of Anguilliform Swimming Gaits for Soft Robotic Applications. Revised for Soft Robotics , 2026. 
+Read More 
+Nazari, F., Mittal, A., Shoele, K. and Mohammadigoushki, H., 2026. Drag and yielding of rotating bodies in yield-stress fluids. Journal of Fluid Mechanics , 1038, p.A42. 2026
+2025 
+A. Tripathi, J. Gustavsson, K. Shoele, and R. Kumar. Effect of Cavity Pressure on Response of a Compliant Panel at Mach 2. Journal of Aerospace Engineering , 38(3), 04025013, 2025.
+S. Provat, M. Sussman, K. Shoele. Patterned Electroconvection under AC and DC voltages with strong unipolar charge injection. Journal of Applied Physics , 137(10), 2025. 
+N.S. Kumar, J. C. Gallentine, S.Y. Kim, B. Van Stratum, J. Gaston, J. Clark, K. Shoele, C. Rucker, E.J. Barth. Constrained Lagrangian Modeling of a Soft Robotic Vertical Climber. Revised for Soft Robotics , 2025. 
+A. Anand, K. Shoele. Using a reduced-order fluid model to quantify the effectiveness of facemasks in a large population. PLOS ONE , 20(6), 2025. 
+2024 
+G. Maurya, Y. Liu, M. Sussman, K. Shoele. Drop transmission after the impact on woven fabrics. International Journal of Multiphase Flow, 179, 104909, 2024. 
+A. Tripathi, J. Gustavsson, K. Shoele, R. Kumar. Effect of shock impingement on the fluid-structure interactions of a compliant panel. Shock Waves 34, 1–19 (2024). 
+TS. Wang, K. Shoele. Koopman-based model predictive control with morphing surface: Regulating the flutter response of a foil with an active flap. Physical Review Fluids, 9(1), 014702. 2024 (Featured Article; Editor’s Pick) 
+A. Shahriar, K. Shoele. Combined effects of wall flexibility and temperature in shock wave and boundary layer interactions. Journal of Fluids and Structures. vol. 124, p. 104047, 2024. 
+Ye Z, Estebe C, Liu Y, Vahab M, Huang Z, Sussman M, Moradikazerouni A, Shoele K, Lian Y, Ohta M, Hussaini MY. An improved coupled level set and continuous Moment-of-Fluid method for simulating multiphase flows with phase change. Communications on Applied Mathematics and Computation. 6(2), 1034-1069. 2024. 
+2023 
+B. Van Stratum, K. Shoele, J. Clark. Pacific Lamprey-inspired climbing. Bioinspiration & Biomimetics. 
+18(4), p.046013, 2023. 
+K. Shoele, Hybrid wave/current energy harvesting with a flexible piezoelectric plate.2Journal of Fluid Mechanics 968, p.A31, 2023. 
+F. Nazari, K. Shoele, H. Mohammadigoushki. Helical locomotion in yield stress fluids. Physics Review Letters. 130(11), p.114002., 2023. (Featured Article; Editor’s Pick) 
+A. Shahriar, R. Kumar, K. Shoele. Vortex dynamics of axisymmetric cones at high angle of attacks. Theoretical and Computational Fluid Dynamics. pp.1-20, 2023. 
+B. Van Stratum, J. Clark, K. Shoele. The effect of internal damping on locomotion in frictional environments. Physical Review E. 107(5), p.054406., 2023. 
+H. Mohammadigoushki, K. Shoele. Cavitation rheology of model yield stress fluids based on carbopol. Langmuir, 39, 22, 7672–7683, 2023. 
+TS. Wang, K. Shoele. Kernel mode decomposition for time-frequency localization of transient flow: The formation of a laminar separation bubble. Physics Review Fluids. 8.6, p. 064401, 2023. 
+C. Ni, T. Solano, K. Shoele, JH. Seo and R. Mittal. Face Masks provide high outward protection despite peripheral leakage: Insights from a reduced-order model of face mask aerodynamics. Physics of Fluids 35, no. 6, 2023. 
+H. Mohammadigoushki, K. Shoele. Cavitation Rheology of Model Yield Stress Fluids Based on Carbopol. submitted, 2023. 
+2022 
+T S. Wang, K. Shoele. Kernel mode decomposition for time-frequency localization of transient flow: The formation of a laminar separation bubble. Physics Review Fluids. submitted, 2022. 
+Z. Ye, C. Estebe, Y. Liu , M. Vahab, Z. Huang, M. Sussman, A. Moradikazerouni, K. Shoele, Y. Lian, M. Ohta, M.Y. Hussaini. An improved coupled level set and continuous moment-of-fluid method for simulating multiphase flows with phase change. Communications on Applied Mathematics and Computation. submitted, 2022. 
+Shoele, K. (submitted). Hybrid Wave/Current Energy Harvesting with a Flexible Piezoelectric Plate. Journal of Fluid Mechanics. Manuscript submitted for publication. arXiv:2201.08751; 
+O. Ojo, E. Kohtanen, A. Jiang, J. Brody, A. Erturk, K. Shoele. Flapping dynamics of an inverted flag behind a cylinder. Bioinspiration & Biomimetics. 2022 Sep30. 
+P. Eastham, H. Mohammadigoushki, K. Shoele, Squirmer locomotion in a yield stress fluid. Journal of Fluid Mechanics. 948, A54., 2022. 
+T. Solano, JC. Ordonez, K. Shoele. Natural convection in vertical enclosures with conjugate boundary conditions. Journal of Fluid Mechanics. 946, A17, 2022. 
+T. Solano,K.Shoele. Investigation of the Role of Face Shape on the Flow Dynamics and effectiveness of Face Masks. Fluids 7, 6:209. 2022. 
+T. Solano, C. Ni, R. Mittal, K. Shoele. Perimeter leakage of face-masks and its effect on the mask’s efficacy. Physics of Fluids, 34.5: 051902 2022. (FeaturedArticle) 
+Liu, Y., Sussman, M., Lian, Y., Hussaini, M. Y., Vahab, M., & Shoele, K. (2022). A novel supermesh method for computing solutions to the multi-material Stefan problem with complex deforming interfaces and microstructure. Journal of Scientific Computing, 91, 1-40. Retrieved from https://doi.org/10.1007/s10915-022-01783-1 
+Ojo, Oluwafemi, and Kourosh Shoele. "Branching pattern of flexible trees for environmental load mitigation." Bioinspiration & Biomimetics (2022). 
+Wang, Tso-Kang, and Kourosh Shoele. "Mode Competition in a Plunging Foil with an Active Flap: A Multi-Scale Modal Analysis Approach." (2022), Phys. Rev. Fluids 7, 044701 – Published 12 April 2022 
+Read More 
+Wu, Shijian, Tomas Solano, Kourosh Shoele, and Hadi Mohammadigoushki. "Formation of a strong negative wake behind a helical swimmer in a viscoelastic fluid." Journal of Fluid Mechanics 942 (2022). 
+Ojo, Oluwafemi, Yu-Cheng Wang, Alper Erturk, and Kourosh Shoele. "Aspect ratio-dependent hysteresis response of a heavy inverted flag." Journal of Fluid Mechanics 942 (2022). 
+Vahab, M., Murphy, D., & Shoele, K. (2022). Fluid dynamics of frozen precipitation at the air–water interface. Journal of Fluid Mechanics, 933. 
+2021 
+Wang, Tso-Kang, Solano, T., & Shoele, K. (2021). Bridge the gap: correlate face mask leakage and facial features with 3D morphable face models. Journal of exposure science & environmental epidemiology, 9-Jan. 
+Vahab, M., Sussman, M., & Shoele, K. (2021). Fluid-structure interaction of thin flexible bodies in multi-material multi-phase systems. Journal of Computational Physics, 429, 110008. 
+Wang, Tso-Kang, & Shoele, K. (2021). Geometrically weighted modal decomposition techniques. Journal of Fluid Mechanics, 911. 
+Solano, Tomas, Rajat Mittal, and Kourosh Shoele. "One size fits all?: A simulation framework for face-mask fit on population-based faces." PloS one 16, no. 6 (2021): e0252143. 
+Read More 
+2020 
+Kopperstad, Karsten M., Rajan Kumar, and Kourosh Shoele. "Aerodynamic characterization of barge and spar type floating offshore wind turbines at different sea states." Wind Energy 23, no. 11 (2020): 2087-2112. 
+Read More 
+Eastham, Patrick S., and Kourosh Shoele. "Axisymmetric squirmers in Stokes fluid with nonuniform viscosity." Physical Review Fluids 5, no. 6 (2020): 063102. 
+Read More 
+Solano, Tomas, Juan C. Ordonez, and Kourosh Shoele. "Flapping dynamics of a flag in the presence of thermal convection." Journal of Fluid Mechanics 895 (2020). 
+Read More 
+Rips, Aaron, Kourosh Shoele, and Rajat Mittal. "Heat transfer enhancement in laminar flow heat exchangers due to flapping flags." Physics of Fluids 32, no. 6 (2020): 063603. 
+Read More 
+2018 
+Shoele, Kourosh, and Patrick S. Eastham. "Effects of nonuniform viscosity on ciliary locomotion." Physical Review Fluids 3, no. 4 (2018): 043101. 
+Read More 
+2017 
+Orrego, Santiago, Kourosh Shoele, Andre Ruas, Kyle Doran, Brett Caggiano, Rajat Mittal, and Sung Hoon Kang. "Harvesting ambient wind energy with an inverted piezoelectric flag." Applied Energy 194 (2017): 212-222. 
+Read More 
+2016 
+K. Shoele, R. Mittal. Energy harvesting by flow-induced flutter in a simple model of an inverted piezoelectric flag. Journal of Fluid Mechanics, 790, 582- 606, 2016. 
+Read More 
+K. Shoele, R. Mittal. Flutter instability of a thin flexible plate in a channel. Journal of Fluid Mechanics, 786: 29-46, 2016. 
+Read More 
+2015 
+M. Previsic, K. Shoele and J. Epler. Experimental and numerical investigation of dynamic and performance of heaving point absorber with a subsea reaction plate. Revised, 2015. 
+Read More 
+K. Shoele, Q. Zhu. Hydrodynamics of drafting mechanism in dolphin calves beneath free surface. Journal of Theoretical Biology, 382,363–377, 2015. Highlighted Article on the webpage of Journal of Theoretical Biology. 
+Read More 
+K. Shoele and Q. Zhu. Performance of synchronized fins in biomimetic propulsion. Bioinspiration & Biomimetics, 10.2: 026008, 2015. 
+Read More 
+2014 
+K. Shoele, R. Mittal. Computational study of flow-induced vibration of a reed in a channel and effect on convective heat transfer. Physics of Fluids, 26: 127103, 2014. 
+Read More 
+2013 
+K. Shoele and Q. Zhu. Performance of a wing with nonuniform flexibility in hovering flight. Physics of Fluids, 25, 041901, 2013. 
+Read More 
+2012 
+K. Shoele and Q. Zhu. Leading edge strengthening and the propulsion performance of flexible ray fins. Journal of Fluid Mechanics, 693: 402-432, 2012. 
+Read More 
+2011 
+K. Shoele , I. Prowell, Q. Zhu and A. Elgamal. Dynamic and structural modeling of a floating wind turbine. International Journal of Offshore and Polar Engineering, 21(2), 155-160, 2011. 
+Read More 
+2010 
+K. Shoele and Q. Zhu. Numerical simulation of Labriform swimming by a pectoral fin. Journal of Experimental Biology, 213: 2038-2047, 2010. 
+Read More 
+K. Shoele and Q. Zhu. Flow-induced vibrations of a deformable ring. Journal of Fluid Mechanics, 650: 343-362, 2010. 
+Read More 
+2009 
+K. Shoele and Q. Zhu. Fluid-structure interactions of skeleton-reinforced fins: performance analysis of a paired fin in lift-based propulsion. Journal of Experimental Biology, 212(16): 2679-2690, 2009. 
+Read More 
+2008 
+Q. Zhu and K. Shoele. Propulsion performance of a skeleton-strengthened fin. Journal of Experimental Biology, 211(13), 2087-2100, 2008. Inside JEB featured article. 
+Read More 
+K. Shoele, A.Vafai and A.Kaveh. Localized identification of shear building with embedded foundation in frequency domain. The Structural Design of Tall and Special Buildings, 17(2), 245-256, 2008. 
+Read More 
+2007 
+K. Shoele, A. Vafai and A. Kaveh. Online detection of a breathing crack using an adaptive tracking technique. Acta Mechanica, 188(3), 19-154, 2007. 
+Read More 
+Conference Papers 
+2026 
+R. Bhagwat, A. Shahriar, A. K. Mittal, and K. Shoele, 2026. Data-Driven Modal Analysis of Shock-Wave Boundary Layer Interactions Over a Rigid and a Compliant Surface. AIAA SCITECH 2026 Forum , Paper 2675, 2026. 
+A. Mittal, A. Shahriar, and K. Shoele, 2026. Aero-Thermo-Elastic Analysis of Swept Shock Wave-Boundary Layer Interaction. AIAA SCITECH 2026 Forum , Paper 2676, 2026.
+Poudel, N., & Shoele, K. Multi-Fidelity Fluid-Thermal-Structural Assessment of Heat-Pipe-Cooled Hypersonic Leading Edges. AIAA AVIATION 2026 Forum , 2026.
+Pal, A. K., Sussman, M., & Shoele, K. Dynamics of Drop Deformation and Breakup Under High-Speed Shock-Wave Interaction. AIAA AVIATION 2026 Forum , 2026.
+2025 
+R. Bhagwat, A. Shahriar, A. de Leon, M. Patadia, B. Tuna, R. Sweat, and K. Shoele. Towards Drag Reduction Using Compliant Riblets: An Experimental and Numerical Study. AIAA SCITECH 2025 Forum , Paper 3834, 2025.
+P. Giabbanelli, M. A. Witherow, and K. Shoele. Emerging Uses of AI-Generated Images in Scientific Communication. AAAI Symposium Series , 7(1), 20-25, 2025.
+A. Jiang and K. Shoele. Turbulent boundary layer interaction with flexible fractal tree canopies. AMS 21st Symposium on Boundary Layers and Turbulence , 2025.
+R. Bhagwat, A. Shahriar, and K. Shoele. Multifidelity Modeling of Turbulent Flow over Flexible Riblets. DisCoVor , 2025.
+A. Anand, V.Tavanashad, and K. Shoele. Dynamics of Flexible Fiber Sedimentation and Cluster Formation 
+at Finite Reynolds Numbers. In AIAA SCITECH 2025 Forum, p. 1683. 2025. 
+G. Maurya, TK Wang, and K. Shoele. Turbulent Flow Over Wavy Surfaces: Unravelling Differences Between Water and Rayleigh Waves. In AIAA SCITECH 2025 Forum, p. 2750. 2025. 
+2024 
+A. Shahriar, and K. Shoele. Fully coupled aero-thermo-elastic analysis of shock-waveandturbulent boundary layer interactions. In AIAA AVIATION FORUM AND ASCEND 2024, p. 4055. 2024. 
+2023 
+A. Jiang, O. Ojo, and K. Shoele. Turbulence Interaction with Re-configurable Fractal Tree Canopies. Discovor-Vortex Dominated Flow meeting, 2023. 
+A. Anand, T. Solano, and K. Shoele. Effectiveness of Facemasks for Large Virtual Cohort of Population. Discovor-Vortex Dominated Flow meeting, 2023. 
+A. Shahriar, R. Kumar and K. Shoele. Fully Coupled Aero-thermo-elastic Analysis of Shock-wave and Turbulent Boundary Layer Interactions. AIAA Aviation 2023 Forum, American Institute of Aeronautics and Astronautics, 2023. (Submitted) 
+A. Tripathi, M. Sheehan, J. Gustavsson, K.Shoele and R. Kumar. Effect of Panel Compliance on Shockwave Boundary Layer Interaction at Mach 2. AIAA Aviation 2023 Forum, American Institute of Aeronautics and Astronautics, 2023. (Submitted) 
+A. Moradikazerouni, T. Solano, M. Sussman, K.Shoele. Simulation of Natural Convection in Two-Phase Cryogenic Tanks Using Sparse Identification of Nonlinear Dynamics. AIAA Scitech 2023 Forum, American Institute of Aeronautics and Astronautics, 2023. (Submitted) 
+2022 
+W. Tso-Kang, K. Shoele, Geometrically Weighted Modal Decomposition of Morphing Bodies. Discovor-Vortex Dominated Flow meeting, 2022. 
+A. Shahriar, K. Shoele Vortex interactions in the wake of the axisymmetric elongated body. Discovor-Vortex Dominated Flow meeting, 2022. 
+O. Ojo, K. Shoele, Bistable Response of Inverted Flags with Moderate Aspect Ratios. Discovor-Vortex Dominated Flow meeting, 2022. 
+B. Van Stratum, MP. Austin, K. Shoele and J. Clark. Comparative Model Evalua-tion with a Symmetric Three-Link Swimming Robot. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2672-2678, 2022. 
+A. Anand,TK.Wang, T. Solano,K.Shoele. A Mathematical Framework to Calculate Facemask’s Effective Filtration Efficiency in Large Population. 19th U.S.National Congress on Theoretical and Applied Mechanics, Meeting Abstracts, 2022. 
+J. Gallentine, EJ. Barth, K. Galloway, Kevin, B. Van Stratum, J.Clark,and K. Shoele. A Multimodal Climbing-Swimming Soft Robotic Lamprey. Proceedings of the 2022 Bath/ASME Symposium on Fluid Power and Motion Control, FPMC,2022. 
+S. Provat, M. Sussman, K. Shoele. Adjoint-based control of electroconvection fordierent patterned surfaces. 19th U.S. National Congress on Theoretical and AppliedMechanics, Meeting Abstracts, 2022. 
+V. Tavanashad, K.Shoele. Physical Insight into Shock Wave Turbulent Boundary Layer Interaction of Compressible Flows. 19th U.S. National Congress on Theoreticaland Applied Mechanics, Meeting Abstracts, 2022. 
+AJ. Jiang, O.Ojo, K.Eetu, E.Alper, K.Shoele. Flow-induced Vibrations of Closely Packed Flapping Flags. 19th U.S. National Congress on Theoretical andApplied Mechanics, Meeting Abstracts, 2022. 
+A. Tripathi, J. Gustavsson, K. Shoele, R. Kumar. Effect of Shock Impingement location on the Fluid-Structure Interaction over a Compliant Panel. AIAA SCITECH 2022 Forum, American Institute of Aeronautics and Astronautics, 2022. 
+2021 
+Rosenberg, Kevin T., Albert Medina, Tso-Kang Wang, and Kourosh Shoele. "Resolvent Analysis of Morphing Bodies." AIAA Aviation 2021 Forum. 2021. 
+Wang, Tso-Kang, and Kourosh Shoele. "Identification of Transient Modes During Formation and Detachment of a Laminar Separation Bubble using Kernel Mode Decomposition." AIAA Scitech 2021 Forum. 2021. 
+Ojo, O., & Shoele, K. (2021). Load reduction and reconfiguration capabilities of branched trees. In Integrative and Comparative Biology (pp. E664-E664). Oxford Univ Press Inc Journals Dept, 2001 Evans Rd, Cary, Nc 27513 USA. 
+Tavanashad, Vahid, and Kourosh Shoele. "Analysis of Shock-wave Boundary Layer Interaction in Compressible Flows over Rigid and Flexible Surfaces." In AIAA AVIATION 2021 FORUM, p. 2807. 2021. 
+Read More 
+Ojo, Oluwafemi, Kourosh Shoele, Alper Erturk, Yu-Cheng Wang, and Eetu Kohtanen. "Numerical and experimental investigations of energy harvesting from piezoelectric inverted flags." In AIAA Scitech 2021 Forum, p. 1323. 2021. 
+Read More 
+Shahriar, Al, and Kourosh Shoele. "Vortex interactions in the wake of the axisymmetric body in uniform cross-stream." In AIAA Scitech 2021 Forum, p. 0026. 2021. 
+Read More 
+Wang, Tso-Kang, Akriti Tripathi, Al Shahriar, Vahid Tavanashad, Rajan Kumar, and Kourosh Shoele. "Flow-Informed Vibration-Based Health Monitoring Technique." In AIAA AVIATION 2021 FORUM, p. 2495. 2021. 
+Read More 
+Anand, A., Wang, Tso-Kang, Solano, T., Breuer, K., Mittal, R., & Shoele, K. (2021). Analytical Model to Infer Mask Peripheral Leakage Pattern in Large Population. In Bulletin of the American Physical Society. American Physical Society. 
+Shoele, K., & Mohammadigoushki, H. (2021). Bacteria Swimming in finitely extensible viscoelastic fluids. In Bulletin of the American Physical Society. American Physical Society. 
+Moradikazerouni, A., & Shoele, K. (2021). Computational study of Rayleigh-Bernard convection in a cylindrical pressurized cryogenic tank. In Bulletin of the American Physical Society. American Physical Society. 
+Liu, Y., Vahab, M., Shoele, K., & Sussman, M. (2021). Drop Transmission After the Impact on Woven fabrics. In Bulletin of the American Physical Society. American Physical Society. 
+Tucker, E., Chowdhury, J., Cho, Jay-Young, Shoele, K., Mittal, R., & Breuer, K. (2021). Flow permeability and flow-induced deformations of medical face masks and mask materials. In Bulletin of the American Physical Society. American Physical Society. 
+Shahriar, A., Kumar, R., & Shoele, K. (2021). Force generation by the wake of an axisymmetric cone at high angles of attack. In Bulletin of the American Physical Society. American Physical Society. 
+Wang, T. K., & Shoele, K. (2018). Aeroelastic Flutter in the Presence of an Active Flap. In 2018 Fluid Dynamics Conference (p. 3089). 
+Wang, Tso-Kang, & Shoele, K. (2021). Kernel Mode Decomposition for Time-Frequency Localization of Transient Flow. In Bulletin of the American Physical Society. American Physical Society. 
+Aslani, M., & Shoele, K. (2021). A Computational Technique for Studying Shock-Induced Bubble Cavitation Near Compliant Surfaces. In 25th International Congress of Theoretical and Applied Mechanics (ICTAM 2020+1) (pp. 808). IUTAM, 2021, ISBN 978-83-65550-31-6. 
+Eastham, P. S., & Shoele, K. (2021). The Effect of Local Fluid Rheology on Phoretic Modes. In 25th International Congress of Theoretical and Applied Mechanics (ICTAM 2020+1). IUTAM, 2021, ISBN 978-83-65550-31-6. 
+Provat, S., Sussman, M., & Shoele, K. (2021). Numerical Simulation of Pattern Accelerated Electroconvection. In Bulletin of the American Physical Society. American Physical Society. 
+Boyun, A. F., Solano, T., & Shoele, K. (2021). Optimization of Offshore Wave Energy Harvester Using Reinforcement Learning. In Bulletin of the American Physical Society. American Physical Society. 
+Van Stratum, B., Clark, J., Barth, E., & Shoele, K. (2021). Optimization of Soft Robot Swimmer Using Lighthill's Large-amplitude Elongated-body Theory. In Bulletin of the American Physical Society. American Physical Society. 
+Tavanashad, V., & Shoele, K. (2021). Sedimentation of flexible fiber suspensions and large cluster formation at finite Reynolds number. In Bulletin of the American Physical Society. American Physical Society. 
+Read More 
+Ni, C., Solano, T., Wang, Tso-Kang, Seo, Jung-Hee, Shoele, K., Breuer, K., & Mittal, R. (2021). Simple Models of Face Mask Aerodynamics to Quantify Effects of Peripheral Leaks on Mask Effectiveness. In Bulletin of the American Physical Society. American Physical Society. 
+Giannareas, Y., & Shoele, K. (2021). Surveillant and hydrodynamic benefits of fish schooling. In Bulletin of the American Physical Society. American Physical Society. 
+Solano, T., Shoele, K., Breuer, K., & Mittal, R. (2021). The connection between mask deformation and peripheral leakage. In Bulletin of the American Physical Society. American Physical Society. 
+Ojo, O., & Shoele, K. (2021). Turbulence-induced Reconfiguration of Fractal-Branched Trees in a Forest. In Bulletin of the American Physical Society. American Physical Society. 
+2020 
+Tripathi, Akriti, Lee Mears, Kourosh Shoele, and Rajan Kumar. "Oblique Shockwave Boundary Layer Interactions on a Flexible Panel at Mach 2." In AIAA Scitech 2020 Forum, p. 0568. 2020. 
+Read More 
+Moradikazerouni, A., Vahab, M., & Shoele, K. (2020). A 0D/3D nodal-CFD method of cylindrical pressurized tanks. In APS Division of Fluid Dynamics Meeting Abstracts (pp. T01. 014). American Physical Society. 
+Vahab, M., Sussman, M., & Shoele, K. (2020). A critical comparison between computational models of evaporation and boiling. In APS Division of Fluid Dynamics Meeting Abstracts (pp. R03. 009). American Physical Society. 
+Wang, Tso-Kang, & Shoele, K. (2020). Aeroelastic Flutter of an Airfoil in the Presence of an Active Flap. In APS Division of Fluid Dynamics Meeting Abstracts (pp. S02. 023). American Physical Society. 
+Solano, T., Shoele, K., & Ordonez, J. (2020). Conjugate heat transfer modeling and optimization of in plane cooling channels. In APS Division of Fluid Dynamics Meeting Abstracts (pp. T01. 001). American Physical Society. 
+Shahriar, A., & Shoele, K. (2020). Fluid dynamics of axisymmetric elongated bodies at high angle of attacks. In APS Division of Fluid Dynamics Meeting Abstracts (pp. F13. 007). American Physical Society. 
+Ojo, O., & Shoele, K. (2020). Piezoelectric energy harvesting of an inverted flag behind a bluff body. In APS Division of Fluid Dynamics Meeting Abstracts (pp. Y12. 006). American Physical Society. 
+Van Stratum, B., Clark, J., & Shoele, K. (2020). The Effects of Internal Damping on Locomotion in Frictional Environments. In APS Division of Fluid Dynamics Meeting Abstracts (pp. Q03. 030). American Physical Society. 
+2019 
+Richardson, Ross, Tso-Kang Wang, Louis N. Cattafesta, and Kourosh Shoele. "Dynamics of a Separation Bubble Subject to Compliant Surface Motion." AIAA Aviation 2019 Forum. 2019. 
+Ojo, Oluwafemi, David Tan, Yu-Cheng Wang, Kourosh Shoele, and Alper Erturk. "Aspect ratio effects in wind energy harvesting using piezoelectric inverted flags." In Active and Passive Smart Structures and Integrated Systems XIII, vol. 10967, p. 109670Q. International Society for Optics and Photonics, 2019. 
+Read More 
+Solano, T., Ordonez, J., & Shoele, K. (2019). Conjugate Thermal Boundaries Effect On Natural Convection Flow Structures In Enclosures. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Shoele, K., & Wang, T. (2019). Geometrically-weighted Modal Analysis Technique. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Wang, Tso-Kang, & Shoele, K. (2019). Separation Bubble Subject to a Compliant Surface: A Linear Approach. In Bulletin of the American Physical Society. American Physical Society. 
+Vahab, M., Shoele, K., & Murphy, D. (2019). Thermal and Fluid Dynamics of Snow vs. Rain at the Air-Water Interface. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Shahriar, A., Shoele, K., & Kumar, R. (2019). Vortex formation at the apex of an oblique cone in uniform cross-stream. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Ojo, O., & Shoele, K. (2019). Wind-Induced Damage Propagation in a Branched Tree Forest. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+2018 
+Wang, Tso-Kang, and Kourosh Shoele. "Aeroelastic flutter in the presence of an active flap." 2018 Fluid Dynamics Conference. 2018. 
+Shahriar, A., Shoele, K., & Kumar, R. (2018). Aero-thermo-elastic Simulation of Shock-Boundary Layer Interaction over a Compliant Surface. In 2018 Fluid Dynamics Conference (p. 3398). 
+Read More 
+Eastham, P., & Shoele, K. (2018). Coupling between swimming and feeding efficiencies of ellipsoidal squirmers in a nutrient-dependent viscous flow. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Shoele, K. (2018). Energy extraction from water waves using a moving piezoelectric plate. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Wang, Tso-Kang, & Shoele, K. (2018). Stability Analyses of a Foil with an Active Trailing-edge Flap. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Solano, T., & Shoele, K. (2018). Thin plate fluttering by thermally induced buoyancy effects. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Wang, T. K., & Shoele, K. (2018). Aeroelastic Flutter in the Presence of an Active Flap. In 2018 Fluid Dynamics Conference (p. 3089). 
+Read More 
+Vahab, M., Shoele, K., & Sussman, M. (2018). Interaction of an Oscillating Flexible Plate and Nucleate Pool Boiling Vapor Bubble: Fluid-Structure Interaction in a Multimaterial Multiphase System. In 2018 Fluid Dynamics Conference (p. 3718). 
+Read More 
+Kopperstad, K., Shoele, K., & Kumar, R. (2018). A Combined Experimental and Numerical Study of the Floating Wind Turbines. In 2018 Applied Aerodynamics Conference (p. 3828). 
+Read More 
+2017 
+Shoele, K. (2017). Viscoelastic model for describing the response of transcatheter aortic valves. In International Conference on Computational and Mathematical Biomedical Engineering. CMBE. 
+Eastham, P., & Shoele, K. (2017). Ciliary Locomotion in Varying Viscosity Flow. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Clemmer, N., Kopperstad, K., Solano, T., Shoele, K., & Ordonez, J. (2017). Gravity effects on wind-induced flutter of leaves. In APS Division of Fluid Dynamics Meeting Abstracts. American Physical Society. 
+Ojo, Oluwafemi, and Kourosh Shoele. "Wind-Induced Reconfigurations in Flexible Branched Trees." In APS Meeting Abstracts. 2017. 
+Read More 
+Shoele, Kourosh. "Flow interaction with a flexible viscoelastic sheet." In APS Meeting Abstracts. 2017. 
+Read More 
+Clemmer, Nickalaus, Karsten Kopperstad, Tomas Solano, Kourosh Shoele, and Juan Ordonez. "Gravity effects on wind-induced flutter of leaves." In APS Meeting Abstracts. 2017. 
+Read More 
+Rips, Aaron, Kourosh Shoele, and Rajat Mittal. "Flow-Induced Flutter of Multiple Inverted Flags for Improved Energy Harvesting." Bulletin of the American Physical Society 62 (2017). 
+Read More 
+Eastham, Patrick, and Kourosh Shoele. "Ciliary Locomotion in Varying Viscosity Flow." Bulletin of the American Physical Society 62 (2017). 
+Read More 
+Rips, Aaron, Kourosh Shoele, Ari Glezer, and Rajat Mittal. "Efficient electronic cooling via flow-induced vibrations." In Thermal Measurement, Modeling & Management Symposium (SEMI-THERM), 2017 33rd, pp. 36-39. IEEE, 2017. 
+Read More 
+2015 
+Rips, A., Shoele, K., & Mittal, R. (2016). Flow-Induced Flutter of Multi-Inverted Flag Configurations: Vortex Dynamics and Flutter Behaviors. In Bulletin of the American Physical Society. American Physical Society. 
+Ruas, A., Orrego, S., Doran, K., Rips, A., Shoele, K., Kang, S. H., & Mittal, R. (2016). Harvesting Energy from the Flow-Induced Flutter of aPiezoleaf'. In APS March Meeting Abstracts. American Physical Society. 
+Rips, Aaron, Kourosh Shoele, and Rajat Mittal. "Flow-Induced Flutter of Multi-Inverted Flag Configurations: Vortex Dynamics and Flutter Behaviors." In APS Division of Fluid Dynamics Meeting Abstracts. 2016. 
+Read More 
+2015 
+H. Bakhshaee, G. Garreau, G. Tognetti, K. Shoele, R. Carrero, T. Kilmar, Z. Chi, WR. Thompson, JH. Seo, R. Mittal, AG. Andreou, Mechanical design, instrumentation and measurements from a hemoacoustic cardiac phantom. Information Sciences and Systems (CISS), 2015 49th Annual Conference on ,1,5, 2015. 
+Read More 
+2014 
+K. Shoele , A. Glezer and R. Mittal. Enhancement of convective heat transfer in a micro-channel using flexible self-oscillating reeds. 17th USNCTAM, Michigan, 2014. 
+Read More 
+JH. Seo, K. Shoele and R. Mittal. Computational modeling of the effect of mitral-valve leaflet dynamics on intraventricular flow. WCCM XI, Barcelona, 2014. 
+Read More 
+2013 
+K. Shoele and M. Previsic. Unified modeling and simulation of marine hydrokinetic devices. EWTEC2013, Aalborg, Denmark, 2013. 
+Read More 
+M.Previsic and K. Shoele. Cost reduction pathways for wave energy. EWTEC2013, Aalborg, Denmark, 2013. 
+Read More 
+Book Chapters 
+2012 
+Q. Zhu and K. Shoele. Numerical Modeling of the Performance of Ray Fins in Fish Locomotion. Natural Locomotion in Fluids and on Surfaces, The IMA Volumes in Mathematics and its Applications, 155(2), 151-157, 2012. 
+Read More 
+Patents 
+2012 
+K.Shoele and M. Vahab*. Active vortex generator to improve heat transfer in heat exchangers. U.S. Patent Application, 16/782,117, filed August 20, 2020. 
+Read More 
+Selected Official Reports 
+2012 
+A. Shahriar, K. Shoele. A framework for studying the turbulent boundary layerinteractions with anisotropic compliant surface.Center for Turbulence Research,Stanford, 2022. 
+Read More 
+2012 
+M. Previsic, R. Jepsen, K. Shoele and et. al. Design, performance, and economic assessment for reference model 1-3. Document prepared for DOE by RE-vision, LLC, Sandia National lab, NREL and AREL, 2012. 
+Read More 
+2013 
+K. Shoele, J. Epler and M. Previsic. Wave energy reference model; theoretical performance and validation, Document prepared for DOE by RE-vision, LLC, 2013. 
+Read More 
+Our Team
+Post Doctorate Fellows
+Dr. Rutvij Bhagwat
+Postdoctoral Scholar Research
+rrb24@fsu.edu 
+Rutvij Bhagwat received his PhD from North Carolina State University. Rutvij’s work combines large-scale simulation capabilities with reduced-order modeling techniques to advance understanding, modeling, prediction, and control of complex-geometry flows across all speed-regimes. Prior to joining Florida State University as a postdoctoral scholar, he worked as a Research Fellow at the University of Michigan. Rutvij’s doctoral work involved development of large-scale stability analysis tools and their application toward high-speed compressible flows. At the University of Michigan, he worked on the development of a resolvent-based estimation & control framework and on its application towards high-speed jet noise reduction. At Florida State University, his work has focused on using resolvent-based reduced-order modeling to design optimal compliant metasurfaces for drag-reduction in turbulent boundary layers, and more recently on conducting high-fidelity simulations of gust-wing interactions towards build a low-cost gust-prediction framework. More broadly, Rutvij’s research interests include hydrodynamic stability and transition to turbulence, reduced-order modeling, hypersonics, and active / passive flow control for complex flow systems. Outside of work, he enjoys listening to classical music, opera, and reading history. 
+Dr. Mohammad Mehedi Hasan Akash
+Postdoctoral Research Associate
+ma25bc@fsu.edu 
+Mohammad Mehedi Hasan Akash is a postdoctoral scholar, focusing on developing computational fluid-structure interaction (FSI) 
+methods for turbulent flows, emphasizing drag reduction inspired by the flexible surface dynamics of dolphin skin. 
+Before his postdoctoral work, Mohammad Akash earned his PhD and MS in Mechanical Engineering from South Dakota State University. 
+His PhD research focused on computational fluid mechanics in biological systems, specifically fluid transport in dense 
+tumor vasculature and enhancing respiratory drug delivery methods. His MS thesis utilized real CT scans of human airways 
+to model and improve drug targeting to infection-prone sites, aiming to increase drug efficacy for respiratory diseases. 
+Mohammad’s research interests include fluid dynamics, multiphase flow modeling, bio-inspired engineering solutions, 
+and fluid-structure interaction (FSI). 
+Dr. Ashwani K. Pal
+Postdoctoral Research Associate
+akp25g@fsu.edu 
+Ashwani is a Postdoctoral Researcher in CTML working on a U.S. Department of Energy-sponsored project. His research centers on computational fluid dynamics, particularly the development of robust numerical frameworks for complex multiphase flows. His current work focuses on high-fidelity simulations of boiling heat transfer in cryogenic fluids and fluid-structure interactions involving particle sedimentation. Ashwani earned his Ph.D. in Mechanical Engineering from the Indian Institute of Technology Kanpur in 2025. Supported by the Government of India's Prime Minister's Research Fellowship, his doctoral research developed computational frameworks for predicting the evaporation dynamics of interacting droplets. His expertise includes multiphase flows, evaporation, fluid-structure interaction, and droplet dynamics. 
+Graduate Students
+Aojia Jiang
+PhD Candidate
+aj21p@fsu.edu 
+Aojia Jiang is pursuing a Ph.D. degree in Mechanical Engineering at Florida State University. She received her master's degree in Mechanical Engineering at the University of Florida in 2020. She worked in UFIAC for a year on the energy assessment and energy audit for small and medium-sized industrial facilities in Florida. Fluid structure interaction of multiple flags, aortic valve problems, CFD and FEM are her research interest. She enjoys music, working out, and hiking in her free time. 
+Gautam Maurya
+PhD Candidate
+gm22s@fsu.edu 
+Gautam Maurya is a Ph.D. student in Mechanical Engineering Program at Florida State University since Fall 2022. He received his M.S by Research from Indian Institute of Technology (IIT) Madras. He worked as a project associate at IIT Madras for six months to develop the laser for the steam turbines in the superheated steam regime. His research concentrates on the Fluid-Structure Interaction (FSI) of the Antarctic Krill (Euphausia Superba). More specifically, he is investigating the force dynamics underlying the metachronal motion in Krill. Moreover, he is also investigating the exchange of turbulent flow dynamics over the compliant surfaces. His research interests include turbulent flows, machine learning, and CFD. 
+Akash Mittal
+PhD Student
+akm24g@fsu.edu 
+Akash Mittal is a Ph.D. candidate in Mechanical and Aerospace Engineering at Florida State University since Fall 2024. He conducts research on Fluid-Structure Interaction (FSI) in supersonic flows over flexible panels to better understand the Shock-Turbulent Boundary Layer Interaction through computational simulations and developing physics-based diagnostic framework to identify underlying mechanisms. He received Master's degree in Aerospace Engineering from Defence Institute of Advanced Technology, India, and investigated shock interaction within a complex environment of dusty medium, combustible mixture, and suspended fuel droplets. Akash has gained experience in CFD, AI-ML, Aerodynamics, Flight mechanics, and Intake Aerodynamics for fundamental design characterization of missile and aircraft at Defence Research and Development Laboratory (DRDL) and Aeronautical Development Agency (ADA), India, as Project Engineer. His research interest includes study of FSI for various flow regimes, study of Micro Air Vehicles, flapping wings, Bio-inspired design, and exploration of AI-ML potential for coupled CFD problems. He is interested in sharing collection of his developing codes at https://github.com/AkashMittal29 . 
+Chinmoy Deb Nath
+PhD Candidate
+Chinmoy Deb Nath is a Ph.D. student in Mechanical Engineering at Florida State University. His current research focuses on the fluid dynamics of yield-stress fluids, with an emphasis on the flow behavior and hydrodynamic resistance of objects moving through viscoplastic materials. His work involves experimental and numerical investigation of complex fluid-structure interactions and the effects of rheological properties on flow dynamics. 
+Before joining Florida State University, Chinmoy completed his B.Sc. in Mechanical Engineering at Chittagong University of Engineering and Technology (CUET), Bangladesh. His undergraduate thesis focused on the computational investigation of perfluorocarbon gas bubble dynamics in three-dimensional bifurcating arteries, examining the effects of bifurcation geometry and non-Newtonian blood rheology on bubble transport and splitting behavior with potential applications in gas embolotherapy. 
+His research interests include non-Newtonian fluid dynamics, multiphase flow, bubble dynamics, and fluid-structure interaction (FSI). 
+Jagatprio Dev Jion
+PhD Candidate
+Jagatprio Dev Jion is a Ph.D. student in Mechanical Engineering at Florida State University. He received his B.Sc. in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). During his undergraduate studies, he worked on designing and fabricating a smart electric water heater that integrates PID temperature control with phase-angle power control to improve energy efficiency. 
+At CTML, his research focuses on computational modeling of turbulent flow and fire dynamics in vegetated canopies, particularly on understanding how canopy structure and atmospheric turbulence affect fire spread and behavior. His research interests include computational modeling of complex fluid flows and heat transfer, control of thermal systems, and nanoscale heat transfer. 
+Nishchal Poudel
+PhD Candidate
+Nishchal Poudel is a Ph.D. student at Florida State University since Fall 2025. He earned his undergraduate degree in Aerospace Engineering from Tribhuvan University in Nepal, where his senior project focused on hypersonic fluid-structure interaction (FSI) using coupled simulations and piston-theory-based analytical models. 
+Before joining CTML, Nishchal worked as a Research Engineer at his alma mater. In this role, he contributed to computational and experimental projects, including the development of coupled fluid-thermal-structural interaction (FTSI) frameworks, analytical models for hypersonic aerothermoelasticity, the design and testing of a piston-driven shock tunnel, and aeroelastic studies of UAV wings. 
+At CTML, his research investigates Multiphysics problems in high-speed aerodynamics, with a focus on aerodynamic heating, shock–boundary layer interactions, FTSI, and thermal protection systems (TPS) relevant to hypersonic flight. 
+His research interests include CFD, FSI, hypersonics, and high-fidelity simulation methods. 
+Sukumar Roy
+PhD Candidate
+Sukumar Roy is a Ph.D. student in Mechanical Engineering at the FAMU-FSU College of Engineering. He obtained his B.Sc. degree in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). Prior to pursuing his PhD degree, he served as a System Engineer at Biman Bangladesh Airlines. His current research focuses on flow boiling enhancement through fluid-structure interaction (FSI) and the identification of boiling regimes and acoustic effects in cryogenic accelerator cooling. His research interests include fluid–structure interaction (FSI), multiphase flow, computational fluid dynamics (CFD), and machine learning. 
+Turag Dev
+PhD Candidate
+Turag Dev is a Ph.D. student in Mechanical Engineering at the FAMU–FSU College of Engineering and has been a member of CTML since Fall 2025. He received his B.Sc. degree in Mechanical Engineering from Chittagong University of Engineering and Technology (CUET), Bangladesh. 
+His previous research used computational fluid dynamics to investigate aerosol transport and deposition in a realistic, CT-reconstructed human lung under different body orientations and transient breathing conditions. 
+His current research focuses on developing compact, quantum-compatible representations of turbulent flows and closure quantities using direct numerical simulation, homogenization-based closure modeling, and Matrix Product States (MPS), a quantum-inspired tensor-network representation. 
+His research interests include computational fluid dynamics, turbulence, numerical methods, high-performance computing, tensor-network methods, and quantum algorithms for engineering applications. 
+Burak Ediz Evren
+PhD Candidate
+be25e@fsu.edu 
+Burak Ediz Evren is a PhD student at Florida State University Mechanical and Aerospace Engineering Department since Spring 2026. He received his Bachelor's Degrees in Industrial Engineering and Mechanical Engineering at TOBB University of Economics and Technology, Ankara. His research focus is on unsteady aerodynamics, specifically airfoil-gust interactions and vortex dynamics. He is currently working towards specializing in experimental flow diagnostics (particularly on PIV) and deep reinforcement learning based flow predictions. 
+Former Group Members
+Dr. Yang Liu
+Postdoctoral Research Associate
+Dr. Yang Liu obtained his Ph.D. degree of Mathematics from Florida State University in summer 2020. His research was focused on developing numerical methods for multi-material multi-phase problems involving phase change and material processing. During his graduate studies, he developed a novel supermesh numerical method involving stationary and deforming boundaries for computing solutions to the multi-material diffusion problem in complex geometries with microstructures. His other research interests include sharp interface capturing method, numerical analysis, numerical optimization, and computational geometry. At CTML team, he was working on high-fidelity AMR based CFD simulation and developing turbulence wall model for convection on very coarse grid for cryogenic tanks. 
+Dr. Vahid Tavanashad
+Postdoctoral Research Associate
+Vahid Tavanashad received his Ph.D. in Mechanical Engineering from Iowa State University in 2020. During his PhD studies, he developed a fully-resolved direct numerical simlation solver for buoyant particle-laden flows and used it to perform simulations of particle-fluid flow for physics discovery and model development. At CTML, his research was focused on developing a multiphysics health monitoring framework for high-speed vehicles. In addition, he studied the fluid-structure interaction in suspension of deformable particles to examine the effect of deformability on the suspension rheology. 
+Dr. Mehdi Vahab
+Research Faculty
+Mehdi received his Ph.D. in Applied Science in 2014 from University of California Davis. He was working on development and application of numerical methods for multi-material and multi-phase systems. At CTML, he focused on the development of a general purposed Fluid-Structure Interaction (FSI) multiphase code to support the group endeavorer to study fundamental and real-world problems. He was also investigating the effects of active vortex generators of heat transfer and phase-change dynamics. 
+Dr. Mohamad Aslani
+Postdoctoral Research Associate
+Mohamad Aslani received his Ph.D. from the Department of Aerospace Engineering at Iowa State University in 2017. Before joining CTML, he was a Postdoctoral fellow in the Department of Mathematics at Florida State University where he worked on direct numerical simulation of compressible flows using the adaptive wavelet collocation method. Dr. Aslani has been involved in multiple multidisciplinary projects including multiphase flows, combustion, optimization, and machine learning. At CTML, his research was focused on developing a Multiphysics Health Monitoring Framework for high-speed vehicles and developing numerical methods for compressible multiphase flows. 
+Akshay Anand
+PhD Candidate
+Akshay Anand is a PhD candiadate in Mechanical Engineering at Florida State University. He received his master's degree in Aeronautics and Space with a major in Turbulence, offered jointly by Ecole Centrale de Lille and ENSMA, France. Akshay has worked at Georgia Tech (Lorraine, France) and the French National Center for Scientific Research (CNRS) for a year. He performed high-fidelity simulations for supersonic airliners and market demand estimations for Urban Air Vehicles. His current research focuses on quantifying the effects of facial features on peripheral leakage from human faces. Other research interests include reduced-order modeling (ROM), computational fluid dynamics (CFD), and enabling computer vision and FSI to solve complex engineering problems. You can find out more about his research and previous works at a-anand.com . 
+Akriti Tripathi
+PhD Candidate
+Akriti was a PhD candidate at FCAAP in the Mechanical Engineering department at Florida State University working with Drs Rajan Kumar and Kourosh Shoele. She received her undergraduate degree in Aerospace Engineering and master’s degree in Space Engineering from Birla Institute of Technology, Mesra, India with a specialization in High-Speed Aerodynamics . Her master’s thesis was carried out in the Experimental Aerodynamics Division of National Aerospace laboratories, Bangalore, India on the control of Exhaust –freestream interaction on a boat-tailed missile afterbody in the transonic and low supersonic regime. Her undergraduate thesis was based on flutter analysis of a wing at a cruise Mach number of 0.88. Post her masters, she worked as an Aerodynamics engineer at General Electric, Aviation, India on several projects based on design of various components of turbofan engines for commercial and power generation applications using RANS and LES. She also worked in the Aeroacoustics group on the noise-decomposition of the turbofan engines in the aeroacoustics group at GE Aviation. Her current research focuses on the effect of shock/boundary –layer interactions on the aero-thermo-structural coupling of compliant panels in high-speed flows using a wide range of experimental investigation techniques such as Shadowgraph, Surface Oil-flow, PIV, PSP, DIC among others. Her research interests include experimental and computational fluid mechanics of high/low speed flows, shock/boundary-layer interactions, turbomachinery aerodynamics, fluid -structure interaction. 
+Brian Van Stratum
+PhD Candidate
+Brian Van Stratum was a graduate student at Florida State University pursuing a Ph.D. in Mechanical Engineering. Brian joined the CTM Lab in 2020 to study the interaction of flexible cables with frictional and fluid environments. Brian has four years of experience in forensic engineering. In 2012-2017, he engaged in community development engineering research at Tribhuvan University in Nepal. Brian earned a B.S. in Mechanical Engineering in 2002 from Florida State University. Brian’s research interests are dynamics, controls, and robotics. 
+Shirin Provat
+PhD Candidate
+Shirin Provat was a Ph.D. Candidate in the Department of Mathematics at Florida State University. She was currently working on pattern accelerated electroconvection under the supervision of Dr. Mark Sussman and Dr. Kourosh Shoele. Her research focuses on finding optimal conditions for enhancing electroconvection. Her research interests include Numerical optimization, Optimal Control, and Computational Fluid Dynamics. Her hobbies are gardening and painting. 
+Tomas S. Munoz
+PhD Candidate
+Tomas Solano received a Ph.D. degree in Mechanical Engineering at Florida State University. Previously, we graduated from Florida State University with a BS in Mechanical Engineering in 2016. His PhD research was about theoretical and numerical thermal fluids studies. Researching fluid-thermal-structure interactions and its application to thermal management and renewable energy generation. His interests include computational fluid dynamics (CFD), reduced order modeling (ROM), and optimization, with specific applications to energy. 
+Tso-Kang Wang
+PhD Candidate
+Tso-Kang Wang received a Ph.D. degree in Mechanical Engineering at Florida State University under the guidance of Dr. Kourosh Shoele. His research interest was about controlling the complicated interaction between flow and structures. Active research topics include controlling the fluttering of an airfoil under the influence of an active flap actuator, flow-informed vibration based health monitoring technique, novel modal analysis methods for transient response or deforming bodies, and the peripheral leakage of the mask. The sophisticated beauty of Nature has been driving him to always dive deeper into learning and thinking, and his goal is to use what he has learnt to help this world become a better place. He also enjoys reading, playing basketball, and playing video games when he is not hitting the keyboard. 
+Oluwafemi E. Ojo
+PhD Candidate
+Oluwafemi received his PhD degree in mechanical engineering from Florida A & M University. He had his B.Tech in Metallurgical and Materials engineering in The federal university of technology, Akure, Nigeria during which he was an exchange student in his senior year at FAMU-FSU College of engineering. His research interest was Fluid structure interaction of flexible structure for piezoelectric energy harvesting and the wind-induced reconfiguration of trees during hurricanes. 
+Patrick Eastham
+PhD Research Assistant
+Patrick Eastham received his B.S. in Applied and Computational Mathematics from Florida State in 2015. He is currently at PhD student in the Biomathematics program at FSU. He was a research assistant for Dr. Shoele in 2017 and has since continued that line of research while being funded as a NSF GRFP Fellow. He has worked on the effect of variable-viscosity mechanisms on the swimming and feeding efficiency of microorganisms with applications towards artificial microswimmers, and more generally is interested in problems in biofluidmechanics. 
+Shivanshu Kumar
+PhD Student
+Shivanshu Kumar is a graduate student at Florida State University studying Mechanical Engineering. He received his Master's Degree in Thermal Engineering from the Gautam Buddha University, India. Presently, he is researching fish locomotion with the goal of improving the propulsion efficiency of a structurally-enhanced fin by using reinforcement learning. Research interests include CFD, FSI, Turbulence modeling, Thermal Flow Analysis, and Aerodynamic Shape Optimization. 
+Karsten M. Kopperstad
+Master's Student
+Karsten Mikal Kopperstad received his Bachelor's degree in mechanical engineering at the University of Stavanger in Stavanger, Norway. Prior to this he served in the Norwegian Royal Navy as a fulfillment of his Norwegian citizenship duties . Karsten is now currently pursuing a Master's degree in mechanical engineering at FAMU-FSU College of Engineering, under the guidance of Dr. Koroush Shoele and Dr. Rajan Kumar. Karsten is working as a graduate research assistant at the Florida Center for advanced Areo Propulsion facility located in Tallahassee, Florida. His research interest includes experimental and computational fluid mechanics, fluid structure interaction, and renewable energy. During his pursuit for his master’s, Karsten is conducting research of the aerodynamic properties found in the wake regime behind a floating wind turbine. 
+Gokhan Ozkan
+Graduate Student
+Gokhan Ozkan received his BS degrees in Teacher Training in Electrical Field and Energy System Engineering from Marmara University and Erciyes University, Turkey in 2006 and 2014, and his MS in Energy System Engineering from Erciyes University, Turkey in 2016. He was a lecturer at Bozok University, Turkey. He is currently a PhD candidate in Electrical and Computer Engineering at FAMU-FSU College of Engineering, and is working as a graduate research assistant at the Center for Advanced Power Systems. His research interests include control of renewable energy, especially wind energy, electricity generation, distribution, and transmission. His Areas of experties are Renewable energy, Controls, Wind energy systems. 
+Jake Burns
+Undergraduate Student
+Jake Burns was an undergraduate student at Florida State University pursuing a dual bachelor's/ master's degree in mechanical engineering. Jake is currently working on creating and 
+modeling reinforcement learning algorithms to actively control piezoelectric beams under certain flow conditions. His research interests include CFD, FSI, and experimental methods. 
+In his free time he enjoys playing video games, cooking, and reading. 
+Yanni Giannareas
+Undergraduate Student
+Yanni Giannareas was pursuing his B.S. degree in Mechanical Engineering at Florida State University since Spring 2018. His research concentrates on the hydrodynamics and hydroacoustics of fish schools, and how do they correlate to their ability to avoid predators. More specifically, with the use of 2D boundary element method solvers and fish-like locomotion algorithms, he is trying to quantify metrics such as scattered pressure and vorticity to evaluate the performance of a large range of fish school configurations. He enjoys working out, watching sports such as soccer or racing, and playing video games. 
+Joshua Segall
+Undergraduate Student
+Daniel Cerrutti
+Undergraduate Student
+Nicklaus Clemmer
+Undergraduate Student
+Outreach Activities
+Young Scholars Program (YSP)
+The Young Scholars Program (YSP) is a six-week residential science and mathematics summer program for Florida high school students with significant potential for careers in the fields of science, technology, engineering, and mathematics. The program was developed in 1983 and is currently administered by the Office of Science Teaching Activities in the College of Arts and Sciences at Florida State University. This year Aaron Allen and Matthew Crespo joined our lab at AME in Engineering Campus. 
+They learned about the fundamentals of fluid dynamics and basic procedure to conduct experiments. They also gained knowledge on state of the art technology used in this field. 
+Open House
+The FAMU-FSU College of Engineering is offering family-friendly STEM activities, including hands-on engineering stations and interactive science exhibits, aimed at bringing the science of engineering to the public during its 2019 Open House. The annual event takes place from 11 a.m. to 4 p.m. on Saturday, Feb. 23 at the college's campus at 2525 Pottsdamer St. in Innovation Park. 
+Research Experiences for Undergraduates (REU)
+The Research Experiences for Undergraduates (REU) program supports active research participation by undergraduate students in any of the areas of research funded by the National Science Foundation. REU projects involve students in meaningful ways in ongoing research programs or in research projects specifically designed for the REU program. 
+News and Openings
+Multiple PhD Positions Available
+We are looking for talented applicants for regular Ph.D. openings in the research topics pursued by our group at the Computational and Theoretical Multiphysics Laboratory , Department of Mechanical Engineering, Florida State University. 
+Application Process:
+Please apply to Dr. Kourosh Shoele ( kshoele@fsu.edu ) with subject line "PhD-Application-2026" and submit:
+Statement of research interests and background
+Complete CV
+Names and contact information of three references
+Postdoctoral Positions
+We are looking for talented applicants for regular postdoctoral openings in the research topics pursued by our group at the Computational and Theoretical Multiphysics Laboratory , Department of Mechanical Engineering, Florida State University. 
+Application Process:
+Please apply to Dr. Kourosh Shoele ( kshoele@fsu.edu ) with subject line "Postdoc-Application-2026" and submit:
+Statement of research interests and background
+Complete CV
+Names and contact information of three references
+Gallery
+Contact us
+Department of Mechanical Engineering 
+FAMU-FSU College of Engineering
+2525 Pottsdamer Street,
+Tallahassee, Florida 32310, 
+United States of America 
+E-mail: kshoele@fsu.edu 
+Homepage 
+Research 
+Team 
+Contact 
+The template of this website was collected from UIdeck

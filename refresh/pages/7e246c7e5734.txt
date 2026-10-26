@@ -1,0 +1,40 @@
+Lenhert Research Group - Lipid Nanotechnology 
+Screenreader Navigation - [ Skip to Content | Skip to Main Navigation ]
+Web 
+Student Directory 
+Faculty & Staff Directory 
+Departments & Services 
+Research 
+&bull;
+Group Members 
+&bull;
+Publications 
+&bull;
+Links 
+Research: Lipid Nanotechnology
+Lipids are responsible for cellular and sub-cellular compartmentalization as can be seen by the presence of lipid bilayers in all known biological systems. One approach to understanding lipid self-assembly is to attempt to recreate the molecular-scale self-assembly and compartmentalization function of lipids in synthetic environments. These bioinspired compartments can be made small enough to interface with living cells for high throughput drug screening microarrays, and can exhibit emergent properties such as iridescence that can be exploited for biosensing applications. 
+Miniaturizing the test-tube
+Fluid compartments such as test tubes, flasks, vials, well-plates, etc., are the most fundamental component found in most chemistry and biology labs. Although there is plenty of room to miniaturize the test-tube to form a lab on a chip that could do hundreds of thousands of experiments in a smart-phone, such devices are still experimental. Our lab makes arrays of micro- and nano-scopic lipid droplets on surfaces in order to encapsulate and integrate many different materials into arrays, as illustrated in Figure 1 .
+Figure 1. Miniaturizing test tubes by forming micro- and nano-scopic lipid droplets on surfaces.
+We use three methods to form lipid multilayer nanostructures on surfaces: dip-pen nanolithography, nanointaglio, and evaporative edge lithography ( Figure 2 ). Lipid dip-pen nanolithography ( Figure 2A ) uses the tip of an atomic force microscope as a writing tool to deposit lipids onto surfaces.[1-3] This method allows the highest resolution to date for lipid multilayer nanofabrication and allows arbitrary patterns to be rapidly written over large areas. Nanointaglio ( Figure 2B ) uses a microstructured stamp to transfer inks to a surface.[4-6] Unlike relief printing, intaglio printing transfers the ink from the recesses in the stamp, allowing the lipid multilayers to have a volume that can be used for compartmentalization. Evaporative edge lithography is a stencil based process where lipids dissolved in a solvent and placed in the holes of the stencil.[7] The solvent is then allowed to evaporate leaving lipid lines along the edge of the stencil ( Figure 2C ).
+Figure 2. Methods for lipid multilayer nanofabrication. A. Lipid dip-pen nanolithography.[1] B. Nanointaglio.[5] C. Evaporative edge lithography.[7]
+Miniaturized high throughput screening
+One area where there is a need for compartmentalization is in the pharmaceutical industry, where high-throughput screening (HTS) is used to test more than 100,000 different compounds in micro-well plates. Large, centralized facilities are currently required for HTS, and there is a well-established need to miniaturize HTS in order to reduce the cost and time requirements, and improve the accessibility of this process. Despite the success of microarray technology in miniaturizing DNA sequence screening processes, there is a challenge to generate high density microarrays of small molecules, especially for lipophilic compounds that do not readily dissolve in aqueous solution, yet typically compose ~70% of small molecule libraries. We’ve demonstrated that lipophilic drugs encapsulated in supported lipid-multilayer compartments can be delivered to cells cultured on these arrays in a microarray format, allowing quantitative dose-reponse curves from a single array ( Figure 3 ).[8,9] This platform technology should be scalable to at least 50,000 tests on the area of one standard microtiter plate. This not only will make HTS affordable and portable for small academic or commercial laboratories, but once scaled up, will also enable HTS on primary cells from an individual patient for precision medicine.
+Figure 3. Lipid multilayer arrays for interfacing with living cells.
+Nano-biosensors
+A central concept in nanoscience is that nanostructured materials can exhibit different properties from the bulk, and in nanotechnology these properties are used to solve problems. With this philosophy in mind, we’ve structured lipids into optical diffraction gratings and used the resulting iridescence as a read-out of the nanostructure ( Figure 4 ).[10-12] Analysis of the pattern of the response of the gratings allows them to be used as an optical nose.[11] As each sensor element can be read out by a pixel in a digital camera, the sensors are highly scalable. Further functionalization of the gratings is expected to allow thousands of tests to be carried out on a single drop of water or blood. We’ve recently used lipid multilayer gratings as a model membrane system to investigate the biological question of how the vesicle trafficking protein Sar1 remodels membranes.[12] Unique to our method is the ability to vary substrate availability by lipid multilayer height in an array format, effectively allowing variation of substrate concentration in a single experiment. Lipid multilayer gratings provide a unique label-free optical readout of molecular and supramolecular events in lipid nanocompartments.
+Figure 4. Lipid multilayer grating based sensors. Iridescent diffraction gratings formed out of fluid lipids change optical properties when analytes bind, allowing for label free detection.
+References
+S. Lenhert, P. Sun, Y. H. Wang, H. Fuchs, C. A. Mirkin, Massively parallel dip-pen nanolithography of heterogeneous supported phospholipid multilayer patterns , Small 3, 71-75 ( 2007 ).
+S. Sekula, J. Fuchs, S. Weg-Remers, P. Nagel, S. Schuppler, J. Fragala, N. Theilacker, M. Franzreb, C. Wingren, P. Ellmark, C. A. K. Borrebaeck, C. A. Mirkin, H. Fuchs, S. Lenhert, Multiplexed lipid dip-pen nanolithography on subcellular scales for templating of functional proteins and cell culture , Small 4, 1785 - 1793 ( 2008 ).
+S. Lenhert, C. A. Mirkin, H. Fuchs, In situ lipid dip-pen nanolithography under water , Scanning 31, 1-9 ( 2010 ).
+O. A. Nafday, T. W. Lowry, S. Lenhert, Multifunctional lipid multilayer stamping , Small , ( 2012 ).
+T. W. Lowry, A. Kusi-Appiah, J. Guan, D. H. V. Winkle, M. W. Davidson, S. Lenhert, Materials integration by nanointaglio , Advanced Materials Interfaces 1, 1300127 ( 2014 ).
+L. Ghazanfari, S. Lenhert, Screening of Lipid Composition for Scalable Fabrication of Solvent-Free Lipid Microarrays , Frontiers in Materials 3( 2016 ).
+N. Vafai, T. W. Lowry, K. A. Wilson, M. W. Davidson, S. Lenhert, Evaporative edge lithography of a liposomal drug microarray for cell migration assays , Nanofabrication 2, 32-42 ( 2015 ).
+A. E. Kusi-Appiah, T. W. Lowry, E. M. Darrow, K. Wilson, B. P. Chadwick, M. W. Davidson, S. Lenhert, Quantitative dose-response curves from subcellular lipid multilayer microarrays , Lab on a Chip 15, 3397-3404 ( 2015 ).
+T. W. Lowry, H. Hariri, P. Prommapan, A. Kusi-Appiah, S. Lenhert, N. Vafai, E. A. Bienkiewicz, D. V. Winkle, S. M. Stagg, S. Lenhert, Quantification of protein-induced membrane remodeling kinetics in vitro with lipid multilayer gratings , Small 12, 506–515( 2016 ).
+S. Lenhert, F. Brinkmann, T. Laue, S. Walheim, C. Vannahme, S. Klinkhammer, M. Xu, S. Sekula, T. Mappes, T. Schimmel, H. Fuchs, Lipid multilayer gratings , Nature Nanotechnology 5, 275-279 ( 2010 ).
+T. W. Lowry, P. Prommapan, Q. Rainer, D. H. V. Winkle, S. Lenhert, Lipid multilayer grating arrays integrated by nanointaglio for vapor sensing by an optical nose , Sensors 15, 20863-20872 ( 2015 ).
+T. W. Lowry, H. Hariri, P. Prommapan, A. Kusi-Appiah, S. Lenhert, N. Vafai, E. A. Bienkiewicz, D. V. Winkle, S. M. Stagg, S. Lenhert, Quantification of protein-induced membrane remodeling kinetics in vitro with lipid multilayer gratings , Small 12, 506–515 ( 2016 ).
+� The Florida State University, Lenhert Research Group, BIO Unit I Building, West Call Street, Tallahassee, FL 32306-4295

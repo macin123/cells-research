@@ -1,0 +1,94 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Interaction of fluorenone excited states with the stilbenes
+Energy transfer, electron transfer 
+Research Mentor: Dr. Jack Saltiel, he, him
+Department, College, Affiliation: Chemistry & Biochemistry, Arts and Sciences
+Contact Email: jsaltiel@fsu.edu 
+Research Assistant Supervisor (if different from mentor): Ms. Sulthana Fehroza Parambilpeediyakkal Research Assistant
+Research Assistant Supervisor Email: sp22be@fsu.edu 
+Faculty Collaborators: Dr. Edwin F. Hilinski He
+Faculty Collaborators Email: hilinski@chem.fsu.edu 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Chemistry 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: at least 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+The inefficiency of fluorenone triplet energy transfer to the stilbenes
+Although rediscovered recently,1 the fluorenone triplet (3FL*) sensitized photoisomerization of the stilbenes (1St) has long been known.2,3 A puzzling aspect of the triplet energy transfer process is that careful quantum yield measurements revealed that it is only about ~85% efficient for trans-stilbene and less so for cis-stilbene.4,5 Caldwell has suggested quenching via unproductive decay from a 3FL*St exciplex,4 and a similar explanation was proposed by Valentine and Hammond,5 but definitive evidence for this or other explanations is still lacking.
+We propose to reinvestigate the fluorenone/stilbene interaction in order to determine the cause of energy wastage in triplet energy transfer. The possibility of electron transfer from excited fluorenone singlets to the stilbenes was considered,4,5 but rejected because there was little fluorenone fluorescence quenching by the stilbenes. However, there was ambiguity in this finding (see footnote 12 in ref 4). In view of the very high stilbene concentrations that were used in the photoisomerization studies, we propose to reinvestigate fluorenone fluorescence quenching. Electron transfer can also occur from the triplet excited state. We propose to investigate the interaction of fluorenone excited states with the stilbenes using fs and ps pulse excitation to monitor the transient absorption spectra of all excited states and radical ion intermediates. 
+References
+(1) Kozlowski, P. M.; Saha, S.; Maity, B.; Cavallo, L.; Thompson, L. M. Mechanistic Explanation of Enhanced E → Z Photocatalyzed Isomerization Kinetics. J. Phys. Chem. Lett. 2026, 17, 1147−1154. 
+(2) Saltiel, J.; Hammond, G. S. Mechanisms of photochemical reactions in solution. XVII. cis-trans isomerization of the stilbenes by excitation transfer from low energy sensitizers. J. Am. Chem. Soc. 1963, 85, 2515-2516. 
+(3) Hammond, G. S.; Saltiel, J.; Lamola, A. A.; Turro, N. J.; Bradshaw, J. S.; Cowan, D. O.; Counsell, R. C.; Vogt, V.; Dalton, C. Mechanisms of photochemical reactions in solution. XXII. Photochemical cis-trans isomerization. J. Am. Chem. Soc. 1964. 86, 3197-3217.
+(4) Caldwell, R. A.; Gajewski, R. P. Fluorenone-photosensitized isomerization of trans-stilbene. Inefficiencies both in intersystem crossing and in triplet excitation transfer. J. Am. Chem. Soc. 1971, 93, 532-534.
+(5) Valentine Jr, D.; Hammond, G. S.; Mechanisms of photochemical reactions in solution. LXVII. Energy wastage in photosensitized isomerization of the stilbenes. J. Am. Chem. Soc. 1972. 94, 3449-3454.
+Research Tasks: Literature Review
+Data Collection
+Data Analysis
+Skills that research assistant(s) may need: Best if student has already taken CHM 2211L
+Mentoring Philosophy
+Undergraduates have been my best research students. They credit me for teaching them how to carry out their research independently. That depends on creating an interactive environment for learning. 
+Additional Information
+Link to Publications
+https://www.chem.fsu.edu/~jsaltiel/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

@@ -1,0 +1,140 @@
+FSU Biology - Faculty Page - Dr. M. Elizabeth Stroupe 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. M. Elizabeth Stroupe
+Office: 202 Kasha Laboratory
+Office: (850) 644-1751
+Area: Cell and Molecular Biology 
+Lab: 218 Kasha Laboratory Building
+Lab: (850) 645-9317
+Fax: (850) 644-2259
+Mail code: 4380
+E-mail: mestroupe@bio.fsu.edu 
+Laboratory Home Page 
+Professor
+Ph.D., The Scripps Research Institute, 2002
+Graduate Faculty Status
+Research and Professional Interests:
+What is the relationship between a molecule's structure and its activity in the cell? I am interested in understanding the structure/function relationships driving two pathways: the transformation of a gene into a protein and sulfur metabolism. The two projects in my laboratory are not related topically, but are united in approach. In studying the progression of information from a gene to a protein include, we aim to answer how ribosomes are a ssembled into functional units. In studying the biochemical basis for sulfur metabolism, we aim to discover how electrons move from the reductase subunit to the active site of the central sulfur metabolic enzyme sulfite reductase and how sulfite reductase' essential metallic cofactor are synthesized. I use x-ray crystallography and high resoltuion single-particle cryogenic electron microscopy (cryo-EM) to probe across resolutions so I can link atomic resolution details, macromolecular assemblies, and cellular activity. 
+The lab uses a combination of x-ray crystallography and cryo-EM to determine the structure and function of these important biomolecules. 
+Selected Publications:
+Ghazi Esfahani B, Walia N, Neselu K, Garg Y, Aragon M, Askenasy I, Wei HA,Mendez JH, Stroupe ME. Structure of dimerized assimilatory NADPH-dependent sulfite reductase reveals the minimal interface for diflavin reductase binding. Nat Commun. 2025 Mar 26;16(1):2955. doi: 10.1038/s41467-025-58037-5. PMID: 40140349; PMCID: PMC11947256. 
+Asefaw BK, Walia N, Stroupe ME, Chen H, Tang Y. Unraveling mechanisms of selenium recovery by facultative anaerobic bacterium Azospira sp. A9D-23B in distinct reactor configurations. Environ Sci Pollut Res Int. 2024 Oct;31(49):59027-59040. doi: 10.1007/s11356-024-35140-6. Epub 2024 Sep 27. PMID: 39331294. 
+Esfahani BG, Randolph PS, Peng R, Grant T, Stroupe ME, Stagg SM. SPOT-RASTR-A cryo EM specimen preparation technique that overcomes problems with preferred orientation and the air/water interface. PNAS Nexus. 2024 Aug 6;3(8):pgae284. doi: 10.1093/pnasnexus/pgae284. PMID: 39108302; PMCID: PMC11303004. 
+Murray DT, Walia N, Weiss KL, Stanley CB, Randolph PS, Nagy G, Stroupe ME. Neutron scattering maps the higher-order assembly of NADPH-dependent assimilatory sulfite reductase. Biophys J. 2022 May 17;121(10):1799-1812. doi: 10.1016/j.bpj.2022.04.021. Epub 2022 Apr 20. PMID: 35443926; PMCID: PMC9199090. 
+Murray DT, Weiss KL, Stanley CB, Nagy G, Stroupe ME. Small-angle neutron scattering solution structures of NADPH-dependent sulfite reductase. J Struct Biol. 2021 Jun;213(2):107724. doi: 10.1016/j.jsb.2021.107724. Epub 2021 Mar 13. PMID: 33722582. 
+Rai J, Parker MD, Huang H, Choy S, Ghalei H, Johnson MC, Karbstein K, Stroupe ME. An open interface in the pre-80S ribosome coordinated by ribosome assembly factors Tsr1 and Dim1 enables temporal regulation of Fap7. RNA. 2021 Feb;27(2):221-233. doi: 10.1261/rna.077610.120. Epub 2020 Nov 20. PMID: 33219089; PMCID: PMC7812869. 
+Askenasy I, Stroupe ME. The Siroheme-[4Fe-4S] Coupled Center. Met Ions Life Sci. 2020 Mar 23;20:/books/9783110589757/9783110589757-016/9783110589757-016.xml. doi: 10.1515/9783110589757-016. PMID: 32851831. 
+Pennington JM, Kemp M, McGarry L, Chen Y, Stroupe ME. Siroheme synthase orients substrates for dehydrogenase and chelatase activities in a common active site. Nat Commun. 2020 Feb 13;11(1):864. doi: 10.1038/s41467-020-14722-1. PMID: 32054833; PMCID: PMC7018833. 
+Kopylov M, Jackson TM, Stroupe ME. Bulged and Canonical G-Quadruplex Conformations Determine NDPK Binding Specificity. Molecules. 2019 May 23;24(10):1988. doi: 10.3390/molecules24101988. PMID: 31126138; PMCID: PMC6572678. 
+Tavolieri AM, Murray DT, Askenasy I, Pennington JM, McGarry L, Stanley CB, Stroupe ME. NADPH-dependent sulfite reductase flavoprotein adopts an extended conformation unique to this diflavin reductase. J Struct Biol. 2019 Feb 1;205(2):170-179. doi: 10.1016/j.jsb.2019.01.001. Epub 2019 Jan 15. PMID: 30654136. 
+Cepeda MR, McGarry L, Pennington JM, Krzystek J, Stroupe ME. The role of extended Fe4S4 cluster ligands in mediating sulfite reductase hemoprotein activity. Biochim Biophys Acta Proteins Proteom. 2018 Sep;1866(9):933-940. doi: 10.1016/j.bbapap.2018.05.013. Epub 2018 May 28. PMID: 29852252. 
+Askenasy I, Murray DT, Andrews RM, Uversky VN, He H, Stroupe ME. Structure-Function Relationships in the Oligomeric NADPH-Dependent Assimilatory Sulfite Reductase. Biochemistry. 2018 Jul 3;57(26):3764-3772. doi: 10.1021/acs.biochem.8b00446. Epub 2018 Jun 4. PMID: 29787249. 
+Johnson MC, Sena-Velez M, Washburn BK, Platt GN, Lu S, Brewer TE, Lynn JS, Stroupe ME, Jones KM. Structure, proteome and genome of Sinorhizobium meliloti phage PhiM5: A virus with LUZ24-like morphology and a highly mosaic genome. J Struct Biol. 2017 Dec;200(3):343-359. doi: 10.1016/j.jsb.2017.08.005. Epub 2017 Aug 24. PMID: 28842338. 
+Johnson MC, Ghalei H, Doxtader KA, Karbstein K, Stroupe ME. Structural Heterogeneity in Pre-40S Ribosomes. Structure. 2017 Feb 7;25(2):329-340. doi: 10.1016/j.str.2016.12.011. Epub 2017 Jan 19. PMID: 28111018; PMCID: PMC5314460. 
+Khoshnevis S, Askenasy I, Johnson MC, Dattolo MD, Young-Erdos CL, Stroupe ME, Karbstein K. The DEAD-box Protein Rok1 Orchestrates 40S and 60S Ribosome Assembly by Promoting the Release of Rrp5 from Pre-40S Ribosomes to Allow for 60S Maturation. PLoS Biol. 2016 Jun 9;14(6):e1002480. doi: 10.1371/journal.pbio.1002480. PMID: 27280440; PMCID: PMC4900678. 
+Johnson MC, Tatum KB, Lynn JS, Brewer TE, Lu S, Washburn BK, Stroupe ME, Jones KM. Sinorhizobium meliloti Phage PhiM9 Defines a New Group of T4 Superfamily Phages with Unusual Genomic Features but a Common T=16 Capsid. J Virol. 2015 Nov;89(21):10945-58. doi: 10.1128/JVI.01353-15. Epub 2015 Aug 26. PMID: 26311868; PMCID: PMC4621102. 
+Askenasy I, Pennington JM, Tao Y, Marshall AG, Young NL, Shang W, Stroupe ME. The N terminal Domain of Escherichia coli Assimilatory NADPH-Sulfite Reductase Hemoprotein Is an Oligomerization Domain That Mediates Holoenzyme Assembly. J Biol Chem. 2015 Jul 31;290(31):19319-33. doi: 10.1074/jbc.M115.662379. Epub 2015 Jun 18. PMID: 26088143; PMCID: PMC4521050. 
+Ghalei H, Schaub FX, Doherty JR, Noguchi Y, Roush WR, Cleveland JL, Stroupe ME, Karbstein K. Hrr25/CK1&OElig;&yen;-directed release of Ltv1 from pre-40S ribosomes is necessary for ribosome assembly and cell growth. J Cell Biol. 2015 Mar 16;208(6):745-59. doi: 10.1083/jcb.201409056. PMID: 25778921; PMCID: PMC4362465. 
+Kopylov M, Bass HW, Stroupe ME. The maize (Zea mays L.) nucleoside diphosphate kinase1 (ZmNDPK1) gene encodes a human NM23-H2 homologue that binds and stabilizes G quadruplex DNA. Biochemistry. 2015 Mar 10;54(9):1743-57. doi: 10.1021/bi501284g. Epub 2015 Feb 24. PMID: 25679041. 
+Andorf CM, Kopylov M, Dobbs D, Koch KE, Stroupe ME, Lawrence CJ, Bass HW. G-quadruplex (G4) motifs in the maize (Zea mays L.) genome are enriched at specific locations in thousands of genes coupled to energy status, hypoxia, low sugar, and nutrient deprivation. J Genet Genomics. 2014 Dec 20;41(12):627-47. doi: 10.1016/j.jgg.2014.10.004. Epub 2014 Nov 4. PMID: 25527104. 
+Stroupe ME, Brewer TE, Sousa DR, Jones KM. The structure of Sinorhizobium meliloti phage PhiM12, which has a novel T=19l triangulation number and is the founder of a new group of T4-superfamily phages. Virology. 2014 Feb;450-451:205-12. doi: 10.1016/j.virol.2013.11.019. Epub 2014 Jan 6. PMID: 24503083. 
+Brewer TE, Stroupe ME, Jones KM. The genome, proteome and phylogenetic analysis of Sinorhizobium meliloti phage PhiM12, the founder of a new group of T4-superfamily phages. Virology. 2014 Feb;450-451:84-97. doi: 10.1016/j.virol.2013.11.027. Epub 2013 Dec 25. PMID: 24503070. 
+Sousa DR, Stagg SM, Stroupe ME. Cryo-EM structures of the actin:tropomyosin filament reveal the mechanism for the transition from C- to M-state. J Mol Biol. 2013 Nov 15;425(22):4544-55. doi: 10.1016/j.jmb.2013.08.020. Epub 2013 Sep 8. PMID: 24021812; PMCID: PMC3845445. 
+Smith KW, Stroupe ME. Mutational analysis of sulfite reductase hemoprotein reveals the mechanism for coordinated electron and proton transfer. Biochemistry. 2012 Dec 11;51(49):9857-68. doi: 10.1021/bi300947a. Epub 2012 Nov 29. PMID: 23153334. 
+Stroupe ME, Xu C, Goode BL, Grigorieff N. Actin filament labels for localizing protein components in large complexes viewed by electron microscopy. RNA. 2009 Feb;15(2):244-8. doi: 10.1261/rna.1313609. Epub 2008 Dec 17. PMID: 19095618; PMCID: PMC2648703. 
+Sachse C, Chen JZ, Coureux PD, Stroupe ME, F&radic;&sect;ndrich M, Grigorieff N. High- resolution electron microscopy of helical specimens: a fresh look at tobacco mosaic virus. J Mol Biol. 2007 Aug 17;371(3):812-35. doi: 10.1016/j.jmb.2007.05.088. Epub 2007 Jun 4. PMID: 17585939; PMCID: PMC2025690. 
+Stroupe ME, Tange T&radic;&ograve;, Thomas DR, Moore MJ, Grigorieff N. The three- dimensional architecture of the EJC core. J Mol Biol. 2006 Jul 21;360(4):743-9. doi: 10.1016/j.jmb.2006.05.049. Epub 2006 Jun 5. PMID: 16797590. 
+Shibuya T, Tange T&radic;&ograve;, Stroupe ME, Moore MJ. Mutational analysis of human eIF4AIII identifies regions necessary for exon junction complex formation and nonsense-mediated mRNA decay. RNA. 2006 Mar;12(3):360-74. doi: 10.1261/rna.2190706. PMID: 16495234; PMCID: PMC1383576. 
+Greenleaf WB, Perry JJ, Hearn AS, Cabelli DE, Lepock JR, Stroupe ME, Tainer JA, Nick HS, Silverman DN. Role of hydrogen bonding in the active site of human manganese superoxide dismutase. Biochemistry. 2004 Jun 8;43(22):7038-45. doi: 10.1021/bi049888k. PMID: 15170341. 
+Stroupe ME, Leech HK, Daniels DS, Warren MJ, Getzoff ED. CysG structure reveals tetrapyrrole-binding features and novel regulation of siroheme biosynthesis. Nat Struct Biol. 2003 Dec;10(12):1064-73. doi: 10.1038/nsb1007. Epub 2003 Nov 2. PMID: 14595395. 
+Hearn AS, Stroupe ME, Cabelli DE, Ramilo CA, Luba JP, Tainer JA, Nick HS, Silverman DN. Catalytic and structural effects of amino acid substitution at histidine 30 in human manganese superoxide dismutase: insertion of valine C gamma into the substrate access channel. Biochemistry. 2003 Mar 18;42(10):2781-9. doi: 10.1021/bi0266481. PMID: 12627943. 
+Hearn AS, Stroupe ME, Cabelli DE, Lepock JR, Tainer JA, Nick HS, Silverman DN. Kinetic analysis of product inhibition in human manganese superoxide dismutase. Biochemistry. 2001 Oct 9;40(40):12051-8. doi: 10.1021/bi011047f. PMID: 11580280. 
+Leveque VJ, Stroupe ME, Lepock JR, Cabelli DE, Tainer JA, Nick HS, Silverman DN. Multiple replacements of glutamine 143 in human manganese superoxide dismutase: effects on structure, stability, and catalysis. Biochemistry. 2000 Jun 20;39(24):7131-7. doi: 10.1021/bi9929958. PMID: 10852710. 
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

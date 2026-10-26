@@ -1,0 +1,104 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+***Experiments in Computational Stellar Astrophysics
+astronomy physics computer programming data analytics 
+Research Mentor: tomekplewa@gmail.com Tomasz Plewa, 
+Department, College, Affiliation: Scientific Computing, Arts and Sciences
+Contact Email: tplewa@fsu.edu 
+Research Assistant Supervisor (if different from mentor): Abhina Premachandran Bindu 
+Research Assistant Supervisor Email: ap25w@fsu.edu 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: physics, physics and astronomy, mathematics, computer science 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 10, During business hours 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Motivated by observations of supernova remnants such as SN 1987A or Tycho, we are investigating links between the supernova progenitor structure, instabilities developing during the explosion process, and characteristics of emerging young supernova remnants. The starting point for such investigations are stellar evolution studies of supernova progenitors.
+From a practical point of view, stellar evolution calculations require solving a set of coupled, nonlinear ordinary or partial differential equations. In this project, we will be using the MESA code, http://mesa.sourceforge.net/, to solve the required evolutionary equations. In recent years, MESA has become a tool of choice for studying a variety of astrophysical systems such as stars, binary stars, planets, and basic physics problems in dedicated settings. In this project, we study the evolution of thermonuclear flames powering Type Ia supernovae explosions, and assess the sensitivity of their properties, such as speed and width, on the fuel parameters. The results of this study will subsequently be used as input to supernova explosion codes such as Agile-IDSA, http://www.physik.unibas.ch/~liebend/download/index.html, or FLASH, https://flash.rochester.edu/site/flashcode/.
+More advanced students may participate in and contribute to the analysis of multiphysics simulation results, such as computing nucleosynthetic yields and obtaining specific characteristics of explosion models.
+This project is strongly computationally-oriented and requires practical user knowledge of Linux or MacOS operating system. In addition, a broader range of topics is available to students fluent with programming languages such as C, C++, Fortran, or Python. Familiarity with simulation data analysis and visualization tools (e.g. Excel, gnuplot, matplotlib) is a plus.
+Applications of students who do not have programming skills or do not plan on taking a programming class during the first semester of this project are strongly discouraged.
+Additional information related to the project can be obtained at http://people.sc.fsu.edu/~tplewa/Research/index.html
+Research Tasks: All the required work will be done on desktop computers provided by the Department of Scientific Computing or with the student's laptop computer serving as a front end to departmental computers (connecting via Remote Desktop/Anydesk software), and in person or via Zoom for weekly communications.
+The project tasks involve:
+1. Review textbook information about mathematics and physics relevant to problems in stellar evolution.
+2. Familiarize with the Linux operating system. Download, install, and familiarize with the MESA stellar evolution code.
+3. Construct a series of stellar evolution tracks for various stellar masses (Hertzsprung-Russell Diagram).
+4. Present evolution of stellar structure using Kippenhahn diagrams (see, e.g., https://github.com/orlox/mkipp).
+5. Study sensitivity of stellar progenitor characteristics or stellar physics phenomena to problem parameters.
+6. Obtain a series of stellar evolution or relevant multiphysics simulations.
+7. Analyze obtained results.
+8. Prepare a poster presenting the project findings.
+Skills that research assistant(s) may need: Recommended: practical knowledge of a Linux/MacOS-type operating system.
+Required: practical knowledge of MATLAB, Python, or Fortran/C/C++.
+Required: strong interest in the nature of physics phenomena and good preparation in the areas of mathematics, physics, or statistics.
+Mentoring Philosophy
+Promoting learning through inquiry — the Socratic method. Sharing own research experience. Creating a safe environment in which mentees feel it is acceptable to fail and learn from their mistakes. 
+Additional Information
+https://arxiv.org/abs/2505.18482
+https://doi.org/10.1093/mnrasl/slaa141
+https://arxiv.org/abs/2401.16674
+https://arxiv.org/abs/2201.10686 
+Link to Publications
+https://news.fsu.edu/news/sciencetechnology/2020/12/17/fsu-computational-scientist-demonstrates-how-supernovae-detonate/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

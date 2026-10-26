@@ -1,0 +1,88 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Predicting hurricane strength in the gulf of Mexico using gulf of Mexico (Americas) sea surface temperatures historical/current data
+data science, data fitting, Artificial Intelligence 
+Research Mentor: Mark Sussman, 
+Department, College, Affiliation: Mathematics, Arts and Sciences
+Contact Email: msussman@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Open to all majors 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Fully Remote 
+Approximate Weekly Hours: 7.5, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+The strength and path of Gulf of Mexico (Americas) hurricane depends on many factors. But, can one get a reliable idea of the maximum hurricane strength based on gulf of Americas sea surface temperatures (using both historical and current data)? NOAA keeps online data of this information in one form or another going back to 2005. Maybe even earlier than that. I am interested in predicting maximum hurricane strength in Tallahassee, given strategic data from the Gulf of Americas (since I live in Tallahassee), but I am open to a similar study for any at risk coastal city that is of interest to the student.
+Research Tasks: 1. literature review; has this been tried before? What was done?
+2.write a program (or have AI write the program) that automatically collects historical/current sea surface temperature data from the NOAA website(s). "clean" the data so that the data can be readily analyzed.
+3. Use some kind of data fitting method in order to make predictions of hurricane strength based on historical/current sea surface temperature data. The data fitting technique can be linear least squares or nonlinear neural network (for example). 
+4. Verify and Validate your analysis by splitting your data into two parts: (a) training data and (b) test data.
+Skills that research assistant(s) may need: required: the desire to learn how to computer program (if you do not already know how)
+recommended: computer programming skills 
+Mentoring Philosophy
+My mentoring philosophy is this: 
+I believe that the only way that one can improve at any subject is through consistent practice. As Benjamin Franklin or John Wooden said: "failure to prepare is preparing to fail." 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

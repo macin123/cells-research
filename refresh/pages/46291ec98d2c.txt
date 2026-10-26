@@ -1,0 +1,94 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Science Prediction Market
+experiment, hypothesis, biology, chemistry, economics 
+Research Mentor: Steven Lenhert, 
+Department, College, Affiliation: Biological Science, Arts and Sciences
+Contact Email: lenhert@bio.fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Open to all majors 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 8, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Monday, August 31
+Start Time: 2:00
+End Time: 2:30
+Zoom Link: https://fsu.zoom.us/j/92271342903
+Project Description
+What is the difference between a good and bad science experiment? This is a question that was thoroughly answered by Karl Popper in the early 20th century. He came to the now widely accepted conclusion that good science involves falsifiable hypotheses, while pseudoscience is unfalsifiable. Popper explained the reason for this rule nicely in an article entitled, "Science as Falsification”.1 Briefly, the idea is that science should answer questions to which we do not already know the answer. Theories and hypothesis that have a chance to be proven wrong through experimental observation are therefore valuable contributions to our advancement of knowledge, while theories and hypotheses that have no risk of being wrong do not increase knowledge. This “demarcation line” so nicely distinguishes science from pseudoscience, that I propose to take it one step further – can we quantify the amount of knowledge gained by an experiment by making predictions and measuring how much of a chance it is perceived to have of falsifying a hypothesis? Furthermore, the predictive value of completed science is what makes technology possible.
+This project will set up a new kind of scientific evaluation system.2 A scientist can propose a scientific question, hypothesis, and experiment to test the hypothesis. That scientist can provide possible outcomes of the experiment, along with proposed probabilities for each outcome. Reviewers can then predict the outcomes and wager points to indicate their level of confidence. The value of the knowledge to be gained by the experiment can then be gauged by how much wagering takes place, as well as what the odds are for different outcomes. Presentation of published experiments and results in this format can allow students to experience the scientific process of discovery and develop their scientific prediction skills. 
+References:
+1 Science as Falsification, by Karl Popper
+https://staff.washington.edu/lynnhank/Popper-1.pdf
+2 Science Prediction Market
+https://www.bio.fsu.edu/lenhertgroup/prediction_market.php
+Research Tasks: The students will set up a prediction market using points within the Lenhert group and other interested students and researchers. Experiments from the scientific literature that are perceived to be relevant to current projects in the group will be identified. The experiments will be presented to the group without providing the results. Other group members will predict the outcome of the experiments and express their confidence in the outcomes using points. The market will be extended to real experiments in the Lenhert lab as well as other labs.
+Skills that research assistant(s) may need: Required: Critical thinking; communication; basic understanding of science 
+Recommended: STEM, physics, chemistry, biology, finance, economics, business
+Mentoring Philosophy
+I seek to understand student’s goals and current abilities and to provide guidance to enable them to achieve their goals. This involves providing opportunities as they appear. Examples of opportunities could be an experiment that the student could carry out, coauthorship on a publication, or involvement in a collaboration. As an interdisciplinary scientist, I value different ways of thinking and approaching research tasks. When working in groups I look for synergy. If I’m teaching a student a skill that I have myself, then I demonstrate it and then let the student repeat it. I also tend to think of my students as collaborators and appreciate learning from them as well. I use, and encourage use of deliberate practice, which is an approach to developing expertise based on solving well designed achievable goals using feedback and guidance from a mentor. I meet at least once a week with my research group where we discuss our research, get feedback from each other, and identify achievable goals. Examples of research goals could be to take steps towards constructing a device, design or carry out an experiment, analyze a data set, search the literature for relevant papers, work on some scientific writing and communication. I continue to practice these skills myself and to improve my mentoring as well, doing my best to be a good example. As Isaac Asimov once wrote, “education is not something that can be finished.” 
+Additional Information
+Link to Publications
+https://www.bio.fsu.edu/lenhertgroup/prediction_market.php 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

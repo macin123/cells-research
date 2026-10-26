@@ -1,0 +1,134 @@
+FSU Biology - Faculty Page - Dr. Debra A. Fadool 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. Debra A. Fadool
+Office: 3008 King Life Sciences
+Office: (850) 644-4775
+Area: Neuroscience 
+Lab: King Life Sciences
+Lab: (850) 645-3281
+Fax: (850) 645-8447
+Mail code: 4295
+E-mail: dfadool@bio.fsu.edu 
+Lab Home Page 
+Professor
+Ph.D., University of Florida, 1993
+Graduate Faculty Status
+Classes Taught
+Dr. Fadool's X Page 
+Dr. Debra Fadool is currently recruiting new graduate students.
+Dr. Debra Fadool is currently recruiting new postdoctoral investigators.
+Research and Professional Interests:
+We are researching learning, memory, and neural plasticity at the level of the ion channel protein. Our main stay in the laboratory is biophysics, specifically a technique called patch-clamp electrophysiology, where we can measure single conformational changes in ion channel proteins that elicit electrical signals, essentially the language of the brain. One of the most ubiquitous ways of modulating electrical activity of ion channels is a biochemical process called phosphorylation, whereby negative phosphate groups are added to the channel at specific residues. Hence we combine our skills in electrophysiology with those of protein biochemistry (phosphorylation assays; protein-protein interactions), molecular biology (creating mutant ion channels and signaling proteins), and molecular genetics (genetically targeted "knock-out" mice to study cell signaling by loss of function). We were very much excited that the 2000 Nobel Prize in Physiology or Medicine was attributed to several scientists that discovered the importance of phosphorylation. Perhaps the importance of phosphorylation in regulating cellular activity can be underscored by the large portion (2-3%) of the eukaryotic genome set aside to code for kinases, enzymes that initiate phosphorylation. Humans have 2000 conventional kinase genes and most of those exist in the brain. Abnormality in these genes and correlate enzyme activity could contribute to the onset or severity of specific neuronal diseases such as Alzheimer's functional, inflammatory responses, deregulated cell proliferation, and to diseases such as cancer (especially mammary), atherosclerosis, psoriasis, and diabetes. Most recently we have discovered that hormones and neurotrophins (insulin and brain-derived neurotrophic factor (BDNF)) modulate electrical activity in the brain at the level of the ion channel. Thus we are studying the neuropathology of diabetes and nerve damage through disease or injury. Since perfusion of BDNF induces new nerve cell growth, it may have this capacity by acting at the level of the ion channel. 
+I would welcome students wishing to gain experience with the techniques of electrophysiology (patch-clamp recording and single channel analysis), protein biochemistry, molecular biology (site-directed mutagenesis, gene-targeted deletions, 2 hybrid yeast, microarray), and immunochemistry, and to those wishing to answer questions about the physiology of olfaction, cell-signaling cascades, the regulation of neuronal excitability, and ion channel structure/function. 
+Selected Publications:
+Thiebaud, N., F. Gribble, F. Reimann, S. Trapp, and D.A. Fadool. 2019. Not all interneurons in the olfactory bulb are inhibitory - the uncovering of glutamatergic cells. Scientific Reports 9(1): 15542.
+Chelette, B.M., A. M. Thomas, and D.A. Fadool. 2019. Long-term obesogenic diet and targeted deletion of potassium channel Kv1.3 have differing effects on voluntary exercise in mice. Physiological Reports 7(20): e14254.
+Fadool, D.A. and L.J. Kolling. 2020. Role of olfaction for eating behavior. The Senses: A Comprehensive Reference, Second Edition, 43 pages, Elsevier, Netherlands, ed. Bernd Fritzsch and Wolfgang Meyerhoff.
+Schwartz, A.B., A. Kapur, Z. Huang, R. Anangi, J.M. Spear, S. Stagg, E. Fardone, Z. Dekan, J.T. Rosenberg, S.C. Grant, G.F. King, H. Mattoussi, and D.A. Fadool. 2021. Olfactory bulb targeted QD bioconjugate and Kv1.3 blocking peptide improve metabolic health in obese male mice. J. Neurochem. 157(6):1876-1896.
+Huang, Z., R. Tatti, A.M. Loeven, D. Conde Landi, and D.A. Fadool. 2021. Modulation of neuronal microcircuits that control complex dynamics in olfactory networks. Front. Cell. Neurosci. 15:662184.
+Chelette, B.M., A.M. Loeven, D.N. Gatlin, D.R. Landi Conde, C.A. Huffstetler, M. Qi, and D.A. Fadool. 2022. Consumption of dietary fat causes loss of olfactory circuitry that is not mitigated by voluntary exercise in mice. J. Physiol. 600(6):1473-1495. Selected for Cover Art and Special Commentary - Manzini, I. 2022. Dietary-induced disruption of the olfactory system: not only obesity is to blame. J Physiol. 600(6):1273-1274.
+Tice, A.L., J.A. Laudato, D.A. Fadool, B.S. Gordon, J.L. Steiner. 2022. Acute binge alcohol alters whole body metabolism and the time-dependent expression of skeletal muscle specific metabolic markers for multiple days in mice. Am. J. Physiol. Endocrinol. Metabol. 323(3):E215-E230.
+Du, L, S. Helsper, W. Wang, N.A. Nosratabad, D.A. Fadool, C. Amiens, S. Grant, and H. Mattoussi. 2022. A multifunctional contrast agent for 19f-based magnetic resonance imaging. Biocon. Chem. 33(5):881-891.
+Kolling, L.J., R. Tatti, T. Lowry, Loeven, A.M., J. M. Fadool, and D.A. Fadool. 2022. Modulating the excitability of olfactory output neurons affects whole-body metabolism. J. Neurosci. 42(30):5966-5990. Selected for Cover Art and Editor's Commentary.
+Huffstetler, C.M., B. Cochran, C.A. May, N. Maykut, C.R. Silver, C. Cedeno, E. Franck, A. Cox, and D.A. Fadool. 2022. Single cannabidiol administration affects anxiety-, obsessive compulsive-, object memory-, and attention-like behaviors in mice in a sex and concentration dependent manner. Pharmacol. Biochem. Behav. 222:173498.
+Lowry, T.W., A.E. Kusi-Appiah, D.A. Fadool, and S. Lenhert. 2023. Odor discrimination by lipid membranes. Membranes 13(2):151.
+Qi, M., D.A. Fadool, and D.A. Storace. 2023. An anatomically distinct subpopulation of orexin neurons project from the lateral hypothalamus to the olfactory bulb. J. Comp. Neurol. 531(15):1510-1524.
+LFerrario, C.R., H. Munzberg-Gruening, L. Rinaman, J.N. Betley, S.L. Borgland, M. Dus, D.A. Fadool, K Medler et al. 2024. Obesity-and diet-induced plasticity in systems that control eating and energy balance. J. Obesity 32(8): 1425-1440. 
+Compagno, M., C.R. Slilver, A. Cox-Holmes...D.A. Fadool. 2024. Maternal ingestion of cannabidiol (CBD) in mice leads to sex-dependent changes in memory, anxiety, and metabolism in the adult offspring, and causes a decrease in survival to weaning age. Pharmacol. Biochem. Behav. 247: 173902.
+Postdoctoral Associates:
+Belperio, Giorgio 
+Mitra, Saptarsi 
+Graduate Students:
+Arnold, Nicholas 
+Compagno, Marty
+Guha Roy, Rimil 
+Menlove, Bridger 
+Pacheco, Franklin 
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

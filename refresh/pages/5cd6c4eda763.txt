@@ -1,0 +1,87 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Distributed Fiber Optic Sensing of Temperature and Strain in Geotechnical and Materials Engineering
+Fiber Optic, Geotechnical, Foundations, Pavements 
+Research Mentor: Scott Wasman, 
+Department, College, Affiliation: Civil and Environmental Engineering, FAMU-FSU College of Engineering
+Contact Email: swasman@eng.famu.fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Majors with laboratory and/or technical foundational components (sciences and mathematics) 
+Project Location: Engineering Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 5-10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Wednesday, September 2
+Start Time: 1:00
+End Time: 2:00
+Zoom Link: Scott Wasman is inviting you to a scheduled Zoom meeting. Topic: Scott Wasman UROP Time: Sep 2, 2026 01:00 PM Eastern Time (US and Canada) Join Zoom Meeting https://fsu.zoom.us/j/98342058499 Meeting ID: 983 4205 8499 
+Project Description
+Fiber optic sensing of temperature and mechanical strain in lab and field geotechnical and pavements systems is an emerging field of civil engineering. This type of sensing is very sensitive to small changes and is more cost effective than traditional sensing. Application of fiber to lab and field measurements offers a better understanding of these systems under physical and climatic stress, a primary focus of the professor. The project will involve working in the professors group to perform temperature and strain sensing of limestone, asphalt, reinforced concrete in the lab and in the field. Specific activities will be: working with samples, bonding fiber to samples, application to small models in the lab and field, using lab equipment to apply rate of strain load, data collection, data analysis, coding in Python or Matlab (if of interest), participating in research group presentations, participating in publications. The project will provide the student to work with fiber optics and learn a very new and promising technology that has applications beyond civil engineering, both large scale (>10 km) and small scale (mm), (aerospace, medical, biomedical, environmental, geology, oceanography, security, energy, power systems).
+Research Tasks: Literature review, experimental planning and setup, using lab equipment, data collection, data analysis, presenting results in a research group setting.
+Skills that research assistant(s) may need: Required: interest in working in a lab and working with sensors, generally competent in excel, motivation to overcome challenges and communicate with professor.
+Recommended: Curiosity about material behavior.
+Mentoring Philosophy
+Encouraging growth through challenges. Research is challenging and always a learning experience. I often work with mentees to develop their ability to learn how to learn, an important outcome that is useful in all aspects of life. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

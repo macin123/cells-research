@@ -1,0 +1,85 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+The Rental Market Effects of Florida's 2023 Housing Policy Reforms
+Housing Choice Voucher, Source-of-Income Discrimination, Rental Market, Security Deposits 
+Research Mentor: jwang@wertheim.fsu.edu Jingfang Wang, Dr.
+Department, College, Affiliation: Department of Finance, Business
+Contact Email: jwang@wertheim.fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Finance, Real Estate 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 6, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+In July 2023, two Florida statutes reshaped landlord-tenant relations across the state. CS/HB 1417 overrode local ordinances that had (i) prohibited landlords from refusing tenants who pay with federal Housing Choice Vouchers and (ii) required landlords to give sixty days' notice before raising rent. CS/HB 133 simultaneously allowed landlords statewide to offer a monthly fee or insurance policy in place of the traditional lump-sum security deposit. Together these laws changed housing access for roughly one hundred thousand voucher-holding Florida households, altered the move-in cost barrier facing every new renter, and reshaped rent-setting practices. This project tries to rigorous evaluate and quantify how landlords and tenants actually responded.
+Undergraduate Research Assistants will play a critical role by manually validating the machine-learning classifier that identifies landlord refusal and deposit-alternative language in listings, assembling supplementary policy timelines across Florida jurisdictions, and contributing to the final report. Students will gain hands-on experience with large-scale housing data, causal inference methods, and academic policy writing.
+Research Tasks: Literature review, data collection, data analysis, conducting interviews, etc. 
+Skills that research assistant(s) may need: Required: Microsoft Excel proficiency; attention to detail; strong written English; ability to work independently.
+Recommended: Coursework in economics/statistics/policy; exposure to Python; familiarity with housing policy or Section 8 vouchers; interest in graduate school or applied research careers.
+Mentoring Philosophy
+I value curiosity, active knowledge acquisition, and responsibility in the students I mentor. My approach treats research training as a mutual learning process: I bring project structure, standards, and my own experience, and students bring fresh questions, effort, and perspectives that often sharpen my own thinking. I hold high standards for rigor and accuracy, but alongside the recognition that early mistakes are how researchers learn to see problems clearly. I create space for mentees to try, be wrong, and try again. My role is to keep the intellectual space open and the standards clear; the growth belongs to the mentee. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

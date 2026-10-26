@@ -1,0 +1,98 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Artificial Intelligence Solutions for Industrial and Cyber-Physical Systems
+Artificial Intelligence, machine learning, cybersecurity, industry 
+Research Mentor: Dr. Abdulrahman Takiddin, 
+Department, College, Affiliation: Electrical and Computer Engineering, FAMU-FSU College of Engineering
+Contact Email: a.takiddin@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 3 
+Relevant Majors: Electrical Engineering
+Computer Engineering
+Computer Science 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5 - 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Tuesday, September 1
+Start Time: 3:30
+End Time: 4:00
+Zoom Link: https://fsu.zoom.us/j/91588209449
+Project Description
+Artificial intelligence is now being adopted in almost all fields to automate, expedite, and improve processes especially with the advancement of ChatGPT. This project involves building machine learning-based solutions to solve problems in modern businesses and industries including expediting processes and enhancing the security aspects. Such industries include smart power grids, transportation systems, and unmanned aerial vehicles (UAVs) (e.g., drones).
+Research Tasks: Data collection
+Data analysis
+Building machine learning models
+Literature review
+Documenting and reporting research outcomes
+Skills that research assistant(s) may need: Recommended skills:
+Basic programming skills in Python/Matlab
+Basic data Analysis skills
+Basic experience in MS Excel
+Basic research skills
+Mentoring Philosophy
+My goal is to prepare engineering and computer science students for the future as artificial intelligence is advancing in nearly all fields. As a new faculty member, I plan to work closely with students to conduct research in emerging topics including machine learning, cybersecurity, and IoT in cyber-physical systems fields including smart power grids, transportation systems, and unmanned aerial vehicles (UAVs). I plan to achieve these goals by creating an interactive environment that allows students to collaborate in my research lab that is equipped with state-of-the-art high-performance computing that facilitates running real-time extensive simulations. These simulations will be conducted to mimc real-world cases, allowing students to witness how machine learning tools can improve the processes and enhance systems' robustness in case of cybersecurity threats. As part of my commitment to fostering a collaborative and inclusive research environment, I make it a priority to recognize the contributions of my students by including them as co-authors on publications resulting from our joint work. This approach not only acknowledges their valuable input, but also helps to build their academic and professional profiles, empowering them for future career success and preparing them for graduate studies. 
+Additional Information
+https://scholar.google.com/citations?user=4zR2Up4AAAAJ&hl=en&oi=ao 
+Link to Publications
+https://web1.eng.famu.fsu.edu/~takiddin/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

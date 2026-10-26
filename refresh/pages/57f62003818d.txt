@@ -1,0 +1,101 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Deep Learning for Time-Series Anomaly Detection
+Deep Learning; Time-Series Data; Anomaly Detection; Artificial Intelligence; Energy Systems 
+Research Mentor: Dr., Prof., Ravikumar Gelli, He, His, Him
+Department, College, Affiliation: Florida State University/ECE Department, FAMU-FSU College of Engineering
+Contact Email: rgelli@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Computer Science, Electrical Engineering, Computer Engineering, Data Science, Statistics, Applied Mathematics, or related quantitative disciplines. Students from other majors with an interest in AI and data analysis are also encouraged to apply. 
+Project Location: 2000 Levy Ave, Tallahassee, FL 32310 (Center for Advanced Power Systems) 
+Research Assistant Transportation Required: FSU Seminole Express provides service between the FSU main campus and the FAMU-FSU College of Engineering. 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5 to 8 hours per week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Tuesday, September 1
+Start Time: 12:00
+End Time: 1:00
+Zoom Link: https://fsu.zoom.us/j/6540925978
+Project Description
+Time-series data are generated continuously by many real-world systems, including electric power systems, renewable energy resources, sensors, communication networks, and other engineered systems. An important challenge is identifying unusual patterns or events within these data that may indicate equipment problems, unexpected operating conditions, disturbances, or other abnormal behavior.
+This project will explore how deep learning can be used to identify anomalies in time-series data. Undergraduate researchers will begin by learning how to visualize, organize, and analyze time-series datasets and distinguish normal behavior from unusual events. They will then explore fundamental anomaly-detection approaches and progressively develop deep-learning models for detecting abnormal patterns.
+Students will work primarily with power and energy system datasets while learning broadly applicable skills in Python, data analysis, machine learning, and deep learning. The project is designed for students who are beginning research, and prior experience with deep learning or electric power systems is not required. Students will receive guidance and progressively take greater ownership of the data analysis, model development, evaluation, and interpretation of results.
+Research Tasks: 1) Review introductory materials and selected research literature on time-series data and anomaly detection.
+2) Learn basic Python tools for data analysis, visualization, and machine learning.
+3) Explore and visualize time-series datasets from power, energy, or related engineering systems.
+4) Clean and preprocess data, including handling missing values, scaling, segmentation, and preparation of training and testing datasets.
+5) Identify and characterize normal and anomalous patterns in the data.
+6) Implement baseline anomaly-detection methods and progressively explore deep-learning approaches such as neural networks, autoencoders, or sequence-based models.
+7) Evaluate model performance using appropriate metrics and investigate when and why different approaches succeed or fail.
+8) Document the methodology and results and prepare a research poster for the FSU Undergraduate Research Symposium.
+Skills that research assistant(s) may need: Required:
+Curiosity and interest in artificial intelligence, data, or engineering; willingness to learn new computational tools; ability to work consistently and communicate progress; attention to detail and willingness to troubleshoot problems.
+Recommended but not required:
+Basic familiarity with Python or another programming language; introductory mathematics or statistics; prior exposure to data analysis.
+Prior experience with deep learning, machine learning, anomaly detection, or electric power systems is not required.
+Mentoring Philosophy
+My mentoring approach emphasizes learning through progressively structured research experiences. Students will initially receive clear guidance, background resources, and manageable research tasks to help them develop the necessary technical foundations. As their skills and confidence grow, they will be encouraged to take increasing ownership of their analysis, experiments, and research questions. Regular meetings will be used to discuss progress, troubleshoot challenges, interpret results, and identify next steps. I encourage students to ask questions, experiment with different approaches, and view unsuccessful results as part of the research and learning process. My goal is for students to develop not only technical skills, but also independence, critical thinking, research communication, and confidence in their ability to conduct research. 
+Additional Information
+This project is designed to provide an accessible entry point into undergraduate research in artificial intelligence and engineering. Students do not need prior research experience or advanced coursework in artificial intelligence or power systems. Students who are curious, motivated to learn, and interested in working with real-world data are encouraged to apply. 
+Link to Publications
+My research website https://gridai.fsu.edu/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

@@ -1,0 +1,94 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+***Artificial Intelligence and Predictive Machine Learning in Educational Data Mining for Early Identification of Academic Risk and Instructional Support in Undergraduate Mathematics: A Systematic Review and Meta-Analysis
+Undergraduate Mathematics Performance, AI-informed predictive machine learning models, Mathematics-specific academic risk, Educational data mining, Instructional support 
+Research Mentor: Ms. Zhen Zhang, She/Her
+Department, College, Affiliation: School of Teacher Education (STE), Education, Health, and Human Sciences
+Contact Email: zz23i@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Maybe one more
+Number of Research Assistants: 2 
+Relevant Majors: Preferred: Mathematics, Statistics, Data Science, Computer Science, or other STEM majors. 
+Open to all majors with strong quantitative skills and proficiency in R and/or Python. Experience with statistical analysis, meta-analysis, data visualization, or machine learning is especially desirable. 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5-10 hours, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Wednesday, September 2
+Start Time: 1:00
+End Time: 2:00
+Zoom Link: https://fsu.zoom.us/j/95264900501 
+Day: Friday, September 4
+Start Time: 1:00
+End Time: 2:00
+Zoom Link: https://fsu.zoom.us/j/95264900501 
+Project Description
+This research project investigates the use of artificial intelligence (AI), predictive machine learning models, and educational data mining to support the early identification of mathematics-specific academic risk and instructional decision-making in undergraduate mathematics education. The project includes a systematic review and meta-analysis of existing research on predictive models, student success indicators, model performance, and instructional applications.
+The study is IRB-approved, and faculty interviews from FSU Mathematics/ Statistics department have already been conducted as part of the broader research project. Undergraduate RA will support the next phases of the study, which include literature searching and screening, organizing and coding research articles, extracting quantitative data, preparing datasets, assisting with statistical and meta-analytic analyses, and summarizing research findings. Depending on their background and interests, students may also have opportunities to work with R and/or Python, data visualization, and machine-learning-related performance measures.
+Through participation in the project, RA will gain hands-on research experience in educational research, quantitative analysis, systematic review methodology, and interdisciplinary applications of AI and data science in undergraduate mathematics education.
+Research Tasks: Literature review and article screening; data extraction and coding; organization and cleaning of research datasets; quantitative data analysis; support for systematic review and meta-analysis; analysis of machine-learning performance metrics; preparation of tables, figures, and data visualizations; and synthesis of research findings. 
+Skills that research assistant(s) may need: Required: Ability to read and summarize academic research articles; basic quantitative/statistical literacy; reliability in following research protocols
+Recommended: Experience withPython and/or R ; coursework in statistics, mathematics, data science, computer science, or a related STEM field; familiarity with literature reviews, systematic reviews, data coding/extraction, Excel, or data visualization; and interest in AI, machine learning, educational data mining, or undergraduates' mathematics learning behaviors.
+Mentoring Philosophy
+I value a supportive, collaborative mentoring relationship built on mutual respect, clear expectations, and open communication. My goal is to create a supportive, interactive environment in which undergraduate researchers develop confidence, critical thinking, and practical experience that can support their academic and professional growth. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

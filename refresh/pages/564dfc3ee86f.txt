@@ -1,0 +1,89 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Optimal potential energy via gradient descent
+Gradient descent, potential energy, optimization 
+Research Mentor: Aleksandr Reznikov, He/Him/His
+Department, College, Affiliation: Mathematics, Arts and Sciences
+Contact Email: areznikov@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Mathematics, Physics, Computer Science, Statistics, Engineering 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 7, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Put four electrons on the unit sphere and let them repel each other. They will move around until they reach the "ground state": i.e., the state, when their potential energy is minimal. If we were not too unlucky with our original placement, the electrons will end up in the vertices of the regular tetrahedron. In fact, this is a conjecture that is not yet rigorously proved.
+For the project, I propose to verify it experimentally; i.e., write a code that will place four random points on the sphere and move them, via the gradient descent method, to nearly-optimize the potential energy. 
+This project has many very interesting extensions; for example, moving to higher dimensions or to shapes other than the sphere (e.g., a donut).
+Research Tasks: The most important task is to write a robust code for the gradient descent method for this specific problem. The code should ideally provide the video of points moving and eventually converging to the tetrahedron.
+Skills that research assistant(s) may need: Required: strong knowledge of Calculus 1. You should be able to apply chain rule multiple times to a fairly inconvenient function. 
+Also required some coding skills, preferably in Python, but I do not have a strong opinion here. 
+Strongly recommended: partial derivatives, Calculus 3
+Knowledge of physics is not required but will certainly make the project feel more applicable.
+Mentoring Philosophy
+The main point of my mentoring philosophy is that I want the mentee to be fairly independent and, most importantly, responsible. I will not nudge you every week and remind you to do your homework. On the other hand, if you run into a specific obstacle, I will be happy to help with it and learn the solution together 
+Additional Information
+Link to Publications
+https://scholar.google.com/citations?user=x5-srkIAAAAJ&hl=en 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

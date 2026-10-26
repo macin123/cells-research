@@ -1,0 +1,120 @@
+Bleiholder Laboratory – Department of Chemistry & Biochemistry 
+Skip to content 
+Florida State University 
+FSU | Bleiholder Laboratory 
+Navigation 
+Search FSU 
+Webmail 
+FSU Sites 
+Student Directory 
+Faculty & Staff Directory 
+Departments & Services 
+Close Search 
+Home 
+2026 ACS Spring Meeting on Ion Mobility/Mass Spectrometry 
+About Us 
+Research 
+Software 
+Workshops 
+Publications 
+Photos 
+2024 Spring Workshop 
+Presentations & Conferences 
+Summer school 2023 
+Lab 
+Group activities 
+Contact Us 
+2024 Spring Workshop 
+Home 
+Registration 
+Program 
+Fellowships 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Close Menu 
+Bleiholder Laboratory 
+Department of Chemistry & Biochemistry
+Home 
+2026 ACS Spring Meeting on Ion Mobility/Mass Spectrometry 
+About Us 
+Research 
+Software 
+Workshops 
+Publications 
+Photos 
+2024 Spring Workshop 
+Presentations & Conferences 
+Summer school 2023 
+Lab 
+Group activities 
+Contact Us 
+2024 Spring Workshop 
+Home 
+Registration 
+Program 
+Fellowships 
+Connect with us on LinkedIn: BleiholderGroup 
+News 
+October 2026
+Two new publications from our lab:
+Native Ion Mobility–Mass Spectrometry Reports Kinetically Trapped Conformational Ensembles, Not Single Structures , Journal of the American Society for Mass Spectrometry (Invited Perspective Article)
+PSA-GUI: A Windows-Based Graphical User Interface for the Projected Superposition Approximation Collision Cross-Section Calculation , Journal of Mass Spectrometry (Special Issue: Ion Mobility Mass Spectrometry)
+July 2026
+A collaborative work with Prof. Elizabeth Stroupe's lab has been published in Protein Science:
+Critical amino acid residues in the N-terminal domain of NADPH-dependent assimilatory sulfite reductase flavoprotein mediate octameric assembly .
+June 2026
+Christian and Caroline participated at ASMS 2026 in San Diego, CA, with respective talks.
+Christian's talk: 
+WoB pm: Fundamentals: Chemistry of Gas-Phase Ions (Honoring Michael Bowers)
+"Topology-Encoded Kinetic Barriers Stabilize Native-like Protein Structures in the Gas-Phase."
+Caroline's talk: 
+ThOG pm: Ion Mobility: Structure Determination and Applications
+"Conformational-Selective Antigen Binding in Multispecific Antibodies Revealed by Non-Ensemble Measurements in Tandem-Trapped Ion Mobility Spectrometry."
+April 2026
+Our lab celebrates three new publications.
+Native-Like Protein Structures in Vacuo: Steric Cooperativity as a Kinetic Barrier to Denaturation (JACS Au)
+Direct Observation of Metastable Fragment Ions in Ultraviolet Photodissociation of Ubiquitin (JASMS, Special Issue: Fenn: Photoactivation and Ion Activation)
+Tandem-Trapped Ion Mobility Spectrometry as a Platform for Conformationally Resolved Analysis of Protein Complexes and Biologics (Anal. Chem., just accepted)
+March 2026
+Christian has been elected as a Senior Member of the National Academy of Inventors . This recognition reflects the creativity, dedication, and hard work of the students, postdocs, and collaborators in the Bleiholder Lab over the past decade. See the FSU article news here .
+January 2026
+A new article co-authored by Thais, Christian, and Caroline has been published in the Journal of Mass Spectrometry special issue "Faces of Mass Spectrometry for Intact Protein Analysis", entitled " Time-resolved Study of In situ Generated Protein Subcomplexes by Tandem-Trapped Ion Mobility Spectrometry ."
+Caroline is featured in the Faces of Mass Spectrometry in the January 2026 issue of the Journal of the American Society for Mass Spectrometry.
+December 2025
+Christian and Caroline were invited to present our research in the symposium " Frontiers in Top-Down Proteomics and Proteoform Analysis " at PacifiChem 2025 in Honolulu, HI.
+Together with the Boone Lab (University of Florida), we are organizing the Southeastern Mass Spectrometry Meeting 2026 .
+November 2025
+Christian will be presenting a seminar at the "Proteoform Thursday", organized by the Consortium for Top-Down Proteomics, on November 20th. He will be discussing " Top-Down Protein Analysis by Tandem-Trapped Ion Mobility Spectrometry/Tandem-Mass Spectrometry ."  
+September 2025
+Our recent publication on Differential Melting Voltage is highlighted on the back cover of the Special Issue "Chemical Glycobiology: innovative tools for the sweet side of biology" in the journal RSC Chemical Biology.
+June 2025
+Our publication on Top-Down Protein Analysis received the 2025 Ron Hites Award at the Annual Meeting of the American Society for Mass Spectrometry (ASMS 2025) in Baltimore, MD.
+Welcome to the Bleiholder Lab at Florida State University! 
+The Bleiholder Lab is currently accepting motivated graduate and undergraduate students from all fields of chemistry, biochemistry, and biophysics. 
+The Bleiholder Lab is currently accepting motivated graduate and undergraduate students from all fields of chemistry, biochemistry, and biophysics. Our research focuses on the development of experimental ion mobility spectrometry/mass spectrometry methods, computational/theoretical approaches, and the applications of IMS/MS in health-related biological systems. For more information, please contact bleiholder@chem.fsu.edu .
+Instrumentation 
+In collaboration with Bruker Corporation, we develop tandem-trapped ion mobility spectrometry/mass spectrometry (tandem-TIMS/MS) as a novel analytical method to study complex, heterogeneous biological molecules. Currently our lab has two tandem-TIMS/MS instruments with different configurations and various ion activation methods.
+Theory 
+Our lab develops theoretical approaches to elucidate detailed quaternary, tertiary, and primary structures of proteins from ion mobility/mass spectrometry data. Two computational methods have been published and patented: LCPA (Local Collision Probability Approximation) and SRA (Structure Relaxation Approximation).
+Applications 
+We apply our experimental and theoretical approaches to investigate structure-function relationship of health-related, complex biological materials such as glycoprotein complexes, chemokines, and carbohydrates. We are especially interested in studying the glycan shield of viral spike proteins such as env of HIV or S of SARS-CoV-2.
+Please check out our research tab for more information.
+2023 Summer School 
+FSU Faculty Interview  – Dr. Christian Bleiholder 
+Check out this video for a description of some of our work.
+Christian Bleiholder - Associate Professor
+Department of Chemistry and Biochemistry
+Florida State University
+Office address: 
+2001 Chemical Sciences Laboratory
+Tallahassee, FL 32306-4390
+Lab address: 
+102 Varsity Way
+Tallahassee, FL 32306-4390
+Follow Bleiholder Lab on Twitter" 
+&copy; Bleiholder Laboratory

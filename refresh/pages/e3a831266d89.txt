@@ -1,0 +1,37 @@
+MLab – Making computer vision possible 
+Close 
+MAIN MENU 
+CCI MLab 
+HELPFUL LINKS 
+Skip to content 
+FLORIDA STATE UNIVERSITY 
+Search 
+Search in CCI: 
+CCI Schools & Centers 
+DONATE NOW 
+Welcome to the College of Communication & Information
+Schools and Colleges
+College of Communication & Information 
+School of Communication 
+School of Information 
+School of Communication Science & Disorders 
+Centers of Distinction
+Centers and Labs 
+Garnet & Gold Scholar Society 
+MLab 
+Making computer vision possible
+CCI MLab 
+Menu
+CCI MLab
+Making computer vision possible
+About Us
+The MLab is the School of Information interdisciplinary machine learning lab. WJB 2021.
+The lab is a place where learning is achieved by doing . We primarily work on computer vision problems, like training a drone to fly autonomously (and avoid crashing), or teaching a computer to recognize different animals or objects in the environment.
+Our goal is to provide improvements in how we use and understand artificial intelligence.
+About 
+What will I learn?
+Currently we are focusing a lot on computer vision, including artificial Intelligence systems like YOLO, Waveform, and AI for optical character recognition. The team members work on individual projects or collaborate to make cool things happen. Our regular meetings are held via Discord and in the lab when safe.
+Interested in Joining?
+Are you new to machine learning and unsure of where to start? Or do you have a background knowledge already and want to learn more about partnering with our resources and support?
+Regardless of experience, we encourage all interested students, faculty, and community members to contact Dr. Jonathan Adams for more information at jladams@fsu.edu.
+Join Us

@@ -1,0 +1,128 @@
+FSU Biology - Faculty Page - Dr. Kayla Stoy 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. Kayla Stoy
+Office: 4061 King Life Sciences
+Area: Ecology & Evolution 
+Lab: King Life Science
+Lab: 4017
+Mail code: 4295
+E-mail: ks24bw@fsu.edu 
+Lab Webpage 
+Assistant Professor
+Ph.D., Emory University, 2022
+Graduate Faculty Status
+Dr. Kayla Stoy is currently recruiting new graduate students.
+Research and Professional Interests:
+Mutualistic interactions between species are vital to life. Organisms across all domains of life depend on other species for an array of important functions, including supplementing nutrition, providing defense against pathogens, and increasing tolerance to environmental stressors. Our lab investigates the coevolutionary dynamics that underpin long-term mutualistic interactions using a multi-faceted approach. We evaluate the factors contributing to mutualism stability in natural populations of insects and their bacterial symbionts. We complement this work with experimental evolution in a synthetic system of mutualistic cross-feeding using Saccharomyces cerevisiae . We use an array of approaches, including genomics, field-based analysis, cross-infection studies, experimental evolution, and molecular genetics to elucidate the eco-evolutionary dynamics underlying mutualism.
+Current Research Areas: 
+Evolution of environmentally acquired symbioses 
+Many hosts acquire their microbial symbionts from the environment each generation. This transmission pathway presents challenges for both hosts and symbionts. Symbionts experience selection in both the external and host environment. This may result in tradeoffs for symbionts if adaptations for one environment are costly in another. Hosts must identify and select beneficial symbionts from a diverse pool of potential partners that can vary in quality. The uncoupling of host and symbiont life cycles increases opportunities for hosts to acquire exploitative symbionts. Using the interactions between the squash bug Anasa tristis and its bacterial Caballeronia symbionts, our lab aims to identify the evolutionary processes underpinning the maintenance of cooperation in environmentally acquired host-microbe symbioses. We are doing this by evaluating how the differential selection pressures experienced by symbionts affect population structure, whether symbionts experience tradeoffs due to differential selection pressures, and the consequences of the symbiont adaptation to external selective conditions for host fitness. We are exploring these ideas using genomics and cross-infection studies.
+Host-symbiont communities and diffuse coevolution 
+Much of our understanding of coevolution between hosts and symbionts comes from empirical work and theory evaluating how pairs of species reciprocally evolve in response to one another. However, these pairwise trajectories are likely altered by the range of interactions experienced within species-rich communities. Increasingly, empirical evidence from mutualisms in nature suggest these community-level interactions play an important role. Using field collections and genomics, we are investigating whether community structure and diffuse coevolution contribute to the maintenance of cooperation between Coreid insects and their Caballeronia symbionts.
+Partner fidelity and mutualistic rewards 
+Opportunities for repetitive interactions between specific partner lineages are predicted to contribute to the maintenance of cooperation. When partner lineages interact across generations, they can impose strong reciprocal selection on one another for the maintenance of beneficial traits in the inhibition of exploitative traits. However, many mutualistic interactions are characterized by promiscuity, such that partner switching frequently occurs, and the fidelity of interaction between specific partner lineages is weak. How cooperation persists and increased rewards evolve in mutualisms with weak partner fidelity is poorly understood. We are currently using experimental evolution of mutualistic S. cerevisiae yeast strains to assess the consequences of temporally varying partner fidelity.
+Selected Publications:
+14. Miller, Audrey K. and Stoy, K.S. Ecological context determines whether divergent symbiont transmission strategies maintain species-specific selection. In review . 
+13. Stoy, K.S., Lac, Dung, Ratcliff, W.C. (2026). Temporal partner heterogeneity constrains the evolution of mutualistic benefits. Evolution Letters . DOI: 10.1093/evlett/qrag036 
+12. Miller, Audrey K., Virtuoso, Ava V. and Stoy, K.S. (2026). Symbiont evolutionary history underpins quality to an insect host. Journal of Insect Science . DOI: 10.1093/jisesa/ieag080 
+11. Stoy, K.S. and Ratcliff, W.C. (2024). Uncovering the Hidden Complexity of Multicellular Magnetotactic Bacteria. PLoS Biology . https://doi.org/10.1371/journal.pbio.3002695 
+10. Stoy, K.S., Bingham, E., Burnetti, A., Datta, S. Pineau, R., Peterson, A., Ratcliff, W.C. (2024). Adaptive radiation during the evolution of complex multicellularity. Biological Journal of the Linnean Society. https://doi.org/10.1093/evolinnean/kzae008 
+9. Stoy, K.S., Diaz, E., Bartelt, C., Acosta, A., Morran, L.T., Gerardo, N.M. (2023). Host-associated symbiont transmission favors transitions toward antagonism. Evolution . DOI: 10.1093/evolut/qpad173 
+8. Stoy, K.S., Chavez, J., de las Casas, V., Talla, V., Berasategui, A., Morran, L.T., Gerardo, N.M. (2023). Evaluating coevolution in a horizontally transmitted mutualism. Evolution . DOI:10.1093/evolut/qpac009 
+7. Mendiola, S.Y., Stoy, K.S., DiSalvo, S., Wynn, C., Civitello, D.J., Gerardo, N.M. (2021). Competitive exclusion of phytopathogenic Serratia marcescens from squash bug vectors by the facultative endosymbiont Caballeronia. Applied and Environmental Microbiology . DOI: 10.1128/AEM.01550-21 
+6. Acevedo, T.S., Fricker, G.P., Garcia, J.R., Alcaide, T., Berasategui, A., Stoy, K.S., Gerardo, N.M. (2021): The importance of environmentally-acquired bacterial symbionts for the squash bug (Anasa tristis), a significant agricultural pest. Frontiers in Microbiology . DOI: 10.3389/fmicb.2021.719112 
+5. Stoy, K.S., Gibson, A.K., Gerardo, N.M., Morran, L.T. (2020): A need to consider the evolutionary genetics of host-symbiont mutualisms. Journal of Evolutionary Biology. DOI:10.1111/jeb.13715 
+4. Gerardo, N.M., Hoang, K.L., Stoy, K.S. (2020): Evolution of animal immunity in the light of beneficial symbioses. Philosophical Transactions of the Royal Society B . 375:20190601. http://dx.doi.org/10.1098/rstb.2019.0601 
+3. Gibson, A.K., Stoy, K.S., Lively, C.M. (2018): Bloody-minded parasites and sex: the effects of fluctuating virulence. Journal of Evolutionary Biology . DOI: 10.1111/jeb.13253. 
+2. Vergara, D., Fuentes, J.A., Stoy, K.S., Lively, C.M. (2016): Evaluating Shell Variation Across Different Populations of Freshwater Snail. Molluscan Research . DOI: 10.1080/13235818.2016.1253446 . 
+1.Gibson, A.K., Stoy, K.S., Gelarden, I.A., Lively, C.M., Morran, L.T. (2015): The evolution of reduced antagonism – a role for host-parasite coevolution. Evolution . 69(11): 2820-2830. DOI: 10.1111/evo.12785 
+Graduate Students:
+Roberts, Olivia 
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

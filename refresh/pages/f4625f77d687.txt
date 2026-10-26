@@ -1,0 +1,99 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Analyzing large-scale traces of online health behaviors using LLM-infused content analysis***
+LLM, content analysis, social media data analysis 
+Research Mentor: Subhasree Sengupta, 
+Department, College, Affiliation: Learning Systems Institute & School of Information, Communication and Information
+Contact Email: ss24da@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: Yin Yang 
+Faculty Collaborators Email: yin.yang@fsu.edu 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Information
+Communication
+Computer Science 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+This project explores how online health forums provide extended avenues for people to discuss sensitive and stigmatized health concerns, seek support, and create enclaves for informal learning on topics pertaining to women’s health. Many such topics may be highly contextual and subjective and may not be fully captured by standardized documents and resources. Sharing lived experiences and building community may be essential for those experiencing such health conditions to develop the necessary resilience and recovery mechanisms that a more formalized, institutionalized health infrastructure may not offer. To study the emerging knowledge-exchange ecosystems in this context more deeply, we collected approximately 100,000 posts from various women’s health subreddits, with a specific focus on menstrual disorders. To classify all these posts, we aim to develop a human-AI content analysis framework and tool based on available large language models (LLMs). However, incorporating LLMs into content analysis remains an unresolved challenge. The application of LLMs remains fragmented, and a cohesive unified scholarly framework is yet to be fully established, especially for social media data analysis. Thus, our proposed project will have the following goals:
+1) Conduct a survey of existing papers that have used LLMs in qualitative coding
+2) Create a step-by-step process map of how LLMs can be holistically integrated into existing qualitative content analysis work and the associated parameters, considerations that are necessary for validation and quality control. 
+3) Conduct a detailed comparison of how existing Machine learning pipelines traditionally used for large-scale content analysis may evolve with the LLM-infused pipeline 
+Expected outcomes:
+1. UROP presentation on the literature synthesis and annotation architecture
+2. Participating in the larger research study data annotation 
+3. Involvement in the manuscript development and dissemination process
+Research Tasks: Conducting literature reviews
+Experimenting with different LLM frameworks
+Machine learning experiments
+Content analysis
+Skills that research assistant(s) may need: Required
+Familiarity with Python programming
+Recommended
+Some programming experience/familiarity with machine learning packages in Python
+Some experience with different LLM models and packages 
+Mentoring Philosophy
+My mentoring approach centers on empathy, understanding, and adaptability. I firmly believe that one size does not fit all; therefore, I never parameterize, compare, or set fixed metrics for any of my mentees. Communication, transparency, and commitment to the project are the key aspects of any research collaboration. I am flexible with deadlines and am willing to work with mentees to adjust the pace of the work depending on their schedule. Still, commitment and enthusiasm about the work are critical to me, and I hold myself accountable for it as well. Usually, in the 1st week of associating with the mentee, we will craft a clear communication plan and ensure that the structure is maintained. I typically follow a goal-based approach for my projects. Thus, each week, my mentees and I will decide on 1-2 goals to accomplish, and every subsequent meeting will focus on discussing the status of those goals. This helps to modularize the tasks and enables incremental progress for all engaged. Overall, my goal is to craft long-lasting associations and collaborations if there is mutual alignment with my mentees and grow with them as a mentor as our collaborations progress. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

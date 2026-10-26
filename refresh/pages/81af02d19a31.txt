@@ -1,0 +1,94 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+***Prompt Engineering in Higher Education: University Students’ Strategies, Trajectories, and AI Literacy Development
+Generative AI; AI Literacy; Prompt Engineering; Higher Education; Interaction Trajectories 
+Research Mentor: Yixin Qian, 
+Department, College, Affiliation: Edu Psychology & Learning Sys, Education, Health, and Human Sciences
+Contact Email: yq23@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Open to all majors; students in Education, Applied Linguistics, Psychology, Communication, Information/Computer Science, Statistics or related fields are especially encouraged to apply. 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: Yes 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 6-8 hours a week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Thursday, September 3
+Start Time: 2:30
+End Time: 3:30
+Zoom Link: https://fsu.zoom.us/j/92196116707
+Project Description
+The study would examine whether and how university students adopt, combine, and refine prompting strategies, such as zero-shot prompting, few-shot prompting, chain-of-thought prompting, zero-shot chain-of-thought, least-to-most prompting, and self-consistency, and how these observable practices relate to the development of their GenAI literacy.
+The central research question would be:
+How do university students use and combine prompt-engineering strategies across disciplinary learning tasks, and how do these strategies and multi-turn interaction trajectories develop over time?
+Subquestions could be: To what extent do these observable prompting behaviors reflect students’ GenAI literacy, particularly their strategic use of GenAI, critical evaluation of outputs, verification practices, and responsible delegation of academic work?
+The project would bridge two areas that are often studied separately. Prompt-engineering research focuses primarily on how particular prompting techniques improve GenAI reasoning and output quality, whereas higher education research often relies on students’ self-reported GenAI literacy. This study would translate established prompt-engineering techniques into observable student behaviors. For example, providing examples or rubrics could be coded as few-shot-inspired prompting, requesting explanations as chain-of-thought-inspired prompting, decomposing a task as least-to-most-inspired prompting, and generating or comparing multiple answers as self-consistency-inspired prompting. These prompt-level strategies could then be examined as parts of broader conversation-level trajectories.
+Methodologically, the study could use a longitudinal mixed-methods design. With appropriate consent and anonymization, student–GenAI chat logs would be collected at different time points from students in different disciplines, such as during the first several months of using GenAI tools, after one year of use, and after several years of use. The logs would be supplemented by brief GenAI literacy surveys, task-based assessments of students’ ability to design and evaluate prompts, GenAI-free learning or transfer measures, and stimulated-recall interviews. A deductive–inductive coding framework would identify both prompting strategies and broader trajectories, such as direct delegation, iterative refinement, reasoning-oriented interaction, and verification-oriented interaction.
+The main contribution would be to conceptualize prompt engineering as an observable behavioral enactment of GenAI literacy, rather than treating GenAI literacy only as a self-reported attitude or general competency. The project could also clarify whether students become more strategic, evaluative, and responsible GenAI users with experience, or simply become more efficient at directing GenAI to complete academic work.
+Research Tasks: The research assistant will help conduct literature reviews on prompt-engineering strategies and GenAI literacy, develop and refine the coding framework, assist with participant recruitment and survey administration, and collect and anonymize student–GenAI chat logs. With training, the student will code individual prompts and broader interaction trajectories, conduct basic descriptive analyses, support inter-rater reliability checks, and assist with stimulated-recall interviews and qualitative coding. The student may also contribute to the preparation of a UROP poster, conference proposal, research report, or manuscript.
+Skills that research assistant(s) may need: Required: Strong attention to detail; good organizational and communication skills; willingness to learn qualitative coding procedures; ability to work responsibly with research data; and an interest in GenAI, higher education, or educational research.
+Recommended: Basic knowledge of statistics and data analysis; prior experience with qualitative coding, surveys, interviews, or research projects; and familiarity with GenAI tools such as ChatGPT; be able to speak Spanish fluently. 
+Mentoring Philosophy
+My mentoring philosophy focuses on supporting students’ growth through meaningful challenges while providing clear structure and guidance. I believe undergraduate researchers learn best when expectations are clearly defined and they receive regular, constructive feedback as they develop new research skills. I would begin by assigning manageable and specific tasks, such as literature review, data organization, or coding, and gradually introduce more challenging responsibilities as the student gains experience and confidence.
+I also value accountability and active participation in the research process. I expect mentees to take responsibility for completing assigned tasks while encouraging them to ask questions, reflect on feedback, and learn from mistakes. My goal is to create a supportive and respectful environment in which students can strengthen their research skills, become more independent over time, and gain meaningful experience contributing to a larger research project.
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

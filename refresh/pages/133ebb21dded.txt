@@ -1,0 +1,111 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+***Re-performing the Masquerade: Cultural Translation in a TikTok Comment Section
+Yoruba masquerade; digital spectatorship; audience reception; cultural translation 
+Research Mentor: Lucy Nyambeki Oruta, She,Her,Hers
+Department, College, Affiliation: Theatre, Fine Arts
+Contact Email: orutalucy@gmail.com 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Open to all majors 
+Project Location: Remote 
+Research Assistant Transportation Required: No, the project is remote 
+Remote or In-person: Fully Remote 
+Approximate Weekly Hours: 5, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Re-performing the Masquerade: Cultural Translation in a TikTok Comment Section
+Yoruba masquerade traditions such as Egúngún are not reducible to aesthetic display alone; they activate relationships among living communities, ancestral presence, memory, movement, rhythm, and sacred space. Their meanings emerge from a larger performance environment that includes performers, witnesses, spatial arrangements, cultural knowledge, and shared cosmological frameworks. When a recording of such a performance enters a social media platform—in this study, TikTok—it is separated from much of that environment and re-encountered through the platform’s compressed visual frame, soundtrack, caption, and public comment section.
+The TikTok video anchoring this study offers one example of this displacement. Commenters attempt to make the masquerade intelligible by naming it as “spirit,” “demon,” “costume,” “culture,” or “entertainment,” while others respond with explanations, corrections, ridicule, or competing claims to cultural knowledge. These exchanges matter because they do not simply document audience reactions; they participate in producing the performance’s digital meaning and afterlife. This project therefore asks: How do TikTok commenters re-perform a Yoruba masquerade by naming, fearing, explaining, correcting, and culturally relocating what they see?
+The project employs an interdisciplinary digital performance historiography that combines performance-centered audience reception with corpus-assisted text analysis. Drawing from Susan Bennett’s work on theatre audiences and Caroline Heim’s concept of the audience as performer, it approaches commenting spectators as active producers of meaning. The study does not claim to represent TikTok’s entire audience; it examines the visible, self-selecting performances of spectatorship produced by users who respond publicly to the video and to one another.
+The available comments associated with the video will first be organized as a small digital corpus. Where appropriate, natural language processing and computational linguistic methods will be used to locate recurring terms, collocations, naming practices, and patterns of response. These tools will support the discovery and organization of patterns rather than determine their cultural meaning or reduce the comments to automated sentiment categories.
+The computational mapping will guide the selection of approximately 10–15 substantive comment threads for close performance-reception analysis. The project’s central unit of interpretation will not be the isolated comment but the spectatorial exchange: an initial interpretation followed by replies that may correct, affirm, resist, mock, or redirect it. The original video will also be examined through its movement, costume, rhythm, sound, camera framing, duration, caption, and hashtags. Within the selected threads, the research team will attend to acts of naming, expressions of fear or fascination, claims to cultural authority, corrective explanations, and the acceptance or refusal of cultural knowledge. This movement between corpus-level patterns and close reading will allow the project to remain attentive both to recurring language and to the cultural, relational, and performative contexts in which that language appears.
+Diana Taylor’s archive–repertoire framework will help the research team consider what happens when an embodied practice grounded in communal and ancestral transmission becomes a digital trace surrounded by new textual performances. The video preserves a trace of the masquerade, but the comment section also rescripts its meaning for spectators removed from its original cultural and performance environment.
+Ultimately, this project investigates the digital afterlife of one performance: who acquires the authority to name it, how cultural knowledge is asserted or refused, and how spectators collectively remake what they have seen.
+Research Tasks: Locate and summarize 10 key sources on Yoruba masquerade, audience reception, digital spectatorship, computational linguistics, and digital historiography using a structured format: claim, method, connection, question, and quotation.
+Create a timestamped performance score of the TikTok video, documenting movement, costume, rhythm, sound, camera framing, captioning, hashtags, and significant visual transitions.
+Collect, anonymize, and organize the available public comments and video metadata into a small, searchable digital corpus following appropriate research-ethics practices.
+Use qualitative coding and, where appropriate, natural language processing to map recurring terms, collocations, naming practices, and response patterns; use these findings to select 10–15 spectatorial exchanges for close analysis.
+Prepare two or three analytical memos and create visual representations of the findings for the collaborative FSU Undergraduate Research Symposium poster.
+Skills that research assistant(s) may need: Required:
+Interest in performance, cultural interpretation, digital media, or language.
+Careful reading, clear writing, organization, and attention to detail.
+Cultural humility and respectful engagement with African performance and spiritual traditions.
+Willingness to work collaboratively across disciplinary approaches.
+Recommended but not required:
+Coursework or experience in natural language processing, computational linguistics, corpus linguistics, computer science, data science, or digital humanities.
+Familiarity with Python, R, text-processing tools, spreadsheets, or data visualization.
+Interest in applying computational methods to questions of performance, cultural memory, audience reception, and digital historiography.
+Coursework in Theatre and Performance Studies, African or Africana Studies, Anthropology, Religion, Media Studies, or Linguistics.
+Students are not expected to possess all these skills. The project is particularly suited to students interested in bringing computational and humanistic methods into conversation.
+Mentoring Philosophy
+My mentoring philosophy begins where my scholarship does: with the moment doubt becomes inquiry. I call my approach T.R.A.C.E.—Trust, Reciprocity, Accountability, Curiosity, and Experimentation. Like this project, which follows the digital traces through which performance acquires meaning, mentorship requires attending to the questions and experiences through which a student becomes a researcher.
+Trust means creating a respectful environment in which mentees can acknowledge what they do not know, examine assumptions, and ask questions without performing expertise. Reciprocity recognizes that mentoring is an exchange: I bring experience in theatre, performance, pedagogy, and historiography, while a mentee may bring computational, linguistic, cultural, or lived knowledge.
+Accountability begins by identifying each student’s goals and strengths and creating a manageable plan for the five-hour weekly commitment. Each mentee will own a defined part of the project and receive clear expectations, regular feedback, and opportunities for revision.
+Curiosity means remaining with uncertainty long enough to formulate better questions. Our meetings will be spaces of collaborative inquiry where sources, interpretations, and methods can be tested rather than accepted automatically. Experimentation means treating a source that leads nowhere, a coding category that collapses, or a computational method that requires revision as information rather than failure.
+Ultimately, I want mentees to leave able to communicate across disciplines, take ownership of their intellectual contributions, and recognize how their own ways of seeing shape the knowledge they produce. 
+Additional Information
+This project is a pilot for a larger digital historiography of African performance and is especially suited to students interested in the intersections of performance, language, culture, and technology. Work will be paced within the five-hour weekly commitment, with regular meetings and structured guidance in performance analysis, qualitative coding, and ethical digital research.
+Students are not expected to enter with every skill. A student with experience in natural language processing or computational linguistics may contribute to corpus mapping, while a student from the humanities may take greater ownership of contextual research and close analysis. These forms of knowledge will be brought into conversation throughout the project.
+Findings will be presented at the FSU Undergraduate Research Symposium and may contribute to a future conference paper, scholarly article, or expanded digital project. Student contributions will be appropriately credited, with possible co-authorship determined by the nature and extent of each student’s intellectual contribution. 
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

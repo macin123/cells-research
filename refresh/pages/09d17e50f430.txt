@@ -1,0 +1,92 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+DexKit: Low-cost Educational Platform for Dexterous Manipulation of a Robotic Arm
+Haptics, Robotics, Robot-Human Interfaces 
+Research Mentor: John Marcial-Manjarres, He/Him
+Department, College, Affiliation: Mechanical Engineering, FAMU-FSU College of Engineering
+Contact Email: john1.marcial@famu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Engineering
+Computer Science 
+Project Location: College of Engineering: AME 
+Research Assistant Transportation Required: FAMU and FSU buses go from on campus to engineering center 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 10-20, During business hours 
+Roundtable Times and Zoom Link: 
+Day: Friday, September 4
+Start Time: 1:00
+End Time: 2:00
+Zoom Link: https://us04web.zoom.us/j/7696970324?pwd=3G39GIQElBWZjtwEmMC5OK09vOxnbV.1
+Project Description
+This project seeks to establish a low-cost educational platform to teach robotic dexterity. Current state-of-the-art for robotic hands can mimic the likeness of an actual human hand in both fine movements and force, however not without financial setbacks making these largely inaccessible to students. For this project, the following research questions will drive this study:
+1) How can we reach the same performance as state-of-the-art with off-the-shelf components?
+2) How do we design a control system with these reduced parameters?
+3) How many different human-input methods can we implement into one platform?
+This study utilizes resources from collaborators, such as haptic devices, that we can modify for a more robust educational platform and expand what we can teach. We currently have a platform running with a control interface, but we are looking to expand!
+Research Tasks: data collection, data analysis, 3D modeling, literature review, programming
+Skills that research assistant(s) may need: Required - Mechatronics Embedded Systems (Arduino, Raspberry Pis, etc), CAD (SolidWorks or Fusion 360)
+Recommended - Programming (Python or C/C++)
+Mentoring Philosophy
+My mentoring philosophy borders on creating a safe environment in which you can fail and learn from your mistakes. For instance, if you do not know how to program, that is fine. I will give you resources that will give a fundamental understanding of how to program, resources in which I used when I was an undergraduate researcher to figure things out on the job. If you are encountering challenges that are stopping you from progressing, I can help you identify the problem, but I want to foster that creativity that comes to problem solving. This takes trial and error, you are going to mess up but you will get better and have more insight further into your career/education. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

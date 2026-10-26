@@ -1,0 +1,96 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Simulating Robotic Fiber Placement for Smarter Manufacturing
+Automated Fiber Placement (AFP), digital twin, 6DOF robotic arm, path planning, composite manufacturing, robot simulation, manufacturing data generation 
+Research Mentor: Paul Davidson, 
+Department, College, Affiliation: Mechancial and Aerospace Engineering, FAMU-FSU College of Engineering
+Contact Email: paul.davidson@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Mechanical, Aerospace, Computer Science. 
+Project Location: Engineering Campus 
+Research Assistant Transportation Required: Yes 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Monday, August 31
+Start Time: 1:00
+End Time: 1:30
+Zoom Link: https://fsu.zoom.us/j/8500931501
+Day: Tuesday, September 1
+Start Time: 1:00
+End Time: 1:30
+Zoom Link: https://fsu.zoom.us/j/8500931501
+Day: Wednesday, September 2
+Start Time: 1:00
+End Time: 1:30
+Zoom Link: https://fsu.zoom.us/j/8500931501
+Project Description
+Building a computer simulations that mirrors how a robot lays down carbon fiber material to make aircraft structural parts. The simulation will serve as a testbed for training future AI/ML models to improve the process.
+Research Tasks: This project develops an open-source simulation pipeline that mirrors the process of a robotic arm laying down carbon fiber to build structural parts. Starting from a fiber path design, the system translates geometric intent into robot motion, simulates execution, and logs the full process state at each step. Over two semesters, an undergraduate researcher will build and validate this pipeline using freely available robotics and simulation tools. The end product is a functioning digital twin that generates rich, structured data from varied manufacturing scenarios, laying the groundwork for future machine learning models aimed at defect prediction, process optimization, and quality control in robotic composite manufacturing.
+Skills that research assistant(s) may need: Good to have: 
+* Coding skills using python. 
+* Some experience or knowledge of composites and composite manufacturing (not a deal breaker)
+Mentoring Philosophy
+I believe good mentoring is built around the work itself. A compelling project creates natural momentum, it sets the standard, surfaces the hard questions, and drives the student to grow into the skills the problem demands. My role is to frame the challenge clearly, share relevant experience as it becomes useful, and hold the work to a high bar. Progress on the project and development of the student happen together, not separately. The end goal is a finished, usable piece of work that the student can point to with pride and that the field can build on. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

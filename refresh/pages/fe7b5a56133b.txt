@@ -1,0 +1,89 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Cyber–Physical Data Generation and Intrusion Detection Testbed for Power System
+Cyberattack Detection, Cyber Layer, Smart Grid, and Machine Learning. 
+Research Mentor: mahasan@fsu.edu Md. Rakibul Ahasan, Mr.
+Department, College, Affiliation: Florida State University, FAMU-FSU College of Engineering
+Contact Email: mahasan@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Electrical and Computer Engineering, Computer Engineering, Computer Science, etc. 
+Project Location: FAMU-FSU College of Engineering and Center for Advanced Power Systems 
+Research Assistant Transportation Required: FSU transportation options (e.g., Seminole Express) 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 8-10, During business hours 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+This project develops a cyber–physical testbed that integrates a simulated communication network with a real-time power-system model. The cyber layer contains containerized human–machine interface (HMI) and programmable logic controller (PLC) components, while the physical layer consists of the IEEE 39-bus power system implemented in MATLAB/Simulink and executed using real time simulator OPAL-RT.
+The cyber and physical layers communicate through industrial network protocols so that commands, measurements, and cyberattacks introduced in the communication network influence the physical power-system operation. Network traffic is stored in PCAP format, while electrical measurements are stored in CSV format. The synchronized cyber and physical data are then combined to construct a dataset for visualization, anomaly detection, and machine-learning-based cyberattack identification.
+Research Tasks: 1. Docker-based HMI and PLC setup
+2. Cyber-network configuration and network traffic collection
+3. Basic cyberattack implementation
+4. Documentation and literature review
+Skills that research assistant(s) may need: Recommended: bash, python, windows power shell and unix system
+Required: Team player and eagerness to take challenges
+Mentoring Philosophy
+My mentoring philosophy is to create a supportive and encouraging environment where students feel comfortable asking questions, learning new skills, and growing as independent thinkers. I guide students through hands-on research, provide regular feedback, and encourage critical thinking, teamwork, and professionalism. My goal is to help students build confidence, develop technical skills, and prepare for future academic or professional careers. 
+Additional Information
+Link to Publications
+https://web1.eng.famu.fsu.edu/~takiddin/rakibulahasan.html 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

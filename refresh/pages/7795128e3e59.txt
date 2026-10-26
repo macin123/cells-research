@@ -1,0 +1,137 @@
+FSU Biology - Faculty Page - Dr. Douglas Storace 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. Douglas Storace
+Office: 207 Biomedical Research Facility
+Area: Neuroscience 
+Lab: Biomedical Research Facility
+Mail code: 4370
+E-mail: dstorace@bio.fsu.edu 
+Assistant Professor
+Ph.D., University of Connecticut, 2011
+Graduate Faculty Status
+Dr. Douglas Storace is currently recruiting new graduate students.
+Dr. Douglas Storace is currently recruiting new postdoctoral investigators.
+Research and Professional Interests:
+Perception, decision making and behavior depend on detecting and responding appropriately to sensory information. However, the mechanisms employed by the brain to encode sensory information, and how those signals are transformed into meaningful information that we perceive and act on remains largely unknown. My laboratory investigates this central problem in neuroscience using the mouse olfactory bulb as a model system. By combining neural recording techniques with behavior, we can pursue key questions in olfactory perception. For example, why does our perception of an odor fade when under constant exposure? How can we recognize odors in dynamic and noisy environments? How does our brain bind odor stimuli into perceptual objects that we can recognize and make associations with? How does internal state influence the processing of sensory information? 
+Having a comprehensive characterization how the brain transforms sensory input into perception and behavior will yield fundamental insight into the basic processes by which the entire brain functions. 
+What does the olfactory bulb do? 
+The olfactory bulb is the first stage in the olfactory processing pathway. Despite decades of study it has remained surprisingly difficult to define exactly what role(s) it plays in olfactory information processing. However, recent work has shown that it may be involved in surprisingly sophisticated processing. For example, an outstanding question in the field is how the brain can recognize smells across concentration changes. The nose contains sensory neurons that detect odorants and send projections into the olfactory bulb. However, these neurons are extremely sensitive to concentration changes of the same odorant, suggesting that some other brain region(s) must be involved in generating invariant odor representations. In one of my recent studies, I measured the signals that the olfactory bulb sends to the rest of the brain and found that they were much less sensitive to changes in odorant concentration. This supports the idea that one function of the bulb is to stabilize the representation of an odor across concentration changes, a function that is important for generating concentration invariant odor perception. 
+Current Projects 
+We hypothesize that the bulb is a multifunction processor important in a range of poorly characterized functions that are essential for olfactory sensation and perception. Our primary aim is to determine the bulb's role in sensory processing, and define which aspects of olfactory perception it contributes to, and which it does not. For example, does the bulb contribute to the perceptual adaptation that is experienced when continually exposed to an odor? Is it involved in binding together different volatile compounds into a single perceptual object? Does learning or the internal state of the animal influence how sensory information is transformed through the bulb? 
+Another aim of our lab is to uncover the biological mechanisms that shape neural processing in the bulb. This requires a detailed understanding of the bulb circuitry from the cellular to the systems level. For example, what are the basic biophysical properties of individual cell that contribute to specific transformations? What are the roles of the dozens of different cell types in the bulb? How does the feedback from other brain regions such as cortex and amygdala alter bulb processing? What is the role of continual neurogenesis of both sensory and interneurons and interneurons? 
+Finally, we are also interested in how the bulb communicates with the rest of the brain. There are at least two classes of projection neurons, and their individual roles are still poorly understood. By comparing the signals from these cell types, we will determine whether the bulb's output is uniform, or whether there are multiple functionally distinct channels of communication from the bulb to the rest of the brain. 
+What kinds of experiments do we perform? 
+The neural processing performed by a brain region can be measured by measuring and comparing the signals going into that brain region with the signals in the outgoing projections. In other words, by measuring the input-output transformation of that brain region. In practice, this measurement can be difficult to perform in many parts of the brain because the inputs and outputs are not clearly defined or are widely distributed. However, the inputs from the nose to the bulb, and the outputs from the bulb to the rest of the brain are well defined, and even physically overlap in regions of neuropil called glomeruli. Therefore, the bulb represents a tractable system in which to investigate the specific neural computations performed by a brain region during sensory processing. 
+Our lab measures neural signals from glomeruli and individual neurons using optical imaging, which is an especially powerful methodology that allows for measurements to be made from distinct cell types. This approach became possible with the development of genetically encoded indicators, which are optical sensors that report neural changes as fluctuations in fluorescence intensity that can be measured with a camera or photodiode. Because they are genetically encoded, they can be expressed in one cell type and thus the source of the optical signal is known. The toolkit of available indicators is growing and currently includes sensors of voltage, calcium and a variety of neurotransmitters that are available in various colors, which facilitates simultaneous measurements from different cell types. 
+Our central goal is to relate measurements of neural activity to perception and behavior. Thus, our experiments must be performed in intact animals in which stimuli (e.g., odorants) are presented. Using different optical imaging techniques, we can measure signals from large populations of neurons (using 1-photon imaging), or individual cells in vivo (using 2-photon imaging). By simultaneously monitoring the neural changes in the bulb's circuitry in real time with behavioral readouts from an active animal, sensation can ultimately be related to perception.
+Selected Publications:
+Leong LM, Rhee JK, Kim H, Seong J, Woo J, Han K, Storace DA , Baker BJ (2022). Precise temporal control of a GEVI's conformation enables the visualization of charge migration in a fluorescent protein resulting an improved optical response. bioRxiv. https://doi.org/10.1101/2022.04.25.489330. 
+Platisa J, Zeng H, Madisen L, Cohen LB, Pieribone VA, Storace DA . (2022). Voltage imaging in the olfactory bulb using transgenic mouse lines expressing the genetically encoded voltage indicator ArcLight. Scientific Reports. DOI: 10.1038/s41598-021-04482-3 
+Storace DA , Cohen LB. (2021). The olfactory bulb contributes to the adaptation of odor responses: a second perceptual computation carried out by the bulb. eNeuro. Aug 11; DOI: 10.1523/ENEURO.0322-21.2021 
+Martelli C, Storace DA . (2021). Stimulus driven functional transformations in the early olfactory system. Frontiers in Cellular Neuroscience. Aug 3; DOI: 10.3389/fncel.2021.684742. 
+Oltmanns, S, Abben SF, Ender A, Aimon S, Kovacs R, Sigrist SJ, Storace DA , Geiger JRP, Raccuglia D. (2020). NOSA, an analytical toolbox for multicellular optical electrophysiology. Frontiers in Neuroscience. https://doi.org/10.3389/fnins.2020.00712 
+Storace DA, Cohen LB, Choi Y. (2019). Using genetically encoded voltage indicators (GEVIs) to study the input-output transformation of the mammalian olfactory bulb. Front Cell Neurosci. Jul 31; 13:342. PMID: 31417362. PMCID: PMC6684792. 
+Storace DA , Cohen LB. (2017). Measuring the olfactory bulb input-output transformation reveals a contribution to the perception of odorant concentration invariance. Nat Commun. Jul 19;8(1):81. 
+Sepehri Rad M, Choi Y, Cohen LB, Baker BJ, Zhong S, Storace DA , Braubach OR (2017). Voltage and Calcium Imaging of Brain Activity. Biophys J. Nov 1. pii:S006-3495(17)31124-4. 
+Storace D , Sepehri Rad, M, Kang B, Cohen LB, Hughes T, Baker BJ. (2016). Towards Better Genetically Sensors of Membrane Potential. Trends Neurosci. May;39(5):277-89. 
+Storace DA , Braubach OR, Jin L, Cohen LB, Sung U. (2015). Monitoring Brain Activity with Protein Voltage and Calcium Sensors. Sci Rep. May 13;5:10212.
+Storace D ., Sepehri Rad M., Han Z., Jin L., Cohen LB, Hughes T, Baker BJ, Sung U. (2015) Genetically Encoded Protein Sensors of Membrane Potential. In: Membrane Potential Imaging in the Nervous System and Heart, ed. by M. Canepari, D. Zecevic, and O. Bernus. Springer. 
+Escabi MA, Read HL, Viventi J, Kim DH, Higgins NC, Storace DA , Liu AS, Gifford AM, Burke JF, Campisi M, Kim YS, Avrin AE, Van der Spiegel J, Huang Y, Li M, Wu J, Rogers JA, Litt B, Cohen YE. (2014). A high-density, high-channel count, multiplexed uECoG array for auditory-cortex recordings. Journal of Neurophysiology. Sep 15;112(6):1566-83. 
+Storace DA , Higgins NC, Chikar JA, Oliver DL, Read HL. (2012) Gene expression identifies distinct ascending glutamatergic pathways to frequency-organized auditory cortex in the rat brain. Journal of Neuroscience. Nov 7;32(45):15759-68. 
+Storace DA , Higgins NC, Read HL. (2011) Thalamocortical pathway specialization for sound frequency resolution. Journal of Comparative Neurology. Feb 1;519(2):177-93. Featured on cover. 
+Higgins NC, Storace DA , Escabi MA, Read HL. (2010) Specialization of binaural response properties in ventral auditory cortices. Journal of Neuroscience. Oct 27;30(43):14522-32. Featured on cover. 
+Storace DA , Higgins NC, Read HL. (2010) Thalamic label patterns suggest primary and ventral auditory fields are core regions. Journal of Comparative Neurology. May 15;518(10):1630-46. Featured on cover. 
+Polley DB, Read HL, Storace DA , Merzenich MM. (2007) Multiparametric auditory receptive field organization across five cortical fields in the albino rat. Journal of Neurophysiology. May;97(5):3621-38. 
+Postdoctoral Associates:
+Leong, Leticia 
+Lloyd, Evan 
+Graduate Students:
+Streleckis, Aiden 
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

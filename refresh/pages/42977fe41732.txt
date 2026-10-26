@@ -1,0 +1,108 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Detecting Anomalies in Grid Communications Using LLMs
+Large Language Models; Anomaly Detection; Grid Communications; Cybersecurity; Artificial Intelligence 
+Research Mentor: Dr., Prof. Ravikumar Gelli, He, His, Him
+Department, College, Affiliation: Florida State University, FAMU-FSU College of Engineering
+Contact Email: rgelli@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Computer Science, Computer Engineering, Electrical Engineering, Cybersecurity, Data Science, Information Technology, or related disciplines. Students with an interest in AI, communication systems, cybersecurity, or data analysis are encouraged to apply. 
+Project Location: 2000 Levy Ave, Tallahassee, FL 32310. Center for Advanced Power Systems (CAPS) 
+Research Assistant Transportation Required: FSU Seminole Express provides service between the FSU main campus and the FAMU-FSU College of Engineering. 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 5 to 8 hours per week, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Day: Tuesday, September 1
+Start Time: 1:00
+End Time: 2:00
+Zoom Link: https://fsu.zoom.us/j/6540925978
+Project Description
+Modern electric power systems depend on communication networks to exchange measurements, control commands, equipment status, and other operational information. Detecting unusual communication patterns is important for identifying system problems, communication failures, misconfigurations, and potentially malicious activity.
+This project will explore the use of Large Language Models (LLMs) and related artificial intelligence methods for detecting anomalies in electric-grid communication data. Undergraduate researchers will begin by learning how communication logs, messages, and event sequences are structured and how normal system behavior can be represented and analyzed.
+Students will then investigate how communication data can be converted into representations suitable for AI analysis. They will explore whether LLMs can identify unusual message sequences, unexpected events, or deviations from normal communication behavior. The project may also compare LLM-based approaches with simpler anomaly-detection methods to understand their strengths and limitations.
+As the project progresses, students may investigate real-time or streaming analysis, model accuracy, false alarms, computational requirements, and the reliability of LLM-based anomaly detection.
+Prior experience with Large Language Models, cybersecurity, communication networks, or electric power systems is not required. Students will be introduced progressively to the necessary concepts and tools.
+Research Tasks: 1) Review introductory materials on electric-grid communications, anomaly detection, and Large Language Models.
+2) Learn basic Python tools for processing, analyzing, and visualizing communication or event data.
+3) Explore sample communication logs, message sequences, or simulated grid-communication datasets.
+4) Implement simple baseline techniques for detecting unusual communication patterns.
+5) Explore the use of LLMs or language-model-based representations for identifying anomalous messages or sequences.
+6) Build an LLM-based prototype and investigate false positives, missed anomalies, and the types of communication events that are difficult to identify.
+7) Document the methodology and results and prepare a research poster for the Undergraduate Research Symposium.
+Skills that research assistant(s) may need: Required:
+-- Interest in artificial intelligence, cybersecurity, communications, or engineering
+-- Willingness to learn programming and data-analysis tools
+-- Curiosity about how communication systems operate
+-- Ability to work consistently and communicate progress
+-- Willingness to troubleshoot and experiment with unfamiliar technologies
+Recommended but not required:
+-- Basic familiarity with Python or another programming language
+-- Introductory programming experience
+-- Basic understanding of computer networks or data structures
+-- Familiarity with AI or machine learning
+Mentoring Philosophy
+My mentoring approach emphasizes learning through progressively structured research experiences. Students will initially receive clear guidance, background resources, example datasets, and manageable computational tasks to help them develop the necessary technical foundations. As their skills and confidence grow, they will be encouraged to take increasing ownership of data analysis, model development, experiments, and research questions. Regular meetings will be used to discuss progress, troubleshoot challenges, interpret results, and identify next steps. Students will be encouraged to ask questions, compare alternative methods, and understand that unexpected or unsuccessful results are an important part of research. The goal is to help students develop technical skills, critical thinking, research communication, independence, and confidence in conducting interdisciplinary research. 
+Additional Information
+Students who are curious about Large Language Models, communication data, cybersecurity, or real-world AI applications are encouraged to apply. 
+Link to Publications
+My research website https://gridai.fsu.edu/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

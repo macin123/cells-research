@@ -1,0 +1,36 @@
+Steinbock Group 
+Navigation Menu 
+Steinbock Group 
+Home 
+Dr. Steinbock 
+The Group 
+Publications 
+Projects 
+Software Downloads 
+Media Coverage 
+Contact Information 
+Department of Chemistry and Biochemistry 
+Dr. Steinbock's Office: CSL 3001
+Graduate Offices and Laboratory: CSL 3802
+Florida State University
+Tallahassee, FL 32306-4390
+Phone: 850-644-4824
+Fax: 850-644-8281
+E-mail: steinbck@chem.fsu.edu
+Funding Agencies
+NSF Division of Chemistry
+NSF Division of Materials Research
+NASA
+Research Direction
+The target of a traditional chemical process is usually the end product of a well-stirred reaction system. This tried and trusted approach simplifies problems and allows the methodical design of products and materials. However nature does not work that way, and in fact typically operates in unmixed systems at conditions far from thermodynamic equilibrium.
+We believe that there is much to learn from self-organization in natural systems, both at the fundamental and applied level. Accordingly, our research focuses on non-equilibrium systems with two main objectives: understand and control. Our work spans diverse topics from cardiac biophysics and enzymatic catalysis to inorganic materials synthesis via unorthodox and biomimetic pathways.
+For explanations of each of our current projects, click here . 
+Group News
+Tweets by @SteinbockGroup 
+Videos From Our Projects
+Biomorphs Explained
+We took the liberty of dubbing a movie scene from The Matrix (1999) to let "Biomorpheus" explain what biomorphs are and how to make them. Biomorphs are inorganic polycrystalline aggregates that form via the production and self-assembly of thousands of co-aligned nanocrystals. This process might hold important clues for a better understanding of biomineralization and for the production of hierarchically ordered materials. We also recently showed that these micro-structures might have formed on early Earth, thus complicating the identification of biogenic microfossils.
+Chemical Gardens
+These macroscopic, inorganic precipitation structures form when a metal salt crystal is placed into a sodium silicate solution. The solution-filled tubes have thin walls consisting of metal hydroxides/oxides and an outer layer of amorphous silica. Our research on these structures focuses on the characterization of their growth dynamics and materials characteristics. We also seek to control their formation for applications in microfluidics and origins-of-life research. We also investigate their formation under microgravity on the International Space Station.
+Scroll Wave Pinned to Double Torus
+Numerical simulation of a scroll wave in an excitable, three-dimensional system. The rotating wave (golden areas) is pinned to an unexcitable, double-torus-shaped obstacle (blue). Rotation occurs around both obstacle holes. Notice that wave traverses the holes in different directions. This situation creates a two-armed scroll wave in the middle of the double torus and one-armed scrolls along the unbranched rings. This simulations is based on the Barkley model and describes the reaction-diffusion dynamics of one activator and one inhibitor species.

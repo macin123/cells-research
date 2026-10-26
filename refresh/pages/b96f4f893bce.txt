@@ -1,0 +1,162 @@
+FSU Biology - Faculty Page - Dr. Karen M. McGinnis 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. Karen M. McGinnis
+Office: 2019 King Life Sciences
+Office: (850) 645-8814
+Area: Cell and Molecular Biology 
+Lab: King Life Sciences
+Lab: (850) 645-8815
+Fax: (850) 645-8447
+Mail code: 4295
+E-mail: mcginnis@bio.fsu.edu 
+Link to maize gene coexpression network 
+Professor
+Ph.D., Arizona State University, 2000
+Graduate Faculty Status
+Research and Professional Interests:
+My long term goal is to understand how identical genomic sequences can be interpreted to cause distinct expression patterns and phenotypes. I am particularly interested in the regulation of epigenetic modifications that heritably alter the expression of endogenous and transgenic loci in plants. These phenomena have been shown to be key elements in the growth, development, and gene regulation of a broad range of organisms; I study them predominantly in maize.
+(McGinnis Lab authors in bold print below)
+Selected Publications:
+Wen, H., S. Carpenter, K. McGinnis , A. Nelson, K. Smith, and T. Hong (2025) EssSubgraph improves performance and generalizability of mammalian essential gene prediction with large networks. GigaScience . 
+( Full text HTML ) 
+Lynn, J. S. , K. M. Koirtyohann , Y. B. Gebreab , J. Edwards , and K. M. McGinnis (2025) Identification of Proteins Associated with Stably Integrated Maize b1 Tandem Repeat Transgene Chromatin. Plants 14: 18 pp. 
+( Full article ) 
+Schulte, L. , K. Koirtyohann , and K. McGinnis (2022) Using iRNA-seq analysis to predict gene expression regulatory level and activity in Zea mays tissues. G3 12: 10 pp. 
+( Full text PDF: ) ( Full text HTML: ) 
+Boerner, S. , and K. McGinnis 2021 Computational Analysis of lncRNA from cDNA Sequences. In Methods in Molecular Biology: Long Non-Coding RNAs. Edited by: Zhang and Hu Humana, New York, NY. 223-241 
+( Online access ) 
+Madzima, T., S. Vendramin , J. Lynn , P. Lemert , K. Lu, and K. McGinnis (2021) Direct and Indirect Transcriptional Effects of Abiotic Stress in Zea mays Plants Defective in RNA-Directed DNA Methylation. Frontiers in Plant Science 12694289: 15 pp. 
+( Full text PDF ) ( Full text HTML ) 
+Vendramin, S. , J. Huang , P. A. Crisp, T. F. Madzima*, and K. M. McGinnis* (2020) Epigenetic Regulation of ABA-Induced Transcriptional Responses in Maize.. G3 . 
+( Available here ) 
+Huang, J. , J. Zheng, H. Yuan, and K. McGinnis (2018) Distinct tissue-specific transcriptional regulation revealed by gene regulatory networks in maize.. BMC Plant Biology 18: 14 pp. 
+( available online ) 
+Stroud, K. L. , and K. M. McGinnis (2017) Altered nucleosome positions in maize haplotypes and mutants of a subset of SWI/SNF-like proteins. Plant Direct 1: 17 pp. 
+( Full text ) ( PDF ) 
+Huang, J. , J. Lynn , L. Schulte , S. Vendramin , and K. McGinnis 2017 Epigenetic Control of Gene Expression in Maize In International Review of Cell and Molecular Biology Lorenzo Galluzi Elsevier 328: 25-48 
+Huang, J. , S. Vendramin , L. Shi, and K. McGinnis (2017) Construction and Optimization of Large Gene Co-expression Network in Maize Using RNA-Seq Data. Plant Physiology 175: 568-583. 
+( PDF ) ( Full text ) 
+Li, Q., J. I. Gent, G. Zynda, J. Song, I. Makarevitch, C. D. Hirsch, C. N. Hirsch, R. K. Dawe, T. Madzima , K. M. McGinnis , D. Lisch, R. J. Schmitz, M. W. Vaughn, and N. M. Springer (2015) RNA-directed DNA methylation enforces boundaries between heterochromatin and euchromatin in the maize genome. Proceedings of the National Academy of Sciences of the United States of America 112: 14728-14733. 
+( Full text ) ( PDF ) 
+Madzima, T. , J. Huang , and K. M. McGinnis (2014) Chromatin structure and gene expression changes associated with loss of MOP1 activity in Zea mays. Epigenetics 9: 1047-1059. 
+( Available online ) 
+Madzima, T. F. , A. E. Sloan , L. Stroud , and K. M. McGinnis 2014 Chapter 9: Epigenomics In Genetics, Genomics and Breeding of Maize 
+( Available from CRC Press ) 
+Sloan, A. E. , L. Sidorenko, and K. M. McGinnis (2014) Diverse Gene Silencing Mechanisms with Distinct Requirements for RNA Polymerase Subunits in Zea mays. Genetics 198: . 
+( Full text online ) ( PDF online ) 
+Haag, J. R., B. Brower-Toland, , E. K. Krieger, L. Sidorenko, C. D. Nicora, A. Norbeck, A. Irsigler , H. LaRue, J. Brzeski, K. McGinnis , S. Ivashuta, L. Pasa-Tolic, V. L. Chandler, and C. S. Pikaard (2014) Functional Diversification of Maize RNA Polymerase IV and V Subtypes via Alternative Catalytic Subunits. Cell Reports 9: 378-390. 
+( PDF online ) 
+Vera, D. L., J. Labonne , P. Alam, T. Madzima , G. G. Hoffman, S. B. Gigimurugan, J. Zhang, K. M. McGinnis , J. H. Dennis, and H. W. Bass, (2014) Differential nuclease sensitivity profiling of chromatin reveals biochemical footprints coupled to gene expression and functional DNA elements in maize. Plant Cell In press: . 
+( Available online ) 
+Li, Q., S. R. Eichten, P. J. Hermanson, V. Zaunbrecher, J. Song, J. Wendt, H. Rosenbaum, T. F. Madzima , A. E. Sloan , J. Huang , D. Burgess, T. Richmond, S. M. Kaeppler, K. M. McGinnis , R. Meeley, O. Danilevskaya, M. W. Vaughn, J. Jeddeloh, and N. M. Springer (2014) Genetic Perturbation of the Maize Methylome. The Plant Cell 26: 4602-4616. 
+( Full text ) ( PDF ) 
+Gent, J. I., T. F. Madzima , R. Bader, M. R. Kent, X. Zhang, M. Stam, K. M. McGinnis , and R. K. Dawe (2014) Accessible DNA and relative depletion of H3K9me2 at maize RdDM loci. The Plant Cell . 
+( available online ) 
+Fincher, J., D. Vera, D. D. Hughes, K. M. McGinnis , J. H. Dennis, and H. W. Bass (2013) Genome-wide prediction of nucleosome occupancy in maize (Zea mays L.) reveals plant chromatin structural features at genes and other elements at multiple scales. Plant Physiology 162: 1127-41. 
+( Available online ) 
+Labonne, J. D. , J. E. Dorweiler, and K. M. McGinnis (2013) Changes in nucleosome position at transcriptional start sites of specific genes in Zea mays mediator of paramutation1 mutants. Epigenetics 8: 398-408. 
+( Available online ) 
+Eichten, S. E., N. A. Ellis, I. Makarevitsch, C. Yeh, J. I. Gent, L. Guo, K. M. McGinnis , X. Zhang, P. S. Schnable, M. W. Vaughn, R. K. Dawe, and N. M. Springer (2012) Spreading of heterochromatin is limited to specific families of maize retrotransposons. PLoS Genetics 8: e1003127. 
+( Available online ) 
+Boerner, S. L. , and K. M. McGinnis (2012) Computational Identification and Functional Predictions of Long Noncoding RNA in Zea mays. PLoS One 7: e43047. 
+( Available online ) 
+Irsigler, A. , and K. M. McGinnis 2011 Genetic resources for the study of epigenetic gene regulation in maize. In Epigenetics: A resource manual Jeff Craig and Nick Wong Horizon Press 409-420 
+Madzima, T. F. , E. S. Mills , J. M. Gardiner , and K. M. McGinnis (2011) Identification of epigenetic regulators of a transcriptionally silenced transgene in maize. G3: Genes, Genomes, Genetics 1: 75-83. 
+McGinnis, K. M. (2010) RNAi for plant functional genomics. Briefings in Functional Genomics and Proteomics doi:10.1093/bfgp/elp052: . 
+McGinnis, K. M. 2009 Use of transgene induced RNAi to regulate endogenous gene expression. In Methods in Molecular Biology M. Paul Scott Humana Press 91-99 
+Barbazuk, W. B., Y. Fu, and K. M. McGinnis (2008) Genome-wide analyses of alternative splicings in plants: opportunities and challenges.. Genome Research 18: 1381-1392. 
+Bowler, C. A., and et al. (2008) The Phaeodactylum genome reveals the evolutionary history of diatom genomes. Nature 456: 239-244. 
+McGinnis, K. M. , N. Murphy, A. Carlson, A. Akula, C. Akula, H. Basinger, M. Carlson, P. Hermanson, N. Kovacevic, M. McGill, V. Seshadri, J. Yoyokie, K. Cone, H. F. Kaeppler, S. M. Kaeppler, and N. M. Springer (2007) Assessing the efficiency of RNA interference for maize functional genomics. Plant Physiology 143: 1441-1451. 
+McGinnis, K. M. , C. Springer, Y. Lin, C. C. Carey, and V. L. Chandler (2006) Transcriptionally silenced transgenes in maize are activated by three mutations defective in paramutation. Genetics 173: 1637-1647. 
+Alleman, M. A., L. Sidorenko, K. McGinnis , J. White, V. Seshadri, J. Dorweiler, K. Sikkink, and V. Chandler (2006) An RNA-dependent RNA polymerase is required for paramutation in maize. Nature 442: 295-298. 
+Graduate Students:
+Gebreab, Yacob 
+Koirtyohann, Kathryn 
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

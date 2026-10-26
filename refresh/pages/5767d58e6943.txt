@@ -1,0 +1,96 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Study of superconducting materials for high-field magnets
+Superconductors, microscopy, microstructure, high-field magnets 
+Research Mentor: Prof. Eric Hellstrom, He
+Department, College, Affiliation: Mechanical and Aerospace Engineering, FAMU-FSU College of Engineering
+Contact Email: hellstrom@asc.magnet.fsu.edu 
+Research Assistant Supervisor (if different from mentor): Dr. Aixia XU She
+Research Assistant Supervisor Email: aixiaxu@asc.magnet.fsu.edu 
+Faculty Collaborators: Dr. Jianyi Jiang He
+Faculty Collaborators Email: jjiang@asc.magnet.fsu.edu 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 4 
+Relevant Majors: Engineering, Physics, Chemistry, AI 
+Project Location: Shaw Building - 2031 E. Paul Dirac. Dr., Tallahassee - by the MagLab 
+Research Assistant Transportation Required: Bus between main campus and the MagLab 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 10 hours per week, During business hours 
+Roundtable Times and Zoom Link: 
+Day: Monday, August 31
+Start Time: 4:00
+End Time: 5:00
+Zoom Link: https://fsu.zoom.us/j/93291031629
+Day: Tuesday, September 1
+Start Time: 5:30
+End Time: 6:30
+Zoom Link: https://fsu.zoom.us/j/93291031629
+Day: Wednesday, September 2
+Start Time: 4:00
+End Time: 5:00
+Zoom Link: https://fsu.zoom.us/j/93291031629
+Project Description
+We investigate superconducting materials that can be made into wires. These wires carry enormous currents, which are needed for the next generation of high-field magnets in the MagLab and for fusion. For example a 1 mm diameter wire made of Bi-2212 (formula Bi2Sr2CaCu2O8) carries more than 1,000 A at liquid helium temperature (4.2 K), whereas the copper wiring used in buildings is only rated to 20-30 A. Our work focuses on two ceramic superconductors Bi-2212 and REBCO (Rare Earth, Ba, Cu, O). As the slide shows, in the Applied Superconductivity Center we have a wide range of capabilities to synthesize and investigate these materials. The specific project for the UROP students will depend on the students' interest, background, and capabilities. This will be discussed at the Zoom session where students can learn about the projects. 
+Research Tasks: One example of a research project may be grinding and polishing samples; doing microscopy of the polished samples; analyzing images of samples using commercial software to quantify the geometry of each filament in the wire; and using statistical analysis to compare the geometry of different wires and their current carrying capacity. This could involve AI analysis of the microstructure of the wires. 
+Skills that research assistant(s) may need: Required: Patience; perseverance, inquisitiveness, willingness to make mistakes in the lab and learn from them 
+Mentoring Philosophy
+The student will be part of the Applied Superconductivity Center, where we have many undergrads who work in the lab. Our goal is provide an opportunity to learn about how to do research. Our philosophy is to have the student work on an aspect of an ongoing research project where the student can see how their results contribute to the overall project. We expect that once the student is trained, they will take responsibility for their research. We value communication and help the student learn how to present their results by having them talk about their research progress several times per semester in our weekly research meetings. 
+Additional Information
+We have hired UROP students to work in the lab after they finish their UROP. 
+Link to Publications
+https://nationalmaglab.org/magnet-development/applied-superconductivity-center/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

@@ -1,0 +1,144 @@
+FSU Biology - Faculty Page - Dr. Austin R. Mast 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. Austin R. Mast
+Office: 4065 King Life Sciences
+Office: (850) 645-1500
+Area: Ecology & Evolution 
+Lab: King Life Sciences
+Lab: (850) 645-1499
+Fax: (850) 645-8447
+Mail code: 4295
+E-mail: amast@fsu.edu 
+Departmental Faculty Page 
+Professor
+Ph.D., University of Wisconsin-Madison, 2000
+Graduate Faculty Status
+FSU's Robert K. Godfrey Herbarium
+FSU's Institute for Digital Information and Scientific Communication (iDigInfo) 
+iDigBio
+Digitization Academy 
+WeDigBio 
+BIOSPEX 
+Notes from Nature 
+Libraries of Life Augmented Reality Cards and App 
+WeDigFLPlants 
+Dr. Austin Mast is currently recruiting new graduate students for Fall 2026.
+Research and Professional Interests:
+My research program involves topics within the broadly defined area of biodiversity study. I am particularly interested in (1) the interplay of ecology and evolution that determines the form and function of plant life on Earth, (2) the use of biodiversity research specimens and digital information about them to bring that interplay into sharper focus, and (3) public engagement in the research to further science and STEM literacy goals. Historically, I have focused my research on Macadamias and relatives (the plant family Proteaceae), Primroses and relatives (the plant family Primulaceae), and historical biogeography, but I'm keen to innovate wherever I see opportunities to expand our understanding of biodiversity. This has led me deep into the areas of biodiversity informatics and participatory sciences (sometimes called "citizen science" or "community science") in recent years, and I have NSF-funded grants in both of those areas.
+Participation in iDigBio , NSF's National Resource for Advancing the Digitization of Biodiversity Research Collections, has been especially productive. iDigBio is a joint project between University of Florida, Florida State University, and (recently) University of Kansas that engages the collections community in the digitization (e.g., databasing, imaging, georeferencing) of the roughly 1 billion specimens held in US biodiversity research collections and deployment of the data online. I am a co-PI on iDigBio and serve as Director of its Digitization, Workforce Development, and Participatory Sciences Domain. Broadening participation in digitization via meaningful opportunities (e.g., co-created citizen science projects) is an area of active research in my lab and includes the development of BIOSPEX and the Worldwide Engagement for Digitizing Biocollections (WeDigBio) Event . Recently, I have been working with collaborators from FSU's School of Information and Department of Statistics to teach machines to recognize descriptions of biotic anomalies in specimen labels (e.g., "flowering earlier than I've ever seen before"). And I have been working with collaborators from the FSU Department of Art to produce a flexible protocol for capturing 3D models of organisms in the field at the time of collection using photogrammetry and emerging methods like Neural Radiance Fields and 3D Gaussian Splatting. David Jennings (UF Florida Museum of Natural History) and I have enjoyed offering a popular strategic planning course for biodiversity collections once- or twice-a-year since 2017, and I also founded, and regularly teach in, the Digitization Academy , which provides online professional development opportunities to the community. Courses are regularly announced via listservs and social media (e.g., the iDigBio X feed ).
+During the COVID-19 Pandemic, I led a large team to enhance data about the world's 90,000 historic specimens of horseshoe bats and relatives .
+I also serve as Director of FSU's Robert K. Godfrey Herbarium , Director of the FSU College of Communication and Information's Institute for Digital Information and Scientific Communication (iDigInfo) , and board member of the Association for Advancing Participatory Sciences (ending 2025) and the Citizen Science Global Partnership . As a board member of the CSGP, I have represented the participatory sciences community at a few United Nations events, including the Environment Assembly (UNEA 6) and the World Data Forum.
+I especially enjoy working with students and herbarium staff on projects focused on the biota of the gulf and the Florida Panhandle. Students in my lab have studied such things as pollination, changes in range extent and phenology with climate change, invasive species, the evolution of floral development, the biogeography of microbiomes, the biogeography of lineages that reach their greatest diversity in the disjunct New World savannas, and the historical treatment of biological anomalies by collectors. I teach Field Botany in Fall semesters and Plants & Society in even-year Spring semesters.
+The Florida Panhandle is a great place to be a field biologist—consider joining our lab or pointing your promising students our way. Recent members of the lab include Chris Buddenhagen (Ph.D., 2016), Libby Ellwood (Postdoc, 2013–17), Katie Pearson (M.Sc., 2018), Mikayla Buckley (Honors B.Sc., 2020), Brendan Scherer (Ph.D., 2021), and Natasza Fontaine (M.Sc., 2021). They are a fantastic group of scientists.
+Finally, here are a few recent grants that further illustrate the kind of work in which I'm involved:
+Nelson, R., Fortes, J., Soltis, P., Mast, A. , Blackburn, D. (Sep 2021–Aug 2026). iDigBio: Sustaining the digitization, mobilization, accessibility, and use of biodiversity specimen data in U.S. museum and academic collections. Funded by National Science Foundation. Total award $19,995,068. 
+Cardillo, M., Jordan, G., Weston, P., Sauquet, H., Mast, A. (Dec 2019–Dec 2022). Legacy of Gondwana: Evolutionary history and conservation of Grevilleoideae. Funded by Australian Research Council. (DP200102927). Total award AU$390,000. 
+Nelson, R., Mast, A. , Blackburn, D., Fortes, J., Soltis, P. (Aug 2016–Sep 2022). Digitization: iDigBio: Integrated Digitized Biocollections Phase 2. Funded by National Science Foundation (1547229). Total award $16,454,662.
+Mast, A. , Paul, D. (Jul 2020–Jun 2022). RAPID: Rapid Creation of a Data Product for the World's Specimens of Horseshoe Bats and Relatives, a Known Reservoir for Coronaviruses. Funded by National Science Foundation. (2033973). Total award $199,999. 
+Mast, A. , Riccardi, G. A. (Jul 2015–Jun 2020). ABI DEVELOPMENT: Notes From Nature: Advancing A Next Generation Citizen Science Platform For Biocollection Transcription. Funded by National Science Foundation. (1458550). Total award $336,938. 
+Please note, in 2022 I discontinued maintenance of a separate lab website focused solely on activities in my lab in FSU's Department of Biological Science. This was in part due to the recognition that most of that content describing major research themes could be shared on this page. However, it was also due to the fact that I provide leadership and mentoring in several contexts in addition to the lab, and I already expend time curating content at the websites of those other organizations, including the herbarium, iDigInfo, and iDigBio. Members of my lab in biology are typically active in some combination of those organizations, and those organizations' websites (linked above) should provide a relatively rich portrayal of the kinds of opportunities provided when working with me at a post-doc, graduate, or undergraduate level.
+Selected Publications:
+**Not exhaustive, just some recent stuff to demonstrate areas of interest/expertise.** 
+Skeels, A., Sauquet, H., Mast, A. , Weston, P. H., Olde, P. M., Jordan, G. J., Carpenter, R. J., Fenker, J., Reynolds, Z. K. M., Lemmon, A. R., Lemmon, E. M., Pichardo-Marcano, F. J., & Cardillo, M. (2025). Paleobiome dynamics shaped a large Gondwanan plant radiation. Proceedings of the National Academy of Sciences 122: e2502129122. https://doi.org/10.1073/pnas.2502129122 
+Skeels, A., Sauquet, H., Mast, A. , Weston, P. H., Olde, P. M., Reynolds, Z. K. M., Fenker, J., Lemmon, A. R., Lemmon, E. M., & Cardillo, M. (2025). Sources of gene tree discordance and their implications for systematics and evolution of a megadiverse Australian plant radiation (subtribe Hakeinae, Proteaceae). Bulletin of the Society of Systematic Biologists 3, 1–19. https://doi.org/10.18061/bssb.v3i2 
+James, N., Adkinson, A., & Mast, A . (2023). Rapid imaging in the field followed by photogrammetry digitally captures the otherwise lost dimensions of plant specimens. Applications in Plant Sciences, 11, 1–11. https://doi.org/10.1002/aps3.11547 
+Hardisty, A. R., Ellwood, E. R., Nelson, G., Zimkus, B., Buschbom, J., Addink, W., Rabeler, R. K., Bates, J., Bentley, A., Fortes, J. A. B., Hansen, S., Macklin, J. A., Mast, A. , Miller, J. T., Monfils, A. K., Paul, D. L., Wallis, E., Webster, M. (2022). Digital Extended Specimens: Enabling an Extensible Network of Biodiversity Data Records as Integrated Digital Objects on the Internet. BioScience, biac060. https://doi.org/10.1093/biosci/biac060 
+Ridge, M., Blickhan, S., Ferriter, M., Prytz, Y. B., Brumfield, B., Brumfield, S., Burgher, D., Casey, J., Coleman, S., Cybulska, D., Goldman, M. H., Luther, K., Mast, A. , White, N., Wilkins, B., Willcox, P. (2021). The Collective Wisdom Handbook: perspectives on crowdsourcing in cultural heritage. (Swindon, England: UK Arts and Humanities Research Council). 10.21428/a5d7554f.1b80974b 
+Flemming, A., Phillips, M., Shea, E. K., Bolton, A., Lincoln, C., Green, K., Mast, A. , Cubeta, M. A. (2020). Using Digital Natural History Collections in K-12 STEM Education. Journal of Museum Education, 45, 450–461. https://doi.org/10.1080/10598650.2020.1833296 
+Cai, L., Lemmon, E., Lemmon, A., Mast, A. , Buddenhagen, C. E., Liu, L., Davis, C. C. (2020). The Perfect Storm: Gene Tree Estimation Error, Incomplete Lineage Sorting, and Ancient Gene Flow Explain the Most Recalcitrant Ancient Angiosperm Clade, Malpighiales. Systematic Biology, 70. https://doi.org/10.1093/sysbio/syaa083 
+Pearson, K., Mast, A. (2019). Mobilizing the biodiversity specimen collection community for effective outlier detection and documentation in the Anthropocene. American Journal of Botany, 106, 1052–8. https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.1002/ajb2.1335 
+Mast, A. , Ellwood, E. (2018). Scaling up public engagement in botanical research. American Journal of Botany, 105, 1–3. https://doi.org/10.1002/ajb2.1075 
+Ellwood, E. R., Kimberly, P., Guralnick, R., Flemons, P., Love, K., Ellis, S., Allen, J. M., Best, J. H., Carter, R., Chagnoux, S., Costello, R., Denslow, M. W., Dunckel, B. A., Ferriter, M. M., Gilbert, E. E., Goforth, C., Groom, Q., Krimmel, E. R., LaFrance, R., Martinec, L., Miller, A., Minnaert-Grote, J., Nash, T., Oboyski, P., Paul, D. L., Pearson, K. D., Pentcheff, N. D., Roberts, M. A., Seltzer, C. E., Stephens, R., Sweeney, P. W., von Konrat, M., Wall, A., Wetzer, R., Zimmerman, C., Mast, A. R. (2018). Worldwide Engagement for Digitizing Biocollections (WeDigBio)—The Biocollections Community's Citizen Science Space on the Calendar. BioScience 68: 112–124. doi:https://doi.org/10.1093/biosci/bix143 
+Graduate Students:
+Ajayi, Benjamin 
+Rowe, Joshua 
+Schuster, Simone 
+Wyss, Rowan 
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

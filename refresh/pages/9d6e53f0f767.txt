@@ -1,0 +1,89 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Asymptotically preserving numerical method for incompressible or compressible multiphase flows
+fluid mechanics, deforming boundary problems, high performance computing 
+Research Mentor: Mark Sussman, 
+Department, College, Affiliation: Mathematics, Arts and Sciences
+Contact Email: msussman@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: engineering, department of scientific computing, math, physics, or computer science 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+An "asymptotically preserving" numerical method for fluid mechanics is a method that works for both incompressible flows and compressible flows with the "relaxed" requirement that max|u|\Delta t <= \Delta x. I say "relaxed" because the standard requirement is max (|u|+c)\Delta t<=\Delta x. "c" is the sound speed of the fluid.
+We have recently developed an improved "asymptotically preserving" method that, so far, works well. But the method needs to be tested more! Ideally, if a student can prove analytically that the method works for all cases, and then that student will win the millenial prize!
+The student' role will be to test the new "asymptotically preserving" method on a class of "Riemann" problems. Also, it might be illuminating if the student codes up his/her own version of the algorithm. 
+Research Tasks: Literature review: what has been proved regarding convergence of numerical methods for fluid mechanics?
+data collection: as stated above "The student' role will be to test the new "asymptotically preserving" method on a class of "Riemann" problems. Also, it might be illuminating if the student codes up his/her own version of the algorithm. "
+Skills that research assistant(s) may need: student needs to know how to computer program or is seriously interested in learning. Also, student should have knowledge of partial differential equations (or is concurrently taking the class).
+Mentoring Philosophy
+Learning occurs by doing. Practice makes better.
+from the web:
+AI Overview 
+"Learning occurs by doing" is an educational philosophy famously championed by philosopher John Dewey, asserting that hands-on, active experience and real-world problem-solving build deeper, more permanent understanding than passive listening or reading alone 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

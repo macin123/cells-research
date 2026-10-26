@@ -1,0 +1,97 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Hydrogen Embrittlement of Structural Materials for Fusion Energy Applications
+Fusion energy; Materials characterization; Mechanical properties; 
+Research Mentor: Junliang Liu, 
+Department, College, Affiliation: Materials Science and Engineering, FAMU-FSU College of Engineering
+Contact Email: jliu@eng.famu.fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Open to all majors 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Future fusion reactors will expose structural and plasma-facing materials to extreme conditions, including high temperatures, neutron irradiation, mechanical stresses, and hydrogen isotopes such as deuterium and tritium. Hydrogen can enter these materials and interact with defects, grain boundaries, and precipitates. These interactions may reduce ductility, promote cracking, and cause premature failure—a phenomenon known as hydrogen embrittlement.
+This undergraduate research project will investigate hydrogen behavior and its effects on candidate materials for fusion applications, with an initial focus on the vanadium alloys. The student will study how hydrogen exposure changes the material’s microstructure and mechanical properties. Depending on progress and instrument availability, the work may include sample preparation, hydrogen charging or exposure, heat treatment, microscopy and hardness or nanoindentation testing. The project will help establish relationships among processing conditions, hydrogen retention, microstructure, and material degradation.
+Research Tasks: 1. Conduct a literature review on hydrogen embrittlement and hydrogen-isotope retention in metals and alloys.
+2. Identify important mechanisms of hydrogen absorption, diffusion, trapping, and release in metals and alloys.
+3. Prepare metallographic samples through cutting, mounting, grinding, and polishing.
+4. Assist with hydrogen charging or controlled hydrogen-exposure experiments.
+5. Perform heat treatments to investigate hydrogen diffusion and trapping.
+6. Characterize samples using optical microscopy and scanning electron microscopy.
+7. Measure changes in hardness or other mechanical properties after hydrogen exposure.
+8. Process experimental data and prepare figures, presentations, and research reports.
+9. Present research progress at group meetings and, when appropriate, at the UROP Research Symposium.
+Skills that research assistant(s) may need: 1. Basic knowledge of chemistry, physics, or engineering materials.
+2. Basic computer skills for data organization and analysis.
+3. Ability to work independently while communicating regularly with the research team.
+4. Experience with MATLAB, Python, Origin, microscopy, metallographic sample preparation is helpful but not required.
+Mentoring Philosophy
+I build my research group on collaboration, mutual respect, and transparency in our relationships. My mentoring philosophy is grounded in a clear understanding of wanting to understand my students’ interests, motivations, and background. Working together, we will set clear experimental plans and milestones. Weekly one-on-one meetings will be scheduled to track progress and provide feedback on experiments, data collection and interpretation. Questions are strongly encouraged at every stage, and (inevitable) mistakes are treated as learning opportunities. Unexpected results and negative data are always part of research and will be examined without blame to extract mechanisms, improve methods, and update plans.
+Students will be asked to prepare summary reports and will be given opportunities to practise their presentation skills by sharing results at group meetings. Once promising results are generated and they are ready, they will be supported to present at more formal external conferences. Overall, I hope students learn and enjoy the group and feel motivated to continue their passion for research.
+Additional Information
+Link to Publications
+https://eng.famu.fsu.edu/mse/people/liu 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

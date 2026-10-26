@@ -1,0 +1,174 @@
+FSU Biology - Faculty Page - Dr. Fanxiu Zhu 
+Search FSU 
+Department of Biological Science 
+Toggle navigation 
+Biology Main Page 
+Directories and Information 
+Contact Us 
+Departmental Directories 
+Faculty Directory 
+Faculty Emeritus Directory 
+Courtesy Faculty Directory 
+Staff and Associates Directory 
+Undergraduate Advising Directory 
+Postdoctoral Associates Directory 
+Graduate Students Directory 
+Social Media Directory 
+Biology Email Aliases 
+FSU Phone/Email Directory 
+FSU Campus Map 
+Resource Guide 
+King Building Art 
+Open Faculty Positions 
+Faculty and Research 
+Faculty and Research Interests 
+Research Showcase 
+Research Facilities 
+Postdoctoral Program 
+Graduate Program 
+Graduate Studies Home 
+Graduate Program General Information 
+Graduate Contacts 
+Graduate Handbook 
+Graduate Student Directory 
+FSU Admissions Portal 
+CMB Graduate Student Association 
+EERDG 
+Request Information 
+Undergraduate Studies 
+Majors 
+Biological Science 
+Description of Major 
+Tracks in the Major 
+Academic Map 
+Biology FSU-Teach 
+General Information 
+Description of Major 
+Academic Map 
+Computational Biology 
+General Information 
+Description of Major 
+Academic Map 
+Cell and Molecular Neuroscience 
+General Information 
+Description of Major 
+Academic Map 
+Bulletin for Course Descriptions 
+Academic Advising 
+Undergraduate Handbook 
+Scholarships 
+Undergraduate Research 
+Undergraduate Teaching Opportunities 
+Research and Job Opportunities 
+Student Organizations 
+Online Resources 
+FAQ's 
+Seminars and Events 
+Related and Outreach Programs 
+Community 
+Facebook 
+Twitter 
+YouTube 
+Instagram 
+LinkedIn 
+Request Information 
+Donate to the Department of Biology 
+Sheila B. Lutz Memorial Scholarship 
+Dr. Ralph W. Yerger Lectureship 
+Biological Science Faculty Member
+Dr. Fanxiu Zhu
+Office: 352 Biology Unit I
+Office: (850) 645-4770
+Area: Cell and Molecular Biology 
+Lab: Biology Unit I
+Lab: (850) 645-4771
+Fax: (850) 644-0481
+Mail code: 4370
+E-mail: fzhu@bio.fsu.edu 
+Professor
+Ph.D., Wuhan University, 1995
+Graduate Faculty Status
+POSITIONS AVAILABLE for postdoctoral investigators, graduate students, and undergraduate students.
+Dr. Fanxiu Zhu is currently recruiting new graduate students for Fall 2022.
+Dr. Fanxiu Zhu is currently recruiting new postdoctoral investigators.
+Research and Professional Interests:
+My laboratory studies Kaposi's sarcoma–associated herpesvirus (KSHV) , a human DNA tumor virus associated with several human malignancies, including Kaposi's sarcoma, primary effusion lymphoma, and multicentric Castleman's disease. We are interested in viral proteins that are localized in the tegument layer, a space between capsid and envelope in the viral particles . The tegument comprises at least a dozen proteins that are delivered into cells upon infection, so they have the opportunity to exert their functions at the very beginning in the infection process. The unique temporal and spatial expressions of tegument proteins put them in the forefront of coping with the host cellular environment. We found that KSHV ORF45, an abundant gammaherpesvirus-specific tegument protein, interacts with interferon regulatory factor 7 (IRF-7) and antagonizes the host innate antiviral responses. We also revealed that ORF45 interacts with p90 ribosomal S6 kinases (RSKs) and modulates the ERK/RSK MAPK signaling pathway, which plays critical roles in KSHV lytic replication. More recently, we discovered ORF52, another abundant gammaherpesvirus-specific tegument protein, as the first viral inhibitor of the host major cytosolic DNA sensor cGAS (cyclic GMP-AMP synthase). We therefore proposed to rename it KicGAS (KSHV inhibitor of cGAS). We are now exploring the mechanisms by which these KSHV tegument proteins evade the host innate antiviral responses and modulate the host intracellular kinase signaling pathways. We are also interested in the structural analysis of herpesvirus tegument by CryoEM. The structural organization and morphogenesis of herpesviral tegument are largely unknown. We use various approaches to investigate why and how viral proteins are selectively assembled into the tegument layer.
+Selected Publications:
+2022 
+Alexa A, Sok P, Gross F, Albert K, Kobori E, P&oacute;ti &Aacute;L, G&oacute;gl G, Bento I, Kuang E, Taylor SS, Zhu F, Ciliberto A, Rem&eacute;nyi A.2022. A non-catalytic herpesviral protein reconfigures ERK-RSK signaling by targeting kinase docking systems in the host. Nat Commun. 13(1):472. doi: 10.1038/s41467-022-28109-x. PMID: 35078976. 
+2021 
+Liu Z, Liu C, Wang X, Li W, Zhou J, Dong P, Xiao MZX, Wang C, Zhang Y, Fu J, Zhu F, Liang Q. 2021. RSK1 SUMOylation is required for KSHV lytic replication. PLoS Pathog.17(12):e1010123. doi: 10.1371/journal.ppat.1010123. PMID: 34871326. 
+Bhowmik D, Du M, Tian Y, Ma S, Wu J, Chen Z, Yin Q, Zhu F. 2021. Cooperative DNA binding mediated by KicGAS/ORF52 oligomerization allows inhibition of DNA-induced phase separation and activation of cGAS. Nucleic Acids Res. doi: 10.1093/nar/gkab689. PMID: 34387695. 
+Gillen J, Zhu F. 2021. Disruption of the Interaction between ORF33 and the Conserved Carboxyl-Terminus of ORF45 Abolishes Progeny Virion Production of Kaposi Sarcoma-Associated Herpesvirus. Viruses. 13(9):1828. doi: 10.3390/v13091828. PMID: 34578410. 
+Bhowmik D, Zhu F. 2021. Evasion of Intracellular DNA Sensing by Human Herpesviruses. Front Cell Infect Microbiol. 11:647992. doi: 10.3389/fcimb.2021.647992. PMID: 33791247. 
+2019 
+Zhao B, Du F, Xu P, Shu C, Sankaran B, Bell SL, Liu M, Lei Y, Gao X, Fu X, Zhu F, Liu Y, Laganowsky A, Zheng X, Ji JY, West AP, Watson RO, Li P. 2019. A conserved PLPLRT/SD motif of STING mediates the recruitment and activation of TBK1. Nature. 569(7758):718-722. doi: 10.1038/s41586-019-1228-x. PMID: 31118511. 
+Li X, Huang L, Xiao Y, Yao X, Long X, Zhu F, Kuang E. 2019. Development of an ORF45-Derived Peptide To Inhibit the Sustained RSK Activation and Lytic Replication of Kaposi's Sarcoma-Associated Herpesvirus. J Virol. 93(10):e02154-18. doi: 10.1128/JVI.02154-18. PMID: 30842327. 
+Hu M, Armstrong N, Seto E, Li W, Zhu F, Wang PC, Tang Q. 2019. Sirtuin 6 Attenuates Kaposi's Sarcoma-Associated Herpesvirus Reactivation by Suppressing Ori-Lyt Activity and Expression of RTA. J Virol. 93(7):e02200-18. doi: 10.1128/JVI.02200-18. PMID: 30651359. 
+Xin S, Du S, Liu L, Xie Y, Zuo L, Yang J, Hu J, Yue W, Zhang J, Cao P, Zhu F, Lu J. Epstein-Barr Virus Nuclear Antigen 1 Recruits Cyclophilin A to Facilitate the Replication of Viral DNA Genome. Front Microbiol. 10:2879. doi: 10.3389/fmicb.2019.02879. PMID: 31921057. 
+Yue W, Zhu M, Zuo L, Xin S, Zhang J, Liu L, Li S, Dang W, Zhang S, Xie Y, Zhu F, Lu J. Early Pattern of Epstein-Barr Virus Infection in Gastric Epithelial Cells by "Cell-in-cell". Virol Sin. 34(3):253-261. doi: 10.1007/s12250-019-00097-1. PMID: 30911896. 
+2018 
+Rider MA, Cheerathodi MR, Hurwitz SN, Nkosi D, Howell LA, Tremblay DC, Liu X, Zhu F, Meckes DG Jr. 2018. The interactome of EBV LMP1 evaluated by proximity-based BioID approach. Virology. 516:55-70. doi: 10.1016/j.virol.2017.12.033. PMID: 29329079. 
+2017 
+Liu L, Zhou Q, Xie Y, Zuo L, Zhu F, Lu J. 2017. Extracellular vesicles: novel vehicles in herpesvirus infection. Virol Sin. 32(5):349-356. doi: 10.1007/s12250-017-4073-9. PMID: 29116589. 
+Yue WX, Wang J, Zhu FX, Li GY, Lu JH. 2017. Cadherin 6 is activated by Epstein-Barr virus LMP1 to mediate EMT and metastasis as an interplay node of multiple pathways in nasopharyngeal carcinoma. Oncogenesis. 6(12):402. doi: 10.1038/s41389-017-0005-7.PMID: 29284791. 
+2016 
+Avey D, Tepper S, Pifer B, Bahga A, Williams H, Gillen J, Li W, Ogden S, Zhu F. 20016. Discovery of a co-regulatory interaction between KSHV ORF45 and the viral protein kinase ORF36. J Virol. 90:5953-5964. PMID: 27099309. 
+Li W, Avey D, Fu B, Wu JJ, Ma S, Liu X, Zhu F. 2016. KSHV inhibitor of cGAS (KicGAS) encoded by ORF52 is an abundant tegument protein and required for production of infectious progeny viruses. J Virol. 90:5329-5342. PMID: 27009954. 
+Wu JJ, Avey D, Li W, Gillen J, Fu B, Miley W, Whitby D, Zhu F. 2016. ORF33 and ORF38 of Kaposi's Sarcoma-Associated Herpesvirus Interact and are Required for Optimal Production of Infectious Progeny Viruses. J Virol. 90:1741–1756. PMID: 26637455. 
+Sexton BS, Druliner BR, Vera DL, Avey D, Zhu F, Dennis JH. 2016. Hierarchical regulation of the genome: global changes in nucleosome organization potentiate genome response. Oncotarget. 7:6460-6475. PMID: 26771136. 
+2015 
+Wang X, Zhu N, Li W, Zhu F, Wang Y, Yuan Y. 2015. Mono-ubiquitylated ORF45 Mediates Association of KSHV Particles with Internal Lipid Rafts for Viral Assembly and Egress. PLoS Pathog. 11:e1005332. PMID: 26771136. 
+Wu JJ, Li W, Shao Y, Avey D, Fu B, Gillen J, Hand T, Ma S, Liu X, Miley W, Konrad A, Neipel F, St&uuml;rzl M, Whitby D, Li H, Zhu F. 2015. Inhibition of cGAS DNA Sensing by a Herpesvirus Virion Protein. Cell Host & Microbe. 18:333-44. PMID: 26320998. Commentary Preview by Benjamin Diner and Ileana Cristea . FSU press release . Features in NIDCR E-Newsletter, Science Advances. 
+Avey D, Tepper S, Li W, Turpin Z, Zhu F. 2015. Phosphoproteomic Analysis of KSHV-Infected Cells Reveals Roles of ORF45-Activated RSK during Lytic Replication. PLoS Pathogens. 11:e1004993. PMID: 26133373. 
+Li X, Du S, Avey D, Li Y, Zhu F, Kuang E. 2015. Inhibition ORF45-Mediated Prolonged c-Fos Accumulation Accelerates Viral Transcription during the Late Stage of Lytic Replication of Kaposi's Sarcoma-Associated Herpesvirus. J Virol. 89:195-207. PMID: 25903346. 
+Gillen J, Li W, Liang Q, Avey D, Wu J, Wu F, Myoung J, Zhu F. 2015. A survey of the interactome of Kaposi's sarcoma-associated herpesvirus ORF45 revealed its binding to viral ORF33 and cellular USP7, resulting in stabilization of ORF33 that is required for production of progeny viruses. J Virol. 89:4918-4931. PMID: 25694600. 
+Avey D, Brewers B, Zhu F. 2015. Recent advances in the study of Kaposi's sarcoma-associated herpesvirus replication and pathogenesis. Virologica Sinica. 30:130-145. PMID: 25924994. 
+Fu B, Kuang E, Li W, Avey D, Li X, Turpin Z, Valdes A, Brulois K, Myoung J, Zhu F. 2015. Activation of p90 ribosomal S6 kinases by ORF45 of Kaposi's sarcoma-associated herpesvirus is critical for optimal production of infectious viruses. J Virol. 89:195-207. PMID: 25320298. 
+2014 
+Sexton BS, Druliner BR, Avey D, Zhu F, Dennis JH. 2014. Changes in nucleosome occupancy occur in a chromosome specific manner. Genomics Data. 2:114-116. PMID: 25152865. 
+Sexton BS, Avey D, Druliner BR, Fincher JA, Vera DL, Grau DJ, Borowsky ML, Gupta S, Girimurugan SB, Chicken E, Zhang J, Noble WS, Zhu F, Kingston RE, Dennis JH. 2014. The spring-loaded genome: nucleosome redistributions are widespread, transient, and DNA-directed. Genome Res. 24:251-259. PMID: 24310001. 
+2012 
+Liang Q, Fu B, Wu F, Li X, Yuan Y, Zhu F. 2012. ORF45 of Kaposi's sarcoma–associated herpesvirus inhibits phosphorylation of interferon regulatory factory 7 by IKK&epsilon; and TBK1 as an alternative substrate. J Virol. 86:10162-10172. PMID: 22787218. 
+2011 
+Kuang E, Fu B, Liang Q, Myoung J, Zhu F. 2011. Phosphorylation of eukaryotic translation initiation factor 4B (eIF4B) by open reading frame 45/p90 ribosomal S6 kinase (ORF45/RSK) signaling axis facilitates protein translation during Kaposi sarcoma-associated herpesvirus (KSHV) lytic replication. J Biol Chem. 286:41171-41182. PMID: 21994950. 
+Liang Q, Deng H, Li X, Wu X, Tang Q, Chang TH, Peng H, Rauscher FJ 3rd., Ozato K, Zhu F. 2011. Tripartite Motif-Containing Protein 28 Is a Small Ubiquitin-Related Modifier E3 Ligase and Negative Regulator of IFN Regulatory Factor 7. J Immunol. 187:4754-4763. PMID: 21940674. Featured In This Issue. 
+Liang Q, Deng H, Sun CW, Townes TM, Zhu F. 2011. Negative Regulation of IRF7 Activation by ATF4 Suggests a Cross Regulation Between the Interferon Responses and the Cellular Integrated Stress Responses. J Immunol. 186:1001-1010. PMID: 21148039. 
+Sathish N, Zhu FX, Golub EE, Liang Q, Yuan Y. 2011. Mechanisms of auto-inhibition of IRF-7 and a probable model for inactivation of IRF-7 by Kaposis Sarcoma-associated herpesvirus protein ORF45. J Bio Chem. 286:746-756. PMID: 20980251. 
+2010 
+Zhu FX, Sathish N, Yuan Y. 2010. Antagonism of host antiviral responses by Kaposi's sarcoma-associated herpesvirus tegument protein ORF45. PLoS One. 5:e10573. PMID: 20485504. 
+2009 
+Kuang E, Wu F, Zhu F. 2009. Mechanism of sustained activation of ribosomal S6 kinase (RSK) and ERK by Kaposi sarcoma-associated herpesvirus ORF45: multiprotein complexes retain active phosphorylated ERK and RSK and protect them from dephosphorylation. J Bio Chem. 284:13958–13968. PMID: 19304659. 
+Satish N, Zhu FX, Yuan Y. 2009. Kaposi's Sarcoma-associated Herpesvirus ORF45 Interacts with Kinesin-2 Transporting Viral Capsid-Tegument Complexes along Microtubules. PLoS Pathog. 5:e1000332. PMID: 19282970 
+Li X, Zhu F. 2009. Identification of the Nuclear Export and Adjacent Nuclear Localization Signals for ORF45 of Kaposi's Sarcoma-Associated Herpesvirus. J Virol. 83:2531-2539. PMID: 19116250. 
+Kenworthy R, Lambert D, Yang F, Wang N, Chen Z, Zhu H, Zhu F, Liu C, Li K, Tang H. 2009. Short hairpin RNAs delivered by lentiviral vector transduction trigger RIG-I-mediated IFN activation. Nucleic Acids Res. 37:6587-6599. PMID: 19729514. 
+2008 
+Kuang E, Tang Q, Maul GG, Zhu F. 2008. Activation of p90 ribosomal S6 kinase by ORF45 of Kaposi's sarcoma-associated herpesvirus and its role in viral lytic replication. J Virol. 82:1838-1850. PMID: 18057234. 
+2006 
+Zhu FX, Li X, Zhou F, Gao SJ, Yuan Y. 2006. Functional characterization of Kaposi's sarcoma-associated Herpesvirus ORF45 by BAC-based mutagenesis. J Virol. 80:12187-12196. PMID: 17035322. 
+Prior to FSU 
+Zhu FX, Chong JM, Wu L, Yuan Y. 2005. Virion proteins of Kaposi's sarcoma-associated herpesvirus. J Virol. 79:800-811. PMID: 15613308. 
+Wang Y, Li H, Chan MY, Zhu FX, Lukac DM, Yuan Y. 2004. Kaposi's sarcoma-associated herpesvirus ori-Lyt-dependent DNA replication: cis-acting requirements for replication and ori-Lyt-associated RNA transcription. J Virol. 78:8615-8629. PMID: 15280471. 
+Zhu FX, Yuan Y. 2003. The ORF45 protein of Kaposi's sarcoma-associated herpesvirus is associated with purified virions. J Virol. 77:4221-4230. PMID: 12634379. 
+Lin CL, Li H, Wang Y, Zhu FX, Kudchodkar S, Yuan Y. 2003. Kaposi's sarcoma-associated herpesvirus lytic origin (ori-Lyt)-Dependent DNA replication: identification of the ori-Lyt and association of K8 bZip protein with the origin. J Virol. 77:5578-5588. PMID: 12719550. 
+Biswas SB, Khopde SM, Zhu F, Biswas EE. 2003. Subunit interactions in the assembly of Saccharomyces cerevisiae DNA polymerase alpha. Nucleic Acids Res. 31:2056-2065. PMID: 12682356. 
+Zhu FX, King SM, Smith EJ, Levy DE, Yuan Y. 2002. A Kaposi's Sarcoma-associated herpesviral protein inhibits virus mediated induction of type I interferon by blocking IRF-7 phosphorylation and nuclear accumulation. Proc Natl Acad Sci USA 99:5573-5578. PMID: 11943871. 
+Saveliev A, Zhu FX, Yuan Y. 2002. Transcription mapping and expression patterns of genes in the major immediate-early region of Kaposi's sarcoma-associated herpesvirus. Virology 299:301-314. PMID: 12202233. 
+Zhu FX, Cusano T, and Yuan Y. 1999. Identification of immediately early genes of Kaposi's sarcoma herpesvirus. J Virol. 73:5556-5567. PMID: 10364304. 
+Sun R, Lin SF, Gradoville L, Yuan Y, Zhu F, Miller G. 1998. A viral gene that activates lytic cycle expression of Kaposi's sarcoma-associated herpesvirus. Proc Natl Acad Sci USA 95:10866-10871. PMID: 9724796. 
+Zhu, FX, Biswas EE, Biswas SB. 1997. Purification and characterization of the DNA polymerase alpha associated exonuclease: the RTH1 gene product. Biochemistry 36:5947-5954. PMID: 9166764. 
+Biswas EE, Zhu FX, Biswas SB. 1997. Stimulation of RTH1 nuclease of the yeast Saccharomyces cerevisiae by replication protein A. Biochemistry 36:5955-5962. PMID: 9166765. 
+Zhu F, Qi Y, Huang Y, Hu J. 1997. [Expression of green fluorescent protein with baculovirus vector in insect cells]. Wei Sheng Wu Xue Bao = Acta Microbiologica Sinica. 37:15-20. PMID: 9863195. In Chinese. 
+Zhu FX, Qi YP, Huang YX, Bing Q. 1996. A baculovirus vector derived from immediately early gene promoter of Autographa californica nuclear polyhedrosis virus. J Virol Methods 62:71-79. PMID: 8910650. 
+&copy; Florida State University , Department of Biological Science , 319 Stadium Drive, Tallahassee, FL 32306-4295
+Phone: (850) 644-3700 Fax: (850) 645-8447 Questions or Comments 
+&copy; Florida State University 
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube

@@ -1,0 +1,119 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Foudation Models and Agentic Systems for Multi-hazard Prediction
+multi-hazard prediction, foundation models, agentic AI, spatiotemporal learning, graph learning, uncertainty quantification, scientific machine learning 
+Research Mentor: xc25@fsu.edu Xueqi Cheng, Mr.
+Department, College, Affiliation: Department of Computer Science, Arts and Sciences
+Contact Email: xc25@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 2 
+Relevant Majors: Open to all majors, preferring students with good CS and AI backgrounds. 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: No, the project is remote 
+Remote or In-person: Fully Remote 
+Approximate Weekly Hours: 10, During business hours 
+Roundtable Times and Zoom Link: 
+Day: Friday, September 4
+Start Time: 2:00
+End Time: 2:30
+Zoom Link: https://fsu.zoom.us/j/5746622766
+Project Description
+Natural hazards often interact. Two or more hazards may occur in the same region within a meaningful time window, and an earlier hazard may change the likelihood or severity of a later hazard. For example, a tropical cyclone can lead to flooding, while a wildfire can increase later flood risk by changing vegetation and soil conditions. Predicting these compound and cascading events requires models that can learn relationships across different hazards.
+This project will study how foundation models and agentic systems can improve multi-hazard prediction. The foundation model will learn shared representations of hazard events, their surrounding conditions, and their spatial and temporal relationships. Hazard-specific components will process different forms of input data, while a shared model will estimate the probability, type, timing, and severity of subsequent hazards.
+The agentic system will coordinate data, models, and evaluation tools available through PyHazards. Given an observed hazard, location, and time horizon, the agent will select suitable resources, construct a prediction workflow, run approved models, check the results, and generate a report with predictions, uncertainty, and supporting evidence. The project will model predictive relationships between hazards but will not claim that one hazard caused another based only on their co-occurrence.
+The two undergraduate researchers will work on focused components of this broader project. One student will assist with model experiments and evaluation. The other will assist with agent development and testing. They will receive starter code, structured research tasks, regular technical guidance, and access to AI coding assistants. They will not be expected to build the complete system independently.
+The expected outcomes include tested model and agent components, quantitative experiments, documented code, and a research report. Strong results will be prepared for submission to a workshop at a major AI conference and may contribute to a main-track submission.
+Research Tasks: 1. Literature review
+The students will read a selected set of papers on multi-hazard prediction, foundation models, spatiotemporal learning, and AI agents. They will summarize the research questions, methods, and limitations and discuss them during weekly meetings.
+2. PyHazards onboarding
+The students will learn the basic structure of PyHazards and reproduce existing examples using provided instructions and starter code. They will become familiar with its datasets, models, experiment configurations, and evaluation tools.
+3. Data inspection and validation
+Using prepared scripts, the students will inspect hazard data, check data quality, and verify the spatial and temporal relationships used to construct multi-hazard events. They will document missing data, unusual cases, and possible sources of bias.
+4. Model experiments
+The student focusing on foundation models will run controlled experiments using provided training pipelines. The student will compare shared multi-hazard representations with single-hazard baselines, test selected model components, and analyze when cross-hazard learning improves or reduces performance.
+5. Agent development and testing
+The student focusing on agentic systems will help define tools, prompts, and test cases for the research agent. The student will test whether the agent selects compatible resources, completes the requested workflow, reports the correct results, and avoids unsupported conclusions.
+6. Evaluation and error analysis
+Both students will organize experimental results, compare model and agent performance, examine failure cases, and create clear tables and figures. They will work with the mentor to determine which results support the research conclusions.
+7.Documentation and research communication
+The students will document their experiments and code, present progress during lab meetings, and contribute figures, results, and written sections to a final research report or conference paper.
+Skills that research assistant(s) may need: Required
+- Responsible and dependable. Students should complete agreed tasks and communicate early when they encounter problems.
+- Hard-working and persistent. Research often involves unsuccessful experiments, debugging, and repeated revision.
+- Willing to learn. Students should be open to feedback, unfamiliar methods, and new research tools.
+- Strong foundations in mathematics, especially linear algebra, calculus, probability, or statistics.
+- Basic understanding of artificial intelligence or machine learning through coursework, self-study, or project experience.
+- Ability to work respectfully with the mentor and another student.
+Recommended
+- Basic familiarity with Python.
+- Experience with an introductory machine learning or deep learning course.
+- Interest in natural hazards, weather, climate, or scientific applications of AI.
+- Experience with data analysis, PyTorch, Git, or Linux is helpful but not required.
+Advanced programming experience is not required. Starter code, technical guidance, code reviews, and AI coding assistants will be available throughout the project.
+Mentoring Philosophy
+I view mentoring as a partnership in which students receive clear structure, honest feedback, and increasing ownership of their work. At the beginning of the semester, I will meet with each student to understand their goals, assess their current preparation, and define a focused role that matches their interests. We will agree on written goals, responsibilities, and milestones.
+We will hold a weekly team meeting to review progress, discuss problems, and plan the next steps. I will also meet with each student individually to provide feedback and discuss workload, learning goals, and professional development. Early in the project, I will provide selected readings, starter code, demonstrations, and close technical support. As students gain confidence, I will give them more responsibility for proposing experiments and interpreting results.
+I value responsibility, curiosity, persistence, and honest communication more than prior technical experience. Students should feel comfortable asking questions and reporting failed experiments. We will treat failures as opportunities to examine evidence, improve methods, and learn.
+Feedback will be specific, timely, respectful, and two-way. I will help students use AI coding assistants responsibly while ensuring that they understand and verify the work they submit. We will discuss research integrity, reproducibility, authorship, and credit at the start of the project. Students who make substantive contributions to a paper will be included as coauthors. 
+Additional Information
+Link to Publications
+https://scholar.google.com/citations?user=MWnSFPMAAAAJ&hl=en; https://labrai.github.io/PyHazards/ 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

@@ -1,0 +1,21 @@
+Serene Lab – Software EngineeRing: EvolutioN and maintEnance Lab @ FSU 
+Serene Lab 
+Home 
+People 
+Publications 
+News 
+Contact 
+The SERENE Lab at Florida State University
+The Software Engineering 
+Evolution and Maintenance Lab 
+The S oftware E nginee R ing: E volutio N and maint E nance (SERENE) lab at  Florida State University , founded and led by Dr. Sonia Haiduc , is dedicated to research in the field of Software Engineering and focusing on novel approaches and techniques to assist software developers in undertaking tasks common to the creation, understanding, and maintenance of increasingly large software systems.
+The main research topics of the group are:
+Software maintenance and evolution
+Program comprehension
+Mining of software repositories
+Source code analysis
+Empirical studies in Software Engineering
+Applications of Information Retrieval and Natural Language Processing in Software Engineering
+Developer performance
+Serene Lab 
+Proudly powered by WordPress

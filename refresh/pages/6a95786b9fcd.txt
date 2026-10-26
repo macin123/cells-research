@@ -1,0 +1,59 @@
+Yang Laboratory 
+Skip to main
+content 
+FSU | Yang Laboratory 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+Research 
+Publications 
+People 
+IMB 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Yang Laboratory 
+Institute of Molecular Biophysics
+Toggle navigation 
+Research 
+Publications 
+People 
+IMB 
+Homepage 
+Welcome to the Wei Yang Lab
+Research in Computational Biophysics
+Although experimental biochemical & biophysical measurements have been developed rapidly, understanding and designing complex biomolecular systems is still quite challenging. Computer simulation based on captured biopolymer structures (by X-ray, NMR etc.) can be an essential complementary technique to catalyze our exploration of the microscopic world. Due to the complexity of biological systems in both length scale and time scale, biomolecular simulation needs to be both functional and efficient; facing this challenge, my research interest targets the development and application of state-of-the-art multi-spectrum atomistic simulation techniques including QM/MM calculation, free energy simulation, conformation path simulation, motion analysis, etc., to understand the hidden nature of complex biological phenomena. Specifically, my research program includes three directions:
+1. First principle based protein and ligand design;
+2. Simulation study of multi-timescale biochemical & biophysical events such as DNA repair, motion-coupled biomolecular recognition, and enzymatic reactions;
+3. Development of simulation techniques to describe complex systems and enhance efficiency of biomolecular simulations.
+Institute of Molecular Biophysics
+Contact Us 
+Directory 
+Faculty and Staff Resources
+myFSU Portal 
+CoAS Communications & Creative Services 
+CoAS IT Units & Request Support 
+Connect with the institute
+Facebook 
+Twitter 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

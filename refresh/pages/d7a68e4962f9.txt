@@ -1,0 +1,92 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Generative AI for Smart Cities Applications
+Generative AI, Human Mobility, Data Analytics 
+Research Mentor: Guang Wang, 
+Department, College, Affiliation: Computer Science, Arts and Sciences
+Contact Email: guang.wang@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 3 
+Relevant Majors: Computer Science,
+Data Science,
+Statistics,
+Math,
+Geography,
+Urban Planning 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+This project aims to harness the power of large-scale, diverse, and real-time urban data to address critical challenges in city planning, mobility, and public services. As cities become increasingly digitized, massive volumes of data, ranging from traffic flows, environmental sensors, social media, utility usage, and public transit records, offer unprecedented opportunities to understand and improve urban systems. However, effectively analyzing and visualizing these heterogeneous data sources to support timely and effective decision-making remains a significant challenge. This project aims to develop generative AI models for synthetic data generation, privacy data protection, and predictive modeling, etc.
+Research Tasks: Data Collection: Gather and curate diverse urban datasets, including transportation logs, air quality data, social media feeds, energy usage records, census information, and IoT sensor data.
+Tool Design: Design interactive visualization tools.
+Generative AI model development.
+Skills that research assistant(s) may need: Data collection and analysis skills are required.
+Experience in Python is required.
+Familiarity with LLMs is recommended.
+Mentoring Philosophy
+My mentoring goal is to encourage every student to learn something. Based on my previous mentoring experiences, I think all students are talented and my role as a teacher is to guide them to knock on the correct door. To this end, my mentoring philosophy concentrates on encouraging students to ask questions. I treat all students with respect and maintain academic fairness. In addition, I strive to create a friendly learning environment and make students feel comfortable and supported. I think students can improve their performance after they know what they do not know, and a very effective way is by asking questions, so I usually encourage students to ask questions. 
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

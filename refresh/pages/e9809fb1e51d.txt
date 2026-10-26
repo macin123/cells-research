@@ -1,0 +1,84 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Motion Analysis and Control of a Quadrupedal Robot
+robotics, animal locomotion, AI 
+Research Mentor: Dr. Christian Hubicki, he/him
+Department, College, Affiliation: Florida State University, FAMU-FSU College of Engineering
+Contact Email: chubicki@fsu.edu 
+Research Assistant Supervisor (if different from mentor): Nycholas Gierhan He/him
+Research Assistant Supervisor Email: nvg20@fsu.edu 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Computer-, Engineering, Math, and Biology-related majors 
+Project Location: FAMU-FSU College of Engineering 
+Research Assistant Transportation Required: Buses travel regularly to the college of engineering 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Many secrets are hidden in how people and animals walk. However, recent advances in artificial intelligence have uncovered useful patterns in our locomotion-- specifically patterns that can be potentially used to help categorize and diagnose movement disorders. Our laboratory has been asked by biologists to provide data for these methods, not from animals, but from robots. Research assistants will use software developed by our laboratory that creates control code for quadrupedal robots -- a robot dog. The assistant will apply this code to a computer simulation of a robot dog and provide data to the biology/robotics collaboration. Further, after sufficient training, we will implement the control code on our real robot dog to collect physical motion data for the biologists to analyze, giving us a baseline for how to use robotics as a tool for investigating and diagnosing movement disorders.
+Research Tasks: Running and editing computer software. Collecting computer simulation data. Training to use our quadruped robot. Data collection with the quadrupedal robot.
+Skills that research assistant(s) may need: Aptitude for and/or fervor for coding. Persistent technical debugger.
+Mentoring Philosophy
+I am committed to a growth mindset in mentoring. I believe in encouraging students to explore new ideas as they get their footing in core concepts. Further, students will also work with an excellent and nurturing PhD student in my laboratory. I meet with undergraduate researchers on a weekly basis to ensure they are being guided toward a fulfilling research experience. 
+Additional Information
+Link to Publications
+optimalroboticslab.com 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

@@ -1,0 +1,29 @@
+FSU CS Explorer Laboratory | EXtreme-scale comPuting, modeLing, netwORking & systEms Research (Explorer) Laboratory 
+People 
+Research 
+Research overview 
+Publications 
+Software 
+Seminar 
+Resources 
+Tutorials 
+Call-for-papers 
+News 
+Select Page 
+Welcome to the FSU CS EXPLORER (EXtreme-scale comPuting, modeLing, netwORking & systEms Research) laboratory. We are a group of researchers who share common interests in
+exploring cutting-edge technologies for designing, evaluating, constructing, programming, and using extreme-scale distributed computing systems including super-computing systems, cloud computing data centers, networked computing systems, heterogeneous computing systems, and Internet of things,
+and developing, implementing, and evaluating techniques at the architecture, systems, and applications levels that advance the state-of-the-art distributed computing in cost-effectiveness, scalability, power-efficiency, reliability, security, and ease-of-use.
+The EXPLORER laboratory is funded in part by Department of Energy Office of Science, National Science Foundation, Los Alamos National Laboratory, and Florida State University.
+Fall 2019 seminar 
+News updates ( all entries ): 
+05/2020: Zaid successfully defended his PhD prospectus, congratulations.
+02/2020: Zaid's paper on global link arrangement on Dragonfly has been accepted for publication in ACM International Conference on Supercomputing (ICS), 2020. Congratulations.
+12/2019: Shafyat Rahman successfully defended his dissertation. He will be joining Amazon. Congratulations Dr. Rahman. 
+11/2019: Prof. Yuan accepted an invitation to serve as an Associate Editor for IEEE Transactions on Cloud Computing
+11/2019: Shafayat Rahman presented a paper in SC'2019 at Denver.
+09/2019: Fatema Tabassum Liza joined the group. Welcome.
+08/2019: Prof. Yuan accepted an invitation to serve as the Experiments track-chair for IPDPS 2020.
+06/2019: Congratulations to Shafayat whose paper, titled "Topology-Custom UGAL routing on Dragonfly", has been accepted by SC'19.
+10/2018: Congratulations to Peyman, Juan, and others, whose paper, titled "TPR: Traffic Pattern-based Adaptive Routing for Dragonfly Networks", has been accepted by IEEE Transactions on Multi-Scale Computing Systems.
+09/2018: Prof. Yuan (PI) receives a new grant with Prof. Xiuwen Liu (co-PI) from Los Alamos National Labortary to apply machine learning techniques to network design.
+Designed by Elegant Themes | Powered by WordPress

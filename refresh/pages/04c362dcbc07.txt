@@ -1,0 +1,92 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+Robust Statistical Inference for Phase Variability: A Median-Based Approach
+Functional Data Analysis, Time Warping Functions, Functional Spatial Median, Centered Log-Ratio Transformation, Robust Hypothesis Testing 
+Research Mentor: Wei Wu, 
+Department, College, Affiliation: Statistics, Arts and Sciences
+Contact Email: wwu@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Open to all majors 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: In-person 
+Approximate Weekly Hours: 5-10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+In Functional Data Analysis (FDA), time warping functions are essential for aligning structural features and isolating phase variability, such as the timing of biological growth spurts or the rhythm of a human gait. However, analyzing these functions is mathematically challenging because they inherently reside on a constrained, non-linear manifold. While recent advancements have utilized the Centered Log-Ratio (CLR) transformation to map these functions into an unconstrained Hilbert space to perform Functional Analysis of Variance (FANOVA), these methods rely exclusively on the functional mean. The functional mean is notoriously sensitive to outliers, meaning a single anomalous subject, such as one irregular stride in a biomechanical dataset, can severely distort the estimated phase variation and lead to flawed statistical inferences.
+To address this vulnerability, this project proposes a novel, robust hypothesis testing framework centered on the functional spatial (geometric) median rather than the mean. Because the geometric median is inherently resilient to extreme outliers, it provides a much more accurate representation of central tendency in messy, real-world datasets. The research will leverage the CLR transformation to project the data into a linear space, compute the functional median, and construct a robust, distance-based test statistic to compare independent populations. By utilizing non-parametric resampling techniques like permutation testing to evaluate statistical significance, the framework's power and robustness against data contamination will be rigorously validated through simulation studies and applied to empirical datasets.
+Research Tasks: Literature Review: The student will begin by conducting a targeted literature review focusing on Functional Data Analysis (FDA), time warping functions, and the Centered Log-Ratio (CLR) transformation. Under my direct guidance, they will also study robust statistical methods, specifically the functional spatial median, to build a strong theoretical foundation for the research.
+Methodological Framework: In close collaboration with me, the student will help formulate the robust mathematical framework for comparing median warping functions. This will involve mapping the non-linear data into an unconstrained Hilbert space and defining the appropriate distance-based test statistics for population comparison.
+Algorithm Development: The student will translate our theoretical framework into computational algorithms, primarily focusing on adapting methods to compute the functional spatial median. I will provide hands-on coding support as we implement non-parametric resampling techniques, such as permutation testing, to evaluate statistical significance.
+Data Analysis and Simulation: Once the algorithms are established, the student will execute comprehensive simulation studies to test our method's robustness against artificial outliers, comparing it directly to traditional mean-based tests. Working together, we will then apply this robust framework to analyze empirical datasets, such as biomechanical gait or growth data, to extract real-world insights.
+Report Writing and Presentation: The final phase involves synthesizing our findings into a comprehensive research report and a poster presentation for the UROP symposium. I will actively mentor the student through the scientific writing process, helping them structure their arguments, visualize the data effectively, and clearly articulate the project's significance.
+Skills that research assistant(s) may need: Foundational Mathematics and Statistics Background -- Required: To successfully grasp the core concepts of Functional Data Analysis and our proposed methodology, the student must possess a strong quantitative foundation. Specifically, the student is required to have completed basic mathematics and statistics coursework, including Calculus, Linear Algebra, Introduction to Probability, and Introduction to Statistics. This background is essential for understanding the geometric spaces and probabilistic frameworks we will be working with.
+Programming Experience (Python or MATLAB) -- Recommended: While I will provide extensive mentorship and hands-on guidance for all computational tasks, prior coding experience in Python or MATLAB is highly recommended. Familiarity with either of these programming languages will allow the student to transition more smoothly into algorithm development, execute simulation studies efficiently, and actively participate in the empirical data analysis phases of the project.
+Mentoring Philosophy
+My mentoring philosophy is centered on developing a relationship founded on mutual respect, identifying mentees' goals, and encouraging growth through rigorous challenges.
+Although this UROP position requires a commitment of only 5 to 10 hours per week, my approach is to mentor the undergraduate student using the traditional methods I apply to my graduate students. I believe in giving mentees ownership of their work and promoting accountability early on. The proposed project -- focusing on robust statistics and functional spatial medians -- is conceptually profound yet highly accessible, making it an exceptional fit for an ambitious undergraduate.
+I will invest significant, hands-on effort into guiding the student through every phase of the research process. I am committed to creating a safe environment where it is acceptable to fail, debug code, and learn from mistakes, thereby promoting learning through inquiry. By evaluating the mentee’s talents and actively building on them, we will create an interactive environment for learning that bridges the gap between foundational coursework and applied statistical research.
+Ultimately, my goal is to balance belief in the student's potential with concrete action and experience. By setting high academic standards and providing unwavering support, I expect our collaborative efforts to culminate in the completion of a graduate-level paper for publication within a year.
+Additional Information
+Link to Publications
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

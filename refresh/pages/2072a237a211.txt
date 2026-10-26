@@ -1,0 +1,79 @@
+HyperCoast Lab @ FSU 
+Search this site
+Embedded Files 
+Skip to main content 
+Skip to navigation 
+HyperCoast Lab @ FSU News 
+Bingqing Liu (PI) 
+Members 
+Research 
+Publications 
+Teaching 
+HyperCoast Lab @ FSU 
+News 
+Bingqing Liu (PI) 
+Members 
+Research 
+Publications 
+Teaching 
+More 
+News 
+Bingqing Liu (PI) 
+Members 
+Research 
+Publications 
+Teaching 
+🥳 News @ HyperCoast Lab, MORE TO COME.... 
+New Papers:  Li et al., 2026; NASA’s EMIT hyperspectral observations of phytoplankton ecology in estuarine waters ( 10.1016/j.jag.2026.105392 ). 
+Congratulations to Jiang Li , a Ph.D. student @HyperCoast Lab on his second first-author publication. 
+In this study, we demonstrate how advanced artificial intelligence techniques combined with EMIT hyperspectral observations, can improve the monitoring and characterization of aquatic ecosystems, including water quality and phytoplankton dynamics. 
+Part of the EMIT SAT effort! 
+Date: 2026-05-26 | Category: Publications 
+New Papers:  Mahmood et al., 2026; Biogeographical Trends of Benthic Habitats in Guam from WorldView-2/3 Observations Using Advanced Deep Learning ( 10.1109/JSTARS.2026.3696586 ). 
+Please check out our work on Benthic Habitat U-Net (BH-UNet), a lightweight deep learning framework applied to high-resolution #WorldView -2/3 data for benthic habitat mapping in Guam, including seagrass🌿, macroalgae🐠, and coral reefs 🪸. 
+Date: 2026-0 5 - 26 | Category: Publications 
+Invited talk @ USGS LP DAAC , May 18 , 2026, in Sioux Falls , South Dakota ! 
+Bingqing Liu was invited as a new member of the LP DAAC User Working Group to share experiences, perspectives, and expectations for future LP DAAC data products and tools. She also highlighted the use of HyperCoast for hyperspectral data visualization and analysis, and its potential benefits for the coastal science and management community.  
+Date: 2026-05- 18 | Category: Presentation 
+Invited talk @ GulfCon 2026 , May 4-7, 2026, in Mobile, Alabama! 
+Bingqing was invited to speak in the Water Resources and HAB sessions with Gulf of America Alliance #WaterResourcesTeam on the use of AI for harmful algal bloom monitoring. The sessions created valuable two-way connections between managers and researchers, helping bridge science, technology, and coastal resource management across the Gulf.  
+Date: 2026-0 5 -0 5 | Category: Presentation 
+New Papers: Bai et al., 2026; Hyperspectral Retrieval of Phytoplankton Absorption and Community Composition from NASA’s PACE-OCI in Estuarine–Coastal Waters using a Hybrid Framework Combining Mixture-of-Experts and Variational Autoencoder ( https://doi.org/10.1016/j.rse.2026.115327 ) 
+Check out our new paper published in  Remote sensing of Environment, introducing a novel algorithm to retrieve phytoplankton absorption and community composition in optically complex waters such as Lake Erie and Gulf estuaries. This framework is designed to improve performance in challenging c oastal and inland environments, where accurately deriving plankton signals from ocean color observations has traditionally been difficult. 
+Part of the PACE SAT3 effort! 
+Date: 2026-03-04 | Category: Publications 
+New Papers: Li et al., 2026; Short-Term Estuarine Phytoplankton Dynamics in Response to Hurricanes Along the Gulf Coast of America: A Variational Autoencoder (VAE) Approach With Satellite and Bio-Optical Observations ( https://doi.org/10.1029/2025JC023274 ) 
+Are you curious about how hurricanes affect the tiny organisms in our oceans? 🌊 
+Satellite observations from hundreds of kilometers above the Earth’s surface, can track how phytoplankton bloom and how their dynamics shift after major storm events. The connection between life and light is truly beautiful. 
+A big shout-out to the Ph.D. student, Jiang Li , now in his second year in our group, for his hard work on this paper. And thank you to all our collaborators, and reviewers!   
+Date: 2026-0 3 -0 4 | Category: Publications 
+New Papers: Shrestha et al., 2026; Phytoplankton Biomass Dynamics in Wet (2019) and Dry (2023) Years in Lake Pontchartrain Estuary, Louisiana from Sentinel 2-MSI and PACE-OCI Observations ( https://doi.org/10.1016/j.scitotenv.2025.181126 ) 
+Are you working with #Sentinel2 -MSI and #PACE -OCI data for water-quality applications? 
+Explore this cross-mission algorithm and its performance in estuarine environments, including comparisons between 20 m (MSI) and ~1.2 km (OCI) spatial resolution.   
+Part of the PACE SAT3 effort! 
+Date: 2026-01-01 | Category: Publications 
+Bingqing Started as Assistant Professor at FSU 
+The beginning of an exciting journey @ Department of Earth, Ocean and Atmospheric  Science (EOAS)! 
+Date: 2025-12-22 | Category: Team Updates 
+Jiang was selected for the 2025 NASA PACE Data Hackweek! 
+Hosted by the NASA Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) Project and the Ocean Carbon & Biogeochemistry (OCB) Program at University of Maryland Baltimore County (UMBC) from 3-7 August 2025 , this one-week social coding event combines lectures, tutorials, and hands-on project work to accelerate research using Earth science data streams from the OCI, SPEXone, and HARP2 instruments aboard the PACE observatory. 
+Jiang Li (Ph.D. student) was chosen as one of only 49 participants, with selections based on applicants’ prior research experience, their potential contributions to the collaborative Hackweek environment, and their promise for advancing satellite oceanography. 
+Congratulations, Jiang ! 🎉 
+Date: 2025-0 8 -01 | Category: Team Updates 
+Chisom was selected for the NASA-sponsored Ocean Optics Workshop! 
+Chisom was accepted into the NASA-sponsored Workshop on Calibration and Validation of Ocean Color Remote Sensing , held from May 18 to June 14, 2025, at the University of Maine’s Darling Marine Center in Walpole, Maine, USA. 
+This month-long graduate course is highly competitive and extremely intensive. Chisom was selected as one of only 18 students from a pool of 74 international applicants. The Ocean Optics workshop is widely regarded as a training ground for many of today’s leaders in remote sensing and optical oceanography. 
+Congratulations, Chisom! 🎉 
+Date: 2025- 07 - 01 | Category: Team Updates 
+Bingqing Liu 
+Assistant Professor,  
+Department of Earth, Ocean, and Atmospheric Science , Florida State University 
+bingqing.liu @fsu .edu   
+bingqing.optics.liu@gmail.com 
+hypercoast.org 
+Google Sites
+Report abuse
+Page details
+Page updated 
+Google Sites
+Report abuse

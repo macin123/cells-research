@@ -1,0 +1,88 @@
+The Thoms Lab | Plant-Microbe Interactions & Innate Immunity 
+Menu 
+About 
+Research 
+People 
+Publications 
+Contact 
+About The Thoms Lab
+The Thoms Lab at Florida State University studies how plants use their innate immune systems to build and maintain
+healthy relationships with the microbes that live on and around their roots. Our work focuses on a central question:
+How do hosts distinguish beneficial microbes from harmful pathogens? 
+The lab offers extensive hands-on research opportunities for undergraduate and graduate students and postdoctoral fellows interested in
+plant biology, microbiomes, or host–microbe evolution.
+Research
+Our research investigates how innate immune pathways shape microbial communities and influence host health.
+We work with beneficial and pathogenic strains within the Pseudomonas fluorescens species complex that are nearly genetically
+identical—yet interact with the plant in completely different ways. These powerful models allow us to discover
+which microbial signals activate immune responses, and how immunity prevents microbiome imbalance (dysbiosis).
+We use molecular genetics, biochemical fractionation of microbial metabolites, immune signaling assays,
+fluorescence microscopy, and evolution-based approaches to uncover how innate immunity:
+Detects 
+microbial symbiotic lifestyles
+Responds 
+to bacterial toxins and virulence factors
+Shapes 
+the composition of the microbiome
+Balances 
+beneficial and pathogen growth
+This work provides foundational insights needed to develop sustainable microbiome-informed agricultural
+strategies and improves our understanding of host–microbe interactions across all organisms.
+Our Team
+Dr. David Thoms
+Principal Investigator
+Research Focus: Understanding the role of innate immunity in shaping healthy microbiomes.
+Dr. Thoms received his PhD in Genome, Cell, and Developmental Biology at Indiana University, and completed an NSF postdoctoral fellowship in Dr. Cara Haney's Lab at the University of British Columbia. He started his lab at FSU in 2023.
+Dr. Gara Dexter
+Postdoctoral Researcher
+Project: Identifying novel bacterial metabolites that indicate bacterial symbiotic lifestyle. 
+Email: gnd25@fsu.edu 
+Daniel Hiott
+PhD Student
+Project: Determining how plant immunity is an evolutionary force on symbiotic lifestyles. 
+Email: deh23@fsu.edu 
+Matthew Quarles
+PhD Student
+Project: Identifying the spatiotemporal mechanisms that govern host-microbe interactions.
+Email: maq19@fsu.edu 
+Syed Uddin
+PhD Student
+Project: Determining the role of toxin-triggered immunity in host-microbe interactions.
+Email: su25d@fsu.edu 
+Caileen Turner
+Master's Student (Thesis-Based)
+Project: Determining the role of toxin-triggered immunity in host-microbe interactions.
+Email: cat22@fsu.edu 
+Current Undergraduates
+Isabella Quiros (DIS Student, 2026)
+Julian Young (DIS Student, 2026)
+Lab Alumni
+Madison Wolfe (DIS Student, 3 semesters; Lab Technician) – Next Step: PhD Student at the University of British Columbia
+Diego Mendez (DIS Student, 2 semesters) – Next Step: NIH Postbaccalaureate Program at Rocky Mountain Laboratories
+Zoe Ewbank (DIS Student, 2 semesters) – Next Step: Physician Assistant Student at AdventHealth University
+Brenna Dolan (DIS Student, 2 semesters) – Next Step: Complete Bachelors at FSU
+Elise Miller (DIS Student, 2 semesters) – Next Step: Veterinary Student at TBD
+Ryan Potter (DIS Student, 2 semesters) – Next Step: Medical Student at FSU
+Publication Spotlight
+A bacterial exotoxin-triggered plant immune response restricts pathogen growth
+Authors: Thoms D, et al.
+Journal: Cell Reports (2025)
+Abstract: For optimal growth and development, hosts must promote healthy symbiotic interactions while restricting pathogens. To ask whether hosts can distinguish phylogenetically similar pathogens and beneficial bacteria, we used two closely related plant root-associated strains within the Pseudomonas fluorescens species complex. Despite having similar immunogenic microbe-associated molecular patterns, one strain is beneficial and the other exhibits exotoxin-dependent virulence... 
+Read Full Paper 
+Maintaining Symbiotic Homeostasis: How Do Plants Engage With Beneficial Microorganisms While at the Same Time Restricting Pathogens?
+Authors: Thoms D, et al.
+Journal: MPMI (2021)
+Abstract: This article is part of the Top 10 Unanswered Questions in MPMI invited review series.
+That plants recruit beneficial microbes while simultaneously restricting pathogens is critical to their survival. Plants must exclude pathogens; however, most land plants are able to form mutualistic symbioses with arbuscular mycorrhizal fungi. Plants also associate with the complex microbial communities that form the microbiome. The outcome of each symbiotic interaction—whether a specific microbe is pathogenic, commensal, or mutualistic—relies on... 
+Read Full Paper 
+Join Us!
+Prospective PhD graduate students should apply through the FSU Graduate Admissions Portal .
+Graduate student applicants may apply to the Cell & Molecular Biology or Ecology & Evolution programs.
+Priority Application Deadline: December 1
+(Please verify deadlines on the official FSU portal for the relevant application year) 
+Interested in undergraduate or postdoc opportunities in the Thoms Lab? Please enter your email and solve the CAPTCHA to access our questionnaire. 
+Submit 
+Thank you for your interest!
+Please click the link below to access our lab questionnaire.
+Go to Questionnaire
+© 2025 David Thoms. All rights reserved.

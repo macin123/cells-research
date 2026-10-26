@@ -1,0 +1,87 @@
+UROP Project | Center for Undergraduate Research and Academic Engagement 
+Skip to main
+content 
+FSU | Center for Undergraduate Research and Academic Engagement 
+Webmail 
+Search FSU 
+Navigation 
+This Site 
+FSU Sites 
+Faculty & Staff Directory 
+Departments & Services 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Academics 
+Admissions 
+Research 
+Faculty 
+Students 
+Veterans 
+Support FSU 
+Center for Undergraduate Research and Academic Engagement 
+Division of Undergraduate Studies
+Toggle navigation 
+About 
+Getting Involved With Undergraduate Research 
+Undergraduate Research 
+Global 
+News 
+Resources 
+Events 
+Faculty/Research Mentors 
+Alumni & Giving 
+Home 
+UROP Project 
+UROP Project
+UROP Project
+PRISM: Pseudo-Riemannian Ising Signed Model
+machine learning; artificial intelligence; signed networks; mathematics; link prediction 
+Research Mentor: Astrit Tola , Dr.
+Department, College, Affiliation: Mathematics, Arts and Sciences
+Contact Email: atola@fsu.edu 
+Research Assistant Supervisor (if different from mentor): 
+Research Assistant Supervisor Email: 
+Faculty Collaborators: 
+Faculty Collaborators Email: 
+Looking for Research Assistants: Yes
+Number of Research Assistants: 1 
+Relevant Majors: Open to students of all majors.
+Students from the following programs may find the material connects especially well to their coursework: Computer Science; Mathematics; Statistics; Data Science; Scientific Computing; Computational Science; Physics; Electrical and Computer Engineering; Information Technology. 
+Project Location: On FSU Main Campus 
+Research Assistant Transportation Required: 
+Remote or In-person: Partially Remote 
+Approximate Weekly Hours: 10, Flexible schedule (Combination of business and outside of business. TBD between student and research mentor.) 
+Roundtable Times and Zoom Link: 
+Not participating in the roundtable
+Project Description
+Many real-world networks contain both positive and negative relationships. For example, users on an online platform may trust or distrust one another, countries may form alliances or rivalries, and genes may activate or suppress other genes. These are known as signed networks. When some relationship labels are missing, a machine-learning model can be used to predict whether those relationships are likely to be positive or negative.
+Many existing methods rely on simple assumptions about how relationships behave, such as the idea that “the enemy of my enemy is my friend.” However, real networks do not always follow these patterns. People and organizations often have complicated or inconsistent relationships, and current models may perform poorly in precisely these difficult cases.
+The goal of this project is to develop a new mathematical and machine-learning approach that represents positive and negative relationships directly within the geometry of the model. We will test whether this representation improves the prediction of missing relationship signs, especially when traditional assumptions fail. We will also investigate whether the model can provide a meaningful numerical measure of conflict within a network. The student will help implement the model, evaluate it on established signed-network datasets, compare it with leading existing methods, and analyze when and why it succeeds or fails.
+Research Tasks: The student will review recent signed networks completion research from major AI conferences, maintain a shared reference library, and prepare short, plain-language summaries for discussion and use in the paper’s background section. They will also locate and reproduce public implementations of several established methods, troubleshoot the code as needed, and verify reported results. With my guidance and a provided mathematical specification, the student will implement and test the project’s core scoring function in Python using PyTorch.
+Skills that research assistant(s) may need: Recommended - Basic programming in Python 
+Mentoring Philosophy
+My mentoring philosophy is centered on meeting students where they are and providing the support, instruction, and encouragement they need to grow. I begin by learning about each student’s goals, interests, strengths, and current level of preparation. I identify gaps in their knowledge and directly teach the concepts or skills they need to move forward, adjusting my explanations and expectations so that the material remains challenging but understandable. I believe effective mentoring should build on what a student already does well while helping them develop new abilities. Together, we break larger projects into clear and manageable milestones, regularly review progress, and address difficulties before they become barriers. I provide honest and constructive feedback by clearly identifying areas that need improvement and offering specific guidance on how the student can improve. As students gain knowledge and confidence, I gradually reduce my level of guidance and encourage them to take greater ownership of their work. I ask students to investigate questions, compare possible approaches, explain their reasoning, and defend their conclusions. This process helps them develop independence while remaining accountable for their preparation, decisions, and progress. 
+Additional Information
+Link to Publications
+https://astrittola.github.io/publications.html 
+Return to Project Database 
+&copy; Florida State University
+Tallahassee, FL 32306
+FSU Directory Assistance 
+Questions or Comments 
+Privacy Policy 
+Copyright 
+Like Florida State on Facebook 
+Follow Florida State on Instagram 
+Follow Florida State on X 
+Follow Florida State on Youtube 
+Connect with Florida State on LinkedIn 
+More FSU Social Media 
+Cookie Preferences

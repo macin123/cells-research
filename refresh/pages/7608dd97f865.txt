@@ -1,0 +1,29 @@
+Join - Webster Lab 
+WEBSTER LAB genetics & epigenetics of quantitative traits 
+Twitter 
+Join the lab
+We are located at Florida State University in the Department of Biological Science. Our lab is located in the King Life Sciences Building on the beautiful Florida State campus. We are primarily interested in hiring highly qualified postdoctoral researchers to join the lab. We are funded by an NSF CAREER Award and have multiple bioinformatic datasets that are ripe for analysis. See position-specific descriptions below. 
+Postdoctoral Researchers
+Prospective postdoctoral researchers are encouraged to contact Amy with a CV and brief explanation of research interests and how those interests align with the lab. Funding is available to work on existing projects or to build new projects in pursuit of independence. Applications to external fellowships are also highly supported and encouraged, and dialogues about potential projects can begin well in advance of the anticipated start date, as appropriate. 
+Graduate Students
+We do not anticipate accepting students during the 2026-2027 academic year. We are housed in the Department of Biological Science and can accept students through the Cell and Molecular Biology (CMB) or the Ecology and Evolutionary Biology (EE) programs. These programs have distinct admissions processes and expectations, so be sure to read the respective websites to determine which program is the best fit. Prospective or current PhD students who are interested in the lab are encouraged to reach out to Amy. All PhD programs are fully funded and include a stipend for living expenses. 
+Technician
+We do not anticipate hiring at this level during the 2026-2027 year. Technicians assist with molecular biology (including CRISPR-Cas9 and high-throughput sequencing), C. elegans maintenance, and lab organization. The ideal candidate will be conscientious, organized, and have some lab experience with molecular biology and/or C. elegans . Opportunities to pursue independent research projects with the support and expertise of the lab are available and encouraged. 
+Undergraduate Researchers
+We are not able to accept additional undergraduate students to the lab at this time. We will occasionally post projects via FSU's UROP program. Students who seek to join the lab should have a genuine interest and curiosity about genetics. 
+Menu
+Homepage 
+Research 
+People 
+Join 
+Publications 
+Data Exploration 
+RShiny App: Gene expression throughout starvation 
+Github repositories 
+NCBI Gene Expression Omnibus 
+Get in touch
+akwebster@fsu.edu 
+Department of Biological Science
+Florida State University
+&copy; Amy Webster. All rights reserved. 
+Design: HTML5 UP .
