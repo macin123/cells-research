@@ -91,6 +91,28 @@ async function main(){
   await p.locator('.navigation [data-view="guide"]').click();await axe(p,'guide '+width);assert.equal(await p.locator('.guide-step').count(),5);await p.locator('.navigation [data-view="about"]').click();await axe(p,'about '+width);await p.locator('#about-more > summary').click();await p.locator('#audit-search').fill('aspire');assert.equal(Number((await p.locator('#audit-count').innerText()).match(/^\d+/)[0]),data.filter(r=>[r.name,r.mentor,r.auditNote].join(' ').toLowerCase().includes('aspire')).length);
   await s.close();
  });
+ await check('outreach tracker and research calendar',async()=>{
+  const s=await session(1440),{p}=s;
+  await p.evaluate(()=>{localStorage.setItem('cells-research-shortlist-v1',JSON.stringify(['aspire','cougle']));localStorage.setItem('cells-research-outreach-v1',JSON.stringify({aspire:{s:'emailed',d:'2020-01-06'},cougle:{s:'bogus',d:'x'},nope:{s:'emailed',d:'2020-01-06'}}))});await p.reload();await p.waitForFunction(()=>document.documentElement.classList.contains('js-ready'));
+  assert((await p.locator('#followup-nudge').innerText()).includes('1 follow-up is due'));await p.locator('#followup-nudge button').click();
+  assert((await p.locator('#outreach-summary').innerText()).includes('1 follow-up due'));assert.equal(await p.locator('[data-outreach-block="aspire"] .due-badge').count(),1);assert.equal(await p.locator('#outreach-cougle').inputValue(),'');await axe(p,'outreach tracker');
+  const day=await p.evaluate(()=>today);await p.locator('#outreach-cougle').selectOption('emailed');assert.equal(await p.evaluate(()=>document.activeElement.id),'outreach-cougle');assert.equal(await p.locator('#outreach-date-cougle').inputValue(),day);assert((await p.locator('#outreach-status-cougle').innerText()).includes('follow up on'));
+  await p.locator('#outreach-date-aspire').fill(day);assert.equal(await p.locator('[data-outreach-block="aspire"] .due-badge').count(),0);assert((await p.locator('#outreach-summary').innerText()).includes('2 emailed'));
+  await p.reload();await p.waitForFunction(()=>document.documentElement.classList.contains('js-ready'));assert.equal(await p.locator('#outreach-cougle').inputValue(),'emailed');assert.equal(await p.locator('#outreach-date-aspire').inputValue(),day);
+  assert.deepEqual(Object.keys(JSON.parse(await p.evaluate(()=>localStorage.getItem('cells-research-outreach-v1')))).sort(),['aspire','cougle']);
+  await p.locator('#mobile-result-tools summary').click();const jw=p.waitForEvent('download');await p.locator('#export-saved').click();const jfile=path.join(output,'saved-outreach.json');await (await jw).saveAs(jfile);assert.equal(JSON.parse(await fs.readFile(jfile,'utf8')).outreach.cougle.s,'emailed');
+  await p.locator('#outreach-cougle').selectOption('');assert.equal(await p.locator('#outreach-date-cougle').count(),0);
+  await p.goto(url+'#view=directory&section=all&lab=cougle');await p.locator('#detail-body [data-draft]').click();await p.locator('[data-draft-kind="followup"]').click();await p.locator('[data-mark-sent]').click();assert((await p.locator('#draft-track').innerText()).includes('followed up'));assert.equal(JSON.parse(await p.evaluate(()=>localStorage.getItem('cells-research-outreach-v1'))).cougle.s,'followed');await p.keyboard.press('Escape');await p.waitForTimeout(150);
+  await p.goto(url+'#view=directory&section=labs');const items=await p.evaluate(()=>calendarItems().map(e=>({id:e.id,record:e.record})));assert.equal(await p.locator('#cal-list .cal-item').count(),items.length);
+  if(items.length){
+   await p.locator('[data-calendar-open]').click();assert(await p.locator('#panel-guide').isVisible());assert.equal(await p.evaluate(()=>document.activeElement.id),'research-calendar-title');await axe(p,'research calendar');
+   const g=await p.locator('#cal-list .cal-actions a').first().getAttribute('href');assert(g.startsWith('https://calendar.google.com/calendar/render?action=TEMPLATE'));
+   const dw=p.waitForEvent('download');await p.locator('#cal-all').click();const ics=path.join(output,'dates.ics');await (await dw).saveAs(ics);const text=await fs.readFile(ics,'utf8');
+   assert(text.startsWith('BEGIN:VCALENDAR\r\n')&&text.endsWith('END:VCALENDAR\r\n'));assert.equal((text.match(/BEGIN:VEVENT/g)||[]).length,items.length);assert(text.split('\r\n').every(l=>Buffer.byteLength(l)<=75));assert(!/\n(?<!\r\n)/.test(text.replace(/\r\n/g,'')));
+   await p.goto(url+'#view=directory&section=all&archived=1&lab='+items[0].record);assert(await p.locator('#detail-body .key-dates').isVisible());
+  }
+  await s.close();
+ });
  await check('every record renders at 320 and 1440 without overflow',async()=>{
   for(const width of [320,1440]){const s=await session(width);const failures=await s.p.evaluate(()=>{
    const failed=[];for(const r of DATA){openDetail(r.id,{fromRoute:true});const d=document.getElementById('detail'),body=document.getElementById('detail-body');if(!document.getElementById('detail-title').textContent||!body.textContent.includes(r.mentor)||!body.textContent.includes(r.auditNote))failed.push(r.id+': content');if(d.scrollWidth>d.clientWidth+1||body.scrollWidth>body.clientWidth+1)failed.push(r.id+': overflow');const urls=[...body.querySelectorAll('.source-links a')].map(a=>a.href);if(urls.length!==r.urls.length||r.urls.some(s=>!urls.includes(new URL(s.url).href)))failed.push(r.id+': sources')}closeDetail({fromRoute:true});return failed;
